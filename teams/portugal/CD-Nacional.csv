@@ -1,0 +1,694 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Ricardo Esteves,22,Right-Back,Benfica,0.0,in,Summer,2002,2002/2003
+Adriano,23,Centre-Forward,Palmeiras,0.0,in,Summer,2002,2002/2003
+Marcelo Cruz,25,Goalkeeper,Marília,0.0,in,Summer,2002,2002/2003
+Ricardinho,26,Attacking Midfield,Joinville-SC,0.0,in,Summer,2002,2002/2003
+Arnaud Margueritte,29,Goalkeeper,FC Rouen 1899,0.0,in,Summer,2002,2002/2003
+Hugo Carreira,23,Centre-Back,CF Estrela,0.0,in,Summer,2002,2002/2003
+Adilson Soares Cassama,19,Defensive Midfield,União Lamas,0.0,in,Summer,2002,2002/2003
+Rossato,24,Left-Back,Marília,0.0,in,Summer,2002,2002/2003
+Filipe Gouveia,29,Left Midfield,Paços Ferreira,0.0,in,Summer,2002,2002/2003
+Patacas,24,Right-Back,Sporting CP,0.0,in,Summer,2002,2002/2003
+Idalécio,28,Centre-Back,SC Braga,0.0,in,Summer,2002,2002/2003
+Tonanha,22,Right Midfield,FC Marco,0.0,in,Summer,2002,2002/2003
+Maurício Cabedelo,30,Centre-Forward,Brasiliense FC,0.0,in,Summer,2002,2002/2003
+Bernardo,24,Defensive Midfield,Campomaiorense,0.0,in,Summer,2002,2002/2003
+Nuno Viveiros,19,Right Winger,Camacha,0.0,out,Summer,2002,2002/2003
+Lourenço,26,Left Winger,Vila FC,0.0,out,Summer,2002,2002/2003
+Nuno Luís,27,Right-Back,Coimbra,0.0,out,Summer,2002,2002/2003
+António Valente,32,Left-Back,Rio Ave FC,0.0,out,Summer,2002,2002/2003
+Miguel Fidalgo,20,Centre-Forward,Camacha,0.0,out,Summer,2002,2002/2003
+André Pinto,24,Centre-Forward,Portuguesa-SP,0.0,in,Winter,2002,2002/2003
+Paulo Assunção,22,Defensive Midfield,Palmeiras,0.0,in,Winter,2002,2002/2003
+Rogerinho,22,Attacking Midfield,Bragantino,0.0,in,Winter,2002,2002/2003
+Pascal,22,Centre-Forward,Vitória Setúbal,0.0,out,Winter,2002,2002/2003
+Ricardinho,27,Attacking Midfield,Fortaleza,0.0,out,Winter,2002,2002/2003
+Maurício Cabedelo,30,Centre-Forward,Náutico,0.0,out,Winter,2002,2002/2003
+Henrique Hilário,27,Goalkeeper,Coimbra,0.0,in,Summer,2003,2003/2004
+Paulo Sérgio,30,Centre-Back,Marítimo,0.0,in,Summer,2003,2003/2004
+Émerson Nunes,21,Centre-Back,Cruzeiro,0.0,in,Summer,2003,2003/2004
+Cléber,23,Defensive Midfield,Cruzeiro,0.0,in,Summer,2003,2003/2004
+Mário Carlos,20,Right Winger,Vitória Setúbal,0.0,in,Summer,2003,2003/2004
+Leandro,24,Left Winger,Flamengo,0.0,in,Summer,2003,2003/2004
+Alexandre Goulart,26,Attacking Midfield,Boavista,0.0,in,Summer,2003,2003/2004
+Serginho Baiano,25,Left Winger,Paços Ferreira,0.0,in,Summer,2003,2003/2004
+Fernando Cardozo,24,defence,Internacional,0.0,in,Summer,2003,2003/2004
+Fernando Ávalos,25,Centre-Back,Boavista,0.0,in,Summer,2003,2003/2004
+Iván Pérez,27,Centre-Forward,Dep. La Coruña,0.0,in,Summer,2003,2003/2004
+Nuno Viveiros,20,Right Winger,Camacha,0.0,in,Summer,2003,2003/2004
+Rómulo,26,Centre-Forward,União Madeira,0.0,out,Summer,2003,2003/2004
+Hugo Carreira,24,Centre-Back,CF Estrela,0.0,out,Summer,2003,2003/2004
+Marcelo Cruz,26,Goalkeeper,Marília,0.0,out,Summer,2003,2003/2004
+Arnaud Margueritte,30,Goalkeeper,Wasquehal,0.0,out,Summer,2003,2003/2004
+Bernardo,25,Defensive Midfield,CF Estrela,0.0,out,Summer,2003,2003/2004
+Bruno Ferraz,28,Centre-Back,Naval,0.0,out,Summer,2003,2003/2004
+Tonanha,23,Right Midfield,Leixões,0.0,out,Summer,2003,2003/2004
+Idalécio,29,Centre-Back,Rio Ave FC,0.0,out,Summer,2003,2003/2004
+André Pinto,24,Centre-Forward,Santa Clara,0.0,out,Summer,2003,2003/2004
+Adilson Soares Cassama,20,Defensive Midfield,União Madeira,0.0,out,Summer,2003,2003/2004
+Rogerinho,23,Attacking Midfield,Camacha,0.0,out,Summer,2003,2003/2004
+Predrag Jokanovic,34,Centre-Back,Retired,0.0,out,Summer,2003,2003/2004
+Jovo Bosancic,32,Attacking Midfield,Retired,0.0,out,Summer,2003,2003/2004
+Goran Zivanovic,42,Goalkeeper,Retired,0.0,out,Summer,2003,2003/2004
+Alfredo Bóia,27,Centre-Back,Without Club,0.0,out,Summer,2003,2003/2004
+Michel Neves,23,Centre-Forward,Chunnam Dragons,900000.0,in,Winter,2003,2003/2004
+Diego Clementino,19,Centre-Forward,Cruzeiro,0.0,in,Winter,2003,2003/2004
+Miguel Fidalgo,21,Centre-Forward,Camacha,0.0,in,Winter,2003,2003/2004
+Rogerinho,24,Attacking Midfield,Camacha,0.0,in,Winter,2003,2003/2004
+Ricardo Esteves,24,Right-Back,Paços Ferreira,0.0,out,Winter,2003,2003/2004
+Paulo Sérgio,31,Centre-Back,Belenenses,0.0,out,Winter,2003,2003/2004
+Nuno Viveiros,20,Right Winger,Camacha,0.0,out,Winter,2003,2003/2004
+Leandro,24,Left Winger,Belenenses,0.0,out,Winter,2003,2003/2004
+Hugo Freire,26,Left Winger,Santa Clara,0.0,out,Winter,2003,2003/2004
+Serginho Cunha,31,Second Striker,Juventude,0.0,out,Winter,2003,2003/2004
+Iván Pérez,27,Centre-Forward,Dep. La Coruña,0.0,out,Winter,2003,2003/2004
+Geufer,23,Centre-Forward,Juventude,0.0,in,Summer,2004,2004/2005
+Bruno,30,Central Midfield,Marítimo,0.0,in,Summer,2004,2004/2005
+Wendel,22,Left Midfield,Cruzeiro,0.0,in,Summer,2004,2004/2005
+Ferreira,25,Centre-Forward,Gil Vicente,0.0,in,Summer,2004,2004/2005
+Fábio Santos,23,Defensive Midfield,São Caetano,0.0,in,Summer,2004,2004/2005
+Julio Marchant,24,Right Midfield,CA Unión,0.0,in,Summer,2004,2004/2005
+Marcelo Costa,23,Attacking Midfield,Juventude,0.0,in,Summer,2004,2004/2005
+Carlos Manuel,18,Right-Back,Nacional U19,0.0,in,Summer,2004,2004/2005
+Nuno Viveiros,21,Right Winger,Camacha,0.0,in,Summer,2004,2004/2005
+André Pinto,25,Centre-Forward,Santa Clara,0.0,in,Summer,2004,2004/2005
+Adilson Soares Cassama,21,Defensive Midfield,União Madeira,0.0,in,Summer,2004,2004/2005
+Paulo Assunção,24,Defensive Midfield,FC Porto,2000000.0,out,Summer,2004,2004/2005
+Rossato,26,Left-Back,FC Porto,2000000.0,out,Summer,2004,2004/2005
+Michel Neves,23,Centre-Forward,Juventude,0.0,out,Summer,2004,2004/2005
+Mário Carlos,21,Right Winger,Leiria,0.0,out,Summer,2004,2004/2005
+Carlos Pérez,32,Attacking Midfield,CD Ourense,0.0,out,Summer,2004,2004/2005
+Adilson Soares Cassama,21,Defensive Midfield,CF Estrela,0.0,out,Summer,2004,2004/2005
+Ivo Vieira,28,Right-Back,Retired,0.0,out,Summer,2004,2004/2005
+Diego Clementino,20,Centre-Forward,Cruzeiro,0.0,out,Summer,2004,2004/2005
+Alonso,24,Left-Back,Paysandu SC,0.0,in,Winter,2004,2004/2005
+Serginho Cunha,32,Second Striker,Juventude,0.0,in,Winter,2004,2004/2005
+Rondinelli,26,Left-Back,Figueirense FC,0.0,out,Winter,2004,2004/2005
+Serginho Baiano,26,Left Winger,Chunnam Dragons,0.0,out,Winter,2004,2004/2005
+Rogerinho,24,Attacking Midfield,Juventude,0.0,out,Winter,2004,2004/2005
+Ferreira,25,Centre-Forward,Leiria,0.0,out,Winter,2004,2004/2005
+Fábio Santos,24,Defensive Midfield,Cruzeiro,0.0,out,Winter,2004,2004/2005
+Serginho Cunha,32,Second Striker,União Madeira,0.0,out,Winter,2004,2004/2005
+Geufer,24,Centre-Forward,Leiria,0.0,out,Winter,2004,2004/2005
+Georgi Chilikov,26,Centre-Forward,Levski Sofia,300000.0,in,Summer,2005,2005/2006
+Miguelito,24,Left-Back,Rio Ave FC,0.0,in,Summer,2005,2005/2006
+Chaínho,30,Central Midfield,Marítimo,0.0,in,Summer,2005,2005/2006
+Serginho Baiano,27,Left Winger,Chunnam Dragons,0.0,in,Summer,2005,2005/2006
+Darko Anic,31,Central Midfield,SD Luneng,0.0,in,Summer,2005,2005/2006
+Ricardo Fernandes,27,Centre-Back,Moreirense,0.0,in,Summer,2005,2005/2006
+Diego Benaglio,21,Goalkeeper,VfB Stuttgart,0.0,in,Summer,2005,2005/2006
+Ricardo Pateiro,25,Left Midfield,Pinhalnovense,0.0,in,Summer,2005,2005/2006
+Luizinho,22,Right-Back,Ipatinga FC,0.0,in,Summer,2005,2005/2006
+Genalvo,23,Defensive Midfield,Criciúma EC,0.0,in,Summer,2005,2005/2006
+Luís Manuel,24,Defensive Midfield,Leixões,0.0,in,Summer,2005,2005/2006
+Alex Terra,22,Second Striker,Fluminense,0.0,in,Summer,2005,2005/2006
+Hernâni,19,Attacking Midfield,Nacional U19,0.0,in,Summer,2005,2005/2006
+Adilson Soares Cassama,22,Defensive Midfield,CF Estrela,0.0,in,Summer,2005,2005/2006
+Geufer,24,Centre-Forward,Leiria,0.0,in,Summer,2005,2005/2006
+Rogerinho,25,Attacking Midfield,Juventude,0.0,in,Summer,2005,2005/2006
+Adriano,26,Centre-Forward,Cruzeiro,300000.0,out,Summer,2005,2005/2006
+Carlos Manuel,19,Right-Back,Camacha,0.0,out,Summer,2005,2005/2006
+João Fidalgo,31,Centre-Back,Moreirense,0.0,out,Summer,2005,2005/2006
+Nuno Carrapato,28,Goalkeeper,União Madeira,0.0,out,Summer,2005,2005/2006
+Wendel,23,Left Midfield,Santos FC,0.0,out,Summer,2005,2005/2006
+Filipe Gouveia,32,Left Midfield,Gil Vicente,0.0,out,Summer,2005,2005/2006
+Rogerinho,25,Attacking Midfield,Camacha,0.0,out,Summer,2005,2005/2006
+Geufer,24,Centre-Forward,União Madeira,0.0,out,Summer,2005,2005/2006
+Adilson Soares Cassama,22,Defensive Midfield,Ovarense,0.0,out,Summer,2005,2005/2006
+Marcelo Costa,24,Attacking Midfield,Grêmio,0.0,out,Summer,2005,2005/2006
+Cleomir,33,Left-Back,Without Club,0.0,out,Summer,2005,2005/2006
+Juliano Spadacio,25,Attacking Midfield,Atlético-PR,0.0,in,Winter,2005,2005/2006
+Leandro Salino,20,Right-Back,América-MG,0.0,in,Winter,2005,2005/2006
+Diego Clementino,21,Centre-Forward,Cruzeiro,0.0,in,Winter,2005,2005/2006
+Adilson Soares Cassama,22,Defensive Midfield,Ovarense,0.0,in,Winter,2005,2005/2006
+Geufer,25,Centre-Forward,União Madeira,0.0,in,Winter,2005,2005/2006
+Darko Anic,31,Central Midfield,Rio Ave FC,0.0,out,Winter,2005,2005/2006
+Luizinho,23,Right-Back,Cruzeiro,0.0,out,Winter,2005,2005/2006
+Adilson Soares Cassama,22,Defensive Midfield,Cherno More,0.0,out,Winter,2005,2005/2006
+Geufer,25,Centre-Forward,Fortaleza,0.0,out,Winter,2005,2005/2006
+Leandro Salino,20,Right-Back,Camacha,0.0,out,Winter,2005,2005/2006
+Alex Terra,23,Second Striker,Fluminense,0.0,out,Winter,2005,2005/2006
+Luciano Fonseca,27,Right Winger,Coimbra,0.0,in,Summer,2006,2006/2007
+Zé Vítor,24,Right Midfield,Machico,0.0,in,Summer,2006,2006/2007
+Zé Rui,23,Left Winger,Benfica,0.0,in,Summer,2006,2006/2007
+Bruno Basto,28,Left-Back,Saint-Étienne,0.0,in,Summer,2006,2006/2007
+Rafael Bracali,25,Goalkeeper,Paulista FC,0.0,in,Summer,2006,2006/2007
+Adriano Rodrigues,20,Centre-Forward,Cruzeiro,0.0,in,Summer,2006,2006/2007
+Vinicius,20,Central Midfield,Paulista FC,0.0,in,Summer,2006,2006/2007
+Rodrigo Silva,23,Centre-Forward,Corinthians,0.0,in,Summer,2006,2006/2007
+Bruno Amaro,23,Central Midfield,Penafiel,0.0,in,Summer,2006,2006/2007
+Cássio,22,Centre-Forward,Chaves,0.0,in,Summer,2006,2006/2007
+Leandro Bonfim,22,Attacking Midfield,FC Porto,0.0,in,Summer,2006,2006/2007
+Rogerinho,26,Attacking Midfield,Camacha,0.0,in,Summer,2006,2006/2007
+Adilson Soares Cassama,23,Defensive Midfield,Cherno More,0.0,in,Summer,2006,2006/2007
+Marcelo Costa,25,Attacking Midfield,Grêmio,0.0,in,Summer,2006,2006/2007
+Leandro Salino,21,Right-Back,Camacha,0.0,in,Summer,2006,2006/2007
+Geufer,25,Centre-Forward,Fortaleza,0.0,in,Summer,2006,2006/2007
+Darko Anic,32,Central Midfield,Rio Ave FC,0.0,in,Summer,2006,2006/2007
+Miguelito,25,Left-Back,Benfica,1000000.0,out,Summer,2006,2006/2007
+Serginho Baiano,28,Left Winger,Oita Trinita,0.0,out,Summer,2006,2006/2007
+Darko Anic,32,Central Midfield,Al-Ahli SFC,0.0,out,Summer,2006,2006/2007
+Hernâni,20,Attacking Midfield,Câmara Lobos,0.0,out,Summer,2006,2006/2007
+Alexandre Goulart,29,Attacking Midfield,Shimizu S-Pulse,0.0,out,Summer,2006,2006/2007
+André Pinto,27,Centre-Forward,Kyoto Sanga,0.0,out,Summer,2006,2006/2007
+Henrique Hilário,30,Goalkeeper,Chelsea,0.0,out,Summer,2006,2006/2007
+Nuno Viveiros,23,Right Winger,Skoda Xanthi,0.0,out,Summer,2006,2006/2007
+Genalvo,24,Defensive Midfield,Santa Cruz,0.0,out,Summer,2006,2006/2007
+Marcelo Costa,25,Attacking Midfield,Palmeiras,0.0,out,Summer,2006,2006/2007
+Miguel Fidalgo,24,Centre-Forward,AEK Larnaca,0.0,out,Summer,2006,2006/2007
+Luís Manuel,25,Defensive Midfield,Vizela,0.0,out,Summer,2006,2006/2007
+Vinicius,20,Central Midfield,União Madeira,0.0,out,Summer,2006,2006/2007
+Leandro Salino,21,Right-Back,Ipatinga FC,0.0,out,Summer,2006,2006/2007
+Leandro Salino,21,Right-Back,Ipatinga FC,0.0,in,Winter,2006,2006/2007
+Julio Marchant,26,Right Midfield,Necaxa,0.0,out,Winter,2006,2006/2007
+Leandro Salino,21,Right-Back,Flamengo,0.0,out,Winter,2006,2006/2007
+Felipe Lopes,19,Centre-Back,RSC Anderlecht,0.0,in,Summer,2007,2007/2008
+Juninho Arcanjo,24,Attacking Midfield,Atlético-MG,0.0,in,Summer,2007,2007/2008
+Marcelo Lipatín,30,Centre-Forward,Marítimo,0.0,in,Summer,2007,2007/2008
+João Coimbra,21,Attacking Midfield,Benfica,0.0,in,Summer,2007,2007/2008
+João Moreira,21,Centre-Forward,Valencia,0.0,in,Summer,2007,2007/2008
+Edu Sales,29,Centre-Forward,US Créteil-L,0.0,in,Summer,2007,2007/2008
+Fellype Gabriel,21,Attacking Midfield,Flamengo,0.0,in,Summer,2007,2007/2008
+Pedro Pita,19,Central Midfield,Nacional U19,0.0,in,Summer,2007,2007/2008
+Igor Pita,18,Left-Back,Nacional U19,0.0,in,Summer,2007,2007/2008
+Gonçalo,18,Right-Back,Nacional U19,0.0,in,Summer,2007,2007/2008
+Miguel Fidalgo,25,Centre-Forward,AEK Larnaca,0.0,in,Summer,2007,2007/2008
+Luís Manuel,26,Defensive Midfield,Vizela,0.0,in,Summer,2007,2007/2008
+Vinicius,21,Central Midfield,União Madeira,0.0,in,Summer,2007,2007/2008
+Chaínho,33,Central Midfield,Alki Larnaca,0.0,out,Summer,2007,2007/2008
+Émerson Nunes,25,Centre-Back,Cruzeiro,0.0,out,Summer,2007,2007/2008
+Adilson Soares Cassama,24,Defensive Midfield,Real SC,0.0,out,Summer,2007,2007/2008
+Zé Rui,24,Left Winger,CSKA Sofia,0.0,out,Summer,2007,2007/2008
+Luciano Fonseca,28,Right Winger,Caxias-RS,0.0,out,Summer,2007,2007/2008
+Bruno,33,Central Midfield,Marítimo,0.0,out,Summer,2007,2007/2008
+Georgi Chilikov,28,Centre-Forward,CSKA Sofia,50000.0,out,Summer,2007,2007/2008
+Vinicius,21,Central Midfield,União Madeira,0.0,out,Summer,2007,2007/2008
+Luís Manuel,26,Defensive Midfield,Gil Vicente,0.0,out,Summer,2007,2007/2008
+Miguel Fidalgo,25,Centre-Forward,União Madeira,0.0,out,Summer,2007,2007/2008
+Rogerinho,27,Attacking Midfield,Bragantino,0.0,out,Summer,2007,2007/2008
+Leandro Bonfim,23,Attacking Midfield,FC Porto,0.0,out,Summer,2007,2007/2008
+Diego Clementino,23,Centre-Forward,Cruzeiro,0.0,out,Summer,2007,2007/2008
+Edson Sitta,24,Defensive Midfield,Corinthians,0.0,in,Winter,2007,2007/2008
+Fábio Coentrão,19,Left-Back,Benfica,0.0,in,Winter,2007,2007/2008
+Rafik Halliche,21,Centre-Back,Benfica,0.0,in,Winter,2007,2007/2008
+Reinaldo,23,Attacking Midfield,Palmeiras,0.0,in,Winter,2007,2007/2008
+Fabiano Oliveira,20,Centre-Forward,Flamengo,0.0,in,Winter,2007,2007/2008
+Rogerinho,27,Attacking Midfield,Bragantino,0.0,in,Winter,2007,2007/2008
+Diego Benaglio,24,Goalkeeper,VfL Wolfsburg,1500000.0,out,Winter,2007,2007/2008
+Fernando Ávalos,29,Centre-Back,MSV Duisburg,200000.0,out,Winter,2007,2007/2008
+Zé Vítor,25,Right Midfield,FC St. Gallen,100000.0,out,Winter,2007,2007/2008
+Rogerinho,27,Attacking Midfield,União Madeira,0.0,out,Winter,2007,2007/2008
+Edu Sales,30,Centre-Forward,Figueirense FC,0.0,out,Winter,2007,2007/2008
+Geufer,27,Centre-Forward,Villa Nova AC,0.0,out,Winter,2007,2007/2008
+Bruno Basto,29,Left-Back,Shinnik,0.0,out,Winter,2007,2007/2008
+João Moreira,21,Centre-Forward,Valencia,0.0,out,Winter,2007,2007/2008
+Nenê,24,Centre-Forward,Cruzeiro,500000.0,in,Summer,2008,2008/2009
+Duje Cop,18,Centre-Forward,Hajduk Split,180000.0,in,Summer,2008,2008/2009
+Mateus,24,Left Winger,Boavista,0.0,in,Summer,2008,2008/2009
+Nuno Pinto,21,Left-Back,Boavista,0.0,in,Summer,2008,2008/2009
+Marco Airosa,23,Right-Back,CD Fátima,0.0,in,Summer,2008,2008/2009
+João Aurélio,19,Right-Back,Penalva Castelo,0.0,in,Summer,2008,2008/2009
+Juliano Mineiro,22,Attacking Midfield,Fluminense,0.0,in,Summer,2008,2008/2009
+Luís Alberto,24,Defensive Midfield,Cruzeiro,0.0,in,Summer,2008,2008/2009
+Rúben Micael,21,Central Midfield,União Madeira,0.0,in,Summer,2008,2008/2009
+Lazar Jovisic,19,Goalkeeper,Borac Cacak,0.0,in,Summer,2008,2008/2009
+Rafael Bastos,23,Attacking Midfield,EC Bahia,0.0,in,Summer,2008,2008/2009
+Kristijan Pavlovic,18,Centre-Forward,NK Zagreb U19,0.0,in,Summer,2008,2008/2009
+Lovro Scrbec,18,Central Midfield,NK Zagreb,0.0,in,Summer,2008,2008/2009
+Pajetat Douglas,22,Goalkeeper,Pombal,0.0,in,Summer,2008,2008/2009
+Fernando Cedrola,21,Centre-Back,Tupi FC,0.0,in,Summer,2008,2008/2009
+Maicon,19,Centre-Back,Cruzeiro,0.0,in,Summer,2008,2008/2009
+Miguel Fidalgo,26,Centre-Forward,União Madeira,0.0,in,Summer,2008,2008/2009
+Juliano Spadacio,27,Attacking Midfield,Rapid Bucharest,1500000.0,out,Summer,2008,2008/2009
+Ricardo Fernandes,30,Centre-Back,Rapid Bucharest,500000.0,out,Summer,2008,2008/2009
+Gonçalo,19,Right-Back,Penalva Castelo,0.0,out,Summer,2008,2008/2009
+Fernando Cardozo,29,defence,Marítimo,0.0,out,Summer,2008,2008/2009
+Marcelo Lipatín,31,Centre-Forward,Trofense,0.0,out,Summer,2008,2008/2009
+Cássio,24,Centre-Forward,Leiria,0.0,out,Summer,2008,2008/2009
+Pedro Pita,20,Central Midfield,Ribeira Brava,0.0,out,Summer,2008,2008/2009
+Ricardo Pateiro,28,Left Midfield,Leiria,0.0,out,Summer,2008,2008/2009
+Adriano Rodrigues,22,Centre-Forward,Boavista,0.0,out,Summer,2008,2008/2009
+Rodrigo Silva,25,Centre-Forward,CRB,0.0,out,Summer,2008,2008/2009
+Pepe Belman,37,Goalkeeper,Retired,0.0,out,Summer,2008,2008/2009
+Reinaldo,24,Attacking Midfield,Palmeiras,0.0,out,Summer,2008,2008/2009
+Fábio Coentrão,20,Left-Back,Benfica,0.0,out,Summer,2008,2008/2009
+Fellype Gabriel,22,Attacking Midfield,Flamengo,0.0,out,Summer,2008,2008/2009
+João Coimbra,22,Attacking Midfield,Benfica,0.0,out,Summer,2008,2008/2009
+Leandro Salino,23,Right-Back,América-MG,0.0,in,Winter,2008,2008/2009
+Kristijan Brcic,21,midfield,Inter Zapresic,0.0,in,Winter,2008,2008/2009
+Rodrigo Silva,25,Centre-Forward,CRB,0.0,in,Winter,2008,2008/2009
+Rafael Bastos,24,Attacking Midfield,EC Vitória,0.0,out,Winter,2008,2008/2009
+Rodrigo Silva,25,Centre-Forward,Leixões,0.0,out,Winter,2008,2008/2009
+Kevin Amuneke,23,Centre-Forward,FC Timisoara,500000.0,in,Summer,2009,2009/2010
+Nejc Pecnik,23,Centre-Forward,NK Celje,300000.0,in,Summer,2009,2009/2010
+Anselmo,25,Centre-Forward,CF Estrela,0.0,in,Summer,2009,2009/2010
+Filipe da Costa,24,Left Winger,Levski Sofia,0.0,in,Summer,2009,2009/2010
+Wellington,23,Left-Back,Figueirense FC,0.0,in,Summer,2009,2009/2010
+Pedro Pacheco,25,Central Midfield,Santa Clara,0.0,in,Summer,2009,2009/2010
+Edgar Costa,22,Right Winger,União Madeira,0.0,in,Summer,2009,2009/2010
+Cléber,26,Centre-Back,São Carlos,0.0,in,Summer,2009,2009/2010
+Abdou,20,Central Midfield,SC Braga,0.0,in,Summer,2009,2009/2010
+Edgar Silva,22,Centre-Forward,Vasco da Gama,0.0,in,Summer,2009,2009/2010
+Elisson,22,Goalkeeper,Cruzeiro,0.0,in,Summer,2009,2009/2010
+Zarko Tomasevic,19,Centre-Back,Nacional U19,0.0,in,Summer,2009,2009/2010
+Adriano Rodrigues,23,Centre-Forward,Boavista,0.0,in,Summer,2009,2009/2010
+Rodrigo Silva,26,Centre-Forward,Leixões,0.0,in,Summer,2009,2009/2010
+Nenê,25,Centre-Forward,Cagliari Calcio,4500000.0,out,Summer,2009,2009/2010
+Duje Cop,19,Centre-Forward,Hajduk Split,0.0,out,Summer,2009,2009/2010
+Alonso,28,Left-Back,Marítimo,0.0,out,Summer,2009,2009/2010
+Juliano Mineiro,23,Attacking Midfield,EC Bahia,0.0,out,Summer,2009,2009/2010
+Miguel Fidalgo,27,Centre-Forward,Coimbra,0.0,out,Summer,2009,2009/2010
+Igor Pita,20,Left-Back,Beira-Mar,0.0,out,Summer,2009,2009/2010
+Juninho Arcanjo,26,Attacking Midfield,EC Bahia,0.0,out,Summer,2009,2009/2010
+Bruno Amaro,26,Central Midfield,Coimbra,0.0,out,Summer,2009,2009/2010
+Edson Sitta,26,Defensive Midfield,Without Club,0.0,out,Summer,2009,2009/2010
+Kristijan Brcic,21,midfield,Without Club,0.0,out,Summer,2009,2009/2010
+Lovro Scrbec,19,Central Midfield,Without Club,0.0,out,Summer,2009,2009/2010
+Fabiano Oliveira,22,Centre-Forward,Flamengo,0.0,out,Summer,2009,2009/2010
+Fernando Cedrola,22,Centre-Back,Tupi FC,0.0,out,Summer,2009,2009/2010
+Maicon,20,Centre-Back,Cruzeiro,0.0,out,Summer,2009,2009/2010
+Ivan Todorovic,26,Defensive Midfield,KamAZ,0.0,in,Winter,2009,2009/2010
+Thiago Gentil,29,Attacking Midfield,Coritiba FC,0.0,in,Winter,2009,2009/2010
+Alex Bruno,27,Centre-Back,Atlético-MG,0.0,in,Winter,2009,2009/2010
+Pedro Oldoni,24,Centre-Forward,Atlético-PR,0.0,in,Winter,2009,2009/2010
+Diego Barcelos,24,Attacking Midfield,Without Club,0.0,in,Winter,2009,2009/2010
+Juliano Mineiro,23,Attacking Midfield,EC Bahia,0.0,in,Winter,2009,2009/2010
+Rúben Micael,23,Central Midfield,FC Porto,3000000.0,out,Winter,2009,2009/2010
+Cléber,26,Centre-Back,São Bento (SP),0.0,out,Winter,2009,2009/2010
+Wellington,24,Left-Back,Metalurgs,0.0,out,Winter,2009,2009/2010
+Filipe da Costa,25,Left Winger,Estoril Praia,0.0,out,Winter,2009,2009/2010
+Adriano Rodrigues,24,Centre-Forward,UR Trabalhadore,0.0,out,Winter,2009,2009/2010
+Rene Mihelic,21,Attacking Midfield,NK Maribor,900000.0,in,Summer,2010,2010/2011
+Dejan Skolnik,21,Left Midfield,NK Maribor,500000.0,in,Summer,2010,2010/2011
+Rômullo,18,midfield,Cruzeiro,0.0,in,Summer,2010,2010/2011
+Danijel Stojanovic,25,Left-Back,Zrinjski Mostar,0.0,in,Summer,2010,2010/2011
+Danielson,29,Centre-Back,Paços Ferreira,0.0,in,Summer,2010,2010/2011
+Claudemir,25,Defensive Midfield,América-RJ,0.0,in,Summer,2010,2010/2011
+Orlando Sá,22,Centre-Forward,FC Porto,0.0,in,Summer,2010,2010/2011
+Daniel Candeias,22,Right Winger,FC Porto,0.0,in,Summer,2010,2010/2011
+Márcio Madeira,24,Left Winger,Juv. Évora,0.0,in,Summer,2010,2010/2011
+Douglas Pará,20,attack,Angra-RJ,0.0,in,Summer,2010,2010/2011
+Vladan Giljen,20,Goalkeeper,Sutjeska Niksic,0.0,in,Summer,2010,2010/2011
+Michael John Weir,19,Right-Back,Nacional U19,0.0,in,Summer,2010,2010/2011
+Michael Weir,19,defence,Nacional U19,0.0,in,Summer,2010,2010/2011
+Ricardo Fernandes,18,Defensive Midfield,Nacional U19,0.0,in,Summer,2010,2010/2011
+Igor Pita,21,Left-Back,Beira-Mar,0.0,in,Summer,2010,2010/2011
+Amar Zildzovic,20,Defensive Midfield,Pontassolense,0.0,in,Summer,2010,2010/2011
+Juninho Arcanjo,27,Attacking Midfield,EC Bahia,0.0,in,Summer,2010,2010/2011
+Filipe da Costa,25,Left Winger,Estoril Praia,0.0,in,Summer,2010,2010/2011
+Bruno Amaro,27,Central Midfield,Coimbra,0.0,in,Summer,2010,2010/2011
+Miguel Fidalgo,28,Centre-Forward,Coimbra,0.0,in,Summer,2010,2010/2011
+Amar Zildzovic,20,Defensive Midfield,Camacha,0.0,out,Summer,2010,2010/2011
+Leandro Salino,25,Right-Back,SC Braga,0.0,out,Summer,2010,2010/2011
+Miguel Fidalgo,28,Centre-Forward,Coimbra,0.0,out,Summer,2010,2010/2011
+Igor Pita,21,Left-Back,Doxa Katokopias,0.0,out,Summer,2010,2010/2011
+Cléber,30,Defensive Midfield,Vit. Guimarães,0.0,out,Summer,2010,2010/2011
+Abdou,21,Central Midfield,Gloria Bistrita,0.0,out,Summer,2010,2010/2011
+Filipe da Costa,26,Left Winger,Estoril Praia,0.0,out,Summer,2010,2010/2011
+Pajetat Douglas,24,Goalkeeper,Freamunde,0.0,out,Summer,2010,2010/2011
+Daniel Candeias,22,Right Winger,Portimonense,0.0,out,Summer,2010,2010/2011
+Marco Airosa,25,Right-Back,Desportivo Aves,0.0,out,Summer,2010,2010/2011
+Rodrigo Silva,27,Centre-Forward,Leiria,0.0,out,Summer,2010,2010/2011
+Lazar Jovisic,21,Goalkeeper,Chern. Burgas,0.0,out,Summer,2010,2010/2011
+Juliano Mineiro,24,Attacking Midfield,Najran SC,0.0,out,Summer,2010,2010/2011
+Michael John Weir,19,Right-Back,Camacha,0.0,out,Summer,2010,2010/2011
+Kristijan Pavlovic,20,Centre-Forward,Retired,0.0,out,Summer,2010,2010/2011
+Pedro Pacheco,26,Central Midfield,Santa Clara,0.0,out,Summer,2010,2010/2011
+Edgar Silva,23,Centre-Forward,Vasco da Gama,0.0,out,Summer,2010,2010/2011
+Rafik Halliche,23,Centre-Back,Benfica,0.0,out,Summer,2010,2010/2011
+Darko Bodul,22,Second Striker,Ajax,0.0,in,Winter,2010,2010/2011
+Arthur Henrique,24,Left-Back,Unknown,0.0,in,Winter,2010,2010/2011
+Alex Bruno,28,Centre-Back,Sport Recife,0.0,out,Winter,2010,2010/2011
+Nejc Pecnik,24,Centre-Forward,KS Samara,0.0,out,Winter,2010,2010/2011
+Juninho Arcanjo,28,Attacking Midfield,Daegu FC,0.0,out,Winter,2010,2010/2011
+Kevin Amuneke,24,Centre-Forward,Without Club,0.0,out,Winter,2010,2010/2011
+Mario Rondón,25,Centre-Forward,Paços Ferreira,750000.0,in,Summer,2011,2011/2012
+Marcelo Valverde,21,Goalkeeper,Angra-RJ,0.0,in,Summer,2011,2011/2012
+Luís Neto,23,Centre-Back,Varzim,0.0,in,Summer,2011,2011/2012
+André Recife,21,Centre-Forward,Serrano-BA,0.0,in,Summer,2011,2011/2012
+André Zuba,25,Goalkeeper,Santa Cruz,0.0,in,Summer,2011,2011/2012
+Elizeu,22,defence,Palmeiras U20,0.0,in,Summer,2011,2011/2012
+Andrés Madrid,30,Defensive Midfield,Without Club,0.0,in,Summer,2011,2011/2012
+Oliver Minatel,18,Centre-Forward,Nacional U19,0.0,in,Summer,2011,2011/2012
+Marco Airosa,26,Right-Back,Desportivo Aves,0.0,in,Summer,2011,2011/2012
+Juliano Mineiro,25,Attacking Midfield,Najran SC,0.0,in,Summer,2011,2011/2012
+Daniel Candeias,23,Right Winger,Portimonense,0.0,in,Summer,2011,2011/2012
+Michael Weir,21,defence,Camacha,0.0,in,Summer,2011,2011/2012
+Darko Bodul,22,Second Striker,Sturm Graz,0.0,out,Summer,2011,2011/2012
+Rafael Bracali,30,Goalkeeper,FC Porto,0.0,out,Summer,2011,2011/2012
+Bruno Amaro,28,Central Midfield,Vitória Setúbal,0.0,out,Summer,2011,2011/2012
+Marco Airosa,26,Right-Back,AEL Limassol,0.0,out,Summer,2011,2011/2012
+Rômullo,19,midfield,Ceará SC,0.0,out,Summer,2011,2011/2012
+Michael Weir,21,defence,Doxa Katokopias,0.0,out,Summer,2011,2011/2012
+Douglas Pará,20,attack,Camacha,0.0,out,Summer,2011,2011/2012
+Ricardo Fernandes,19,Defensive Midfield,Camacha,0.0,out,Summer,2011,2011/2012
+Michael Weir,20,defence,Camacha,0.0,out,Summer,2011,2011/2012
+Patacas,33,Right-Back,Retired,0.0,out,Summer,2011,2011/2012
+Elisson,24,Goalkeeper,Cruzeiro,0.0,out,Summer,2011,2011/2012
+Arthur Henrique,24,Left-Back,Unknown,0.0,out,Summer,2011,2011/2012
+Orlando Sá,23,Centre-Forward,FC Porto,0.0,out,Summer,2011,2011/2012
+Pedro Oldoni,25,Centre-Forward,Atlético-PR,0.0,out,Summer,2011,2011/2012
+Marçal,26,Left-Back,Torreense,0.0,in,Winter,2011,2011/2012
+Moreno,30,Centre-Back,Leicester,0.0,in,Winter,2011,2011/2012
+Mayko,20,Defensive Midfield,Palmeiras U20,0.0,in,Winter,2011,2011/2012
+Elizeu,22,defence,Palmeiras U20,0.0,in,Winter,2011,2011/2012
+Ladji Keita,28,Centre-Forward,SC Braga,0.0,in,Winter,2011,2011/2012
+Jota Garcês,18,Attacking Midfield,Nacional U19,0.0,in,Winter,2011,2011/2012
+Igor Rocha,18,Goalkeeper,Nacional U19,0.0,in,Winter,2011,2011/2012
+Diogo Coelho,18,Centre-Back,Nacional U19,0.0,in,Winter,2011,2011/2012
+Nejc Pecnik,25,Centre-Forward,KS Samara,0.0,in,Winter,2011,2011/2012
+Juninho Arcanjo,29,Attacking Midfield,Daegu FC,0.0,in,Winter,2011,2011/2012
+Felipe Lopes,24,Centre-Back,VfL Wolfsburg,2500000.0,out,Winter,2011,2011/2012
+Nuno Pinto,25,Left-Back,Levski Sofia,100000.0,out,Winter,2011,2011/2012
+André Zuba,25,Goalkeeper,Marília,0.0,out,Winter,2011,2011/2012
+Thiago Gentil,31,Attacking Midfield,Barueri,0.0,out,Winter,2011,2011/2012
+André Recife,22,Centre-Forward,Camacha,0.0,out,Winter,2011,2011/2012
+Zarko Tomasevic,21,Centre-Back,União Madeira,0.0,out,Winter,2011,2011/2012
+Anselmo,27,Centre-Forward,Rio Ave FC,0.0,out,Winter,2011,2011/2012
+Luís Alberto,28,Defensive Midfield,SC Braga,0.0,out,Winter,2011,2011/2012
+Elizeu,22,defence,Palmeiras U20,0.0,out,Winter,2011,2011/2012
+Gottardi,26,Goalkeeper,Leiria,0.0,in,Summer,2012,2012/2013
+Revson,24,Defensive Midfield,São Caetano,0.0,in,Summer,2012,2012/2013
+Mexer,23,Centre-Back,Sporting CP,0.0,in,Summer,2012,2012/2013
+Emiliano García,22,Centre-Back,CA Cerro,0.0,in,Summer,2012,2012/2013
+Ladji Keita,29,Centre-Forward,SC Braga,0.0,in,Summer,2012,2012/2013
+Miguel Rodrigues,19,Centre-Back,Leiria,0.0,in,Summer,2012,2012/2013
+Bruno Moreira,24,Centre-Forward,Moreirense,0.0,in,Summer,2012,2012/2013
+Isael,24,Right Winger,Coritiba FC,0.0,in,Summer,2012,2012/2013
+Kim,24,Left-Back,Resende-RJ,0.0,in,Summer,2012,2012/2013
+Eliandro,22,Centre-Forward,Cruzeiro,0.0,in,Summer,2012,2012/2013
+Manuel da Costa,26,Centre-Back,Loko Moscow,0.0,in,Summer,2012,2012/2013
+Kéven Sousa,23,Goalkeeper,Nacional U19,0.0,in,Summer,2012,2012/2013
+Sérgio Duarte,19,Defensive Midfield,Nacional U19,0.0,in,Summer,2012,2012/2013
+Nuno Campos,19,Right-Back,Nacional U19,0.0,in,Summer,2012,2012/2013
+Lucas João,18,Centre-Forward,Nacional U19,0.0,in,Summer,2012,2012/2013
+Edgar Abreu,18,Central Midfield,Nacional U19,0.0,in,Summer,2012,2012/2013
+Douglas Pará,21,attack,Camacha,0.0,in,Summer,2012,2012/2013
+Michael John Weir,21,Right-Back,Camacha,0.0,in,Summer,2012,2012/2013
+Ricardo Fernandes,20,Defensive Midfield,Camacha,0.0,in,Summer,2012,2012/2013
+Luís Neto,24,Centre-Back,Siena,3650000.0,out,Summer,2012,2012/2013
+Danijel Stojanovic,27,Left-Back,Hajduk Split,0.0,out,Summer,2012,2012/2013
+Ivan Todorovic,28,Defensive Midfield,Rotor Volgograd,0.0,out,Summer,2012,2012/2013
+Nejc Pecnik,26,Centre-Forward,Sheff Wed,0.0,out,Summer,2012,2012/2013
+Moreno,31,Centre-Back,Vit. Guimarães,0.0,out,Summer,2012,2012/2013
+Elizeu,23,defence,Estoril Praia,0.0,out,Summer,2012,2012/2013
+Lucas João,18,Centre-Forward,Mirandela,0.0,out,Summer,2012,2012/2013
+Marcelo Valverde,22,Goalkeeper,União Madeira,0.0,out,Summer,2012,2012/2013
+Igor Rocha,19,Goalkeeper,Arouca,0.0,out,Summer,2012,2012/2013
+Michael John Weir,21,Right-Back,Doxa Katokopias,0.0,out,Summer,2012,2012/2013
+Danielson,31,Centre-Back,Omonia Nikosia,0.0,out,Summer,2012,2012/2013
+Ricardo Fernandes,20,Defensive Midfield,União Madeira,0.0,out,Summer,2012,2012/2013
+Márcio Madeira,26,Left Winger,Portimonense,0.0,out,Summer,2012,2012/2013
+Juliano Mineiro,26,Attacking Midfield,Without Club,0.0,out,Summer,2012,2012/2013
+Juninho Arcanjo,29,Attacking Midfield,Without Club,0.0,out,Summer,2012,2012/2013
+Andrés Madrid,30,Defensive Midfield,Without Club,0.0,out,Summer,2012,2012/2013
+Ladji Keita,29,Centre-Forward,SC Braga,0.0,out,Summer,2012,2012/2013
+Ali Ghazal,20,Centre-Back,Wadi Degla U23,40000.0,in,Winter,2012,2012/2013
+David Crespo,18,Left-Back,Nacional U19,0.0,in,Winter,2012,2012/2013
+Isael,24,Right Winger,Krasnodar,500000.0,out,Winter,2012,2012/2013
+Rene Mihelic,24,Attacking Midfield,Levski Sofia,120000.0,out,Winter,2012,2012/2013
+Emiliano García,23,Centre-Back,Boston River,0.0,out,Winter,2012,2012/2013
+Oliver Minatel,20,Centre-Forward,Velo Clube-SP,0.0,out,Winter,2012,2012/2013
+Mayko,21,Defensive Midfield,Aquidauanense,0.0,out,Winter,2012,2012/2013
+Kim,25,Left-Back,Resende-RJ,0.0,out,Winter,2012,2012/2013
+Djaniny,22,Centre-Forward,Benfica,1200000.0,in,Summer,2013,2013/2014
+Zainadine Júnior,25,Centre-Back,Muçulmana,100000.0,in,Summer,2013,2013/2014
+Rafa Sousa,24,Defensive Midfield,Penafiel,0.0,in,Summer,2013,2013/2014
+Nuno Sequeira,22,Left-Back,Leixões,0.0,in,Summer,2013,2013/2014
+João Barreto,21,Central Midfield,Portosantense,0.0,in,Summer,2013,2013/2014
+Renato,21,Centre-Back,Anápolis-GO,0.0,in,Summer,2013,2013/2014
+Bruno Moura,21,Right-Back,Angra-RJ,0.0,in,Summer,2013,2013/2014
+Jaime,23,Centre-Back,Anápolis-GO,0.0,in,Summer,2013,2013/2014
+Ricardo Batista,26,Goalkeeper,Without Club,0.0,in,Summer,2013,2013/2014
+João Camacho,19,Left Winger,Nacional U19,0.0,in,Summer,2013,2013/2014
+Rui Silva,19,Goalkeeper,Nacional U19,0.0,in,Summer,2013,2013/2014
+Rene Mihelic,24,Attacking Midfield,Levski Sofia,0.0,in,Summer,2013,2013/2014
+Revson,25,Defensive Midfield,CSKA Sofia,0.0,in,Summer,2013,2013/2014
+Lucas João,19,Centre-Forward,Mirandela,0.0,in,Summer,2013,2013/2014
+Márcio Madeira,27,Left Winger,Portimonense,0.0,in,Summer,2013,2013/2014
+Rene Mihelic,25,Attacking Midfield,DNŠ Zavrč,0.0,out,Summer,2013,2013/2014
+Vladan Giljen,24,Goalkeeper,OFK Beograd,0.0,out,Summer,2013,2013/2014
+Márcio Madeira,27,Left Winger,Moreirense,0.0,out,Summer,2013,2013/2014
+Kéven Sousa,24,Goalkeeper,AD Oeiras,0.0,out,Summer,2013,2013/2014
+Sérgio Duarte,20,Defensive Midfield,Mirandela,0.0,out,Summer,2013,2013/2014
+Ladji Keita,30,Centre-Forward,Petro Luanda,0.0,out,Summer,2013,2013/2014
+David Crespo,19,Left-Back,Torreense,0.0,out,Summer,2013,2013/2014
+Edgar Costa,26,Right Winger,Moreirense,0.0,out,Summer,2013,2013/2014
+Revson,25,Defensive Midfield,CSKA Sofia,0.0,out,Summer,2013,2013/2014
+Bruno Moreira,25,Centre-Forward,CSKA Sofia,0.0,out,Summer,2013,2013/2014
+Manuel da Costa,27,Centre-Back,Loko Moscow,0.0,out,Summer,2013,2013/2014
+Eliandro,23,Centre-Forward,Cruzeiro,0.0,out,Summer,2013,2013/2014
+Saleh Gomaa,20,Attacking Midfield,Enppi SC,100000.0,in,Winter,2013,2013/2014
+Kayke Rodrigues,25,Centre-Forward,Paraná,0.0,in,Winter,2013,2013/2014
+Reginaldo,23,Centre-Forward,Muçulmana,0.0,in,Winter,2013,2013/2014
+Freire,24,Centre-Back,Vit. Guimarães,0.0,in,Winter,2013,2013/2014
+Bruno Moreira,26,Centre-Forward,CSKA Sofia,0.0,in,Winter,2013,2013/2014
+Kéven Sousa,24,Goalkeeper,AD Oeiras,0.0,in,Winter,2013,2013/2014
+Revson,26,Defensive Midfield,Avaí FC,0.0,out,Winter,2013,2013/2014
+Edgar Abreu,19,Central Midfield,Mirandela,0.0,out,Winter,2013,2013/2014
+Kéven Sousa,24,Goalkeeper,Alcanenense,0.0,out,Winter,2013,2013/2014
+Mateus,29,Left Winger,1º de Agosto,0.0,out,Winter,2013,2013/2014
+Bruno Moreira,26,Centre-Forward,Chaves,0.0,out,Winter,2013,2013/2014
+João Barreto,22,Central Midfield,Sertanense,0.0,out,Winter,2013,2013/2014
+Freire,24,Centre-Back,Ordabasy,0.0,out,Winter,2013,2013/2014
+Bruno Moura,21,Right-Back,Angra-RJ,0.0,out,Winter,2013,2013/2014
+Hyun-jun Suk,23,Centre-Forward,Al-Ahli SFC,0.0,in,Summer,2014,2014/2015
+Marco Matias,25,Right Winger,Vit. Guimarães,0.0,in,Summer,2014,2014/2015
+Rony Santos,19,Centre-Back,Benfica U19,0.0,in,Summer,2014,2014/2015
+Willyan,20,Left Winger,Beira-Mar,0.0,in,Summer,2014,2014/2015
+Boubacar Fofana,24,Defensive Midfield,Tondela,0.0,in,Summer,2014,2014/2015
+Rui Correia,23,Centre-Back,Portimonense,0.0,in,Summer,2014,2014/2015
+Willyan Mimbela,22,Attacking Midfield,Sport. Cristal,0.0,in,Summer,2014,2014/2015
+Kevin Ramos,20,Goalkeeper,Alcanenense,0.0,in,Summer,2014,2014/2015
+Bata,21,Right Winger,SC Covilhã,0.0,in,Summer,2014,2014/2015
+Mahmoud Ezzat,22,Centre-Back,El Mokawloon,0.0,in,Summer,2014,2014/2015
+Ali Fathi,22,Left-Back,El Mokawloon,0.0,in,Summer,2014,2014/2015
+Kéven Sousa,25,Goalkeeper,Alcanenense,0.0,in,Summer,2014,2014/2015
+Marco Airosa,29,Right-Back,AEL Limassol,0.0,in,Summer,2014,2014/2015
+Edgar Abreu,20,Central Midfield,Mirandela,0.0,in,Summer,2014,2014/2015
+Sérgio Duarte,21,Defensive Midfield,Mirandela,0.0,in,Summer,2014,2014/2015
+Edgar Costa,27,Right Winger,Moreirense,0.0,in,Summer,2014,2014/2015
+Mexer,25,Centre-Back,Stade Rennais,2190000.0,out,Summer,2014,2014/2015
+Djaniny,23,Centre-Forward,Santos Laguna,2000000.0,out,Summer,2014,2014/2015
+Ricardo Batista,27,Goalkeeper,Vitória Setúbal,0.0,out,Summer,2014,2014/2015
+Diego Barcelos,29,Attacking Midfield,AEL Limassol,0.0,out,Summer,2014,2014/2015
+Daniel Candeias,26,Right Winger,Benfica,0.0,out,Summer,2014,2014/2015
+Rafa Sousa,25,Defensive Midfield,Penafiel,0.0,out,Summer,2014,2014/2015
+Marco Airosa,29,Right-Back,AEL Limassol,0.0,out,Summer,2014,2014/2015
+Jota Garcês,21,Attacking Midfield,União Madeira,0.0,out,Summer,2014,2014/2015
+Sérgio Duarte,21,Defensive Midfield,Lusitano FCV,0.0,out,Summer,2014,2014/2015
+Edgar Costa,27,Right Winger,Marítimo,0.0,out,Summer,2014,2014/2015
+Kayke Rodrigues,26,Centre-Forward,Atlético-GO,0.0,out,Summer,2014,2014/2015
+Claudemir,29,Defensive Midfield,B. Jerusalem,0.0,out,Summer,2014,2014/2015
+Bata,21,Right Winger,Portimonense,0.0,out,Summer,2014,2014/2015
+Jaime,24,Centre-Back,Anápolis-GO,0.0,out,Summer,2014,2014/2015
+Renato,22,Centre-Back,Anápolis-GO,0.0,out,Summer,2014,2014/2015
+Diogo Coelho,20,Centre-Back,SC Covilhã,0.0,out,Summer,2014,2014/2015
+Luís Aurélio,26,Central Midfield,Moreirense,0.0,in,Winter,2014,2014/2015
+Wagner,27,Left Winger,Zawisza,0.0,in,Winter,2014,2014/2015
+Tiquinho Soares,23,Centre-Forward,Paraibano-PB,0.0,in,Winter,2014,2014/2015
+Christian,25,Central Midfield,CFR Cluj,0.0,in,Winter,2014,2014/2015
+Tiago Rodrigues,22,Attacking Midfield,FC Porto B,0.0,in,Winter,2014,2014/2015
+Witi,18,Left Winger,Nacional U19,0.0,in,Winter,2014,2014/2015
+Freire,25,Centre-Back,Ordabasy,0.0,in,Winter,2014,2014/2015
+Bata,22,Right Winger,Portimonense,0.0,in,Winter,2014,2014/2015
+Jota Garcês,21,Attacking Midfield,União Madeira,0.0,in,Winter,2014,2014/2015
+Mario Rondón,28,Centre-Forward,SJZ Ever Bright,800000.0,out,Winter,2014,2014/2015
+Hyun-jun Suk,23,Centre-Forward,Vitória Setúbal,0.0,out,Winter,2014,2014/2015
+Dejan Skolnik,26,Left Midfield,NK Aluminij,0.0,out,Winter,2014,2014/2015
+Witi,18,Left Winger,Benfica U19,0.0,out,Winter,2014,2014/2015
+Jota Garcês,21,Attacking Midfield,Atlético CP,0.0,out,Winter,2014,2014/2015
+Willyan Mimbela,22,Attacking Midfield,Alianza Lima,0.0,out,Winter,2014,2014/2015
+Bata,22,Right Winger,Atlético CP,0.0,out,Winter,2014,2014/2015
+Reginaldo,24,Centre-Forward,Santa Clara,0.0,out,Winter,2014,2014/2015
+Sebastián Ayala,19,Defensive Midfield,CD La Equidad,0.0,out,Winter,2014,2014/2015
+Ali Fathi,22,Left-Back,El Mokawloon,0.0,out,Winter,2014,2014/2015
+Mahmoud Ezzat,22,Centre-Back,El Mokawloon,0.0,out,Winter,2014,2014/2015
+Mauro Cerqueira,22,Left-Back,Moura,0.0,in,Summer,2015,2015/2016
+Salvador Agra,23,Left Winger,Real Betis,0.0,in,Summer,2015,2015/2016
+Cas Peters,22,Centre-Forward,FC Emmen,0.0,in,Summer,2015,2015/2016
+Nenê Bonilha,23,Defensive Midfield,Corinthians,0.0,in,Summer,2015,2015/2016
+Wanderson,23,Centre-Forward,Ponte Preta,0.0,in,Summer,2015,2015/2016
+Washington Santana,26,Defensive Midfield,Penapolense-SP,0.0,in,Summer,2015,2015/2016
+Jhonder Cádiz,20,Centre-Forward,Caracas FC,0.0,in,Summer,2015,2015/2016
+Alan Henrique,24,Centre-Back,EC Vitória,0.0,in,Summer,2015,2015/2016
+Gustavo,21,Centre-Forward,Criciúma EC,0.0,in,Summer,2015,2015/2016
+Geraldo,22,Defensive Midfield,LD Maputo,0.0,in,Summer,2015,2015/2016
+Zezinho,23,Attacking Midfield,Atlético-PR,0.0,in,Summer,2015,2015/2016
+Sebastián Ayala,19,Defensive Midfield,CD La Equidad,0.0,in,Summer,2015,2015/2016
+Mohamed Kaba,19,Left-Back,Nacional U19,0.0,in,Summer,2015,2015/2016
+Witi,18,Left Winger,Benfica U19,0.0,in,Summer,2015,2015/2016
+Sérgio Duarte,22,Defensive Midfield,Lusitano FCV,0.0,in,Summer,2015,2015/2016
+Reginaldo,25,Centre-Forward,Santa Clara,0.0,in,Summer,2015,2015/2016
+Jota Garcês,22,Attacking Midfield,Atlético CP,0.0,in,Summer,2015,2015/2016
+Bata,22,Right Winger,Atlético CP,0.0,in,Summer,2015,2015/2016
+Diogo Coelho,21,Centre-Back,SC Covilhã,0.0,in,Summer,2015,2015/2016
+Marco Matias,26,Right Winger,Sheff Wed,3100000.0,out,Summer,2015,2015/2016
+Lucas João,21,Centre-Forward,Sheff Wed,2780000.0,out,Summer,2015,2015/2016
+Cas Peters,22,Centre-Forward,De Graafschap,0.0,out,Summer,2015,2015/2016
+Rony Santos,20,Centre-Back,Gil Vicente,0.0,out,Summer,2015,2015/2016
+Freire,25,Centre-Back,Apol. Limassol,0.0,out,Summer,2015,2015/2016
+Wagner,28,Left Winger,Tondela,0.0,out,Summer,2015,2015/2016
+Bata,22,Right Winger,Penafiel,0.0,out,Summer,2015,2015/2016
+Reginaldo,25,Centre-Forward,Santa Clara,0.0,out,Summer,2015,2015/2016
+Diogo Coelho,21,Centre-Back,Chaves,0.0,out,Summer,2015,2015/2016
+Marçal,26,Left-Back,Benfica,0.0,out,Summer,2015,2015/2016
+Sérgio Duarte,22,Defensive Midfield,Oriental,0.0,out,Summer,2015,2015/2016
+Mohamed Kaba,19,Left-Back,Mirandela,0.0,out,Summer,2015,2015/2016
+Tiago Rodrigues,23,Attacking Midfield,FC Porto B,0.0,out,Summer,2015,2015/2016
+Christian,26,Central Midfield,CFR Cluj,0.0,out,Summer,2015,2015/2016
+Saleh Gomaa,21,Attacking Midfield,Enppi SC,0.0,out,Summer,2015,2015/2016
+Hicham Belkaroui,25,Centre-Back,Club Africain,0.0,in,Winter,2015,2015/2016
+Paulinho,23,Attacking Midfield,América-MG,0.0,in,Winter,2015,2015/2016
+Joan Román,22,Left Winger,SC Braga,0.0,in,Winter,2015,2015/2016
+Rodrigo Pinho,24,Centre-Forward,SC Braga,0.0,in,Winter,2015,2015/2016
+Ricardo Gomes,24,Centre-Forward,Vit. Guimarães,0.0,in,Winter,2015,2015/2016
+Filipe Ferreira,19,Goalkeeper,FC Porto U19,0.0,in,Winter,2015,2015/2016
+Wanderson,23,Centre-Forward,Penapolense-SP,0.0,out,Winter,2015,2015/2016
+Zainadine Júnior,27,Centre-Back,TJ Teda,0.0,out,Winter,2015,2015/2016
+João Camacho,21,Left Winger,SD Compostela,0.0,out,Winter,2015,2015/2016
+Edgar Abreu,21,Central Midfield,Leiria,0.0,out,Winter,2015,2015/2016
+Kéven Sousa,26,Goalkeeper,Without Club,0.0,out,Winter,2015,2015/2016
+Zezinho,23,Attacking Midfield,Atlético-PR,0.0,out,Winter,2015,2015/2016
+Gustavo,21,Centre-Forward,Criciúma EC,0.0,out,Winter,2015,2015/2016
+Geraldo,23,Defensive Midfield,LD Maputo,0.0,out,Winter,2015,2015/2016
+Sebastián Ayala,20,Defensive Midfield,CD La Equidad,0.0,out,Winter,2015,2015/2016
+Nelson Bonilla,25,Centre-Forward,Zira FC,100000.0,in,Summer,2016,2016/2017
+Ricardo Gomes,24,Centre-Forward,Vit. Guimarães,0.0,in,Summer,2016,2016/2017
+Luís Silva,23,Central Midfield,Chaves,0.0,in,Summer,2016,2016/2017
+Vítor São Bento,23,Goalkeeper,Farense,0.0,in,Summer,2016,2016/2017
+Ohoulo Framelin,19,Goalkeeper,Alcanenense,0.0,in,Summer,2016,2016/2017
+Okacha Hamzaoui,25,Centre-Forward,MO Béjaïa,0.0,in,Summer,2016,2016/2017
+Tiago Rodrigues,24,Attacking Midfield,FC Porto,0.0,in,Summer,2016,2016/2017
+César Martins,23,Centre-Back,Benfica,0.0,in,Summer,2016,2016/2017
+Víctor García,22,Right-Back,FC Porto B,0.0,in,Summer,2016,2016/2017
+Vítor Gonçalves,24,Central Midfield,Gil Vicente,0.0,in,Summer,2016,2016/2017
+Sinan Bolat,27,Goalkeeper,FC Porto B,0.0,in,Summer,2016,2016/2017
+Vítor Hugo,21,Defensive Midfield,Angra-RJ,0.0,in,Summer,2016,2016/2017
+Roniel,22,Right Winger,Anápolis-GO,0.0,in,Summer,2016,2016/2017
+Tobias Figueiredo,22,Centre-Back,Sporting CP,0.0,in,Summer,2016,2016/2017
+Rodrigo Alírio,18,Centre-Back,Nacional U19,0.0,in,Summer,2016,2016/2017
+Mohamed Kaba,20,Left-Back,Mirandela,0.0,in,Summer,2016,2016/2017
+Diogo Coelho,22,Centre-Back,Chaves,0.0,in,Summer,2016,2016/2017
+Sérgio Duarte,23,Defensive Midfield,Oriental,0.0,in,Summer,2016,2016/2017
+João Camacho,22,Left Winger,SD Compostela,0.0,in,Summer,2016,2016/2017
+Edgar Abreu,22,Central Midfield,Leiria,0.0,in,Summer,2016,2016/2017
+Boubacar Fofana,26,Defensive Midfield,Al-Ettifaq,300000.0,out,Summer,2016,2016/2017
+João Aurélio,27,Right-Back,Vit. Guimarães,0.0,out,Summer,2016,2016/2017
+Nenê Bonilha,24,Defensive Midfield,Vitória Setúbal,0.0,out,Summer,2016,2016/2017
+Miguel Rodrigues,23,Centre-Back,Panetolikos,0.0,out,Summer,2016,2016/2017
+Alan Henrique,25,Centre-Back,Umm Salal SC,0.0,out,Summer,2016,2016/2017
+Gottardi,31,Goalkeeper,Marítimo,0.0,out,Summer,2016,2016/2017
+Hicham Belkaroui,25,Centre-Back,Esperance,0.0,out,Summer,2016,2016/2017
+Luís Silva,23,Central Midfield,Belenenses,0.0,out,Summer,2016,2016/2017
+Luís Aurélio,27,Central Midfield,Feirense,0.0,out,Summer,2016,2016/2017
+Sérgio Duarte,23,Defensive Midfield,Salgueiros,0.0,out,Summer,2016,2016/2017
+Filipe Ferreira,19,Goalkeeper,Olhanense,0.0,out,Summer,2016,2016/2017
+Kevin Ramos,22,Goalkeeper,Mindelo,0.0,out,Summer,2016,2016/2017
+Diogo Coelho,22,Centre-Back,Coimbra,0.0,out,Summer,2016,2016/2017
+João Camacho,22,Left Winger,Celta Vigo B,0.0,out,Summer,2016,2016/2017
+Edgar Abreu,22,Central Midfield,Olhanense,0.0,out,Summer,2016,2016/2017
+Paulinho,23,Attacking Midfield,Without Club,0.0,out,Summer,2016,2016/2017
+Joan Román,23,Left Winger,SC Braga,0.0,out,Summer,2016,2016/2017
+Rodrigo Pinho,25,Centre-Forward,SC Braga,0.0,out,Summer,2016,2016/2017
+Ricardo Gomes,24,Centre-Forward,Vit. Guimarães,0.0,out,Summer,2016,2016/2017
+Tiquinho Soares,25,Centre-Forward,Paraibano-PB,0.0,out,Summer,2016,2016/2017
+Filipe Gonçalves,32,Defensive Midfield,Slask Wroclaw,0.0,in,Winter,2016,2016/2017
+Dejan Mezga,31,Attacking Midfield,NK Maribor,0.0,in,Winter,2016,2016/2017
+Zequinha,30,Second Striker,Arouca,0.0,in,Winter,2016,2016/2017
+Fernando Aristeguieta,24,Centre-Forward,FC Nantes,0.0,in,Winter,2016,2016/2017
+Adriano Facchini,33,Goalkeeper,Karabükspor,0.0,in,Winter,2016,2016/2017
+Zizo,21,Right Winger,Lierse SK,0.0,in,Winter,2016,2016/2017
+Ali Ghazal,24,Centre-Back,GZ H. Zhicheng,2600000.0,out,Winter,2016,2016/2017
+Rui Silva,22,Goalkeeper,Granada CF,1000000.0,out,Winter,2016,2016/2017
+Nelson Bonilla,26,Centre-Forward,Gaziantep BB,0.0,out,Winter,2016,2016/2017
+Sinan Bolat,28,Goalkeeper,FC Porto B,0.0,out,Winter,2016,2016/2017
+Roniel,22,Right Winger,Anápolis-GO,0.0,out,Winter,2016,2016/2017
+Aleksandar Palocevic,24,Attacking Midfield,Arouca,1200000.0,in,Summer,2018,2018/2019
+Fernando Tissone,32,Defensive Midfield,Desportivo Aves,0.0,in,Summer,2018,2018/2019
+Brayan Riascos,23,Centre-Forward,Oliveirense,0.0,in,Summer,2018,2018/2019
+Kenji Gorré,23,Left Winger,Swansea,0.0,in,Summer,2018,2018/2019
+Giorgi Arabidze,20,Right Winger,Shakhtar II,0.0,in,Summer,2018,2018/2019
+Ibrahim Alhassan,21,Defensive Midfield,Akwa United,0.0,in,Summer,2018,2018/2019
+Kalindi,24,Right-Back,Anápolis-GO,0.0,in,Summer,2018,2018/2019
+Christian Madu,25,Defensive Midfield,Enugu Rangers,0.0,in,Summer,2018,2018/2019
+Júlio César,23,Centre-Back,Anápolis-GO,0.0,in,Summer,2018,2018/2019
+Arthur,19,Centre-Back,Cruzeiro,0.0,in,Summer,2018,2018/2019
+Wesly Decas,18,Centre-Back,Fútbol Cons.,0.0,in,Summer,2018,2018/2019
+Lucas França,22,Goalkeeper,Cruzeiro,0.0,in,Summer,2018,2018/2019
+Perotti,20,Centre-Forward,Chapecoense,0.0,in,Summer,2018,2018/2019
+Bheu Januário,24,Right-Back,Fafe,0.0,in,Summer,2018,2018/2019
+Geraldo,25,Defensive Midfield,Fafe,0.0,in,Summer,2018,2018/2019
+Okacha Hamzaoui,27,Centre-Forward,USM Alger,0.0,in,Summer,2018,2018/2019
+Ricardo Gomes,26,Centre-Forward,Partizan,0.0,out,Summer,2018,2018/2019
+Nii Plange,29,Left Winger,Pinhalnovense,0.0,out,Summer,2018,2018/2019
+Edgar Abreu,24,Central Midfield,Espinho,0.0,out,Summer,2018,2018/2019
+Diego Silva,25,Centre-Back,Salgueiro,0.0,out,Summer,2018,2018/2019
+Geraldo,25,Defensive Midfield,Amora FC,0.0,out,Summer,2018,2018/2019
+Bheu Januário,24,Right-Back,Without Club,0.0,out,Summer,2018,2018/2019
+Mateus da Silva,26,Defensive Midfield,Paços Ferreira,0.0,out,Summer,2018,2018/2019
+Diego Medeiros,25,Left Midfield,Paços Ferreira,0.0,out,Summer,2018,2018/2019
+Valkenedy,24,Defensive Midfield,Brusque-SC,0.0,out,Summer,2018,2018/2019
+Vanílson,27,Centre-Forward,Anápolis-GO,0.0,out,Summer,2018,2018/2019
+Christian,29,Central Midfield,Paços Ferreira,0.0,out,Summer,2018,2018/2019
+Yaya Bamba,22,Defensive Midfield,Desportivo Aves,0.0,out,Summer,2018,2018/2019
+Júlio César,23,Centre-Back,Anápolis-GO,0.0,out,Summer,2018,2018/2019
+Murilo de Souza,23,Right Winger,Barra FC,0.0,out,Summer,2018,2018/2019
+Sardor Rashidov,27,Right Winger,Loko Tashkent,1500000.0,in,Winter,2018,2018/2019
+Avto,27,Left Winger,Chaves,0.0,in,Winter,2018,2018/2019
+Lazar Rosic,25,Centre-Back,SC Braga,0.0,in,Winter,2018,2018/2019
+Filipe Ferreira,28,Left-Back,Sturm Graz,0.0,in,Winter,2018,2018/2019
+Elízio,30,Left-Back,Varzim,0.0,out,Winter,2018,2018/2019
+Gauther,27,Goalkeeper,União Madeira,0.0,out,Winter,2018,2018/2019
+Kenji Gorré,24,Left Winger,Estoril Praia,0.0,out,Winter,2018,2018/2019
+Christian Madu,25,Defensive Midfield,Without Club,0.0,out,Winter,2018,2018/2019
+Wesly Decas,19,Centre-Back,Fútbol Cons.,0.0,out,Winter,2018,2018/2019
+Arthur,19,Centre-Back,Cruzeiro,0.0,out,Winter,2018,2018/2019
+Vladan Danilovic,21,Defensive Midfield,B. Banja Luka,500000.0,in,Summer,2020,2020/2021
+Gergely Bobál,24,Centre-Forward,Zalaegerszeg,0.0,in,Summer,2020,2020/2021
+João Vigário,24,Left-Back,Tondela,0.0,in,Summer,2020,2020/2021
+Rúben Freitas,27,Right-Back,Mafra,0.0,in,Summer,2020,2020/2021
+Riccardo Piscitelli,26,Goalkeeper,FC Dinamo,0.0,in,Summer,2020,2020/2021
+Larry Azouni,26,Central Midfield,KV Kortrijk,0.0,in,Summer,2020,2020/2021
+Rui Encarnação,22,Goalkeeper,Machico,0.0,in,Summer,2020,2020/2021
+Chico Ramos,25,Central Midfield,Vit. Guimarães,0.0,in,Summer,2020,2020/2021
+Vincent Thill,20,Attacking Midfield,FC Metz,0.0,in,Summer,2020,2020/2021
+Pedrão,23,Centre-Back,Palmeiras,0.0,in,Summer,2020,2020/2021
+Lucas Kal,24,Defensive Midfield,São Paulo,0.0,in,Summer,2020,2020/2021
+João Victor,21,Left Winger,Osasco-SP,0.0,in,Summer,2020,2020/2021
+Vincent Koziello,24,Central Midfield,1. FC Köln,0.0,in,Summer,2020,2020/2021
+Wan Cho,19,Attacking Midfield,Nacional U19,0.0,in,Summer,2020,2020/2021
+Giorgi Arabidze,22,Right Winger,Adanaspor,0.0,in,Summer,2020,2020/2021
+Diogo Coelho,26,Centre-Back,Vilafranquense,0.0,out,Summer,2020,2020/2021
+Ohoulo Framelin,23,Goalkeeper,Sernache,0.0,out,Summer,2020,2020/2021
+Kaká,29,Attacking Midfield,Mafra,0.0,out,Summer,2020,2020/2021
+Jota Garcês,27,Attacking Midfield,Leixões,0.0,out,Summer,2020,2020/2021
+Vítor Gonçalves,28,Central Midfield,Casa Pia,0.0,out,Summer,2020,2020/2021
+João Fernandes,19,Right Winger,Camacha,0.0,out,Summer,2020,2020/2021
+Seung-jun Lee,20,Right-Back,Camacha,0.0,out,Summer,2020,2020/2021
+Wan Cho,19,Attacking Midfield,Câmara Lobos,0.0,out,Summer,2020,2020/2021
+Gauther,28,Goalkeeper,Career break,0.0,out,Summer,2020,2020/2021
+Nuno Campos,27,Right-Back,Mafra,0.0,out,Summer,2020,2020/2021
+Felipe Lopes,32,Centre-Back,Without Club,0.0,out,Summer,2020,2020/2021
+Geraldo,27,Defensive Midfield,LD Maputo,0.0,out,Summer,2020,2020/2021
+João Vigário,24,Left-Back,Tondela,0.0,out,Summer,2020,2020/2021
+Malick Evouna,27,Centre-Forward,Santa Clara,0.0,out,Summer,2020,2020/2021
+Paulo Vyctor,24,Centre-Forward,Floresta-CE,0.0,out,Summer,2020,2020/2021
+Marco Borgnino,22,Left Midfield,Rafaela,0.0,out,Summer,2020,2020/2021
+Leonel Mosevich,23,Centre-Back,Argentinos II,0.0,out,Summer,2020,2020/2021
+Anthony Sosa,23,Left Midfield,Progreso,0.0,out,Summer,2020,2020/2021
+Dudu,21,Right Winger,Marinhense,0.0,in,Winter,2020,2020/2021
+Pedro Mendes,21,Centre-Forward,Sporting CP,0.0,in,Winter,2020,2020/2021
+Marco Matias,31,Right Winger,Without Club,0.0,in,Winter,2020,2020/2021
+Éber Bessa,28,Attacking Midfield,Botafogo,0.0,in,Winter,2020,2020/2021
+Seydou Sy,25,Goalkeeper,Without Club,0.0,in,Winter,2020,2020/2021
+António Filipe,35,Goalkeeper,Without Club,0.0,in,Winter,2020,2020/2021
+Aleksandar Palocevic,27,Attacking Midfield,Pohang Steelers,0.0,in,Winter,2020,2020/2021
+João Fernandes,20,Right Winger,Camacha,0.0,in,Winter,2020,2020/2021
+Wan Cho,19,Attacking Midfield,Câmara Lobos,0.0,in,Winter,2020,2020/2021
+Aleksandar Palocevic,27,Attacking Midfield,FC Seoul,1000000.0,out,Winter,2020,2020/2021
+Marcelo Freitas,26,Attacking Midfield,Londrina-PR,0.0,out,Winter,2020,2020/2021
+Wan Cho,19,Attacking Midfield,Chuncheon FC,0.0,out,Winter,2020,2020/2021
+João Fernandes,20,Right Winger,Santarém,0.0,out,Winter,2020,2020/2021
+João Victor,21,Left Winger,Osasco-SP,0.0,out,Winter,2020,2020/2021
+Giorgi Arabidze,22,Right Winger,Rotor Volgograd,0.0,out,Winter,2020,2020/2021
