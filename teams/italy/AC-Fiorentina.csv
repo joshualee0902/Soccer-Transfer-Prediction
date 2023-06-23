@@ -1,0 +1,409 @@
+player_name,age,position,club_involved,fee,transfer_period,year,season
+Brian Laudrup,23,Right Winger,Bayern Munich,5000000.0,Summer,1992,1992/1993
+Stefan Effenberg,23,Central Midfield,Bayern Munich,3750000.0,Summer,1992,1992/1993
+Daniele Carnasciali,25,Right-Back,Brescia,0.0,Summer,1992,1992/1993
+Diego Latorre,22,Second Striker,Boca Juniors,0.0,Summer,1992,1992/1993
+Andrea Vascotto,20,midfield,Barletta CS,0.0,Summer,1992,1992/1993
+Fabrizio Di Mauro,27,Defensive Midfield,AS Roma,0.0,Summer,1992,1992/1993
+Gianluca Luppi,25,Centre-Back,Juventus,0.0,Summer,1992,1992/1993
+Francesco Baiano,24,Right Winger,Foggia,0.0,Summer,1992,1992/1993
+Francesco Flachi,17,Centre-Forward,Fiorentina Yth.,0.0,Summer,1992,1992/1993
+Ramon Aiana,19,attack,Unknown,0.0,Summer,1992,1992/1993
+Vincenzo Matrone,20,defence,Barletta CS,0.0,Summer,1992,1992/1993
+Massimiliano Fiondella,23,defence,SPAL,0.0,Summer,1992,1992/1993
+Pietro Maiellaro,28,midfield,AC Venezia 1907,0.0,Summer,1992,1992/1993
+Emiliano Biliotti,17,Attacking Midfield,Siena,0.0,Summer,1992,1992/1993
+Rufo Emiliano Verga,22,Centre-Back,AC Venezia 1907,0.0,Summer,1992,1992/1993
+Stefano Carobbi,28,Right-Back,Lecce,0.0,Summer,1992,1992/1993
+Stefano Borgonovo,28,Centre-Forward,Pescara,0.0,Summer,1992,1992/1993
+Stefano Salvatori,24,Defensive Midfield,SPAL,0.0,Summer,1992,1992/1993
+Marco Branca,27,Centre-Forward,Udinese,0.0,Summer,1992,1992/1993
+Mazinho,26,Defensive Midfield,Palmeiras,0.0,Summer,1992,1992/1993
+Celeste Pin,31,defence,Verona,0.0,Summer,1992,1992/1993
+Dunga,28,Defensive Midfield,Pescara,0.0,Summer,1992,1992/1993
+Giacomo Banchelli,19,Centre-Forward,Alessandria,0.0,Summer,1992,1992/1993
+Lorenzo D'Anna,20,Centre-Back,Como,0.0,Winter,1992,1992/1993
+Diego Latorre,23,Second Striker,CD Tenerife,-1000000.0,Winter,1992,1992/1993
+Rui Costa,22,Attacking Midfield,Benfica,5500000.0,Summer,1994,1994/1995
+Emiliano Betti,22,Goalkeeper,Cosenza,0.0,Summer,1994,1994/1995
+Stefano Carobbi,30,Right-Back,Lecce,0.0,Summer,1994,1994/1995
+Sandro Cois,21,Defensive Midfield,Torino,0.0,Summer,1994,1994/1995
+Márcio Santos,24,Centre-Back,G. Bordeaux,0.0,Summer,1994,1994/1995
+Andrea Sottil,20,Centre-Back,Torino,0.0,Summer,1994,1994/1995
+Angelo Carbone,26,Right Midfield,Milan,0.0,Summer,1994,1994/1995
+Enzo Gambaro,28,Left-Back,Milan,0.0,Summer,1994,1994/1995
+Christian Amoroso,17,Central Midfield,Fiorentina U19,0.0,Summer,1994,1994/1995
+Luca Vigiani,17,Right Midfield,Fiorentina U19,0.0,Summer,1994,1994/1995
+Stefan Effenberg,25,Central Midfield,Bor. M'gladbach,-750000.0,Summer,1994,1994/1995
+Lorenzo D'Anna,22,Centre-Back,Chievo Verona,0.0,Summer,1994,1994/1995
+Emiliano Betti,22,Goalkeeper,Barletta CS,0.0,Summer,1994,1994/1995
+Mario Faccenda,33,Centre-Back,Carrarese,0.0,Summer,1994,1994/1995
+Gionata Bruni,19,Centre-Back,Arezzo,0.0,Summer,1994,1994/1995
+Giuseppe Antonaccio,22,Left-Back,Nola,0.0,Summer,1994,1994/1995
+Mauro Zironelli,24,midfield,Chievo Verona,0.0,Summer,1994,1994/1995
+Fabio Di Sole,20,Centre-Back,Catanzaro,0.0,Summer,1994,1994/1995
+Massimo Orlando,23,attack,Milan,0.0,Summer,1994,1994/1995
+Giuseppe Iachini,30,Defensive Midfield,US Palermo,0.0,Summer,1994,1994/1995
+David Dei,20,Goalkeeper,Benevento,0.0,Summer,1994,1994/1995
+Giacomo Banchelli,21,Centre-Forward,Cosenza,0.0,Summer,1994,1994/1995
+Daniele Beltrammi,20,Second Striker,Cisco Lodigiani,0.0,Summer,1994,1994/1995
+Stefano Carobbi,30,Right-Back,Poggibonsi,0.0,Winter,1994,1994/1995
+Pasquale Bruno,32,Right-Back,Lecce,0.0,Winter,1994,1994/1995
+Giacomo Banchelli,21,Centre-Forward,Udinese,0.0,Winter,1994,1994/1995
+Enzo Gambaro,28,Left-Back,Milan,0.0,Winter,1994,1994/1995
+Angelo Carbone,27,Right Midfield,Milan,0.0,Winter,1994,1994/1995
+Stefan Schwarz,26,Central Midfield,Arsenal,2200000.0,Summer,1995,1995/1996
+Michele Serena,25,Left-Back,Sampdoria,2000000.0,Summer,1995,1995/1996
+Lorenzo Amoruso,24,Centre-Back,Bari,0.0,Summer,1995,1995/1996
+Giovanni Piacentini,27,Defensive Midfield,AS Roma,0.0,Summer,1995,1995/1996
+Federico Bettoni,23,midfield,Cisco Lodigiani,0.0,Summer,1995,1995/1996
+Mirko Benin,17,Attacking Midfield,Varese U19,0.0,Summer,1995,1995/1996
+Emiliano Bigica,21,Defensive Midfield,Bari,0.0,Summer,1995,1995/1996
+Alessandro Orlando,25,Left-Back,Juventus,0.0,Summer,1995,1995/1996
+Massimo Orlando,24,attack,Milan,0.0,Summer,1995,1995/1996
+Pasquale Padalino,22,Centre-Back,Foggia,0.0,Summer,1995,1995/1996
+Stefan Effenberg,26,Central Midfield,Bor. M'gladbach,-3800000.0,Summer,1995,1995/1996
+Sergio Campolo,23,Central Midfield,Pistoiese,0.0,Summer,1995,1995/1996
+Cristiano Scalabrelli,24,Goalkeeper,Lucchese,0.0,Summer,1995,1995/1996
+Edoardo Sacchini,19,midfield,Ponsacco,0.0,Summer,1995,1995/1996
+Alessandro Gola,20,midfield,Modena,0.0,Summer,1995,1995/1996
+Christian Cimarelli,19,midfield,Prato,0.0,Summer,1995,1995/1996
+Fabrizio Di Mauro,30,Defensive Midfield,Reggiana,0.0,Summer,1995,1995/1996
+Gianluca Luppi,28,Centre-Back,Atalanta BC,0.0,Summer,1995,1995/1996
+Márcio Santos,25,Centre-Back,Ajax,0.0,Summer,1995,1995/1996
+Stefano Pioli,29,Centre-Back,Padova,0.0,Summer,1995,1995/1996
+Daniele Amerini,20,Central Midfield,Vicenza,0.0,Summer,1995,1995/1996
+Giovanni Tedesco,23,Central Midfield,Foggia,0.0,Summer,1995,1995/1996
+Daniele Beltrammi,21,Second Striker,Montevarchi,0.0,Summer,1995,1995/1996
+Luis Oliveira,27,Centre-Forward,Cagliari Calcio,7000000.0,Summer,1996,1996/1997
+Giulio Falcone,22,Centre-Back,Torino,0.0,Summer,1996,1996/1997
+Aldo Firicano,29,Centre-Back,Cagliari Calcio,0.0,Summer,1996,1996/1997
+Vittorio Pusceddu,32,Left-Back,Cagliari Calcio,0.0,Summer,1996,1996/1997
+Danilo Stefani,17,Central Midfield,Maceratese,0.0,Summer,1996,1996/1997
+Daniele Chiarini,17,Centre-Back,Fiorentina U19,0.0,Summer,1996,1996/1997
+Marco Vendrame,19,Right Midfield,Fiorentina U19,0.0,Summer,1996,1996/1997
+Andrea Sottil,22,Centre-Back,Atalanta BC,0.0,Summer,1996,1996/1997
+Cristiano Zanetti,19,Defensive Midfield,AC Venezia 1907,0.0,Summer,1996,1996/1997
+Alessandro Orlando,26,Left-Back,Udinese,0.0,Summer,1996,1996/1997
+Giacomo Banchelli,23,Centre-Forward,Cagliari Calcio,0.0,Summer,1996,1996/1997
+Federico Bettoni,24,midfield,Foggia,0.0,Summer,1996,1996/1997
+Alberto Malusci,24,Sweeper,Marseille,0.0,Summer,1996,1996/1997
+Francesco Flachi,21,Centre-Forward,Bari,0.0,Summer,1996,1996/1997
+Luca Vigiani,19,Right Midfield,Fiorenzuola,0.0,Summer,1996,1996/1997
+Christian Amoroso,19,Central Midfield,Empoli,0.0,Summer,1996,1996/1997
+Andrey Kanchelskis,27,Right Midfield,Everton,8000000.0,Winter,1996,1996/1997
+Daniele Beltrammi,22,Second Striker,Pistoiese,0.0,Winter,1996,1996/1997
+Domenico Morfeo,21,Attacking Midfield,Atalanta BC,7700000.0,Summer,1997,1997/1998
+Stefano Bettarini,25,Left-Back,Cagliari Calcio,1500000.0,Summer,1997,1997/1998
+Andrea Tarozzi,23,Right-Back,Bologna,0.0,Summer,1997,1997/1998
+Edmundo,26,Second Striker,Vasco da Gama,0.0,Summer,1997,1997/1998
+Davide Dionigi,23,Centre-Forward,Reggina,0.0,Summer,1997,1997/1998
+Valerio Fiori,28,Goalkeeper,Cesena,0.0,Summer,1997,1997/1998
+Alessandro Agostini,17,Left-Back,Fiorentina U19,0.0,Summer,1997,1997/1998
+Riccardo Taddei,16,Left Winger,Fiorentina U19,0.0,Summer,1997,1997/1998
+Lorenzo Amoruso,26,Centre-Back,Rangers,-6000000.0,Summer,1997,1997/1998
+Marco Vendrame,20,Right Midfield,Lucchese,0.0,Summer,1997,1997/1998
+Vittorio Pusceddu,33,Left-Back,Empoli,0.0,Summer,1997,1997/1998
+Daniele Carnasciali,30,Right-Back,Bologna,0.0,Summer,1997,1997/1998
+Massimo Orlando,26,attack,Atalanta BC,0.0,Summer,1997,1997/1998
+Francesco Baiano,29,Right Winger,Derby,0.0,Summer,1997,1997/1998
+Daniele Chiarini,18,Centre-Back,Arezzo,0.0,Summer,1997,1997/1998
+Luca Vigiani,20,Right Midfield,Saronno,0.0,Summer,1997,1997/1998
+Riccardo Taddei,16,Left Winger,Pontedera,0.0,Summer,1997,1997/1998
+Gianmatteo Mareggini,30,Goalkeeper,Siena,0.0,Summer,1997,1997/1998
+Davide Dionigi,23,Centre-Forward,Piacenza,0.0,Winter,1997,1997/1998
+Giovanni Piacentini,29,Defensive Midfield,Atalanta BC,0.0,Winter,1997,1997/1998
+Francesco Flachi,22,Centre-Forward,Ancona,0.0,Winter,1997,1997/1998
+Jörg Heinrich,28,Left-Back,Bor. Dortmund,12600000.0,Summer,1998,1998/1999
+Moreno Torricelli,28,Right-Back,Juventus,6200000.0,Summer,1998,1998/1999
+Sead Zilic,15,Centre-Forward,Partizan,0.0,Summer,1998,1998/1999
+Guillermo Amor,30,Central Midfield,Barcelona,0.0,Summer,1998,1998/1999
+Alessandro Zandonà,22,Goalkeeper,Sandonà,0.0,Summer,1998,1998/1999
+Carmine Esposito,27,attack,Empoli,0.0,Summer,1998,1998/1999
+Tomas Repka,24,Centre-Back,Sparta Prague,0.0,Summer,1998,1998/1999
+Roberto Mirri,19,Centre-Back,Fiorentina U19,0.0,Summer,1998,1998/1999
+Michele Serena,28,Left-Back,Atlético Madrid,-6000000.0,Summer,1998,1998/1999
+Andrey Kanchelskis,29,Right Midfield,Rangers,-5500000.0,Summer,1998,1998/1999
+Stefan Schwarz,29,Central Midfield,Valencia,-3500000.0,Summer,1998,1998/1999
+Simone Bartoloni,20,defence,AS Gubbio,0.0,Summer,1998,1998/1999
+Luca Vigiani,21,Right Midfield,Cisco Lodigiani,0.0,Summer,1998,1998/1999
+Mirko Benin,20,Attacking Midfield,Pistoiese,0.0,Summer,1998,1998/1999
+Valerio Fiori,29,Goalkeeper,Piacenza,0.0,Summer,1998,1998/1999
+Alessandro Agostini,18,Left-Back,Pistoiese,0.0,Summer,1998,1998/1999
+Domenico Morfeo,22,Attacking Midfield,Milan,0.0,Summer,1998,1998/1999
+Georgios Vakouftsis,18,Centre-Forward,Panathinaikos,1200000.0,Winter,1998,1998/1999
+Fabrizio Ficini,25,Defensive Midfield,Empoli,0.0,Winter,1998,1998/1999
+Stefano Bettarini,26,Left-Back,Bologna,0.0,Winter,1998,1998/1999
+Predrag Mijatović,30,Centre-Forward,Real Madrid,12000000.0,Summer,1999,1999/2000
+Enrico Chiesa,28,Centre-Forward,AC Parma,10700000.0,Summer,1999,1999/2000
+Leandro Amaral,21,Centre-Forward,Portuguesa,2000000.0,Summer,1999,1999/2000
+Angelo Di Livio,32,Right Midfield,Juventus,1300000.0,Summer,1999,1999/2000
+Daniele Adani,24,Centre-Back,Brescia,0.0,Summer,1999,1999/2000
+Mattia Passarini,18,Goalkeeper,Chievo Verona,0.0,Summer,1999,1999/2000
+Mauro Bressan,28,Defensive Midfield,Bari,0.0,Summer,1999,1999/2000
+Abel Balbo,33,Centre-Forward,AC Parma,0.0,Summer,1999,1999/2000
+Paul Okon,27,Defensive Midfield,Lazio,0.0,Summer,1999,1999/2000
+Fabio Rossitto,27,Right Midfield,Napoli,0.0,Summer,1999,1999/2000
+Alessandro Pierini,26,Centre-Back,Udinese,0.0,Summer,1999,1999/2000
+Giuseppe Taglialatela,30,Goalkeeper,Napoli,0.0,Summer,1999,1999/2000
+Stefano Bettarini,27,Left-Back,AC Venezia 1907,-2000000.0,Summer,1999,1999/2000
+Giulio Falcone,25,Centre-Back,Bologna,0.0,Summer,1999,1999/2000
+Alessandro Zandonà,23,Goalkeeper,Giorgione,0.0,Summer,1999,1999/2000
+Giacomo Dondoli,20,Goalkeeper,Cavese,0.0,Summer,1999,1999/2000
+Riccardo Spigoli,19,attack,Trapani,0.0,Summer,1999,1999/2000
+Carmine Esposito,28,attack,Sampdoria,0.0,Summer,1999,1999/2000
+Danilo Stefani,20,Central Midfield,FC Turris 1944,0.0,Summer,1999,1999/2000
+Anselmo Robbiati,29,Left Winger,Napoli,0.0,Summer,1999,1999/2000
+Edmundo,28,Second Striker,Vasco da Gama,0.0,Summer,1999,1999/2000
+Luis Oliveira,30,Centre-Forward,Cagliari Calcio,0.0,Summer,1999,1999/2000
+Francesco Flachi,24,Centre-Forward,Sampdoria,0.0,Summer,1999,1999/2000
+Fabrizio Ficini,25,Defensive Midfield,Sampdoria,0.0,Summer,1999,1999/2000
+Roberto Mirri,20,Centre-Back,Empoli,0.0,Summer,1999,1999/2000
+Domenico Morfeo,23,Attacking Midfield,Cagliari Calcio,0.0,Summer,1999,1999/2000
+Domenico Morfeo,23,Attacking Midfield,Hellas Verona,0.0,Winter,1999,1999/2000
+Nuno Gomes,23,Centre-Forward,Benfica,17000000.0,Summer,2000,2000/2001
+Amaral,27,Defensive Midfield,Vasco da Gama,750000.0,Summer,2000,2000/2001
+Paolo Vanoli,27,Left-Back,AC Parma,0.0,Summer,2000,2000/2001
+Marco Rossi,22,Right Midfield,Salernitana,0.0,Summer,2000,2000/2001
+Emiliano Moretti,19,Centre-Back,Cisco Lodigiani,0.0,Summer,2000,2000/2001
+Saliou Lassissi,21,Centre-Back,AC Parma,0.0,Summer,2000,2000/2001
+Alessandro Flauto,18,Goalkeeper,Fiorentina U19,0.0,Summer,2000,2000/2001
+Gabriel Batistuta,31,Centre-Forward,AS Roma,-36150000.0,Summer,2000,2000/2001
+Jörg Heinrich,30,Left-Back,Bor. Dortmund,-4099999.9999999995,Summer,2000,2000/2001
+Sead Zilic,17,Centre-Forward,Hertha BSC,0.0,Summer,2000,2000/2001
+Alessandro Flauto,18,Goalkeeper,AC Pisa,0.0,Summer,2000,2000/2001
+Paul Okon,28,Defensive Midfield,Middlesbrough,0.0,Summer,2000,2000/2001
+Guillermo Amor,32,Central Midfield,Villarreal,0.0,Summer,2000,2000/2001
+Gianmatteo Mareggini,33,Goalkeeper,Ternana U19,0.0,Summer,2000,2000/2001
+Abel Balbo,34,Centre-Forward,AS Roma,0.0,Summer,2000,2000/2001
+Pasquale Padalino,27,Centre-Back,Bologna,0.0,Summer,2000,2000/2001
+Federico Ligori,18,Centre-Forward,Varese,0.0,Summer,2000,2000/2001
+Alessandro Agostini,20,Left-Back,Ternana,0.0,Summer,2000,2000/2001
+Aldo Firicano,33,Centre-Back,Salernitana,0.0,Winter,2000,2000/2001
+Emiliano Bigica,27,Defensive Midfield,Napoli,0.0,Winter,2000,2000/2001
+Domenico Morfeo,25,Attacking Midfield,Atalanta BC,0.0,Winter,2000,2000/2001
+Georgios Vakouftsis,20,Centre-Forward,Ravenna,0.0,Winter,2000,2000/2001
+Ezequiel González,20,Attacking Midfield,Rosario Central,5340000.0,Summer,2001,2001/2002
+Mario Cassano,17,Goalkeeper,Voghera,0.0,Summer,2001,2001/2002
+Mirko Benin,23,Attacking Midfield,Ternana,0.0,Summer,2001,2001/2002
+Marco Franceschetti,34,midfield,Hellas Verona,0.0,Summer,2001,2001/2002
+Roberto Baronio,23,Defensive Midfield,Lazio,0.0,Summer,2001,2001/2002
+Alexander Manninger,24,Goalkeeper,Arsenal,0.0,Summer,2001,2001/2002
+Angelo Palombo,19,Defensive Midfield,Fiorentina U19,0.0,Summer,2001,2001/2002
+Maurizio Ganz,33,Centre-Forward,Without Club,0.0,Summer,2001,2001/2002
+Rui Costa,29,Attacking Midfield,Milan,-41320000.0,Summer,2001,2001/2002
+Francesco Toldo,29,Goalkeeper,Inter,-26500000.0,Summer,2001,2001/2002
+Tomas Repka,27,Centre-Back,West Ham,-8250000.0,Summer,2001,2001/2002
+Leandro Amaral,23,Centre-Forward,Grêmio,0.0,Summer,2001,2001/2002
+Giacomo Bonora,21,Left-Back,Unknown,0.0,Summer,2001,2001/2002
+Mauro Bressan,30,Defensive Midfield,AC Venezia 1907,0.0,Summer,2001,2001/2002
+Mattia Passarini,20,Goalkeeper,Sassuolo,0.0,Summer,2001,2001/2002
+Alexander Manninger,25,Goalkeeper,Arsenal,0.0,Summer,2001,2001/2002
+Saliou Lassissi,22,Centre-Back,AC Parma,0.0,Summer,2001,2001/2002
+Adriano,19,Centre-Forward,Inter,0.0,Winter,2001,2001/2002
+Anselmo Robbiati,32,Left Winger,Inter,0.0,Winter,2001,2001/2002
+Georgios Vakouftsis,21,Centre-Forward,Iraklis,0.0,Winter,2001,2001/2002
+Brian Laudrup,23,Right Winger,Bayern Munich,5000000.0,in,Summer,1992,1992/1993
+Stefan Effenberg,23,Central Midfield,Bayern Munich,3750000.0,in,Summer,1992,1992/1993
+Daniele Carnasciali,25,Right-Back,Brescia,0.0,in,Summer,1992,1992/1993
+Diego Latorre,22,Second Striker,Boca Juniors,0.0,in,Summer,1992,1992/1993
+Andrea Vascotto,20,midfield,Barletta CS,0.0,in,Summer,1992,1992/1993
+Fabrizio Di Mauro,27,Defensive Midfield,AS Roma,0.0,in,Summer,1992,1992/1993
+Gianluca Luppi,25,Centre-Back,Juventus,0.0,in,Summer,1992,1992/1993
+Francesco Baiano,24,Right Winger,Foggia,0.0,in,Summer,1992,1992/1993
+Francesco Flachi,17,Centre-Forward,Fiorentina Yth.,0.0,in,Summer,1992,1992/1993
+Ramon Aiana,19,attack,Unknown,0.0,out,Summer,1992,1992/1993
+Vincenzo Matrone,20,defence,Barletta CS,0.0,out,Summer,1992,1992/1993
+Massimiliano Fiondella,23,defence,SPAL,0.0,out,Summer,1992,1992/1993
+Pietro Maiellaro,28,midfield,AC Venezia 1907,0.0,out,Summer,1992,1992/1993
+Emiliano Biliotti,17,Attacking Midfield,Siena,0.0,out,Summer,1992,1992/1993
+Rufo Emiliano Verga,22,Centre-Back,AC Venezia 1907,0.0,out,Summer,1992,1992/1993
+Stefano Carobbi,28,Right-Back,Lecce,0.0,out,Summer,1992,1992/1993
+Stefano Borgonovo,28,Centre-Forward,Pescara,0.0,out,Summer,1992,1992/1993
+Stefano Salvatori,24,Defensive Midfield,SPAL,0.0,out,Summer,1992,1992/1993
+Marco Branca,27,Centre-Forward,Udinese,0.0,out,Summer,1992,1992/1993
+Mazinho,26,Defensive Midfield,Palmeiras,0.0,out,Summer,1992,1992/1993
+Celeste Pin,31,defence,Verona,0.0,out,Summer,1992,1992/1993
+Dunga,28,Defensive Midfield,Pescara,0.0,out,Summer,1992,1992/1993
+Giacomo Banchelli,19,Centre-Forward,Alessandria,0.0,out,Summer,1992,1992/1993
+Lorenzo D'Anna,20,Centre-Back,Como,0.0,in,Winter,1992,1992/1993
+Diego Latorre,23,Second Striker,CD Tenerife,1000000.0,out,Winter,1992,1992/1993
+Rui Costa,22,Attacking Midfield,Benfica,5500000.0,in,Summer,1994,1994/1995
+Emiliano Betti,22,Goalkeeper,Cosenza,0.0,in,Summer,1994,1994/1995
+Stefano Carobbi,30,Right-Back,Lecce,0.0,in,Summer,1994,1994/1995
+Sandro Cois,21,Defensive Midfield,Torino,0.0,in,Summer,1994,1994/1995
+Márcio Santos,24,Centre-Back,G. Bordeaux,0.0,in,Summer,1994,1994/1995
+Andrea Sottil,20,Centre-Back,Torino,0.0,in,Summer,1994,1994/1995
+Angelo Carbone,26,Right Midfield,Milan,0.0,in,Summer,1994,1994/1995
+Enzo Gambaro,28,Left-Back,Milan,0.0,in,Summer,1994,1994/1995
+Christian Amoroso,17,Central Midfield,Fiorentina U19,0.0,in,Summer,1994,1994/1995
+Luca Vigiani,17,Right Midfield,Fiorentina U19,0.0,in,Summer,1994,1994/1995
+Stefan Effenberg,25,Central Midfield,Bor. M'gladbach,750000.0,out,Summer,1994,1994/1995
+Lorenzo D'Anna,22,Centre-Back,Chievo Verona,0.0,out,Summer,1994,1994/1995
+Emiliano Betti,22,Goalkeeper,Barletta CS,0.0,out,Summer,1994,1994/1995
+Mario Faccenda,33,Centre-Back,Carrarese,0.0,out,Summer,1994,1994/1995
+Gionata Bruni,19,Centre-Back,Arezzo,0.0,out,Summer,1994,1994/1995
+Giuseppe Antonaccio,22,Left-Back,Nola,0.0,out,Summer,1994,1994/1995
+Mauro Zironelli,24,midfield,Chievo Verona,0.0,out,Summer,1994,1994/1995
+Fabio Di Sole,20,Centre-Back,Catanzaro,0.0,out,Summer,1994,1994/1995
+Massimo Orlando,23,attack,Milan,0.0,out,Summer,1994,1994/1995
+Giuseppe Iachini,30,Defensive Midfield,US Palermo,0.0,out,Summer,1994,1994/1995
+David Dei,20,Goalkeeper,Benevento,0.0,out,Summer,1994,1994/1995
+Giacomo Banchelli,21,Centre-Forward,Cosenza,0.0,out,Summer,1994,1994/1995
+Daniele Beltrammi,20,Second Striker,Cisco Lodigiani,0.0,out,Summer,1994,1994/1995
+Stefano Carobbi,30,Right-Back,Poggibonsi,0.0,out,Winter,1994,1994/1995
+Pasquale Bruno,32,Right-Back,Lecce,0.0,out,Winter,1994,1994/1995
+Giacomo Banchelli,21,Centre-Forward,Udinese,0.0,out,Winter,1994,1994/1995
+Enzo Gambaro,28,Left-Back,Milan,0.0,out,Winter,1994,1994/1995
+Angelo Carbone,27,Right Midfield,Milan,0.0,out,Winter,1994,1994/1995
+Stefan Schwarz,26,Central Midfield,Arsenal,2200000.0,in,Summer,1995,1995/1996
+Michele Serena,25,Left-Back,Sampdoria,2000000.0,in,Summer,1995,1995/1996
+Lorenzo Amoruso,24,Centre-Back,Bari,0.0,in,Summer,1995,1995/1996
+Giovanni Piacentini,27,Defensive Midfield,AS Roma,0.0,in,Summer,1995,1995/1996
+Federico Bettoni,23,midfield,Cisco Lodigiani,0.0,in,Summer,1995,1995/1996
+Mirko Benin,17,Attacking Midfield,Varese U19,0.0,in,Summer,1995,1995/1996
+Emiliano Bigica,21,Defensive Midfield,Bari,0.0,in,Summer,1995,1995/1996
+Alessandro Orlando,25,Left-Back,Juventus,0.0,in,Summer,1995,1995/1996
+Massimo Orlando,24,attack,Milan,0.0,in,Summer,1995,1995/1996
+Pasquale Padalino,22,Centre-Back,Foggia,0.0,in,Summer,1995,1995/1996
+Stefan Effenberg,26,Central Midfield,Bor. M'gladbach,3800000.0,out,Summer,1995,1995/1996
+Sergio Campolo,23,Central Midfield,Pistoiese,0.0,out,Summer,1995,1995/1996
+Cristiano Scalabrelli,24,Goalkeeper,Lucchese,0.0,out,Summer,1995,1995/1996
+Edoardo Sacchini,19,midfield,Ponsacco,0.0,out,Summer,1995,1995/1996
+Alessandro Gola,20,midfield,Modena,0.0,out,Summer,1995,1995/1996
+Christian Cimarelli,19,midfield,Prato,0.0,out,Summer,1995,1995/1996
+Fabrizio Di Mauro,30,Defensive Midfield,Reggiana,0.0,out,Summer,1995,1995/1996
+Gianluca Luppi,28,Centre-Back,Atalanta BC,0.0,out,Summer,1995,1995/1996
+Márcio Santos,25,Centre-Back,Ajax,0.0,out,Summer,1995,1995/1996
+Stefano Pioli,29,Centre-Back,Padova,0.0,out,Summer,1995,1995/1996
+Daniele Amerini,20,Central Midfield,Vicenza,0.0,out,Summer,1995,1995/1996
+Giovanni Tedesco,23,Central Midfield,Foggia,0.0,out,Summer,1995,1995/1996
+Daniele Beltrammi,21,Second Striker,Montevarchi,0.0,out,Summer,1995,1995/1996
+Luis Oliveira,27,Centre-Forward,Cagliari Calcio,7000000.0,in,Summer,1996,1996/1997
+Giulio Falcone,22,Centre-Back,Torino,0.0,in,Summer,1996,1996/1997
+Aldo Firicano,29,Centre-Back,Cagliari Calcio,0.0,in,Summer,1996,1996/1997
+Vittorio Pusceddu,32,Left-Back,Cagliari Calcio,0.0,in,Summer,1996,1996/1997
+Danilo Stefani,17,Central Midfield,Maceratese,0.0,in,Summer,1996,1996/1997
+Daniele Chiarini,17,Centre-Back,Fiorentina U19,0.0,in,Summer,1996,1996/1997
+Marco Vendrame,19,Right Midfield,Fiorentina U19,0.0,in,Summer,1996,1996/1997
+Andrea Sottil,22,Centre-Back,Atalanta BC,0.0,out,Summer,1996,1996/1997
+Cristiano Zanetti,19,Defensive Midfield,AC Venezia 1907,0.0,out,Summer,1996,1996/1997
+Alessandro Orlando,26,Left-Back,Udinese,0.0,out,Summer,1996,1996/1997
+Giacomo Banchelli,23,Centre-Forward,Cagliari Calcio,0.0,out,Summer,1996,1996/1997
+Federico Bettoni,24,midfield,Foggia,0.0,out,Summer,1996,1996/1997
+Alberto Malusci,24,Sweeper,Marseille,0.0,out,Summer,1996,1996/1997
+Francesco Flachi,21,Centre-Forward,Bari,0.0,out,Summer,1996,1996/1997
+Luca Vigiani,19,Right Midfield,Fiorenzuola,0.0,out,Summer,1996,1996/1997
+Christian Amoroso,19,Central Midfield,Empoli,0.0,out,Summer,1996,1996/1997
+Andrey Kanchelskis,27,Right Midfield,Everton,8000000.0,in,Winter,1996,1996/1997
+Daniele Beltrammi,22,Second Striker,Pistoiese,0.0,out,Winter,1996,1996/1997
+Domenico Morfeo,21,Attacking Midfield,Atalanta BC,7700000.0,in,Summer,1997,1997/1998
+Stefano Bettarini,25,Left-Back,Cagliari Calcio,1500000.0,in,Summer,1997,1997/1998
+Andrea Tarozzi,23,Right-Back,Bologna,0.0,in,Summer,1997,1997/1998
+Edmundo,26,Second Striker,Vasco da Gama,0.0,in,Summer,1997,1997/1998
+Davide Dionigi,23,Centre-Forward,Reggina,0.0,in,Summer,1997,1997/1998
+Valerio Fiori,28,Goalkeeper,Cesena,0.0,in,Summer,1997,1997/1998
+Alessandro Agostini,17,Left-Back,Fiorentina U19,0.0,in,Summer,1997,1997/1998
+Riccardo Taddei,16,Left Winger,Fiorentina U19,0.0,in,Summer,1997,1997/1998
+Lorenzo Amoruso,26,Centre-Back,Rangers,6000000.0,out,Summer,1997,1997/1998
+Marco Vendrame,20,Right Midfield,Lucchese,0.0,out,Summer,1997,1997/1998
+Vittorio Pusceddu,33,Left-Back,Empoli,0.0,out,Summer,1997,1997/1998
+Daniele Carnasciali,30,Right-Back,Bologna,0.0,out,Summer,1997,1997/1998
+Massimo Orlando,26,attack,Atalanta BC,0.0,out,Summer,1997,1997/1998
+Francesco Baiano,29,Right Winger,Derby,0.0,out,Summer,1997,1997/1998
+Daniele Chiarini,18,Centre-Back,Arezzo,0.0,out,Summer,1997,1997/1998
+Luca Vigiani,20,Right Midfield,Saronno,0.0,out,Summer,1997,1997/1998
+Riccardo Taddei,16,Left Winger,Pontedera,0.0,out,Summer,1997,1997/1998
+Gianmatteo Mareggini,30,Goalkeeper,Siena,0.0,out,Summer,1997,1997/1998
+Davide Dionigi,23,Centre-Forward,Piacenza,0.0,out,Winter,1997,1997/1998
+Giovanni Piacentini,29,Defensive Midfield,Atalanta BC,0.0,out,Winter,1997,1997/1998
+Francesco Flachi,22,Centre-Forward,Ancona,0.0,out,Winter,1997,1997/1998
+Jörg Heinrich,28,Left-Back,Bor. Dortmund,12600000.0,in,Summer,1998,1998/1999
+Moreno Torricelli,28,Right-Back,Juventus,6200000.0,in,Summer,1998,1998/1999
+Sead Zilic,15,Centre-Forward,Partizan,0.0,in,Summer,1998,1998/1999
+Guillermo Amor,30,Central Midfield,Barcelona,0.0,in,Summer,1998,1998/1999
+Alessandro Zandonà,22,Goalkeeper,Sandonà,0.0,in,Summer,1998,1998/1999
+Carmine Esposito,27,attack,Empoli,0.0,in,Summer,1998,1998/1999
+Tomas Repka,24,Centre-Back,Sparta Prague,0.0,in,Summer,1998,1998/1999
+Roberto Mirri,19,Centre-Back,Fiorentina U19,0.0,in,Summer,1998,1998/1999
+Michele Serena,28,Left-Back,Atlético Madrid,6000000.0,out,Summer,1998,1998/1999
+Andrey Kanchelskis,29,Right Midfield,Rangers,5500000.0,out,Summer,1998,1998/1999
+Stefan Schwarz,29,Central Midfield,Valencia,3500000.0,out,Summer,1998,1998/1999
+Simone Bartoloni,20,defence,AS Gubbio,0.0,out,Summer,1998,1998/1999
+Luca Vigiani,21,Right Midfield,Cisco Lodigiani,0.0,out,Summer,1998,1998/1999
+Mirko Benin,20,Attacking Midfield,Pistoiese,0.0,out,Summer,1998,1998/1999
+Valerio Fiori,29,Goalkeeper,Piacenza,0.0,out,Summer,1998,1998/1999
+Alessandro Agostini,18,Left-Back,Pistoiese,0.0,out,Summer,1998,1998/1999
+Domenico Morfeo,22,Attacking Midfield,Milan,0.0,out,Summer,1998,1998/1999
+Georgios Vakouftsis,18,Centre-Forward,Panathinaikos,1200000.0,in,Winter,1998,1998/1999
+Fabrizio Ficini,25,Defensive Midfield,Empoli,0.0,in,Winter,1998,1998/1999
+Stefano Bettarini,26,Left-Back,Bologna,0.0,out,Winter,1998,1998/1999
+Predrag Mijatović,30,Centre-Forward,Real Madrid,12000000.0,in,Summer,1999,1999/2000
+Enrico Chiesa,28,Centre-Forward,AC Parma,10700000.0,in,Summer,1999,1999/2000
+Leandro Amaral,21,Centre-Forward,Portuguesa,2000000.0,in,Summer,1999,1999/2000
+Angelo Di Livio,32,Right Midfield,Juventus,1300000.0,in,Summer,1999,1999/2000
+Daniele Adani,24,Centre-Back,Brescia,0.0,in,Summer,1999,1999/2000
+Mattia Passarini,18,Goalkeeper,Chievo Verona,0.0,in,Summer,1999,1999/2000
+Mauro Bressan,28,Defensive Midfield,Bari,0.0,in,Summer,1999,1999/2000
+Abel Balbo,33,Centre-Forward,AC Parma,0.0,in,Summer,1999,1999/2000
+Paul Okon,27,Defensive Midfield,Lazio,0.0,in,Summer,1999,1999/2000
+Fabio Rossitto,27,Right Midfield,Napoli,0.0,in,Summer,1999,1999/2000
+Alessandro Pierini,26,Centre-Back,Udinese,0.0,in,Summer,1999,1999/2000
+Giuseppe Taglialatela,30,Goalkeeper,Napoli,0.0,in,Summer,1999,1999/2000
+Stefano Bettarini,27,Left-Back,AC Venezia 1907,2000000.0,out,Summer,1999,1999/2000
+Giulio Falcone,25,Centre-Back,Bologna,0.0,out,Summer,1999,1999/2000
+Alessandro Zandonà,23,Goalkeeper,Giorgione,0.0,out,Summer,1999,1999/2000
+Giacomo Dondoli,20,Goalkeeper,Cavese,0.0,out,Summer,1999,1999/2000
+Riccardo Spigoli,19,attack,Trapani,0.0,out,Summer,1999,1999/2000
+Carmine Esposito,28,attack,Sampdoria,0.0,out,Summer,1999,1999/2000
+Danilo Stefani,20,Central Midfield,FC Turris 1944,0.0,out,Summer,1999,1999/2000
+Anselmo Robbiati,29,Left Winger,Napoli,0.0,out,Summer,1999,1999/2000
+Edmundo,28,Second Striker,Vasco da Gama,0.0,out,Summer,1999,1999/2000
+Luis Oliveira,30,Centre-Forward,Cagliari Calcio,0.0,out,Summer,1999,1999/2000
+Francesco Flachi,24,Centre-Forward,Sampdoria,0.0,out,Summer,1999,1999/2000
+Fabrizio Ficini,25,Defensive Midfield,Sampdoria,0.0,out,Summer,1999,1999/2000
+Roberto Mirri,20,Centre-Back,Empoli,0.0,out,Summer,1999,1999/2000
+Domenico Morfeo,23,Attacking Midfield,Cagliari Calcio,0.0,out,Summer,1999,1999/2000
+Domenico Morfeo,23,Attacking Midfield,Hellas Verona,0.0,out,Winter,1999,1999/2000
+Nuno Gomes,23,Centre-Forward,Benfica,17000000.0,in,Summer,2000,2000/2001
+Amaral,27,Defensive Midfield,Vasco da Gama,750000.0,in,Summer,2000,2000/2001
+Paolo Vanoli,27,Left-Back,AC Parma,0.0,in,Summer,2000,2000/2001
+Marco Rossi,22,Right Midfield,Salernitana,0.0,in,Summer,2000,2000/2001
+Emiliano Moretti,19,Centre-Back,Cisco Lodigiani,0.0,in,Summer,2000,2000/2001
+Saliou Lassissi,21,Centre-Back,AC Parma,0.0,in,Summer,2000,2000/2001
+Alessandro Flauto,18,Goalkeeper,Fiorentina U19,0.0,in,Summer,2000,2000/2001
+Gabriel Batistuta,31,Centre-Forward,AS Roma,36150000.0,out,Summer,2000,2000/2001
+Jörg Heinrich,30,Left-Back,Bor. Dortmund,4099999.9999999995,out,Summer,2000,2000/2001
+Sead Zilic,17,Centre-Forward,Hertha BSC,0.0,out,Summer,2000,2000/2001
+Alessandro Flauto,18,Goalkeeper,AC Pisa,0.0,out,Summer,2000,2000/2001
+Paul Okon,28,Defensive Midfield,Middlesbrough,0.0,out,Summer,2000,2000/2001
+Guillermo Amor,32,Central Midfield,Villarreal,0.0,out,Summer,2000,2000/2001
+Gianmatteo Mareggini,33,Goalkeeper,Ternana U19,0.0,out,Summer,2000,2000/2001
+Abel Balbo,34,Centre-Forward,AS Roma,0.0,out,Summer,2000,2000/2001
+Pasquale Padalino,27,Centre-Back,Bologna,0.0,out,Summer,2000,2000/2001
+Federico Ligori,18,Centre-Forward,Varese,0.0,out,Summer,2000,2000/2001
+Alessandro Agostini,20,Left-Back,Ternana,0.0,out,Summer,2000,2000/2001
+Aldo Firicano,33,Centre-Back,Salernitana,0.0,out,Winter,2000,2000/2001
+Emiliano Bigica,27,Defensive Midfield,Napoli,0.0,out,Winter,2000,2000/2001
+Domenico Morfeo,25,Attacking Midfield,Atalanta BC,0.0,out,Winter,2000,2000/2001
+Georgios Vakouftsis,20,Centre-Forward,Ravenna,0.0,out,Winter,2000,2000/2001
+Ezequiel González,20,Attacking Midfield,Rosario Central,5340000.0,in,Summer,2001,2001/2002
+Mario Cassano,17,Goalkeeper,Voghera,0.0,in,Summer,2001,2001/2002
+Mirko Benin,23,Attacking Midfield,Ternana,0.0,in,Summer,2001,2001/2002
+Marco Franceschetti,34,midfield,Hellas Verona,0.0,in,Summer,2001,2001/2002
+Roberto Baronio,23,Defensive Midfield,Lazio,0.0,in,Summer,2001,2001/2002
+Alexander Manninger,24,Goalkeeper,Arsenal,0.0,in,Summer,2001,2001/2002
+Angelo Palombo,19,Defensive Midfield,Fiorentina U19,0.0,in,Summer,2001,2001/2002
+Maurizio Ganz,33,Centre-Forward,Without Club,0.0,in,Summer,2001,2001/2002
+Rui Costa,29,Attacking Midfield,Milan,41320000.0,out,Summer,2001,2001/2002
+Francesco Toldo,29,Goalkeeper,Inter,26500000.0,out,Summer,2001,2001/2002
+Tomas Repka,27,Centre-Back,West Ham,8250000.0,out,Summer,2001,2001/2002
+Leandro Amaral,23,Centre-Forward,Grêmio,0.0,out,Summer,2001,2001/2002
+Giacomo Bonora,21,Left-Back,Unknown,0.0,out,Summer,2001,2001/2002
+Mauro Bressan,30,Defensive Midfield,AC Venezia 1907,0.0,out,Summer,2001,2001/2002
+Mattia Passarini,20,Goalkeeper,Sassuolo,0.0,out,Summer,2001,2001/2002
+Alexander Manninger,25,Goalkeeper,Arsenal,0.0,out,Summer,2001,2001/2002
+Saliou Lassissi,22,Centre-Back,AC Parma,0.0,out,Summer,2001,2001/2002
+Adriano,19,Centre-Forward,Inter,0.0,in,Winter,2001,2001/2002
+Anselmo Robbiati,32,Left Winger,Inter,0.0,in,Winter,2001,2001/2002
+Georgios Vakouftsis,21,Centre-Forward,Iraklis,0.0,out,Winter,2001,2001/2002

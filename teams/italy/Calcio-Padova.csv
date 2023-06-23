@@ -1,0 +1,87 @@
+player_name,age,position,club_involved,fee,transfer_period,year,season
+David Balleri,25,Right-Back,AC Parma,0.0,Summer,1994,1994/1995
+Goran Vlaovic,21,Centre-Forward,Croatia Zagreb,0.0,Summer,1994,1994/1995
+Daniele Zoratto,32,Central Midfield,AC Parma,0.0,Summer,1994,1994/1995
+Carlo Perrone,33,Right Winger,Atalanta BC,0.0,Summer,1994,1994/1995
+Gianluca Zattarin,20,Centre-Back,Triestina,0.0,Summer,1994,1994/1995
+Roberto Putelli,24,Left Winger,Fiorenzuola,0.0,Summer,1994,1994/1995
+Alexi Lalas,24,Centre-Back,Without Club,0.0,Summer,1994,1994/1995
+Andrea Boscolo,19,midfield,Treviso,0.0,Summer,1994,1994/1995
+Riccardo Bigon,23,defence,Mestre,0.0,Summer,1994,1994/1995
+Ferdinando Ruffini,32,midfield,Giulianova,0.0,Summer,1994,1994/1995
+Roberto Simonetta,28,Left Winger,Lucchese,0.0,Summer,1994,1994/1995
+Angelo Montrone,26,attack,Pescara,0.0,Summer,1994,1994/1995
+Andrea Giordano,25,attack,Chievo Verona,0.0,Summer,1994,1994/1995
+Gabriele Cardini,21,midfield,Sandonà,0.0,Summer,1994,1994/1995
+Claudio Ottoni,34,Centre-Back,Retired,0.0,Summer,1994,1994/1995
+Moreno Novello,20,Goalkeeper,Cittadella,0.0,Summer,1994,1994/1995
+Michel Kreek,23,Left-Back,Ajax,909000.0,Winter,1994,1994/1995
+Cristian Servidei,21,Centre-Back,AC Venezia 1907,0.0,Winter,1994,1994/1995
+Roberto Putelli,25,Left Winger,Siena,0.0,Winter,1994,1994/1995
+Davide Tentoni,24,midfield,AC Venezia 1907,0.0,Winter,1994,1994/1995
+Agostino Siviero,22,defence,Marzotto,0.0,Winter,1994,1994/1995
+Stefano Fiore,20,Attacking Midfield,AC Parma,1500000.0,Summer,1995,1995/1996
+Massimo Ciocci,27,Centre-Forward,Genoa,0.0,Summer,1995,1995/1996
+Silvio Vittorio Giampietro,28,Sweeper,Andria,0.0,Summer,1995,1995/1996
+Antonio Sconziano,23,Right-Back,Acireale,0.0,Summer,1995,1995/1996
+Leonard van Utrecht,26,Right Winger,Cambuur L.,0.0,Summer,1995,1995/1996
+Stefano Pioli,29,Centre-Back,Fiorentina,0.0,Summer,1995,1995/1996
+Stefano Nava,26,Centre-Back,Milan,0.0,Summer,1995,1995/1996
+Nicola Amoruso,20,Centre-Forward,Andria,0.0,Summer,1995,1995/1996
+Giovanni Serao,18,Centre-Back,Padova U19,0.0,Summer,1995,1995/1996
+David Balleri,26,Right-Back,Sampdoria,0.0,Summer,1995,1995/1996
+Gianluca Zattarin,21,Centre-Back,Chievo Verona,0.0,Summer,1995,1995/1996
+Marco Franceschetti,28,midfield,Sampdoria,0.0,Summer,1995,1995/1996
+Filippo Maniero,22,Centre-Forward,Sampdoria,0.0,Summer,1995,1995/1996
+Emanuele Pellizzaro,24,Right Midfield,Andria,0.0,Summer,1995,1995/1996
+Gaetano Fontana,25,Central Midfield,Alessandria,0.0,Summer,1995,1995/1996
+Gianni Cavezzi,25,Right Midfield,Ancona,0.0,Summer,1995,1995/1996
+Carlo Perrone,34,Right Winger,Retired,0.0,Summer,1995,1995/1996
+Daniele Zoratto,33,Central Midfield,Retired,0.0,Summer,1995,1995/1996
+Cristian Servidei,22,Centre-Back,AC Venezia 1907,0.0,Summer,1995,1995/1996
+Alexi Lalas,25,Centre-Back,New England,0.0,Winter,1995,1995/1996
+Giuseppe Galderisi,32,Second Striker,New England,0.0,Winter,1995,1995/1996
+Alberto Gallo,20,Second Striker,Calcio Monza,0.0,Winter,1995,1995/1996
+David Balleri,25,Right-Back,AC Parma,0.0,in,Summer,1994,1994/1995
+Goran Vlaovic,21,Centre-Forward,Croatia Zagreb,0.0,in,Summer,1994,1994/1995
+Daniele Zoratto,32,Central Midfield,AC Parma,0.0,in,Summer,1994,1994/1995
+Carlo Perrone,33,Right Winger,Atalanta BC,0.0,in,Summer,1994,1994/1995
+Gianluca Zattarin,20,Centre-Back,Triestina,0.0,in,Summer,1994,1994/1995
+Roberto Putelli,24,Left Winger,Fiorenzuola,0.0,in,Summer,1994,1994/1995
+Alexi Lalas,24,Centre-Back,Without Club,0.0,in,Summer,1994,1994/1995
+Andrea Boscolo,19,midfield,Treviso,0.0,out,Summer,1994,1994/1995
+Riccardo Bigon,23,defence,Mestre,0.0,out,Summer,1994,1994/1995
+Ferdinando Ruffini,32,midfield,Giulianova,0.0,out,Summer,1994,1994/1995
+Roberto Simonetta,28,Left Winger,Lucchese,0.0,out,Summer,1994,1994/1995
+Angelo Montrone,26,attack,Pescara,0.0,out,Summer,1994,1994/1995
+Andrea Giordano,25,attack,Chievo Verona,0.0,out,Summer,1994,1994/1995
+Gabriele Cardini,21,midfield,Sandonà,0.0,out,Summer,1994,1994/1995
+Claudio Ottoni,34,Centre-Back,Retired,0.0,out,Summer,1994,1994/1995
+Moreno Novello,20,Goalkeeper,Cittadella,0.0,out,Summer,1994,1994/1995
+Michel Kreek,23,Left-Back,Ajax,909000.0,in,Winter,1994,1994/1995
+Cristian Servidei,21,Centre-Back,AC Venezia 1907,0.0,in,Winter,1994,1994/1995
+Roberto Putelli,25,Left Winger,Siena,0.0,out,Winter,1994,1994/1995
+Davide Tentoni,24,midfield,AC Venezia 1907,0.0,out,Winter,1994,1994/1995
+Agostino Siviero,22,defence,Marzotto,0.0,out,Winter,1994,1994/1995
+Stefano Fiore,20,Attacking Midfield,AC Parma,1500000.0,in,Summer,1995,1995/1996
+Massimo Ciocci,27,Centre-Forward,Genoa,0.0,in,Summer,1995,1995/1996
+Silvio Vittorio Giampietro,28,Sweeper,Andria,0.0,in,Summer,1995,1995/1996
+Antonio Sconziano,23,Right-Back,Acireale,0.0,in,Summer,1995,1995/1996
+Leonard van Utrecht,26,Right Winger,Cambuur L.,0.0,in,Summer,1995,1995/1996
+Stefano Pioli,29,Centre-Back,Fiorentina,0.0,in,Summer,1995,1995/1996
+Stefano Nava,26,Centre-Back,Milan,0.0,in,Summer,1995,1995/1996
+Nicola Amoruso,20,Centre-Forward,Andria,0.0,in,Summer,1995,1995/1996
+Giovanni Serao,18,Centre-Back,Padova U19,0.0,in,Summer,1995,1995/1996
+David Balleri,26,Right-Back,Sampdoria,0.0,out,Summer,1995,1995/1996
+Gianluca Zattarin,21,Centre-Back,Chievo Verona,0.0,out,Summer,1995,1995/1996
+Marco Franceschetti,28,midfield,Sampdoria,0.0,out,Summer,1995,1995/1996
+Filippo Maniero,22,Centre-Forward,Sampdoria,0.0,out,Summer,1995,1995/1996
+Emanuele Pellizzaro,24,Right Midfield,Andria,0.0,out,Summer,1995,1995/1996
+Gaetano Fontana,25,Central Midfield,Alessandria,0.0,out,Summer,1995,1995/1996
+Gianni Cavezzi,25,Right Midfield,Ancona,0.0,out,Summer,1995,1995/1996
+Carlo Perrone,34,Right Winger,Retired,0.0,out,Summer,1995,1995/1996
+Daniele Zoratto,33,Central Midfield,Retired,0.0,out,Summer,1995,1995/1996
+Cristian Servidei,22,Centre-Back,AC Venezia 1907,0.0,out,Summer,1995,1995/1996
+Alexi Lalas,25,Centre-Back,New England,0.0,out,Winter,1995,1995/1996
+Giuseppe Galderisi,32,Second Striker,New England,0.0,out,Winter,1995,1995/1996
+Alberto Gallo,20,Second Striker,Calcio Monza,0.0,out,Winter,1995,1995/1996

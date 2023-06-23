@@ -1,0 +1,513 @@
+player_name,age,position,club_involved,fee,transfer_period,year,season
+Roberto Inglese,26,Centre-Forward,SSC Napoli,3000000.0,Summer,2018,2018/2019
+Fabio Ceravolo,31,Centre-Forward,Benevento,1900000.0,Summer,2018,2018/2019
+Leo Stulac,23,Defensive Midfield,Venezia,1550000.0,Summer,2018,2018/2019
+Jonathan Biabiany,30,Right Winger,Inter,1500000.0,Summer,2018,2018/2019
+Jacopo Dezi,26,Central Midfield,SSC Napoli,1300000.0,Summer,2018,2018/2019
+Riccardo Gagliolo,28,Centre-Back,Carpi,1150000.0,Summer,2018,2018/2019
+Gervinho,31,Left Winger,HB CFFC,0.0,Summer,2018,2018/2019
+Stefano Scognamillo,24,Centre-Back,Matera,0.0,Summer,2018,2018/2019
+Cristian Galano,27,Right Winger,Bari,0.0,Summer,2018,2018/2019
+Massimo Gobbi,37,Left-Back,Chievo Verona,0.0,Summer,2018,2018/2019
+Bruno Alves,36,Centre-Back,Rangers,0.0,Summer,2018,2018/2019
+Emmanuele Matino,19,Centre-Back,Nocerina,0.0,Summer,2018,2018/2019
+Matteo Luigi Brunori,23,Centre-Forward,Villabiagio,0.0,Summer,2018,2018/2019
+Cristian Cauz,21,Left-Back,Real Forte,0.0,Summer,2018,2018/2019
+Luca Rigoni,33,Central Midfield,Genoa,0.0,Summer,2018,2018/2019
+Francesco Golfo,23,Left Winger,Pianese,0.0,Summer,2018,2018/2019
+Fabrizio Bagheria,17,Goalkeeper,Inter U17,0.0,Summer,2018,2018/2019
+Yves Kouadio,18,Right-Back,Lanusei,0.0,Summer,2018,2018/2019
+Alessandro Bastoni,19,Centre-Back,Inter,0.0,Summer,2018,2018/2019
+Alberto Grassi,23,Central Midfield,SSC Napoli,0.0,Summer,2018,2018/2019
+Mattia Sprocati,25,Right Winger,Lazio,0.0,Summer,2018,2018/2019
+Alessandro Deiola,23,Central Midfield,Cagliari Calcio,0.0,Summer,2018,2018/2019
+Federico Dimarco,20,Centre-Back,Inter,0.0,Summer,2018,2018/2019
+Amato Ciciretti,24,Right Winger,SSC Napoli,0.0,Summer,2018,2018/2019
+Luigi Sepe,27,Goalkeeper,SSC Napoli,0.0,Summer,2018,2018/2019
+Pasquale Mazzocchi,22,Right-Back,Perugia,-280000.0,Summer,2018,2018/2019
+Valerio Di Cesare,35,Centre-Back,Bari,0.0,Summer,2018,2018/2019
+Yan Koliatko,19,Left-Back,Delta PT,0.0,Summer,2018,2018/2019
+Francesco Galuppini,24,Centre-Forward,Ravenna,0.0,Summer,2018,2018/2019
+Andrea Dini,22,Goalkeeper,Trapani,0.0,Summer,2018,2018/2019
+Marco Frediani,24,Left Winger,Ternana,0.0,Summer,2018,2018/2019
+Francesco Golfo,23,Left Winger,Trapani,0.0,Summer,2018,2018/2019
+Manuel Nocciolini,29,Centre-Forward,Ravenna,0.0,Summer,2018,2018/2019
+Vincenzo Mustacciolo,18,Central Midfield,Siracusa,0.0,Summer,2018,2018/2019
+Francesco Giorno,24,Central Midfield,Monza,0.0,Summer,2018,2018/2019
+Facundo Lescano,21,Centre-Forward,Telstar,0.0,Summer,2018,2018/2019
+Manuel Scavone,31,Central Midfield,Lecce,0.0,Summer,2018,2018/2019
+Cristian Galano,27,Right Winger,Foggia,0.0,Summer,2018,2018/2019
+Michele Nardi,32,Goalkeeper,Siena,0.0,Summer,2018,2018/2019
+Cristian Cauz,21,Left-Back,Piacenza,0.0,Summer,2018,2018/2019
+Juan Ramos,21,Left-Back,Trapani,0.0,Summer,2018,2018/2019
+Kristaps Zommers,21,Goalkeeper,Imolese,0.0,Summer,2018,2018/2019
+Luigi Scaglia,31,Central Midfield,Catania,0.0,Summer,2018,2018/2019
+Antonio Junior Vacca,28,Defensive Midfield,Casertana,0.0,Summer,2018,2018/2019
+Stefano Scognamillo,24,Centre-Back,Trapani,0.0,Summer,2018,2018/2019
+Yves Kouadio,18,Right-Back,Lanusei,0.0,Summer,2018,2018/2019
+Emmanuele Matino,19,Centre-Back,Potenza,0.0,Summer,2018,2018/2019
+Giacomo Ricci,21,Left-Back,Carrarese,0.0,Summer,2018,2018/2019
+Lorenzo Saporetti,22,Centre-Back,Renate,0.0,Summer,2018,2018/2019
+Matteo Luigi Brunori,23,Centre-Forward,Arezzo,0.0,Summer,2018,2018/2019
+Alessandro Lucarelli,40,Centre-Back,Retired,0.0,Summer,2018,2018/2019
+Fabio Ceravolo,31,Centre-Forward,Benevento,0.0,Summer,2018,2018/2019
+Riccardo Gagliolo,28,Centre-Back,Carpi,0.0,Summer,2018,2018/2019
+Amato Ciciretti,24,Right Winger,Benevento,0.0,Summer,2018,2018/2019
+Armando Anastasio,21,Left-Back,SSC Napoli,0.0,Summer,2018,2018/2019
+Jacopo Dezi,26,Central Midfield,SSC Napoli,0.0,Summer,2018,2018/2019
+Roberto Insigne,24,Right Winger,SSC Napoli,0.0,Summer,2018,2018/2019
+Juraj Kucka,31,Central Midfield,Trabzonspor,6400000.0,Winter,2018,2018/2019
+Gabriel Brazão,18,Goalkeeper,Cruzeiro,2600000.0,Winter,2018,2018/2019
+Alessandro Minelli,19,Centre-Back,Rende,1000000.0,Winter,2018,2018/2019
+Abdou Diakhate,20,Central Midfield,Fiorentina U19,1000.0,Winter,2018,2018/2019
+Nicolás Schiappacasse,20,Left Winger,Atl. Madrid B,0.0,Winter,2018,2018/2019
+José Machín,22,Central Midfield,Pescara,0.0,Winter,2018,2018/2019
+Emanuele Calaiò,37,Centre-Forward,Salernitana,-316000.0,Winter,2018,2018/2019
+Kristaps Zommers,22,Goalkeeper,Liepaja,0.0,Winter,2018,2018/2019
+Alessandro Minelli,19,Centre-Back,Rende,0.0,Winter,2018,2018/2019
+Francesco Giorno,25,Central Midfield,FC Chiasso,0.0,Winter,2018,2018/2019
+Michele Nardi,32,Goalkeeper,Südtirol,0.0,Winter,2018,2018/2019
+Sebastiano Longo,21,Left Winger,Potenza,0.0,Winter,2018,2018/2019
+Facundo Lescano,22,Centre-Forward,Potenza,0.0,Winter,2018,2018/2019
+Giuseppe Carriero,21,Central Midfield,Catania,0.0,Winter,2018,2018/2019
+Antonio Di Gaudio,29,Left Winger,Hellas Verona,0.0,Winter,2018,2018/2019
+Giovanni Pinto,27,Left-Back,Pescara,0.0,Winter,2018,2018/2019
+Yves Baraye,26,Right Winger,Padova,0.0,Winter,2018,2018/2019
+Gianni Munari,35,Central Midfield,Hellas Verona,0.0,Winter,2018,2018/2019
+Luigi Scaglia,32,Central Midfield,Carrarese,0.0,Winter,2018,2018/2019
+Alessio Da Cruz,21,Attacking Midfield,Spezia Calcio,0.0,Winter,2018,2018/2019
+Amato Ciciretti,25,Right Winger,SSC Napoli,0.0,Winter,2018,2018/2019
+Alessandro Deiola,23,Central Midfield,Cagliari Calcio,0.0,Winter,2018,2018/2019
+Andrea Adorante,19,Centre-Forward,Inter,4000000.0,Summer,2019,2019/2020
+Mattia Sprocati,26,Right Winger,Lazio,3000000.0,Summer,2019,2019/2020
+José Machín,22,Central Midfield,Pescara,2800000.0,Summer,2019,2019/2020
+Matteo Darmian,29,Right-Back,Man Utd,2480000.0,Summer,2019,2019/2020
+Fabian Pavone,19,Right Winger,Pescara U19,1800000.0,Summer,2019,2019/2020
+Alessandro Martella,18,Right-Back,Pescara U19,500000.0,Summer,2019,2019/2020
+Vincent Laurini,30,Right-Back,Fiorentina,440000.0,Summer,2019,2019/2020
+Walid Cheddira,21,Centre-Forward,Sangiustese,93000.0,Summer,2019,2019/2020
+Simone Colombi,28,Goalkeeper,Carpi,51000.0,Summer,2019,2019/2020
+Fabrizio Alastra,21,Goalkeeper,Palermo,0.0,Summer,2019,2019/2020
+Luca Zamparo,24,Centre-Forward,Reggio Audace,0.0,Summer,2019,2019/2020
+Kastriot Dermaku,27,Centre-Back,Cosenza,0.0,Summer,2019,2019/2020
+Andreas Cornelius,26,Centre-Forward,Atalanta BC,0.0,Summer,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Atalanta BC,0.0,Summer,2019,2019/2020
+Yann Karamoh,21,Left Winger,Inter,0.0,Summer,2019,2019/2020
+Michele Fornasier,25,Centre-Back,Pescara,0.0,Summer,2019,2019/2020
+Giuseppe Pezzella,21,Left-Back,Udinese Calcio,0.0,Summer,2019,2019/2020
+Emerson Espinoza,18,Central Midfield,Boston River,0.0,Summer,2019,2019/2020
+Gastón Brugman,26,Defensive Midfield,Pescara,0.0,Summer,2019,2019/2020
+Hernani,25,Central Midfield,Zenit S-Pb,0.0,Summer,2019,2019/2020
+Roberto Inglese,27,Centre-Forward,SSC Napoli,0.0,Summer,2019,2019/2020
+Gabriel Brazão,18,Goalkeeper,Inter,-6000000.0,Summer,2019,2019/2020
+Leo Stulac,24,Defensive Midfield,Empoli,-2500000.0,Summer,2019,2019/2020
+Cristian Galano,28,Right Winger,Pescara,-2000000.0,Summer,2019,2019/2020
+Fabio Ceravolo,32,Centre-Forward,Cremonese,-1290000.0,Summer,2019,2019/2020
+Jacopo Dezi,27,Central Midfield,Empoli,-560000.0,Summer,2019,2019/2020
+Antonio Di Gaudio,29,Left Winger,Hellas Verona,-400000.0,Summer,2019,2019/2020
+Pierluigi Frattali,33,Goalkeeper,Bari,0.0,Summer,2019,2019/2020
+Giovanni Pinto,27,Left-Back,Catania,0.0,Summer,2019,2019/2020
+Facundo Lescano,22,Centre-Forward,Sicula Leonzio,0.0,Summer,2019,2019/2020
+Lorenzo Adorni,20,Right-Back,Vis Pesaro,0.0,Summer,2019,2019/2020
+Francesco Galuppini,25,Centre-Forward,Renate,0.0,Summer,2019,2019/2020
+Luigi Scaglia,32,Central Midfield,Trapani,0.0,Summer,2019,2019/2020
+Michele Nardi,33,Goalkeeper,Chievo Verona,0.0,Summer,2019,2019/2020
+Luca Rigoni,34,Central Midfield,LR Vicenza,0.0,Summer,2019,2019/2020
+Giuseppe Carriero,21,Central Midfield,Monopoli,0.0,Summer,2019,2019/2020
+Marco Frediani,25,Left Winger,Sambenedettese,0.0,Summer,2019,2019/2020
+Alessandro Minelli,20,Centre-Back,Trapani,0.0,Summer,2019,2019/2020
+Cristian Cauz,22,Left-Back,Trapani,0.0,Summer,2019,2019/2020
+Vincenzo Mustacciolo,19,Central Midfield,Ravenna,0.0,Summer,2019,2019/2020
+Davide Mastaj,21,Right Winger,Carpi,0.0,Summer,2019,2019/2020
+Gabriele Carannante,20,Central Midfield,Pianese,0.0,Summer,2019,2019/2020
+Walid Cheddira,21,Centre-Forward,Arezzo,0.0,Summer,2019,2019/2020
+Sebastiano Longo,21,Left Winger,Potenza,0.0,Summer,2019,2019/2020
+Lorenzo Saporetti,23,Centre-Back,Catania,0.0,Summer,2019,2019/2020
+Juan Ramos,22,Left-Back,Spezia Calcio,0.0,Summer,2019,2019/2020
+Manuel Scavone,32,Central Midfield,Bari,0.0,Summer,2019,2019/2020
+Stefano Scognamillo,25,Centre-Back,Trapani,0.0,Summer,2019,2019/2020
+Antonio Junior Vacca,29,Defensive Midfield,Venezia,0.0,Summer,2019,2019/2020
+Francesco Giorno,25,Central Midfield,Monopoli,0.0,Summer,2019,2019/2020
+José Machín,23,Central Midfield,Pescara,0.0,Summer,2019,2019/2020
+Lorenzo Simonetti,23,Central Midfield,Carpi,0.0,Summer,2019,2019/2020
+Yves Kouadio,19,Right-Back,Crema,0.0,Summer,2019,2019/2020
+Yves Baraye,27,Right Winger,Gil Vicente,0.0,Summer,2019,2019/2020
+Giacomo Ricci,22,Left-Back,Juve Stabia,0.0,Summer,2019,2019/2020
+Marcello Gazzola,34,Right-Back,Empoli,0.0,Summer,2019,2019/2020
+Michele Fornasier,25,Centre-Back,Trapani,0.0,Summer,2019,2019/2020
+Emmanuele Matino,20,Centre-Back,Cavese,0.0,Summer,2019,2019/2020
+Luca Zamparo,24,Centre-Forward,Rimini,0.0,Summer,2019,2019/2020
+Fabian Pavone,19,Right Winger,Pescara U19,0.0,Summer,2019,2019/2020
+Alessandro Martella,18,Right-Back,Pescara U19,0.0,Summer,2019,2019/2020
+Alessio Da Cruz,22,Attacking Midfield,Ascoli,0.0,Summer,2019,2019/2020
+Matteo Luigi Brunori,24,Centre-Forward,Pescara,0.0,Summer,2019,2019/2020
+Abdou Diakhate,20,Central Midfield,KSC Lokeren,0.0,Summer,2019,2019/2020
+Jonathan Biabiany,31,Right Winger,Without Club,0.0,Summer,2019,2019/2020
+Massimo Gobbi,38,Left-Back,Retired,0.0,Summer,2019,2019/2020
+Fabrizio Bagheria,18,Goalkeeper,Inter U19,0.0,Summer,2019,2019/2020
+Federico Dimarco,21,Centre-Back,Inter,0.0,Summer,2019,2019/2020
+Alessandro Bastoni,20,Centre-Back,Inter,0.0,Summer,2019,2019/2020
+Mattia Sprocati,26,Right Winger,Lazio,0.0,Summer,2019,2019/2020
+Nicolás Schiappacasse,20,Left Winger,Atl. Madrid B,0.0,Summer,2019,2019/2020
+José Machín,22,Central Midfield,Pescara,0.0,Summer,2019,2019/2020
+Roberto Inglese,27,Centre-Forward,SSC Napoli,0.0,Summer,2019,2019/2020
+Francisco Sierralta,22,Centre-Back,Udinese Calcio,0.0,Summer,2019,2019/2020
+Eric Lanini,25,Centre-Forward,Juventus U23,2960000.0,Winter,2019,2019/2020
+Gastón Brugman,27,Defensive Midfield,Pescara,2550000.0,Winter,2019,2019/2020
+Gianluca Caprari,26,Second Striker,Sampdoria,2100000.0,Winter,2019,2019/2020
+Jasmin Kurtic,31,Central Midfield,SPAL,500000.0,Winter,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Juventus,0.0,Winter,2019,2019/2020
+Muhamed Tehe Olawale,20,Centre-Forward,Ponsacco,35000.0,Winter,2019,2019/2020
+Ionut Radu,22,Goalkeeper,Inter,0.0,Winter,2019,2019/2020
+Vasco Regini,29,Left-Back,Sampdoria,0.0,Winter,2019,2019/2020
+Alessandro Minelli,20,Centre-Back,Juventus U23,-2910000.0,Winter,2019,2019/2020
+Simone Madonna,19,Central Midfield,Pescara U19,-1000000.0,Winter,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Atalanta BC,0.0,Winter,2019,2019/2020
+Matteo Luigi Brunori,25,Centre-Forward,Pescara,-500000.0,Winter,2019,2019/2020
+Cristian Cauz,23,Left-Back,Ravenna,0.0,Winter,2019,2019/2020
+Eric Lanini,25,Centre-Forward,Como,0.0,Winter,2019,2019/2020
+Francesco Golfo,25,Left Winger,Potenza,0.0,Winter,2019,2019/2020
+Andrea Dini,23,Goalkeeper,Avellino,0.0,Winter,2019,2019/2020
+Walid Cheddira,22,Centre-Forward,Lecco,0.0,Winter,2019,2019/2020
+Fabrizio Alastra,22,Goalkeeper,Pescara,0.0,Winter,2019,2019/2020
+Martin Montipò,19,Attacking Midfield,Felino,0.0,Winter,2019,2019/2020
+Jacopo Dezi,27,Central Midfield,Virtus Entella,0.0,Winter,2019,2019/2020
+José Machín,23,Central Midfield,Monza,0.0,Winter,2019,2019/2020
+Alessio Da Cruz,23,Attacking Midfield,Sheff Wed,0.0,Winter,2019,2019/2020
+Muhamed Tehe Olawale,21,Centre-Forward,TPS,0.0,Winter,2019,2019/2020
+Luca Zamparo,25,Centre-Forward,Reggio Audace,0.0,Winter,2019,2019/2020
+Gianni Munari,36,Central Midfield,Retired,0.0,Winter,2019,2019/2020
+Gastón Brugman,27,Defensive Midfield,Pescara,0.0,Winter,2019,2019/2020
+Emerson Espinoza,18,Central Midfield,Boston River,0.0,Winter,2019,2019/2020
+Roberto Inglese,28,Centre-Forward,SSC Napoli,21800000.0,Summer,2020,2020/2021
+Valentin Mihaila,20,Left Winger,Univ. Craiova,9100000.0,Summer,2020,2020/2021
+Alberto Grassi,25,Central Midfield,SSC Napoli,8450000.0,Summer,2020,2020/2021
+Yann Karamoh,22,Left Winger,Inter,8000000.0,Summer,2020,2020/2021
+Maxime Busi,20,Right-Back,RSC Charleroi,6900000.0,Summer,2020,2020/2021
+Hernani,26,Central Midfield,Zenit S-Pb,6470000.0,Summer,2020,2020/2021
+Simon Sohm,19,Defensive Midfield,FC Zürich,6400000.0,Summer,2020,2020/2021
+Giuseppe Pezzella,22,Left-Back,Udinese Calcio,5750000.0,Summer,2020,2020/2021
+Jasmin Kurtic,31,Central Midfield,SPAL,4900000.0,Summer,2020,2020/2021
+Luigi Sepe,29,Goalkeeper,SSC Napoli,4580000.0,Summer,2020,2020/2021
+Yordan Osorio,26,Centre-Back,FC Porto,4099999.9999999995,Summer,2020,2020/2021
+Wylan Cyprien,25,Central Midfield,OGC Nice,1500000.0,Summer,2020,2020/2021
+Juan Brunetta,23,Attacking Midfield,Godoy Cruz,1500000.0,Summer,2020,2020/2021
+Mateo Likaxhiu,19,Central Midfield,Sanremese,0.0,Summer,2020,2020/2021
+Hans Nicolussi Caviglia,20,Central Midfield,Juventus U23,0.0,Summer,2020,2020/2021
+Lautaro Valenti,21,Centre-Back,Lanús,0.0,Summer,2020,2020/2021
+Filippo Rinaldi,17,Goalkeeper,Parma U19,0.0,Summer,2020,2020/2021
+Botond Balogh,18,Centre-Back,Parma U19,0.0,Summer,2020,2020/2021
+Michele Laraspata,19,Left-Back,Parma U19,0.0,Summer,2020,2020/2021
+José Machín,23,Central Midfield,Monza,-4000000.0,Summer,2020,2020/2021
+Luca Zamparo,25,Centre-Forward,Reggiana,-300000.0,Summer,2020,2020/2021
+Emmanuele Matino,21,Centre-Back,Cavese,0.0,Summer,2020,2020/2021
+Marco Frediani,26,Left Winger,Alessandria,0.0,Summer,2020,2020/2021
+Abdou Diakhate,21,Central Midfield,ND Gorica,0.0,Summer,2020,2020/2021
+Yves Baraye,28,Right Winger,Gil Vicente,0.0,Summer,2020,2020/2021
+Manuel Nocciolini,31,Centre-Forward,Sambenedettese,0.0,Summer,2020,2020/2021
+Eric Lanini,26,Centre-Forward,Novara,0.0,Summer,2020,2020/2021
+Walid Cheddira,22,Centre-Forward,Mantova,0.0,Summer,2020,2020/2021
+Fabian Pavone,20,Right Winger,Carrarese,0.0,Summer,2020,2020/2021
+Francesco Golfo,26,Left Winger,Juve Stabia,0.0,Summer,2020,2020/2021
+Gabriele Carannante,21,Central Midfield,Legnago,0.0,Summer,2020,2020/2021
+Fabrizio Alastra,23,Goalkeeper,Pescara,0.0,Summer,2020,2020/2021
+Sebastiano Longo,22,Left Winger,AJ Fano,0.0,Summer,2020,2020/2021
+Antonino Barillà,32,Central Midfield,Monza,0.0,Summer,2020,2020/2021
+Michele Fornasier,27,Centre-Back,Cremonese,0.0,Summer,2020,2020/2021
+Kastriot Dermaku,28,Centre-Back,Lecce,0.0,Summer,2020,2020/2021
+Matteo Darmian,30,Right-Back,Inter,0.0,Summer,2020,2020/2021
+Alessio Da Cruz,23,Attacking Midfield,FC Groningen,0.0,Summer,2020,2020/2021
+Luca Siligardi,32,Right Winger,Crotone,0.0,Summer,2020,2020/2021
+Michele Laraspata,19,Left-Back,Bisceglie,0.0,Summer,2020,2020/2021
+Alessandro Martella,19,Right-Back,AJ Fano,0.0,Summer,2020,2020/2021
+Lorenzo Simonetti,24,Central Midfield,Pistoiese,0.0,Summer,2020,2020/2021
+Marcello Gazzola,35,Right-Back,Retired,0.0,Summer,2020,2020/2021
+Davide Mastaj,22,Right Winger,Without Club,0.0,Summer,2020,2020/2021
+Luigi Sepe,29,Goalkeeper,SSC Napoli,0.0,Summer,2020,2020/2021
+Vasco Regini,29,Left-Back,Sampdoria,0.0,Summer,2020,2020/2021
+Gianluca Caprari,27,Second Striker,Sampdoria,0.0,Summer,2020,2020/2021
+Ionut Radu,23,Goalkeeper,Inter,0.0,Summer,2020,2020/2021
+Jasmin Kurtic,31,Central Midfield,SPAL,0.0,Summer,2020,2020/2021
+Dejan Kulusevski,20,Right Winger,Juventus,0.0,Summer,2020,2020/2021
+Giuseppe Pezzella,22,Left-Back,Udinese Calcio,0.0,Summer,2020,2020/2021
+Yann Karamoh,22,Left Winger,Inter,0.0,Summer,2020,2020/2021
+Roberto Inglese,28,Centre-Forward,SSC Napoli,0.0,Summer,2020,2020/2021
+Hernani,26,Central Midfield,Zenit S-Pb,0.0,Summer,2020,2020/2021
+Alberto Grassi,25,Central Midfield,SSC Napoli,0.0,Summer,2020,2020/2021
+Dennis Man,22,Right Winger,FCSB,13000000.0,Winter,2020,2020/2021
+Mattia Bani,27,Centre-Back,Genoa,1500000.0,Winter,2020,2020/2021
+Vasilios Zagaritis,19,Left-Back,Panathinaikos,380000.0,Winter,2020,2020/2021
+Andrea Conti,26,Right-Back,AC Milan,0.0,Winter,2020,2020/2021
+Daan Dierckx,17,Centre-Back,KRC Genk U18,0.0,Winter,2020,2020/2021
+Joshua Zirkzee,19,Centre-Forward,Bayern Munich,0.0,Winter,2020,2020/2021
+Graziano Pellè,35,Centre-Forward,Without Club,0.0,Winter,2020,2020/2021
+Mateo Likaxhiu,20,Central Midfield,Torres,0.0,Winter,2020,2020/2021
+Sebastiano Longo,23,Left Winger,Casertana,0.0,Winter,2020,2020/2021
+Giuseppe Carriero,23,Central Midfield,Avellino,0.0,Winter,2020,2020/2021
+Andrea Adorante,20,Centre-Forward,V. Francavilla,0.0,Winter,2020,2020/2021
+Gabriele Carannante,21,Central Midfield,Turris,0.0,Winter,2020,2020/2021
+Francesco Golfo,26,Left Winger,Catania,0.0,Winter,2020,2020/2021
+Andrea Dini,24,Goalkeeper,Padova,0.0,Winter,2020,2020/2021
+Manuel Nocciolini,31,Centre-Forward,Renate,0.0,Winter,2020,2020/2021
+Matteo Scozzarella,32,Defensive Midfield,Monza,0.0,Winter,2020,2020/2021
+Jacopo Dezi,28,Central Midfield,Venezia,0.0,Winter,2020,2020/2021
+Michele Laraspata,19,Left-Back,Hamrun Spart.,0.0,Winter,2020,2020/2021
+Muhamed Tehe Olawale,21,Centre-Forward,IFK Mariehamn,0.0,Winter,2020,2020/2021
+Giacomo Ricci,24,Left-Back,Venezia,0.0,Winter,2020,2020/2021
+Luca Siligardi,33,Right Winger,Reggiana,0.0,Winter,2020,2020/2021
+Roberto Inglese,26,Centre-Forward,SSC Napoli,3000000.0,in,Summer,2018,2018/2019
+Fabio Ceravolo,31,Centre-Forward,Benevento,1900000.0,in,Summer,2018,2018/2019
+Leo Stulac,23,Defensive Midfield,Venezia,1550000.0,in,Summer,2018,2018/2019
+Jonathan Biabiany,30,Right Winger,Inter,1500000.0,in,Summer,2018,2018/2019
+Jacopo Dezi,26,Central Midfield,SSC Napoli,1300000.0,in,Summer,2018,2018/2019
+Riccardo Gagliolo,28,Centre-Back,Carpi,1150000.0,in,Summer,2018,2018/2019
+Gervinho,31,Left Winger,HB CFFC,0.0,in,Summer,2018,2018/2019
+Stefano Scognamillo,24,Centre-Back,Matera,0.0,in,Summer,2018,2018/2019
+Cristian Galano,27,Right Winger,Bari,0.0,in,Summer,2018,2018/2019
+Massimo Gobbi,37,Left-Back,Chievo Verona,0.0,in,Summer,2018,2018/2019
+Bruno Alves,36,Centre-Back,Rangers,0.0,in,Summer,2018,2018/2019
+Emmanuele Matino,19,Centre-Back,Nocerina,0.0,in,Summer,2018,2018/2019
+Matteo Luigi Brunori,23,Centre-Forward,Villabiagio,0.0,in,Summer,2018,2018/2019
+Cristian Cauz,21,Left-Back,Real Forte,0.0,in,Summer,2018,2018/2019
+Luca Rigoni,33,Central Midfield,Genoa,0.0,in,Summer,2018,2018/2019
+Francesco Golfo,23,Left Winger,Pianese,0.0,in,Summer,2018,2018/2019
+Fabrizio Bagheria,17,Goalkeeper,Inter U17,0.0,in,Summer,2018,2018/2019
+Yves Kouadio,18,Right-Back,Lanusei,0.0,in,Summer,2018,2018/2019
+Alessandro Bastoni,19,Centre-Back,Inter,0.0,in,Summer,2018,2018/2019
+Alberto Grassi,23,Central Midfield,SSC Napoli,0.0,in,Summer,2018,2018/2019
+Mattia Sprocati,25,Right Winger,Lazio,0.0,in,Summer,2018,2018/2019
+Alessandro Deiola,23,Central Midfield,Cagliari Calcio,0.0,in,Summer,2018,2018/2019
+Federico Dimarco,20,Centre-Back,Inter,0.0,in,Summer,2018,2018/2019
+Amato Ciciretti,24,Right Winger,SSC Napoli,0.0,in,Summer,2018,2018/2019
+Luigi Sepe,27,Goalkeeper,SSC Napoli,0.0,in,Summer,2018,2018/2019
+Pasquale Mazzocchi,22,Right-Back,Perugia,280000.0,out,Summer,2018,2018/2019
+Valerio Di Cesare,35,Centre-Back,Bari,0.0,out,Summer,2018,2018/2019
+Yan Koliatko,19,Left-Back,Delta PT,0.0,out,Summer,2018,2018/2019
+Francesco Galuppini,24,Centre-Forward,Ravenna,0.0,out,Summer,2018,2018/2019
+Andrea Dini,22,Goalkeeper,Trapani,0.0,out,Summer,2018,2018/2019
+Marco Frediani,24,Left Winger,Ternana,0.0,out,Summer,2018,2018/2019
+Francesco Golfo,23,Left Winger,Trapani,0.0,out,Summer,2018,2018/2019
+Manuel Nocciolini,29,Centre-Forward,Ravenna,0.0,out,Summer,2018,2018/2019
+Vincenzo Mustacciolo,18,Central Midfield,Siracusa,0.0,out,Summer,2018,2018/2019
+Francesco Giorno,24,Central Midfield,Monza,0.0,out,Summer,2018,2018/2019
+Facundo Lescano,21,Centre-Forward,Telstar,0.0,out,Summer,2018,2018/2019
+Manuel Scavone,31,Central Midfield,Lecce,0.0,out,Summer,2018,2018/2019
+Cristian Galano,27,Right Winger,Foggia,0.0,out,Summer,2018,2018/2019
+Michele Nardi,32,Goalkeeper,Siena,0.0,out,Summer,2018,2018/2019
+Cristian Cauz,21,Left-Back,Piacenza,0.0,out,Summer,2018,2018/2019
+Juan Ramos,21,Left-Back,Trapani,0.0,out,Summer,2018,2018/2019
+Kristaps Zommers,21,Goalkeeper,Imolese,0.0,out,Summer,2018,2018/2019
+Luigi Scaglia,31,Central Midfield,Catania,0.0,out,Summer,2018,2018/2019
+Antonio Junior Vacca,28,Defensive Midfield,Casertana,0.0,out,Summer,2018,2018/2019
+Stefano Scognamillo,24,Centre-Back,Trapani,0.0,out,Summer,2018,2018/2019
+Yves Kouadio,18,Right-Back,Lanusei,0.0,out,Summer,2018,2018/2019
+Emmanuele Matino,19,Centre-Back,Potenza,0.0,out,Summer,2018,2018/2019
+Giacomo Ricci,21,Left-Back,Carrarese,0.0,out,Summer,2018,2018/2019
+Lorenzo Saporetti,22,Centre-Back,Renate,0.0,out,Summer,2018,2018/2019
+Matteo Luigi Brunori,23,Centre-Forward,Arezzo,0.0,out,Summer,2018,2018/2019
+Alessandro Lucarelli,40,Centre-Back,Retired,0.0,out,Summer,2018,2018/2019
+Fabio Ceravolo,31,Centre-Forward,Benevento,0.0,out,Summer,2018,2018/2019
+Riccardo Gagliolo,28,Centre-Back,Carpi,0.0,out,Summer,2018,2018/2019
+Amato Ciciretti,24,Right Winger,Benevento,0.0,out,Summer,2018,2018/2019
+Armando Anastasio,21,Left-Back,SSC Napoli,0.0,out,Summer,2018,2018/2019
+Jacopo Dezi,26,Central Midfield,SSC Napoli,0.0,out,Summer,2018,2018/2019
+Roberto Insigne,24,Right Winger,SSC Napoli,0.0,out,Summer,2018,2018/2019
+Juraj Kucka,31,Central Midfield,Trabzonspor,6400000.0,in,Winter,2018,2018/2019
+Gabriel Brazão,18,Goalkeeper,Cruzeiro,2600000.0,in,Winter,2018,2018/2019
+Alessandro Minelli,19,Centre-Back,Rende,1000000.0,in,Winter,2018,2018/2019
+Abdou Diakhate,20,Central Midfield,Fiorentina U19,1000.0,in,Winter,2018,2018/2019
+Nicolás Schiappacasse,20,Left Winger,Atl. Madrid B,0.0,in,Winter,2018,2018/2019
+José Machín,22,Central Midfield,Pescara,0.0,in,Winter,2018,2018/2019
+Emanuele Calaiò,37,Centre-Forward,Salernitana,316000.0,out,Winter,2018,2018/2019
+Kristaps Zommers,22,Goalkeeper,Liepaja,0.0,out,Winter,2018,2018/2019
+Alessandro Minelli,19,Centre-Back,Rende,0.0,out,Winter,2018,2018/2019
+Francesco Giorno,25,Central Midfield,FC Chiasso,0.0,out,Winter,2018,2018/2019
+Michele Nardi,32,Goalkeeper,Südtirol,0.0,out,Winter,2018,2018/2019
+Sebastiano Longo,21,Left Winger,Potenza,0.0,out,Winter,2018,2018/2019
+Facundo Lescano,22,Centre-Forward,Potenza,0.0,out,Winter,2018,2018/2019
+Giuseppe Carriero,21,Central Midfield,Catania,0.0,out,Winter,2018,2018/2019
+Antonio Di Gaudio,29,Left Winger,Hellas Verona,0.0,out,Winter,2018,2018/2019
+Giovanni Pinto,27,Left-Back,Pescara,0.0,out,Winter,2018,2018/2019
+Yves Baraye,26,Right Winger,Padova,0.0,out,Winter,2018,2018/2019
+Gianni Munari,35,Central Midfield,Hellas Verona,0.0,out,Winter,2018,2018/2019
+Luigi Scaglia,32,Central Midfield,Carrarese,0.0,out,Winter,2018,2018/2019
+Alessio Da Cruz,21,Attacking Midfield,Spezia Calcio,0.0,out,Winter,2018,2018/2019
+Amato Ciciretti,25,Right Winger,SSC Napoli,0.0,out,Winter,2018,2018/2019
+Alessandro Deiola,23,Central Midfield,Cagliari Calcio,0.0,out,Winter,2018,2018/2019
+Andrea Adorante,19,Centre-Forward,Inter,4000000.0,in,Summer,2019,2019/2020
+Mattia Sprocati,26,Right Winger,Lazio,3000000.0,in,Summer,2019,2019/2020
+José Machín,22,Central Midfield,Pescara,2800000.0,in,Summer,2019,2019/2020
+Matteo Darmian,29,Right-Back,Man Utd,2480000.0,in,Summer,2019,2019/2020
+Fabian Pavone,19,Right Winger,Pescara U19,1800000.0,in,Summer,2019,2019/2020
+Alessandro Martella,18,Right-Back,Pescara U19,500000.0,in,Summer,2019,2019/2020
+Vincent Laurini,30,Right-Back,Fiorentina,440000.0,in,Summer,2019,2019/2020
+Walid Cheddira,21,Centre-Forward,Sangiustese,93000.0,in,Summer,2019,2019/2020
+Simone Colombi,28,Goalkeeper,Carpi,51000.0,in,Summer,2019,2019/2020
+Fabrizio Alastra,21,Goalkeeper,Palermo,0.0,in,Summer,2019,2019/2020
+Luca Zamparo,24,Centre-Forward,Reggio Audace,0.0,in,Summer,2019,2019/2020
+Kastriot Dermaku,27,Centre-Back,Cosenza,0.0,in,Summer,2019,2019/2020
+Andreas Cornelius,26,Centre-Forward,Atalanta BC,0.0,in,Summer,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Atalanta BC,0.0,in,Summer,2019,2019/2020
+Yann Karamoh,21,Left Winger,Inter,0.0,in,Summer,2019,2019/2020
+Michele Fornasier,25,Centre-Back,Pescara,0.0,in,Summer,2019,2019/2020
+Giuseppe Pezzella,21,Left-Back,Udinese Calcio,0.0,in,Summer,2019,2019/2020
+Emerson Espinoza,18,Central Midfield,Boston River,0.0,in,Summer,2019,2019/2020
+Gastón Brugman,26,Defensive Midfield,Pescara,0.0,in,Summer,2019,2019/2020
+Hernani,25,Central Midfield,Zenit S-Pb,0.0,in,Summer,2019,2019/2020
+Roberto Inglese,27,Centre-Forward,SSC Napoli,0.0,in,Summer,2019,2019/2020
+Gabriel Brazão,18,Goalkeeper,Inter,6000000.0,out,Summer,2019,2019/2020
+Leo Stulac,24,Defensive Midfield,Empoli,2500000.0,out,Summer,2019,2019/2020
+Cristian Galano,28,Right Winger,Pescara,2000000.0,out,Summer,2019,2019/2020
+Fabio Ceravolo,32,Centre-Forward,Cremonese,1290000.0,out,Summer,2019,2019/2020
+Jacopo Dezi,27,Central Midfield,Empoli,560000.0,out,Summer,2019,2019/2020
+Antonio Di Gaudio,29,Left Winger,Hellas Verona,400000.0,out,Summer,2019,2019/2020
+Pierluigi Frattali,33,Goalkeeper,Bari,0.0,out,Summer,2019,2019/2020
+Giovanni Pinto,27,Left-Back,Catania,0.0,out,Summer,2019,2019/2020
+Facundo Lescano,22,Centre-Forward,Sicula Leonzio,0.0,out,Summer,2019,2019/2020
+Lorenzo Adorni,20,Right-Back,Vis Pesaro,0.0,out,Summer,2019,2019/2020
+Francesco Galuppini,25,Centre-Forward,Renate,0.0,out,Summer,2019,2019/2020
+Luigi Scaglia,32,Central Midfield,Trapani,0.0,out,Summer,2019,2019/2020
+Michele Nardi,33,Goalkeeper,Chievo Verona,0.0,out,Summer,2019,2019/2020
+Luca Rigoni,34,Central Midfield,LR Vicenza,0.0,out,Summer,2019,2019/2020
+Giuseppe Carriero,21,Central Midfield,Monopoli,0.0,out,Summer,2019,2019/2020
+Marco Frediani,25,Left Winger,Sambenedettese,0.0,out,Summer,2019,2019/2020
+Alessandro Minelli,20,Centre-Back,Trapani,0.0,out,Summer,2019,2019/2020
+Cristian Cauz,22,Left-Back,Trapani,0.0,out,Summer,2019,2019/2020
+Vincenzo Mustacciolo,19,Central Midfield,Ravenna,0.0,out,Summer,2019,2019/2020
+Davide Mastaj,21,Right Winger,Carpi,0.0,out,Summer,2019,2019/2020
+Gabriele Carannante,20,Central Midfield,Pianese,0.0,out,Summer,2019,2019/2020
+Walid Cheddira,21,Centre-Forward,Arezzo,0.0,out,Summer,2019,2019/2020
+Sebastiano Longo,21,Left Winger,Potenza,0.0,out,Summer,2019,2019/2020
+Lorenzo Saporetti,23,Centre-Back,Catania,0.0,out,Summer,2019,2019/2020
+Juan Ramos,22,Left-Back,Spezia Calcio,0.0,out,Summer,2019,2019/2020
+Manuel Scavone,32,Central Midfield,Bari,0.0,out,Summer,2019,2019/2020
+Stefano Scognamillo,25,Centre-Back,Trapani,0.0,out,Summer,2019,2019/2020
+Antonio Junior Vacca,29,Defensive Midfield,Venezia,0.0,out,Summer,2019,2019/2020
+Francesco Giorno,25,Central Midfield,Monopoli,0.0,out,Summer,2019,2019/2020
+José Machín,23,Central Midfield,Pescara,0.0,out,Summer,2019,2019/2020
+Lorenzo Simonetti,23,Central Midfield,Carpi,0.0,out,Summer,2019,2019/2020
+Yves Kouadio,19,Right-Back,Crema,0.0,out,Summer,2019,2019/2020
+Yves Baraye,27,Right Winger,Gil Vicente,0.0,out,Summer,2019,2019/2020
+Giacomo Ricci,22,Left-Back,Juve Stabia,0.0,out,Summer,2019,2019/2020
+Marcello Gazzola,34,Right-Back,Empoli,0.0,out,Summer,2019,2019/2020
+Michele Fornasier,25,Centre-Back,Trapani,0.0,out,Summer,2019,2019/2020
+Emmanuele Matino,20,Centre-Back,Cavese,0.0,out,Summer,2019,2019/2020
+Luca Zamparo,24,Centre-Forward,Rimini,0.0,out,Summer,2019,2019/2020
+Fabian Pavone,19,Right Winger,Pescara U19,0.0,out,Summer,2019,2019/2020
+Alessandro Martella,18,Right-Back,Pescara U19,0.0,out,Summer,2019,2019/2020
+Alessio Da Cruz,22,Attacking Midfield,Ascoli,0.0,out,Summer,2019,2019/2020
+Matteo Luigi Brunori,24,Centre-Forward,Pescara,0.0,out,Summer,2019,2019/2020
+Abdou Diakhate,20,Central Midfield,KSC Lokeren,0.0,out,Summer,2019,2019/2020
+Jonathan Biabiany,31,Right Winger,Without Club,0.0,out,Summer,2019,2019/2020
+Massimo Gobbi,38,Left-Back,Retired,0.0,out,Summer,2019,2019/2020
+Fabrizio Bagheria,18,Goalkeeper,Inter U19,0.0,out,Summer,2019,2019/2020
+Federico Dimarco,21,Centre-Back,Inter,0.0,out,Summer,2019,2019/2020
+Alessandro Bastoni,20,Centre-Back,Inter,0.0,out,Summer,2019,2019/2020
+Mattia Sprocati,26,Right Winger,Lazio,0.0,out,Summer,2019,2019/2020
+Nicolás Schiappacasse,20,Left Winger,Atl. Madrid B,0.0,out,Summer,2019,2019/2020
+José Machín,22,Central Midfield,Pescara,0.0,out,Summer,2019,2019/2020
+Roberto Inglese,27,Centre-Forward,SSC Napoli,0.0,out,Summer,2019,2019/2020
+Francisco Sierralta,22,Centre-Back,Udinese Calcio,0.0,out,Summer,2019,2019/2020
+Eric Lanini,25,Centre-Forward,Juventus U23,2960000.0,in,Winter,2019,2019/2020
+Gastón Brugman,27,Defensive Midfield,Pescara,2550000.0,in,Winter,2019,2019/2020
+Gianluca Caprari,26,Second Striker,Sampdoria,2100000.0,in,Winter,2019,2019/2020
+Jasmin Kurtic,31,Central Midfield,SPAL,500000.0,in,Winter,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Juventus,0.0,in,Winter,2019,2019/2020
+Muhamed Tehe Olawale,20,Centre-Forward,Ponsacco,35000.0,in,Winter,2019,2019/2020
+Ionut Radu,22,Goalkeeper,Inter,0.0,in,Winter,2019,2019/2020
+Vasco Regini,29,Left-Back,Sampdoria,0.0,in,Winter,2019,2019/2020
+Alessandro Minelli,20,Centre-Back,Juventus U23,2910000.0,out,Winter,2019,2019/2020
+Simone Madonna,19,Central Midfield,Pescara U19,1000000.0,out,Winter,2019,2019/2020
+Dejan Kulusevski,19,Right Winger,Atalanta BC,0.0,out,Winter,2019,2019/2020
+Matteo Luigi Brunori,25,Centre-Forward,Pescara,500000.0,out,Winter,2019,2019/2020
+Cristian Cauz,23,Left-Back,Ravenna,0.0,out,Winter,2019,2019/2020
+Eric Lanini,25,Centre-Forward,Como,0.0,out,Winter,2019,2019/2020
+Francesco Golfo,25,Left Winger,Potenza,0.0,out,Winter,2019,2019/2020
+Andrea Dini,23,Goalkeeper,Avellino,0.0,out,Winter,2019,2019/2020
+Walid Cheddira,22,Centre-Forward,Lecco,0.0,out,Winter,2019,2019/2020
+Fabrizio Alastra,22,Goalkeeper,Pescara,0.0,out,Winter,2019,2019/2020
+Martin Montipò,19,Attacking Midfield,Felino,0.0,out,Winter,2019,2019/2020
+Jacopo Dezi,27,Central Midfield,Virtus Entella,0.0,out,Winter,2019,2019/2020
+José Machín,23,Central Midfield,Monza,0.0,out,Winter,2019,2019/2020
+Alessio Da Cruz,23,Attacking Midfield,Sheff Wed,0.0,out,Winter,2019,2019/2020
+Muhamed Tehe Olawale,21,Centre-Forward,TPS,0.0,out,Winter,2019,2019/2020
+Luca Zamparo,25,Centre-Forward,Reggio Audace,0.0,out,Winter,2019,2019/2020
+Gianni Munari,36,Central Midfield,Retired,0.0,out,Winter,2019,2019/2020
+Gastón Brugman,27,Defensive Midfield,Pescara,0.0,out,Winter,2019,2019/2020
+Emerson Espinoza,18,Central Midfield,Boston River,0.0,out,Winter,2019,2019/2020
+Roberto Inglese,28,Centre-Forward,SSC Napoli,21800000.0,in,Summer,2020,2020/2021
+Valentin Mihaila,20,Left Winger,Univ. Craiova,9100000.0,in,Summer,2020,2020/2021
+Alberto Grassi,25,Central Midfield,SSC Napoli,8450000.0,in,Summer,2020,2020/2021
+Yann Karamoh,22,Left Winger,Inter,8000000.0,in,Summer,2020,2020/2021
+Maxime Busi,20,Right-Back,RSC Charleroi,6900000.0,in,Summer,2020,2020/2021
+Hernani,26,Central Midfield,Zenit S-Pb,6470000.0,in,Summer,2020,2020/2021
+Simon Sohm,19,Defensive Midfield,FC Zürich,6400000.0,in,Summer,2020,2020/2021
+Giuseppe Pezzella,22,Left-Back,Udinese Calcio,5750000.0,in,Summer,2020,2020/2021
+Jasmin Kurtic,31,Central Midfield,SPAL,4900000.0,in,Summer,2020,2020/2021
+Luigi Sepe,29,Goalkeeper,SSC Napoli,4580000.0,in,Summer,2020,2020/2021
+Yordan Osorio,26,Centre-Back,FC Porto,4099999.9999999995,in,Summer,2020,2020/2021
+Wylan Cyprien,25,Central Midfield,OGC Nice,1500000.0,in,Summer,2020,2020/2021
+Juan Brunetta,23,Attacking Midfield,Godoy Cruz,1500000.0,in,Summer,2020,2020/2021
+Mateo Likaxhiu,19,Central Midfield,Sanremese,0.0,in,Summer,2020,2020/2021
+Hans Nicolussi Caviglia,20,Central Midfield,Juventus U23,0.0,in,Summer,2020,2020/2021
+Lautaro Valenti,21,Centre-Back,Lanús,0.0,in,Summer,2020,2020/2021
+Filippo Rinaldi,17,Goalkeeper,Parma U19,0.0,in,Summer,2020,2020/2021
+Botond Balogh,18,Centre-Back,Parma U19,0.0,in,Summer,2020,2020/2021
+Michele Laraspata,19,Left-Back,Parma U19,0.0,in,Summer,2020,2020/2021
+José Machín,23,Central Midfield,Monza,4000000.0,out,Summer,2020,2020/2021
+Luca Zamparo,25,Centre-Forward,Reggiana,300000.0,out,Summer,2020,2020/2021
+Emmanuele Matino,21,Centre-Back,Cavese,0.0,out,Summer,2020,2020/2021
+Marco Frediani,26,Left Winger,Alessandria,0.0,out,Summer,2020,2020/2021
+Abdou Diakhate,21,Central Midfield,ND Gorica,0.0,out,Summer,2020,2020/2021
+Yves Baraye,28,Right Winger,Gil Vicente,0.0,out,Summer,2020,2020/2021
+Manuel Nocciolini,31,Centre-Forward,Sambenedettese,0.0,out,Summer,2020,2020/2021
+Eric Lanini,26,Centre-Forward,Novara,0.0,out,Summer,2020,2020/2021
+Walid Cheddira,22,Centre-Forward,Mantova,0.0,out,Summer,2020,2020/2021
+Fabian Pavone,20,Right Winger,Carrarese,0.0,out,Summer,2020,2020/2021
+Francesco Golfo,26,Left Winger,Juve Stabia,0.0,out,Summer,2020,2020/2021
+Gabriele Carannante,21,Central Midfield,Legnago,0.0,out,Summer,2020,2020/2021
+Fabrizio Alastra,23,Goalkeeper,Pescara,0.0,out,Summer,2020,2020/2021
+Sebastiano Longo,22,Left Winger,AJ Fano,0.0,out,Summer,2020,2020/2021
+Antonino Barillà,32,Central Midfield,Monza,0.0,out,Summer,2020,2020/2021
+Michele Fornasier,27,Centre-Back,Cremonese,0.0,out,Summer,2020,2020/2021
+Kastriot Dermaku,28,Centre-Back,Lecce,0.0,out,Summer,2020,2020/2021
+Matteo Darmian,30,Right-Back,Inter,0.0,out,Summer,2020,2020/2021
+Alessio Da Cruz,23,Attacking Midfield,FC Groningen,0.0,out,Summer,2020,2020/2021
+Luca Siligardi,32,Right Winger,Crotone,0.0,out,Summer,2020,2020/2021
+Michele Laraspata,19,Left-Back,Bisceglie,0.0,out,Summer,2020,2020/2021
+Alessandro Martella,19,Right-Back,AJ Fano,0.0,out,Summer,2020,2020/2021
+Lorenzo Simonetti,24,Central Midfield,Pistoiese,0.0,out,Summer,2020,2020/2021
+Marcello Gazzola,35,Right-Back,Retired,0.0,out,Summer,2020,2020/2021
+Davide Mastaj,22,Right Winger,Without Club,0.0,out,Summer,2020,2020/2021
+Luigi Sepe,29,Goalkeeper,SSC Napoli,0.0,out,Summer,2020,2020/2021
+Vasco Regini,29,Left-Back,Sampdoria,0.0,out,Summer,2020,2020/2021
+Gianluca Caprari,27,Second Striker,Sampdoria,0.0,out,Summer,2020,2020/2021
+Ionut Radu,23,Goalkeeper,Inter,0.0,out,Summer,2020,2020/2021
+Jasmin Kurtic,31,Central Midfield,SPAL,0.0,out,Summer,2020,2020/2021
+Dejan Kulusevski,20,Right Winger,Juventus,0.0,out,Summer,2020,2020/2021
+Giuseppe Pezzella,22,Left-Back,Udinese Calcio,0.0,out,Summer,2020,2020/2021
+Yann Karamoh,22,Left Winger,Inter,0.0,out,Summer,2020,2020/2021
+Roberto Inglese,28,Centre-Forward,SSC Napoli,0.0,out,Summer,2020,2020/2021
+Hernani,26,Central Midfield,Zenit S-Pb,0.0,out,Summer,2020,2020/2021
+Alberto Grassi,25,Central Midfield,SSC Napoli,0.0,out,Summer,2020,2020/2021
+Dennis Man,22,Right Winger,FCSB,13000000.0,in,Winter,2020,2020/2021
+Mattia Bani,27,Centre-Back,Genoa,1500000.0,in,Winter,2020,2020/2021
+Vasilios Zagaritis,19,Left-Back,Panathinaikos,380000.0,in,Winter,2020,2020/2021
+Andrea Conti,26,Right-Back,AC Milan,0.0,in,Winter,2020,2020/2021
+Daan Dierckx,17,Centre-Back,KRC Genk U18,0.0,in,Winter,2020,2020/2021
+Joshua Zirkzee,19,Centre-Forward,Bayern Munich,0.0,in,Winter,2020,2020/2021
+Graziano Pellè,35,Centre-Forward,Without Club,0.0,in,Winter,2020,2020/2021
+Mateo Likaxhiu,20,Central Midfield,Torres,0.0,out,Winter,2020,2020/2021
+Sebastiano Longo,23,Left Winger,Casertana,0.0,out,Winter,2020,2020/2021
+Giuseppe Carriero,23,Central Midfield,Avellino,0.0,out,Winter,2020,2020/2021
+Andrea Adorante,20,Centre-Forward,V. Francavilla,0.0,out,Winter,2020,2020/2021
+Gabriele Carannante,21,Central Midfield,Turris,0.0,out,Winter,2020,2020/2021
+Francesco Golfo,26,Left Winger,Catania,0.0,out,Winter,2020,2020/2021
+Andrea Dini,24,Goalkeeper,Padova,0.0,out,Winter,2020,2020/2021
+Manuel Nocciolini,31,Centre-Forward,Renate,0.0,out,Winter,2020,2020/2021
+Matteo Scozzarella,32,Defensive Midfield,Monza,0.0,out,Winter,2020,2020/2021
+Jacopo Dezi,28,Central Midfield,Venezia,0.0,out,Winter,2020,2020/2021
+Michele Laraspata,19,Left-Back,Hamrun Spart.,0.0,out,Winter,2020,2020/2021
+Muhamed Tehe Olawale,21,Centre-Forward,IFK Mariehamn,0.0,out,Winter,2020,2020/2021
+Giacomo Ricci,24,Left-Back,Venezia,0.0,out,Winter,2020,2020/2021
+Luca Siligardi,33,Right Winger,Reggiana,0.0,out,Winter,2020,2020/2021

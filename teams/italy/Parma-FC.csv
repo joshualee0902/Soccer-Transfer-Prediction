@@ -1,0 +1,2375 @@
+player_name,age,position,club_involved,fee,transfer_period,year,season
+Massimo Maccarone,24,Centre-Forward,Middlesbrough,1000000.0,Summer,2004,2004/2005
+Matteo Contini,24,Centre-Back,Avellino,580000.0,Summer,2004,2004/2005
+Alessandro Budel,23,Defensive Midfield,AC Milan,400000.0,Summer,2004,2004/2005
+Cesare Bovo,21,Centre-Back,AS Roma,100000.0,Summer,2004,2004/2005
+Gianluca Berti,37,Goalkeeper,US Palermo,0.0,Summer,2004,2004/2005
+Fábio Simplício,24,Central Midfield,São Paulo,0.0,Summer,2004,2004/2005
+Andrea Pisanu,22,Right Midfield,Hellas Verona,0.0,Summer,2004,2004/2005
+Damiano Ferronetti,19,Centre-Back,AS Roma,0.0,Summer,2004,2004/2005
+Vince Grella,24,Central Midfield,Empoli,0.0,Summer,2004,2004/2005
+Mario Rebecchi,20,Central Midfield,Inter,0.0,Summer,2004,2004/2005
+Alberto Galuppo,18,Centre-Back,Parma U19,0.0,Summer,2004,2004/2005
+Daniele Dessena,17,Central Midfield,Parma U19,0.0,Summer,2004,2004/2005
+Davide Furlan,18,Defensive Midfield,Parma U19,0.0,Summer,2004,2004/2005
+Matteo Brighi,23,Central Midfield,Juventus,-11500000.0,Summer,2004,2004/2005
+Matteo Ferrari,24,Centre-Back,AS Roma,-7000000.0,Summer,2004,2004/2005
+Simone Barone,26,Central Midfield,US Palermo,-5000000.0,Summer,2004,2004/2005
+Marcello Castellini,31,Centre-Back,Sampdoria,-1200000.0,Summer,2004,2004/2005
+Hidetoshi Nakata,27,Attacking Midfield,Fiorentina,0.0,Summer,2004,2004/2005
+Savo Milosevic,30,Centre-Forward,CA Osasuna,0.0,Summer,2004,2004/2005
+Emiliano Moretti,23,Centre-Back,Valencia,0.0,Summer,2004,2004/2005
+Júnior,31,Left-Back,São Paulo,0.0,Summer,2004,2004/2005
+Ianis Zicu,20,Attacking Midfield,Inter,0.0,Summer,2004,2004/2005
+Andrea Staffolani,21,Centre-Forward,Fermana,0.0,Summer,2004,2004/2005
+Paolo Ruffini,20,Central Midfield,Pro Sesto,0.0,Summer,2004,2004/2005
+Sebastiano Siviglia,31,Centre-Back,Lazio,0.0,Summer,2004,2004/2005
+Benny Carbone,32,Second Striker,Catanzaro,0.0,Summer,2004,2004/2005
+Gabriel Oyola,21,Centre-Back,Huracan TA,0.0,Summer,2004,2004/2005
+Mirko Stefani,20,Centre-Back,Bellaria IM,0.0,Summer,2004,2004/2005
+Zlatko Dedic,19,Centre-Forward,Empoli,0.0,Summer,2004,2004/2005
+Antonio Benarrivo,35,Left-Back,Retired,0.0,Summer,2004,2004/2005
+Marco Donadel,21,Defensive Midfield,AC Milan,0.0,Summer,2004,2004/2005
+Anthony Seric,25,Left-Back,Hellas Verona,0.0,Summer,2004,2004/2005
+Marco Amelia,22,Goalkeeper,AS Livorno,0.0,Summer,2004,2004/2005
+Manuele Blasi,23,Central Midfield,Juventus,0.0,Summer,2004,2004/2005
+Fabrizio Cammarata,28,Centre-Forward,Cagliari Calcio,0.0,Summer,2004,2004/2005
+Stefano Bettarini,32,Left-Back,Sampdoria,0.0,Winter,2004,2004/2005
+Luca Bucci,35,Goalkeeper,Without Club,0.0,Winter,2004,2004/2005
+Daniele Degano,22,Second Striker,Ancona,0.0,Winter,2004,2004/2005
+Federico Ranieri,18,midfield,Forlì,0.0,Winter,2004,2004/2005
+Fabio Vignaroli,28,Centre-Forward,Modena,0.0,Winter,2004,2004/2005
+Renato Olive,33,Central Midfield,Without Club,0.0,Winter,2004,2004/2005
+Gianluca Berti,37,Goalkeeper,Torino,0.0,Winter,2004,2004/2005
+Martin Djetou,30,Centre-Back,OGC Nice,0.0,Winter,2004,2004/2005
+Alessandro Rosina,20,Right Winger,Hellas Verona,0.0,Winter,2004,2004/2005
+Mario Rebecchi,21,Central Midfield,Inter,0.0,Winter,2004,2004/2005
+Gaetano Grieco,22,Centre-Forward,Foggia,0.0,Winter,2004,2004/2005
+Massimo Maccarone,25,Centre-Forward,Middlesbrough,0.0,Winter,2004,2004/2005
+Alessandro Potenza,20,Centre-Back,Inter,0.0,Winter,2004,2004/2005
+Alessandro Budel,23,Defensive Midfield,AC Milan,0.0,Winter,2004,2004/2005
+Domenico Morfeo,29,Attacking Midfield,Inter,7500000.0,Summer,2005,2005/2006
+Emiliano Bonazzoli,26,Centre-Forward,Reggina,4150000.0000000005,Summer,2005,2005/2006
+Ferdinand Coly,31,Right-Back,Perugia,0.0,Summer,2005,2005/2006
+Fernando Couto,35,Centre-Back,Lazio,0.0,Summer,2005,2005/2006
+Marco Delvecchio,32,Centre-Forward,Brescia,0.0,Summer,2005,2005/2006
+Bernardo Corradi,29,Centre-Forward,Valencia,0.0,Summer,2005,2005/2006
+Giovanni Pasquale,23,Left-Back,Inter,0.0,Summer,2005,2005/2006
+Cristiano Lupatelli,27,Goalkeeper,Fiorentina,0.0,Summer,2005,2005/2006
+Filippo Savi,18,Central Midfield,Parma U19,0.0,Summer,2005,2005/2006
+Fabio Virgili,19,Goalkeeper,Parma U19,0.0,Summer,2005,2005/2006
+Marco Rossi,17,Centre-Back,Parma U19,0.0,Summer,2005,2005/2006
+Alberto Gilardino,23,Centre-Forward,AC Milan,-25000000.0,Summer,2005,2005/2006
+Alessandro Rosina,21,Right Winger,Torino,-1250000.0,Summer,2005,2005/2006
+Sébastien Frey,25,Goalkeeper,Fiorentina,0.0,Summer,2005,2005/2006
+Gaetano Grieco,22,Centre-Forward,Napoli,0.0,Summer,2005,2005/2006
+Federico Ranieri,18,midfield,Forlì,0.0,Summer,2005,2005/2006
+Davide Furlan,19,Defensive Midfield,Carrarese,0.0,Summer,2005,2005/2006
+Paolo Bonoli,18,Goalkeeper,Bellaria IM,0.0,Summer,2005,2005/2006
+Leonardo Bianchi,19,attack,Portosummaga,0.0,Summer,2005,2005/2006
+Giordano Vanin,19,Goalkeeper,Olbia,0.0,Summer,2005,2005/2006
+Alex Gibbs,21,Centre-Forward,Pro Patria,0.0,Summer,2005,2005/2006
+Tonino Sorrentino,20,Centre-Forward,Catanzaro,0.0,Summer,2005,2005/2006
+Francesco Ruopolo,22,Centre-Forward,Loko Moscow,0.0,Summer,2005,2005/2006
+Alberto Galuppo,19,Centre-Back,AC Pisa,0.0,Summer,2005,2005/2006
+Fabio Virgili,19,Goalkeeper,Napoli,0.0,Summer,2005,2005/2006
+Emiliano Bonazzoli,26,Centre-Forward,Sampdoria,0.0,Summer,2005,2005/2006
+Stefano Bettarini,33,Left-Back,Retired,0.0,Summer,2005,2005/2006
+Renato Olive,34,Central Midfield,Without Club,0.0,Summer,2005,2005/2006
+Cesare Bovo,22,Centre-Back,AS Roma,0.0,Summer,2005,2005/2006
+Fabio Vignaroli,29,Centre-Forward,Modena,0.0,Summer,2005,2005/2006
+Domenico Morfeo,29,Attacking Midfield,Inter,0.0,Summer,2005,2005/2006
+Matteo Guardalben,31,Goalkeeper,US Palermo,0.0,Winter,2005,2005/2006
+Daniele Paponi,17,Centre-Forward,Parma U19,0.0,Winter,2005,2005/2006
+Filippo Mattiuzzo,18,Right-Back,Parma U19,0.0,Winter,2005,2005/2006
+Daniele Degano,23,Second Striker,Piacenza,0.0,Winter,2005,2005/2006
+Mirko Stefani,21,Centre-Back,Reggiana,0.0,Winter,2005,2005/2006
+Zlatko Dedic,21,Centre-Forward,Cremonese,0.0,Winter,2005,2005/2006
+Cristiano Lupatelli,27,Goalkeeper,Fiorentina,0.0,Winter,2005,2005/2006
+Vitali Kutuzov,26,Centre-Forward,Sampdoria,2000000.0,Summer,2006,2006/2007
+Paolo Castellini,27,Left-Back,Real Betis,0.0,Summer,2006,2006/2007
+Andrea Gasbarroni,24,Second Striker,US Palermo,0.0,Summer,2006,2006/2007
+Antonio Bocchetti,26,Left-Back,Piacenza,0.0,Summer,2006,2006/2007
+Massimo Paci,28,Centre-Back,Ascoli,0.0,Summer,2006,2006/2007
+Zlatan Muslimovic,25,Centre-Forward,Udinese,0.0,Summer,2006,2006/2007
+Igor Budan,26,Centre-Forward,US Palermo,0.0,Summer,2006,2006/2007
+Maurizio Ciaramitaro,24,Central Midfield,US Palermo,0.0,Summer,2006,2006/2007
+Federico Moretti,17,Central Midfield,Parma U19,0.0,Summer,2006,2006/2007
+Sébastien Frey,26,Goalkeeper,Fiorentina,-5750000.0,Summer,2006,2006/2007
+Fábio Simplício,26,Central Midfield,US Palermo,-5500000.0,Summer,2006,2006/2007
+Emiliano Bonazzoli,27,Centre-Forward,Sampdoria,-5250000.0,Summer,2006,2006/2007
+Daniele Bonera,25,Centre-Back,AC Milan,-3300000.0,Summer,2006,2006/2007
+Marco Delvecchio,33,Centre-Forward,Ascoli,0.0,Summer,2006,2006/2007
+Marco Marchionni,25,Right Midfield,Juventus,0.0,Summer,2006,2006/2007
+Ibrahima Camara,21,Left-Back,Le Mans UC 72,0.0,Summer,2006,2006/2007
+Francesco Ruopolo,23,Centre-Forward,Triestina,0.0,Summer,2006,2006/2007
+Paolo Cannavaro,25,Centre-Back,SSC Napoli,0.0,Summer,2006,2006/2007
+Mark Bresciano,26,Central Midfield,US Palermo,0.0,Summer,2006,2006/2007
+Filippo Mattiuzzo,19,Right-Back,Cremonese,0.0,Summer,2006,2006/2007
+Alberto Galuppo,20,Centre-Back,Grosseto,0.0,Summer,2006,2006/2007
+Giovanni Pasquale,24,Left-Back,Inter,0.0,Summer,2006,2006/2007
+Matteo Guardalben,32,Goalkeeper,US Palermo,0.0,Summer,2006,2006/2007
+Bernardo Corradi,30,Centre-Forward,Valencia,0.0,Summer,2006,2006/2007
+Armando Perna,25,Centre-Back,Modena,0.0,Winter,2006,2006/2007
+Giuseppe Rossi,19,Centre-Forward,Man Utd,0.0,Winter,2006,2006/2007
+Francesco Parravicini,25,Defensive Midfield,US Palermo,0.0,Winter,2006,2006/2007
+Marco Rossi,19,Centre-Back,Modena,0.0,Winter,2006,2006/2007
+Zlatko Dedic,22,Centre-Forward,Frosinone,0.0,Winter,2006,2006/2007
+Filippo Savi,19,Central Midfield,Monza,0.0,Winter,2006,2006/2007
+Maurizio Ciaramitaro,24,Central Midfield,US Palermo,0.0,Winter,2006,2006/2007
+Reginaldo,23,Second Striker,Fiorentina,4500000.0,Summer,2007,2007/2008
+Stefano Morrone,28,Central Midfield,AS Livorno,2000000.0,Summer,2007,2007/2008
+Francesco Parravicini,25,Defensive Midfield,US Palermo,1500000.0,Summer,2007,2007/2008
+Igor Budan,27,Centre-Forward,US Palermo,1100000.0,Summer,2007,2007/2008
+Davide Matteini,25,Left Winger,US Palermo,900000.0,Summer,2007,2007/2008
+Bernardo Corradi,31,Centre-Forward,Man City,200000.0,Summer,2007,2007/2008
+Marcelo Silva,31,Defensive Midfield,Atlético-PR,0.0,Summer,2007,2007/2008
+Manuel Pascali,26,Centre-Back,Foligno,0.0,Summer,2007,2007/2008
+Nicola Pavarini,33,Goalkeeper,Siena,0.0,Summer,2007,2007/2008
+Manuel Pascali,25,Centre-Back,AC Carpenedolo,0.0,Summer,2007,2007/2008
+Giulio Falcone,33,Centre-Back,Sampdoria,0.0,Summer,2007,2007/2008
+Damiano Zenoni,30,Right-Back,Udinese,0.0,Summer,2007,2007/2008
+Alessio Tombesi,25,Left-Back,AC Carpenedolo,0.0,Summer,2007,2007/2008
+Radek Petr,20,Goalkeeper,Banik Ostrava,0.0,Summer,2007,2007/2008
+Giordano Vanin,21,Goalkeeper,Pro Sesto,0.0,Summer,2007,2007/2008
+McDonald Mariga,20,Defensive Midfield,Helsingborg,0.0,Summer,2007,2007/2008
+Niccolò Galli,18,Central Midfield,Parma U19,0.0,Summer,2007,2007/2008
+Matteo Mandorlini,18,Central Midfield,Parma U19,0.0,Summer,2007,2007/2008
+Mattia Pin,19,attack,Parma U19,0.0,Summer,2007,2007/2008
+Matteo Contini,27,Centre-Back,SSC Napoli,-3200000.0,Summer,2007,2007/2008
+Ibrahima Camara,22,Left-Back,Le Mans UC 72,-1000000.0,Summer,2007,2007/2008
+Vince Grella,27,Central Midfield,Torino,0.0,Summer,2007,2007/2008
+Marcelo Silva,31,Defensive Midfield,Náutico,0.0,Summer,2007,2007/2008
+Manuel Pascali,25,Centre-Back,Foligno,0.0,Summer,2007,2007/2008
+Jorge Bolaño,30,Central Midfield,Modena,0.0,Summer,2007,2007/2008
+Damiano Ferronetti,22,Centre-Back,Udinese,0.0,Summer,2007,2007/2008
+Antonio Bocchetti,27,Left-Back,Frosinone,0.0,Summer,2007,2007/2008
+Alfonso De Lucia,23,Goalkeeper,AS Livorno,0.0,Summer,2007,2007/2008
+Giordano Vanin,22,Goalkeeper,Livingston FC,0.0,Summer,2007,2007/2008
+Matteo Mandorlini,18,Central Midfield,Pavia,0.0,Summer,2007,2007/2008
+Mattia Pin,19,attack,Sassuolo,0.0,Summer,2007,2007/2008
+Vitali Kutuzov,27,Centre-Forward,AC Pisa,0.0,Summer,2007,2007/2008
+Alberto Galuppo,21,Centre-Back,Ancona,0.0,Summer,2007,2007/2008
+Filippo Savi,20,Central Midfield,Arezzo,0.0,Summer,2007,2007/2008
+Mattia Cherubini,19,defence,Unknown,0.0,Summer,2007,2007/2008
+Igor Budan,27,Centre-Forward,US Palermo,0.0,Summer,2007,2007/2008
+Zlatan Muslimovic,26,Centre-Forward,Udinese,0.0,Summer,2007,2007/2008
+Francesco Parravicini,25,Defensive Midfield,US Palermo,0.0,Summer,2007,2007/2008
+Giuseppe Rossi,20,Centre-Forward,Man Utd,0.0,Summer,2007,2007/2008
+Armando Perna,26,Centre-Back,Modena,0.0,Summer,2007,2007/2008
+Cristiano Lucarelli,32,Centre-Forward,Shakhtar D.,5700000.0,Winter,2007,2007/2008
+Cristian Anelli,18,Centre-Back,AC Montichiari,0.0,Winter,2007,2007/2008
+Luca Antonelli,20,Left-Back,AC Milan,0.0,Winter,2007,2007/2008
+Giuseppe Cardone,33,Right-Back,Cesena,0.0,Winter,2007,2007/2008
+Alessio Tombesi,25,Left-Back,Avellino,0.0,Winter,2007,2007/2008
+Daniele Paponi,19,Centre-Forward,Cesena,0.0,Winter,2007,2007/2008
+Davide Matteini,25,Left Winger,Vicenza,0.0,Winter,2007,2007/2008
+Niccolò Galli,19,Central Midfield,Massese,0.0,Winter,2007,2007/2008
+Mattia Pin,19,attack,Cuoio Cappiano,0.0,Winter,2007,2007/2008
+Daniele Galloppa,24,Central Midfield,Siena,10000000.0,Summer,2009,2009/2010
+Pablo Fontanello,24,Centre-Back,Tigre,4000000.0,Summer,2009,2009/2010
+Antonio Mirante,25,Goalkeeper,Sampdoria,3600000.0,Summer,2009,2009/2010
+Cristian Zaccardo,27,Centre-Back,VfL Wolfsburg,2000000.0,Summer,2009,2009/2010
+Manuel Coppola,27,Central Midfield,Siena,1200000.0,Summer,2009,2009/2010
+Blerim Dzemaili,23,Central Midfield,Torino,1000000.0,Summer,2009,2009/2010
+Paolo Dellafiore,24,Centre-Back,US Palermo,250000.0,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Ternana,121000.0,Summer,2009,2009/2010
+Nicolás Córdova,30,Central Midfield,Grosseto,0.0,Summer,2009,2009/2010
+Ronny Valerio,20,Right Winger,AC Carpenedolo,0.0,Summer,2009,2009/2010
+Christian Panucci,36,Right-Back,AS Roma,0.0,Summer,2009,2009/2010
+Stefano Russo,20,Goalkeeper,Lecce,0.0,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Treviso,0.0,Summer,2009,2009/2010
+Nicola Amoruso,34,Centre-Forward,Torino,0.0,Summer,2009,2009/2010
+Riccardo Capogna,22,Centre-Forward,AC Carpenedolo,0.0,Summer,2009,2009/2010
+Federico Moretti,20,Central Midfield,Varese,0.0,Summer,2009,2009/2010
+Mohamed Traoré,17,Right-Back,Carpi,0.0,Summer,2009,2009/2010
+Fabio Lebran,22,Centre-Back,Unione Venezia,0.0,Summer,2009,2009/2010
+Abdou Doumbia,19,Left Winger,Pescara U19,0.0,Summer,2009,2009/2010
+Simone Malatesta,28,Centre-Forward,Mantova,0.0,Summer,2009,2009/2010
+Alessio Tombesi,28,Left-Back,Novara,0.0,Summer,2009,2009/2010
+Valeri Bozhinov,23,Centre-Forward,Man City,0.0,Summer,2009,2009/2010
+Davide Lanzafame,22,Centre-Forward,US Palermo,0.0,Summer,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,0.0,Summer,2009,2009/2010
+Stefano Crisci,19,Right Winger,Parma U19,0.0,Summer,2009,2009/2010
+Reginaldo,25,Second Striker,Siena,-4500000.0,Summer,2009,2009/2010
+Francesco Parravicini,27,Defensive Midfield,Siena,-1000000.0,Summer,2009,2009/2010
+Magnus Troest,22,Centre-Back,Genoa,-900000.0,Summer,2009,2009/2010
+Cristian Anelli,20,Centre-Back,AC Carpenedolo,-64000.0,Summer,2009,2009/2010
+Fabio Virgili,23,Goalkeeper,Sporting Terni,0.0,Summer,2009,2009/2010
+Federico Moretti,20,Central Midfield,Catania,0.0,Summer,2009,2009/2010
+Daniele Vantaggiato,24,Centre-Forward,Torino,0.0,Summer,2009,2009/2010
+Leandro Martínez,19,Left Winger,Südtirol,0.0,Summer,2009,2009/2010
+Cristiano Lucarelli,33,Centre-Forward,AS Livorno,0.0,Summer,2009,2009/2010
+Abdou Doumbia,19,Left Winger,Santegidiese,0.0,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Ternana,500,Summer,2009,2009/2010
+Mattia Ferrato,19,Centre-Back,Pro Vercelli,0.0,Summer,2009,2009/2010
+Wasim Atitallah,17,midfield,Sangiustese,0.0,Summer,2009,2009/2010
+Fabio Lebran,22,Centre-Back,Rimini,0.0,Summer,2009,2009/2010
+Giacomo Chiazzolino,23,Central Midfield,Alessandria,0.0,Summer,2009,2009/2010
+Ivan Cacchioli,18,Goalkeeper,Sansepolcro,0.0,Summer,2009,2009/2010
+Manuel Coppola,27,Central Midfield,Torino,0.0,Summer,2009,2009/2010
+Mattia Pin,21,attack,Crociati Noceto,0.0,Summer,2009,2009/2010
+Stefano Crisci,19,Right Winger,Bellaria IM,0.0,Summer,2009,2009/2010
+Matteo Mandorlini,20,Central Midfield,Viareggio,0.0,Summer,2009,2009/2010
+Filippo Savi,22,Central Midfield,AC Carpenedolo,0.0,Summer,2009,2009/2010
+Daniele Paponi,21,Centre-Forward,Perugia,0.0,Summer,2009,2009/2010
+Julio de León,29,Attacking Midfield,Torino,0.0,Summer,2009,2009/2010
+Francesco Pambianchi,20,Centre-Back,Pergocrema,0.0,Summer,2009,2009/2010
+Andrea Gasparri,20,Goalkeeper,Giulianova,0.0,Summer,2009,2009/2010
+Alberto Galuppo,23,Centre-Back,Cremonese,0.0,Summer,2009,2009/2010
+Marco Rossi,21,Centre-Back,Sampdoria,0.0,Summer,2009,2009/2010
+Giulio Falcone,35,Centre-Back,Retired,0.0,Summer,2009,2009/2010
+Paolo Ginestra,30,Goalkeeper,Ternana,0.0,Summer,2009,2009/2010
+Gianluca Pegolo,28,Goalkeeper,Genoa,0.0,Summer,2009,2009/2010
+Antonino D'Agostino,30,Right Midfield,Atalanta BC,0.0,Summer,2009,2009/2010
+Francesco Valiani,29,Central Midfield,Bologna,2800000.0,Winter,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,2500000.0,Winter,2009,2009/2010
+Hernán Crespo,34,Centre-Forward,Genoa,0.0,Winter,2009,2009/2010
+Luis Jiménez,25,Attacking Midfield,Inter,0.0,Winter,2009,2009/2010
+Pietro Baccolo,19,Central Midfield,Padova,0.0,Winter,2009,2009/2010
+Mattia Ferrato,20,Centre-Back,Pro Vercelli,0.0,Winter,2009,2009/2010
+McDonald Mariga,22,Defensive Midfield,Inter,-10000000.0,Winter,2009,2009/2010
+Daniele Vantaggiato,25,Centre-Forward,Padova,-5000000.0,Winter,2009,2009/2010
+Andrea Pisanu,28,Right Midfield,Bologna,-5000000.0,Winter,2009,2009/2010
+Alessandro Budel,28,Defensive Midfield,Brescia,-2500000.0,Winter,2009,2009/2010
+Nicolás Córdova,30,Central Midfield,Brescia,-1000000.0,Winter,2009,2009/2010
+Nicola Amoruso,35,Centre-Forward,Atalanta BC,-1000000.0,Winter,2009,2009/2010
+Leandro Martínez,20,Left Winger,GC Biaschesi,0.0,Winter,2009,2009/2010
+Alessio Manzoni,22,Central Midfield,Brescia,0.0,Winter,2009,2009/2010
+Mattia Ferrato,20,Centre-Back,AC Carpenedolo,0.0,Winter,2009,2009/2010
+Pablo Fontanello,25,Centre-Back,Tigre,0.0,Winter,2009,2009/2010
+Christian Panucci,36,Right-Back,Without Club,0.0,Winter,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,0.0,Winter,2009,2009/2010
+Andrea Rispoli,21,Right-Back,Brescia,7000000.0,Summer,2010,2010/2011
+Blerim Dzemaili,24,Central Midfield,Torino,7000000.0,Summer,2010,2010/2011
+Gabriel Paletta,24,Centre-Back,Boca Juniors,2500000.0,Summer,2010,2010/2011
+Valeri Bozhinov,24,Centre-Forward,Man City,2000000.0,Summer,2010,2010/2011
+Sebastian Giovinco,23,Second Striker,Juventus,1000000.0,Summer,2010,2010/2011
+Gabriele Paonessa,23,Attacking Midfield,Bologna,600000.0,Summer,2010,2010/2011
+Antonio Candreva,23,Right Midfield,Udinese Calcio,500000.0,Summer,2010,2010/2011
+Zé Eduardo,18,Defensive Midfield,Maga,500000.0,Summer,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,US Palermo,400000.0,Summer,2010,2010/2011
+Milan Djuric,20,Centre-Forward,Cesena,300000.0,Summer,2010,2010/2011
+Alberto Galuppo,25,Centre-Back,Cesena,200000.0,Summer,2010,2010/2011
+Fernando Marqués,25,Right Winger,Espanyol,200000.0,Summer,2010,2010/2011
+Angelo,29,Right-Back,Lecce,0.0,Summer,2010,2010/2011
+Mario Merlonghi,22,Left Winger,Monterotondo,0.0,Summer,2010,2010/2011
+Massimo Gobbi,29,Left-Back,Fiorentina,0.0,Summer,2010,2010/2011
+Alain Mendy,20,Central Midfield,Mantova,0.0,Summer,2010,2010/2011
+Rolf Feltscher,19,Right-Back,Grasshoppers,0.0,Summer,2010,2010/2011
+Danilo Pereira,18,Defensive Midfield,Benfica U19,0.0,Summer,2010,2010/2011
+Filipe Oliveira,26,Right Winger,SC Braga,0.0,Summer,2010,2010/2011
+Fabio Lebran,23,Centre-Back,Rimini,0.0,Summer,2010,2010/2011
+Niccolò Galli,22,Central Midfield,Pergocrema,0.0,Summer,2010,2010/2011
+Marco Pisano,28,Left-Back,Torino,0.0,Summer,2010,2010/2011
+Abderrazzak Jadid,27,Central Midfield,Salernitana,0.0,Summer,2010,2010/2011
+Jonathan Biabiany,22,Right Winger,Inter,-4200000.0,Summer,2010,2010/2011
+Julio de León,30,Attacking Midfield,SD Luneng,-775000.0,Summer,2010,2010/2011
+Filipe Oliveira,26,Right Winger,Torino,-600000.0,Summer,2010,2010/2011
+Daniele Paponi,22,Centre-Forward,Bologna,-500000.0,Summer,2010,2010/2011
+Manuel Coppola,28,Central Midfield,Lecce,-400000.0,Summer,2010,2010/2011
+Marco Rossi,22,Centre-Back,Bari,-250000.0,Summer,2010,2010/2011
+Fabio Lebran,23,Centre-Back,UC AlbinoLeffe,-150000.0,Summer,2010,2010/2011
+Milan Djuric,20,Centre-Forward,Ascoli,-130000.0,Summer,2010,2010/2011
+Alessio Tombesi,28,Left-Back,Atletico Roma,-100000.0,Summer,2010,2010/2011
+Radek Petr,23,Goalkeeper,KAS Eupen,0.0,Summer,2010,2010/2011
+Leandro Martínez,20,Left Winger,UC AlbinoLeffe,0.0,Summer,2010,2010/2011
+Mario Merlonghi,22,Left Winger,Fondi,0.0,Summer,2010,2010/2011
+Paolo Castellini,31,Left-Back,AS Roma,0.0,Summer,2010,2010/2011
+Luca Tedeschi,23,Centre-Back,FC Crotone,0.0,Summer,2010,2010/2011
+Abdou Doumbia,20,Left Winger,Atletico Roma,-1000.0,Summer,2010,2010/2011
+Giacomo Chiazzolino,24,Central Midfield,Campobasso,0.0,Summer,2010,2010/2011
+Alberto Galuppo,24,Centre-Back,Cesena,0.0,Summer,2010,2010/2011
+Mattia Pin,22,attack,Colorno,0.0,Summer,2010,2010/2011
+Mattia Ferrato,20,Centre-Back,AC Carpenedolo,0.0,Summer,2010,2010/2011
+Stefano Crisci,20,Right Winger,Fondi,0.0,Summer,2010,2010/2011
+Alessio Manzoni,23,Central Midfield,UC AlbinoLeffe,0.0,Summer,2010,2010/2011
+Ivan Cacchioli,19,Goalkeeper,Fondi,0.0,Summer,2010,2010/2011
+Pablo Fontanello,25,Centre-Back,Gimnasia,0.0,Summer,2010,2010/2011
+Andrea Gasparri,21,Goalkeeper,Giacomense,0.0,Summer,2010,2010/2011
+Gabriele Paonessa,23,Attacking Midfield,Cesena,0.0,Summer,2010,2010/2011
+Matteo Mandorlini,21,Central Midfield,Piacenza,0.0,Summer,2010,2010/2011
+Riccardo Capogna,22,Centre-Forward,Fondi,0.0,Summer,2010,2010/2011
+Abderrazzak Jadid,27,Central Midfield,KAS Eupen,0.0,Summer,2010,2010/2011
+Andrea Rispoli,21,Right-Back,Lecce,0.0,Summer,2010,2010/2011
+Mohamed Traoré,18,Right-Back,Südtirol,0.0,Summer,2010,2010/2011
+Cristiano Lucarelli,34,Centre-Forward,SSC Napoli,0.0,Summer,2010,2010/2011
+Pietro Baccolo,20,Central Midfield,Südtirol,0.0,Summer,2010,2010/2011
+Francesco Lunardini,25,Defensive Midfield,Triestina,0.0,Summer,2010,2010/2011
+Simone Malatesta,28,Centre-Forward,Carpi,0.0,Summer,2010,2010/2011
+Ronny Valerio,20,Right Winger,Fondi,0.0,Summer,2010,2010/2011
+Damiano Zenoni,33,Right-Back,Without Club,0.0,Summer,2010,2010/2011
+Luis Jiménez,26,Attacking Midfield,Inter,0.0,Summer,2010,2010/2011
+Davide Lanzafame,23,Centre-Forward,US Palermo,0.0,Summer,2010,2010/2011
+Blerim Dzemaili,24,Central Midfield,Torino,0.0,Summer,2010,2010/2011
+Valeri Bozhinov,24,Centre-Forward,Man City,0.0,Summer,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,US Palermo,0.0,Summer,2010,2010/2011
+Raffaele Palladino,26,Left Winger,Genoa,6000000.0,Winter,2010,2010/2011
+Francesco Modesto,28,Left-Back,Genoa,2500000.0,Winter,2010,2010/2011
+Amauri,30,Centre-Forward,Juventus,0.0,Winter,2010,2010/2011
+Gianluca Lapadula,20,Centre-Forward,Atletico Roma,0.0,Winter,2010,2010/2011
+Valerio Mastrelli,22,attack,Campobasso,0.0,Winter,2010,2010/2011
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,Winter,2010,2010/2011
+Toni Calvo,23,Right Winger,Aris Saloniki,0.0,Winter,2010,2010/2011
+Amara Konate,20,Centre-Forward,Parma U19,0.0,Winter,2010,2010/2011
+Luca Antonelli,23,Left-Back,Genoa,-7000000.0,Winter,2010,2010/2011
+Alberto Paloschi,20,Centre-Forward,Genoa,-4350000.0,Winter,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,Cesena,-200000.0,Winter,2010,2010/2011
+Danilo Pereira,19,Defensive Midfield,Aris Saloniki,0.0,Winter,2010,2010/2011
+Valerio Mastrelli,22,attack,GC Biaschesi,0.0,Winter,2010,2010/2011
+Filippo Savi,23,Central Midfield,Crociati Noceto,0.0,Winter,2010,2010/2011
+Milan Djuric,20,Centre-Forward,FC Crotone,0.0,Winter,2010,2010/2011
+Amara Konate,20,Centre-Forward,Crociati Noceto,0.0,Winter,2010,2010/2011
+Gianluca Lapadula,20,Centre-Forward,Ravenna,0.0,Winter,2010,2010/2011
+Abdou Doumbia,20,Left Winger,Ascoli,0.0,Winter,2010,2010/2011
+Simone Malatesta,28,Centre-Forward,Pro Vercelli,0.0,Winter,2010,2010/2011
+Sebastian Giovinco,24,Second Striker,Juventus,3000000.0,Summer,2011,2011/2012
+Manuele Blasi,30,Central Midfield,SSC Napoli,1500000.0,Summer,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Bologna,1500000.0,Summer,2011,2011/2012
+Graziano Pellè,25,Centre-Forward,AZ Alkmaar,1500000.0,Summer,2011,2011/2012
+Sergio Floccari,29,Centre-Forward,Lazio,1500000.0,Summer,2011,2011/2012
+Raffaele Schiavi,25,Centre-Back,Vicenza,750000.0,Summer,2011,2011/2012
+Daniel Ciofani,25,Centre-Forward,Atletico Roma,600000.0,Summer,2011,2011/2012
+Fabio Borini,20,Left Winger,Chelsea,360000.0,Summer,2011,2011/2012
+Riccardo Brosco,20,Centre-Back,Triestina,200000.0,Summer,2011,2011/2012
+Matteo Rubin,24,Left-Back,Torino,200000.0,Summer,2011,2011/2012
+Fabiano Santacroce,24,Centre-Back,SSC Napoli,100000.0,Summer,2011,2011/2012
+Emanuele Padella,22,Centre-Back,Atletico Roma,0.0,Summer,2011,2011/2012
+Angelo Bencivenga,19,Right-Back,AS Livorno,0.0,Summer,2011,2011/2012
+Mário Rui,20,Left-Back,Benfica,0.0,Summer,2011,2011/2012
+Nicola Sansone,19,Left Winger,FC Bayern II,0.0,Summer,2011,2011/2012
+Alberto Gallinetta,19,Goalkeeper,Inter U19,0.0,Summer,2011,2011/2012
+Fabio Lebran,25,Centre-Back,UC AlbinoLeffe,0.0,Summer,2011,2011/2012
+Matteo Pisseri,20,Goalkeeper,Renate,0.0,Summer,2011,2011/2012
+Zé Eduardo,19,Defensive Midfield,Maga,0.0,Summer,2011,2011/2012
+Davide Colomba,22,Left Midfield,SPAL,0.0,Summer,2011,2011/2012
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,Summer,2011,2011/2012
+Gianluca Musacci,24,Central Midfield,Empoli,0.0,Summer,2011,2011/2012
+Gonçalo Brandão,24,Centre-Back,Siena,0.0,Summer,2011,2011/2012
+Jonathan Biabiany,23,Right Winger,Sampdoria,0.0,Summer,2011,2011/2012
+Jaime Valdés,30,midfield,Sporting CP,0.0,Summer,2011,2011/2012
+Diego Manzoni,20,Goalkeeper,Pergocrema,0.0,Summer,2011,2011/2012
+Blerim Dzemaili,25,Central Midfield,SSC Napoli,-9000000.0,Summer,2011,2011/2012
+Marco Rossi,23,Centre-Back,Cesena,-4000000.0,Summer,2011,2011/2012
+Valeri Bozhinov,25,Centre-Forward,Sporting CP,-2600000.0,Summer,2011,2011/2012
+Angelo,30,Right-Back,Siena,-2500000.0,Summer,2011,2011/2012
+Matteo Mandorlini,22,Central Midfield,Brescia,-1500000.0,Summer,2011,2011/2012
+Riccardo Pasi,20,Attacking Midfield,Bologna,-1500000.0,Summer,2011,2011/2012
+Fabio Borini,20,Left Winger,AS Roma,-1250000.0,Summer,2011,2011/2012
+Massimo Paci,33,Centre-Back,Novara,-300000.0,Summer,2011,2011/2012
+Marco Pisano,29,Left-Back,Vicenza,-150000.0,Summer,2011,2011/2012
+Riccardo Brosco,20,Centre-Back,Pescara,-100000.0,Summer,2011,2011/2012
+Pablo Fontanello,26,Centre-Back,Chornomorets,-100000.0,Summer,2011,2011/2012
+Paolo Castellini,32,Left-Back,Sampdoria,-50000.0,Summer,2011,2011/2012
+Alain Mendy,21,Central Midfield,AS Roma,0.0,Summer,2011,2011/2012
+Ronny Valerio,21,Right Winger,Renate,0.0,Summer,2011,2011/2012
+Emanuele Padella,22,Centre-Back,Grosseto,0.0,Summer,2011,2011/2012
+Filippo Savi,24,Central Midfield,FC Brüssel,0.0,Summer,2011,2011/2012
+Abel Gigli,20,Centre-Back,Fondi,0.0,Summer,2011,2011/2012
+Mário Rui,20,Left-Back,AS Gubbio,0.0,Summer,2011,2011/2012
+Francesco Pambianchi,22,Centre-Back,SPAL,0.0,Summer,2011,2011/2012
+Stefano Russo,22,Goalkeeper,ASG Nocerina,0.0,Summer,2011,2011/2012
+Paolo Dellafiore,26,Centre-Back,Novara,500,Summer,2011,2011/2012
+Luca Tedeschi,24,Centre-Back,Crotone,500,Summer,2011,2011/2012
+Angelo Bencivenga,20,Right-Back,Pro Vercelli,500,Summer,2011,2011/2012
+Alessandro Vecchi,20,Centre-Back,SPAL,0.0,Summer,2011,2011/2012
+Zsolt Tamási,21,Central Midfield,Ascoli,0.0,Summer,2011,2011/2012
+Diego Manzoni,20,Goalkeeper,Unknown,0.0,Summer,2011,2011/2012
+Mohamed Traoré,19,Right-Back,Foggia,0.0,Summer,2011,2011/2012
+Paolo Beatrizzotti,18,Attacking Midfield,Santarcangelo,0.0,Summer,2011,2011/2012
+Andrea Gasparri,22,Goalkeeper,Fondi,0.0,Summer,2011,2011/2012
+Amara Konate,20,Centre-Forward,Fondi,0.0,Summer,2011,2011/2012
+Francesco Lunardini,26,Defensive Midfield,AS Gubbio,0.0,Summer,2011,2011/2012
+Alberto Galuppo,25,Centre-Back,Foligno,0.0,Summer,2011,2011/2012
+Loris Formuso,21,Centre-Forward,Fondi,0.0,Summer,2011,2011/2012
+Manuel Coppola,29,Central Midfield,Empoli,0.0,Summer,2011,2011/2012
+Nicola Sansone,19,Left Winger,Crotone,0.0,Summer,2011,2011/2012
+Gabriele Paonessa,24,Attacking Midfield,AS Gubbio,0.0,Summer,2011,2011/2012
+Filipe Oliveira,27,Right Winger,Videoton FC,0.0,Summer,2011,2011/2012
+Andrea Rispoli,22,Right-Back,Sampdoria,0.0,Summer,2011,2011/2012
+Niccolò Galli,22,Central Midfield,Hellas Verona,0.0,Summer,2011,2011/2012
+Davide Colomba,23,Left Midfield,Crotone,0.0,Summer,2011,2011/2012
+Pietro Baccolo,21,Central Midfield,Frosinone,0.0,Summer,2011,2011/2012
+Alessio Manzoni,24,Central Midfield,Frosinone,0.0,Summer,2011,2011/2012
+Riccardo Capogna,23,Centre-Forward,Renate,0.0,Summer,2011,2011/2012
+Ivan Cacchioli,20,Goalkeeper,Pavia,0.0,Summer,2011,2011/2012
+Raffaele Schiavi,25,Centre-Back,Padova,0.0,Summer,2011,2011/2012
+Gianluca Lapadula,21,Centre-Forward,San Marino,0.0,Summer,2011,2011/2012
+Daniel Ciofani,26,Centre-Forward,AS Gubbio,0.0,Summer,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Viareggio,0.0,Summer,2011,2011/2012
+Abdou Doumbia,21,Left Winger,Como,0.0,Summer,2011,2011/2012
+Sebastian Giovinco,24,Second Striker,Juventus,0.0,Summer,2011,2011/2012
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,Summer,2011,2011/2012
+Amauri,31,Centre-Forward,Juventus,0.0,Summer,2011,2011/2012
+Toni Calvo,24,Right Winger,Aris Saloniki,0.0,Summer,2011,2011/2012
+Antonio Candreva,24,Right Midfield,Udinese Calcio,0.0,Summer,2011,2011/2012
+Zé Eduardo,19,Defensive Midfield,Maga,0.0,Summer,2011,2011/2012
+David Löfquist,25,Defensive Midfield,Mjällby AIF,0.0,Winter,2011,2011/2012
+Stefano Okaka,22,Centre-Forward,AS Roma,0.0,Winter,2011,2011/2012
+Paolo Beatrizzotti,19,Attacking Midfield,Santarcangelo,0.0,Winter,2011,2011/2012
+McDonald Mariga,24,Defensive Midfield,Inter,0.0,Winter,2011,2011/2012
+Stefano Ferrario,26,Centre-Back,Lecce,0.0,Winter,2011,2011/2012
+Jonathan,25,Right-Back,Inter,0.0,Winter,2011,2011/2012
+Fabio Borini,20,Left Winger,AS Roma,-7600000.0,Winter,2011,2011/2012
+Pablo Fontanello,27,Centre-Back,Chornomorets,-350000.0,Winter,2011,2011/2012
+Manuele Blasi,31,Central Midfield,Lecce,0.0,Winter,2011,2011/2012
+Francesco Finocchio,19,Right Midfield,Fondi,0.0,Winter,2011,2011/2012
+Zé Eduardo,20,Defensive Midfield,Empoli,0.0,Winter,2011,2011/2012
+Gabriele Paonessa,24,Attacking Midfield,Como,0.0,Winter,2011,2011/2012
+Riccardo Capogna,23,Centre-Forward,Pro Patria,0.0,Winter,2011,2011/2012
+David Löfquist,25,Defensive Midfield,AS Gubbio,0.0,Winter,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Arzanese,0.0,Winter,2011,2011/2012
+Graziano Pellè,26,Centre-Forward,Sampdoria,0.0,Winter,2011,2011/2012
+Abderrazzak Jadid,28,Central Midfield,Grosseto,0.0,Winter,2011,2011/2012
+Stefan Ristovski,19,Right-Back,Frosinone,0.0,Winter,2011,2011/2012
+Nwankwo Obiora,20,Defensive Midfield,AS Gubbio,0.0,Winter,2011,2011/2012
+Hernán Crespo,36,Centre-Forward,Retired,0.0,Winter,2011,2011/2012
+Matteo Rubin,24,Left-Back,Torino,0.0,Winter,2011,2011/2012
+Jonathan Biabiany,24,Right Winger,Sampdoria,4500000.0,Summer,2012,2012/2013
+Dorlan Pabón,24,Right Winger,Atl. Nacional,4000000.0,Summer,2012,2012/2013
+Andrea Rossi,25,Left-Back,Siena,3600000.0,Summer,2012,2012/2013
+Ishak Belfodil,20,Centre-Forward,Olympique Lyon,3500000.0,Summer,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Cesena,2000000.0,Summer,2012,2012/2013
+Jaime Valdés,31,midfield,Sporting CP,1800000.0,Summer,2012,2012/2013
+Raman Chibsah,19,Central Midfield,Juventus U19,1750000.0,Summer,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Empoli,1100000.0,Summer,2012,2012/2013
+Riccardo Casini,20,Defensive Midfield,Bologna U19,1000000.0,Summer,2012,2012/2013
+Marco Parolo,27,Central Midfield,Cesena,1000000.0,Summer,2012,2012/2013
+Fabiano Santacroce,25,Centre-Back,SSC Napoli,900000.0,Summer,2012,2012/2013
+Emilio Mac Eachen,20,Centre-Back,Peñarol,300000.0,Summer,2012,2012/2013
+Paolo Dellafiore,27,Centre-Back,Novara,250000.0,Summer,2012,2012/2013
+Ignacio Fideleff,23,Centre-Back,SSC Napoli,200000.0,Summer,2012,2012/2013
+Manuel Arteaga,18,Centre-Forward,Zulia FC,150000.0,Summer,2012,2012/2013
+Afriyie Acquah,20,Central Midfield,US Palermo,100000.0,Summer,2012,2012/2013
+Sotiris Ninis,22,Attacking Midfield,Panathinaikos,0.0,Summer,2012,2012/2013
+Amauri,32,Centre-Forward,Fiorentina,0.0,Summer,2012,2012/2013
+Pavol Bajza,20,Goalkeeper,Dubnica,0.0,Summer,2012,2012/2013
+Marco Marchionni,32,Right Midfield,Fiorentina,0.0,Summer,2012,2012/2013
+Mirko Pigliacelli,19,Goalkeeper,Roma U19,0.0,Summer,2012,2012/2013
+Alessandro Vecchi,21,Centre-Back,SPAL,0.0,Summer,2012,2012/2013
+Aleandro Rosi,25,Right-Back,AS Roma,0.0,Summer,2012,2012/2013
+Stefano Okaka,23,Centre-Forward,AS Roma,0.0,Summer,2012,2012/2013
+Solomon Enow,25,Centre-Back,Spezia Calcio,0.0,Summer,2012,2012/2013
+Nick Modaffari,20,Left-Back,Carpi,0.0,Summer,2012,2012/2013
+Bongoura Thiam,19,attack,US Tor di Quinto,0.0,Summer,2012,2012/2013
+Federico Meacci,20,Defensive Midfield,L'Aquila,0.0,Summer,2012,2012/2013
+Luca Tedeschi,25,Centre-Back,Crotone,0.0,Summer,2012,2012/2013
+Giuseppe Pacini,19,Right-Back,Siena,0.0,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Siena,0.0,Summer,2012,2012/2013
+Vittorio Fabris,19,Central Midfield,Vicenza U19,0.0,Summer,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Grosseto,0.0,Summer,2012,2012/2013
+Daniele Bazzoffia,24,Second Striker,AS Gubbio,0.0,Summer,2012,2012/2013
+Simone Smacchia,17,Second Striker,Gubbio U19,0.0,Summer,2012,2012/2013
+Filippo Cunsolo,23,attack,Losone,0.0,Summer,2012,2012/2013
+Diego De Giorgi,19,midfield,Casarano,0.0,Summer,2012,2012/2013
+Nicolò Stirati,20,attack,Pierantonio,0.0,Summer,2012,2012/2013
+Cristiano Bussi,22,Centre-Forward,Isola Liri,0.0,Summer,2012,2012/2013
+Gaetano Adamo,21,Centre-Back,AS Gubbio,0.0,Summer,2012,2012/2013
+Yohan Benalouane,25,Centre-Back,Cesena,0.0,Summer,2012,2012/2013
+Sebastian Giovinco,25,Second Striker,Juventus,-11000000.0,Summer,2012,2012/2013
+Manuel Coppola,30,Central Midfield,Siena,-3250000.0,Summer,2012,2012/2013
+Stefano Russo,23,Goalkeeper,Brescia,-1200000.0,Summer,2012,2012/2013
+Francesco Finocchio,20,Right Midfield,Bologna,-1000000.0,Summer,2012,2012/2013
+Francesco Valiani,31,Central Midfield,Siena,-100000.0,Summer,2012,2012/2013
+Amara Konate,21,Centre-Forward,Campobasso,0.0,Summer,2012,2012/2013
+Riccardo Capogna,24,Centre-Forward,Chieti,0.0,Summer,2012,2012/2013
+Francesco Lunardini,27,Defensive Midfield,San Marino,0.0,Summer,2012,2012/2013
+Loris Formuso,22,Centre-Forward,Grottaglie,0.0,Summer,2012,2012/2013
+Raffaele Schiavi,26,Centre-Back,Spezia Calcio,0.0,Summer,2012,2012/2013
+Mário Rui,21,Left-Back,Spezia Calcio,0.0,Summer,2012,2012/2013
+Abel Gigli,21,Centre-Back,Chieti,0.0,Summer,2012,2012/2013
+Francesco Pambianchi,23,Centre-Back,AS Gubbio,0.0,Summer,2012,2012/2013
+Luca Tedeschi,25,Centre-Back,Cremonese,0.0,Summer,2012,2012/2013
+Raman Chibsah,19,Central Midfield,Sassuolo,0.0,Summer,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Como,0.0,Summer,2012,2012/2013
+Alessandro Vecchi,21,Centre-Back,Mantova,0.0,Summer,2012,2012/2013
+Vittorio Fabris,19,Central Midfield,Feralpisalò,0.0,Summer,2012,2012/2013
+Daniele Bazzoffia,24,Second Striker,AS Gubbio,0.0,Summer,2012,2012/2013
+Domenico Mungo,19,Attacking Midfield,Chieti,0.0,Summer,2012,2012/2013
+Gianluca Lapadula,22,Centre-Forward,Cesena,0.0,Summer,2012,2012/2013
+Niccolò Galli,23,Central Midfield,Padova,0.0,Summer,2012,2012/2013
+Grégoire Defrel,21,Centre-Forward,Cesena,0.0,Summer,2012,2012/2013
+Davide Colomba,23,Left Midfield,Ascoli,0.0,Summer,2012,2012/2013
+Alberto Galuppo,26,Centre-Back,Siena,0.0,Summer,2012,2012/2013
+Abdou Doumbia,22,Left Winger,Siena,0.0,Summer,2012,2012/2013
+Filipe Oliveira,28,Right Winger,Videoton FC,0.0,Summer,2012,2012/2013
+Abderrazzak Jadid,29,Central Midfield,Grosseto,0.0,Summer,2012,2012/2013
+Paolo Dellafiore,27,Centre-Back,Siena,0.0,Summer,2012,2012/2013
+Paolo Castellini,33,Left-Back,Sampdoria,0.0,Summer,2012,2012/2013
+Milan Djuric,22,Centre-Forward,Cesena,0.0,Summer,2012,2012/2013
+Pietro Baccolo,22,Central Midfield,AS Gubbio,0.0,Summer,2012,2012/2013
+Gaetano Adamo,21,Centre-Back,GC Biaschesi,0.0,Summer,2012,2012/2013
+Paolo Beatrizzotti,19,Attacking Midfield,Santarcangelo,0.0,Summer,2012,2012/2013
+Filippo Cunsolo,23,attack,GC Biaschesi,0.0,Summer,2012,2012/2013
+Rolf Feltscher,21,Right-Back,Padova,0.0,Summer,2012,2012/2013
+Danilo Pereira,20,Defensive Midfield,Roda JC,0.0,Summer,2012,2012/2013
+Matteo Pisseri,20,Goalkeeper,Catanzaro,0.0,Summer,2012,2012/2013
+Andrea Rispoli,23,Right-Back,Padova,0.0,Summer,2012,2012/2013
+Nwankwo Obiora,20,Defensive Midfield,Padova,0.0,Summer,2012,2012/2013
+Zé Eduardo,20,Defensive Midfield,Padova,0.0,Summer,2012,2012/2013
+Antonio Santurro,20,Goalkeeper,Renate,0.0,Summer,2012,2012/2013
+Stefan Ristovski,20,Right-Back,Bari,0.0,Summer,2012,2012/2013
+Alessandro De Vitis,20,Defensive Midfield,Padova,0.0,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Cesena,0.0,Summer,2012,2012/2013
+Fabio Lebran,25,Centre-Back,Perugia,0.0,Summer,2012,2012/2013
+Riccardo Casini,20,Defensive Midfield,Prato,0.0,Summer,2012,2012/2013
+Andrea Rossi,25,Left-Back,Cesena,0.0,Summer,2012,2012/2013
+Alessandro Elia,22,Centre-Forward,Arzanese,0.0,Summer,2012,2012/2013
+Daniel Ciofani,27,Centre-Forward,Perugia,0.0,Summer,2012,2012/2013
+Bright Addae,19,Defensive Midfield,Crotone,0.0,Summer,2012,2012/2013
+Mirko Pigliacelli,19,Goalkeeper,Sassuolo,0.0,Summer,2012,2012/2013
+Gabriele Paonessa,25,Attacking Midfield,Perugia,0.0,Summer,2012,2012/2013
+Alessio Manzoni,25,Central Midfield,AS Gubbio,0.0,Summer,2012,2012/2013
+Stefano Okaka,23,Centre-Forward,Spezia Calcio,0.0,Summer,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Foligno,0.0,Summer,2012,2012/2013
+Graziano Pellè,27,Centre-Forward,Feyenoord,0.0,Summer,2012,2012/2013
+Francesco Modesto,30,Left-Back,Pescara,0.0,Summer,2012,2012/2013
+Simone Smacchia,17,Second Striker,Spezia U19,0.0,Summer,2012,2012/2013
+Simone Malatesta,30,Centre-Forward,Carrarese,0.0,Summer,2012,2012/2013
+David Löfquist,26,Defensive Midfield,Malmö FF,0.0,Summer,2012,2012/2013
+Nick Modaffari,20,Left-Back,Bellaria IM,0.0,Summer,2012,2012/2013
+Giuseppe Pacini,20,Right-Back,Fondi,0.0,Summer,2012,2012/2013
+Ivan Cacchioli,21,Goalkeeper,Fondi,0.0,Summer,2012,2012/2013
+Bongoura Thiam,19,attack,Bellaria IM,0.0,Summer,2012,2012/2013
+Calvin Lovric,19,Centre-Back,Bellaria IM,0.0,Summer,2012,2012/2013
+Federico Meacci,20,Defensive Midfield,Bellaria IM,0.0,Summer,2012,2012/2013
+Solomon Enow,25,Centre-Back,Unirea Dej,0.0,Summer,2012,2012/2013
+Diego De Giorgi,19,midfield,Fondi,0.0,Summer,2012,2012/2013
+Cristiano Bussi,22,Centre-Forward,Campobasso,0.0,Summer,2012,2012/2013
+Cristiano Lucarelli,36,Centre-Forward,Retired,0.0,Summer,2012,2012/2013
+Sulaiman Sesay-Fullah,20,Left Winger,Without Club,0.0,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Siena,0.0,Summer,2012,2012/2013
+Jonathan Biabiany,24,Right Winger,Sampdoria,0.0,Summer,2012,2012/2013
+Fabiano Santacroce,25,Centre-Back,SSC Napoli,0.0,Summer,2012,2012/2013
+Jaime Valdés,31,midfield,Sporting CP,0.0,Summer,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Empoli,0.0,Summer,2012,2012/2013
+Sergio Floccari,30,Centre-Forward,Lazio,0.0,Summer,2012,2012/2013
+Jonathan,26,Right-Back,Inter,0.0,Summer,2012,2012/2013
+Stefano Okaka,22,Centre-Forward,AS Roma,0.0,Summer,2012,2012/2013
+Stefano Ferrario,27,Centre-Back,Lecce,0.0,Summer,2012,2012/2013
+McDonald Mariga,25,Defensive Midfield,Inter,0.0,Summer,2012,2012/2013
+Alessandro Iacobucci,21,Goalkeeper,Siena,3400000.0,Winter,2012,2012/2013
+Álvaro Ampuero,20,Left-Back,Universitario,400000.0,Winter,2012,2012/2013
+Vincenzo Giannusa,31,Central Midfield,AJ Fano,0.0,Winter,2012,2012/2013
+Lazaros Fotias,21,Centre-Back,Anag.Epanomis,0.0,Winter,2012,2012/2013
+Rodney Strasser,22,Defensive Midfield,AC Milan,0.0,Winter,2012,2012/2013
+Filippo Boniperti,21,Right Winger,Juventus,0.0,Winter,2012,2012/2013
+Djamel Mesbah,28,Left-Back,AC Milan,0.0,Winter,2012,2012/2013
+Mohamed Traoré,21,Right-Back,Crotone,0.0,Winter,2012,2012/2013
+Tommaso Cancelloni,20,Centre-Back,SS Milazzo,0.0,Winter,2012,2012/2013
+Simone Bezziccheri,19,Right Winger,Arezzo,0.0,Winter,2012,2012/2013
+McDonald Mariga,25,Defensive Midfield,Inter,0.0,Winter,2012,2012/2013
+Andrea Coda,27,Centre-Back,Udinese Calcio,0.0,Winter,2012,2012/2013
+Cristian Zaccardo,31,Centre-Back,AC Milan,-3000000.0,Winter,2012,2012/2013
+Marco Firenze,19,Central Midfield,Giacomense,0.0,Winter,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Santarcangelo,0.0,Winter,2012,2012/2013
+Lazaros Fotias,21,Centre-Back,Kaposvár,0.0,Winter,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Spezia Calcio,0.0,Winter,2012,2012/2013
+Gabriele Paonessa,25,Attacking Midfield,Crotone,0.0,Winter,2012,2012/2013
+Angelo Bencivenga,21,Right-Back,Ternana,0.0,Winter,2012,2012/2013
+Dorlan Pabón,25,Right Winger,Real Betis,0.0,Winter,2012,2012/2013
+Godfred Adofo,19,Defensive Midfield,UTA Arad,0.0,Winter,2012,2012/2013
+Simone Smacchia,18,Second Striker,AS Gubbio,0.0,Winter,2012,2012/2013
+Nwankwo Obiora,21,Defensive Midfield,CFR Cluj,0.0,Winter,2012,2012/2013
+Federico Meacci,21,Defensive Midfield,Gavorrano,0.0,Winter,2012,2012/2013
+Simone Bezziccheri,19,Right Winger,Fondi,0.0,Winter,2012,2012/2013
+Calvin Lovric,20,Centre-Back,SC Kriens II,0.0,Winter,2012,2012/2013
+Vincenzo Giannusa,31,Central Midfield,Fondi,0.0,Winter,2012,2012/2013
+Tommaso Cancelloni,20,Centre-Back,Savona,0.0,Winter,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Savona,0.0,Winter,2012,2012/2013
+Rolf Feltscher,22,Right-Back,Grosseto,0.0,Winter,2012,2012/2013
+Andrea Rossi,26,Left-Back,Bari,0.0,Winter,2012,2012/2013
+Michele Bentoglio,19,midfield,Vallée d’Aoste,0.0,Winter,2012,2012/2013
+David Löfquist,26,Defensive Midfield,Odense BK,0.0,Winter,2012,2012/2013
+Afriyie Acquah,21,Central Midfield,US Palermo,0.0,Winter,2012,2012/2013
+Ignacio Fideleff,23,Centre-Back,SSC Napoli,0.0,Winter,2012,2012/2013
+Marco Parolo,28,Central Midfield,Cesena,3000000.0,Summer,2013,2013/2014
+Daniele Gragnoli,19,Centre-Forward,Ascoli,1600000.0,Summer,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,Bologna,1000000.0,Summer,2013,2013/2014
+Denilson Gabionetta,27,Right Winger,Crotone,1000000.0,Summer,2013,2013/2014
+Gianni Munari,30,Central Midfield,Sampdoria,1000000.0,Summer,2013,2013/2014
+Luca Ceppitelli,24,Centre-Back,Bari,1000000.0,Summer,2013,2013/2014
+Stefano Russo,24,Goalkeeper,Brescia,800000.0,Summer,2013,2013/2014
+Slawomir Peszko,28,Left Winger,1. FC Köln,620000.0,Summer,2013,2013/2014
+Filip Jankovic,18,Central Midfield,Red Star U19,500000.0,Summer,2013,2013/2014
+Mory Koné,19,Centre-Back,Le Mans FC,500000.0,Summer,2013,2013/2014
+Carlos García,20,Centre-Back,Juventus,500000.0,Summer,2013,2013/2014
+Massimo Loviso,29,Defensive Midfield,Crotone,400000.0,Summer,2013,2013/2014
+Tomas Danilevicius,35,Centre-Forward,Latina Calcio,400000.0,Summer,2013,2013/2014
+Zouhair Feddal,23,Centre-Back,FUS Rabat,350000.0,Summer,2013,2013/2014
+Alessandro Favalli,20,Left-Back,Cremonese,250000.0,Summer,2013,2013/2014
+Alessandro Ligi,23,Centre-Back,Crotone,150000.0,Summer,2013,2013/2014
+Andrea Brighenti,25,Centre-Forward,Renate,77000.0,Summer,2013,2013/2014
+Giuliano Laezza,19,Centre-Back,Arzanese,75000.0,Summer,2013,2013/2014
+Simone Palermo,24,Central Midfield,AS Gubbio,70000.0,Summer,2013,2013/2014
+Pedro Mendes,22,Centre-Back,Sporting B,0.0,Summer,2013,2013/2014
+Gennaro Scognamiglio,26,Centre-Back,Juve Stabia,0.0,Summer,2013,2013/2014
+Jorman Aguilar,18,Centre-Forward,Río Abajo,0.0,Summer,2013,2013/2014
+Tomislav Saric,23,Central Midfield,Inter Zapresic,0.0,Summer,2013,2013/2014
+Nicola Russo,21,Left Winger,ASG Nocerina,0.0,Summer,2013,2013/2014
+Alex Cordaz,30,Goalkeeper,Cittadella,0.0,Summer,2013,2013/2014
+Luca Berardocco,22,Defensive Midfield,Pescara,0.0,Summer,2013,2013/2014
+Giuseppe Prestia,19,Centre-Back,US Palermo,0.0,Summer,2013,2013/2014
+Abdelaye Diakite,23,Centre-Back,Aprilia,0.0,Summer,2013,2013/2014
+Francesco Rapisarda,21,Right-Back,L'Aquila,0.0,Summer,2013,2013/2014
+Matteo Bibba,21,Goalkeeper,Casale,0.0,Summer,2013,2013/2014
+Stefano Rossini,22,Central Midfield,Fondi,0.0,Summer,2013,2013/2014
+Soufiane Bidaoui,23,Left Winger,Lierse SK,0.0,Summer,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,CA Cerro,0.0,Summer,2013,2013/2014
+Uros Celcer,24,Left-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Angelo Tartaglia,20,Centre-Back,Andria,0.0,Summer,2013,2013/2014
+Cristiano Spirito,21,Right-Back,Melfi,0.0,Summer,2013,2013/2014
+Paolo Dametto,20,Centre-Back,Cagliari Calcio,0.0,Summer,2013,2013/2014
+Robert Stillo,22,Goalkeeper,Genoa,0.0,Summer,2013,2013/2014
+Giordano Maccarrone,23,Centre-Back,Catania,0.0,Summer,2013,2013/2014
+Nicolas Sumsky,19,midfield,Bohemians 1905,0.0,Summer,2013,2013/2014
+Gianvito Misuraca,23,Central Midfield,Vicenza,0.0,Summer,2013,2013/2014
+Carlo Crialese,20,Left-Back,Vigor Lamezia,0.0,Summer,2013,2013/2014
+Pietro Tripoli,26,attack,Varese,0.0,Summer,2013,2013/2014
+Alessandro Luparini,20,Centre-Forward,Spoleto,0.0,Summer,2013,2013/2014
+Gabriele Puccio,23,Central Midfield,Monza,0.0,Summer,2013,2013/2014
+Marco Modolo,24,Centre-Back,Pro Vercelli,0.0,Summer,2013,2013/2014
+Nabil Taïder,30,Central Midfield,Como,0.0,Summer,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Sorrento,0.0,Summer,2013,2013/2014
+Mirko Velardi,25,Central Midfield,US Palermo,0.0,Summer,2013,2013/2014
+Carmine De Sena,21,Centre-Forward,Portogruaro,0.0,Summer,2013,2013/2014
+Vicente,24,Defensive Midfield,Padova,0.0,Summer,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Siena,0.0,Summer,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Tauras,0.0,Summer,2013,2013/2014
+Mauro Cerquetani,19,Right-Back,Cavese,0.0,Summer,2013,2013/2014
+Simon Gentili,23,midfield,Arezzo,0.0,Summer,2013,2013/2014
+Matteo Bellucci,21,attack,La Storta,0.0,Summer,2013,2013/2014
+Edoardo Pacini,22,Right Midfield,Bellaria IM,0.0,Summer,2013,2013/2014
+Emmanuel Cascione,29,Central Midfield,Pescara,0.0,Summer,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Spezia Calcio,0.0,Summer,2013,2013/2014
+Mattia De Deo,21,Goalkeeper,Riccione 1929,0.0,Summer,2013,2013/2014
+Cristobal Jorquera,25,Central Midfield,Genoa,0.0,Summer,2013,2013/2014
+Tommaso Domini,23,Right Midfield,Ribelle,0.0,Summer,2013,2013/2014
+Antonio Stelitano,25,Right-Back,Turnu-Severin,0.0,Summer,2013,2013/2014
+Walter Gargano,29,Defensive Midfield,SSC Napoli,0.0,Summer,2013,2013/2014
+Riccardo Brosco,22,Centre-Back,Pescara,500,Summer,2013,2013/2014
+Mario Dragone,18,Right Midfield,Arzanese,0.0,Summer,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,Arzanese,0.0,Summer,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Cesena,0.0,Summer,2013,2013/2014
+Luca Fiordiani,21,midfield,Foligno,0.0,Summer,2013,2013/2014
+Gianluca Lapadula,23,Centre-Forward,Cesena,0.0,Summer,2013,2013/2014
+Antonio Maglia,17,Central Midfield,Vigor Lamezia Y,0.0,Summer,2013,2013/2014
+Massimo Coda,24,Centre-Forward,San Marino,0.0,Summer,2013,2013/2014
+Giovanbattista Catalano,19,Left Winger,Vigor Lamezia,0.0,Summer,2013,2013/2014
+Alen Jogan,27,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Felipe,28,Centre-Back,Fiorentina,0.0,Summer,2013,2013/2014
+Giuseppe Caccavallo,26,Right Winger,Crotone,0.0,Summer,2013,2013/2014
+Alessandro Ferretti,19,midfield,Foligno U19,0.0,Summer,2013,2013/2014
+Alessandro Piacenti,20,Goalkeeper,Foligno,0.0,Summer,2013,2013/2014
+Luigi Del Giudice,19,Defensive Midfield,Imperia,0.0,Summer,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Poggibonsi,0.0,Summer,2013,2013/2014
+Matteo Gaudiano,20,midfield,Fondi,0.0,Summer,2013,2013/2014
+Alberto Giuliatto,29,Left-Back,ASG Nocerina,0.0,Summer,2013,2013/2014
+Lorenzo Pasqualini,23,Left-Back,Ascoli,0.0,Summer,2013,2013/2014
+Cosimo Chiricò,21,Right Winger,Lecce,0.0,Summer,2013,2013/2014
+Francesco Checcucci,24,Centre-Back,Crotone,0.0,Summer,2013,2013/2014
+Vito Falconieri,27,Centre-Forward,Ascoli,0.0,Summer,2013,2013/2014
+Andrea Giallombardo,32,Left-Back,Ascoli,0.0,Summer,2013,2013/2014
+Ronaldo Vanin,30,Right-Back,Lecce,0.0,Summer,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,Savona,0.0,Summer,2013,2013/2014
+Mikael Ishak,20,Centre-Forward,1. FC Köln,0.0,Summer,2013,2013/2014
+Sem Kamana,19,Centre-Back,Juve Stabia,0.0,Summer,2013,2013/2014
+Matteo Legittimo,24,Left-Back,Lecce,0.0,Summer,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,SS Milazzo,0.0,Summer,2013,2013/2014
+Abdelkader Ghezzal,28,Centre-Forward,Bari,0.0,Summer,2013,2013/2014
+Raffaele Rosato,19,Centre-Back,Taranto,0.0,Summer,2013,2013/2014
+Abdou Doumbia,23,Left Winger,Siena,0.0,Summer,2013,2013/2014
+Vincenzo Perna,18,Defensive Midfield,Arzanese,0.0,Summer,2013,2013/2014
+Antonio Cassano,30,Second Striker,Inter,0.0,Summer,2013,2013/2014
+Afriyie Acquah,21,Central Midfield,TSG Hoffenheim,0.0,Summer,2013,2013/2014
+Mattia Cassani,29,Right-Back,Fiorentina,0.0,Summer,2013,2013/2014
+Joel Obi,22,Central Midfield,Inter,0.0,Summer,2013,2013/2014
+Alberto Cerri,17,Centre-Forward,Parma FC Youth,0.0,Summer,2013,2013/2014
+José Mauri,17,Central Midfield,Parma FC Youth,0.0,Summer,2013,2013/2014
+Alberto Ricter,20,Centre-Forward,Parma U19,0.0,Summer,2013,2013/2014
+Ishak Belfodil,21,Centre-Forward,Inter,-5750000.0,Summer,2013,2013/2014
+Raman Chibsah,20,Central Midfield,Sassuolo,-5000000.0,Summer,2013,2013/2014
+Dorlan Pabón,25,Right Winger,Monterrey,-4830000.0,Summer,2013,2013/2014
+Graziano Pellè,27,Centre-Forward,Feyenoord,-3000000.0,Summer,2013,2013/2014
+Alessandro De Vitis,21,Defensive Midfield,Sampdoria,-2300000.0,Summer,2013,2013/2014
+Riccardo Casini,21,Defensive Midfield,Bologna,-2000000.0,Summer,2013,2013/2014
+Alberto Gallinetta,21,Goalkeeper,Juventus,-1780000.0,Summer,2013,2013/2014
+Emiliano Storani,20,Second Striker,Ascoli,-1600000.0,Summer,2013,2013/2014
+Andrea Brighenti,25,Centre-Forward,Cremonese,-250000.0,Summer,2013,2013/2014
+Giuliano Laezza,19,Centre-Back,AS Gubbio,-200000.0,Summer,2013,2013/2014
+Francesco Rapisarda,21,Right-Back,Vigor Lamezia,-100000.0,Summer,2013,2013/2014
+Simone Palermo,24,Central Midfield,Cremonese,-100000.0,Summer,2013,2013/2014
+Vittorio Fabris,20,Central Midfield,Feralpisalò,-60000.0,Summer,2013,2013/2014
+Francesco Modesto,31,Left-Back,Padova,0.0,Summer,2013,2013/2014
+Giuseppe Prestia,19,Centre-Back,Crotone,0.0,Summer,2013,2013/2014
+Danilo Pereira,21,Defensive Midfield,Marítimo,0.0,Summer,2013,2013/2014
+Rolf Feltscher,22,Right-Back,Lausanne-Sport,0.0,Summer,2013,2013/2014
+Domenico Morabito,19,midfield,San Lazzaro,0.0,Summer,2013,2013/2014
+Mário Rui,22,Left-Back,Empoli,0.0,Summer,2013,2013/2014
+Nicola Russo,21,Left Winger,AS Gubbio,0.0,Summer,2013,2013/2014
+Gonçalo Brandão,26,Centre-Back,CFR Cluj,0.0,Summer,2013,2013/2014
+Raffaele Schiavi,27,Centre-Back,Pescara,0.0,Summer,2013,2013/2014
+Mattia Sandrini,19,Right Winger,Real Vicenza,0.0,Summer,2013,2013/2014
+Andrea Rossi,26,Left-Back,Pescara,0.0,Summer,2013,2013/2014
+Daniele Bernasconi,20,Centre-Forward,Renate,0.0,Summer,2013,2013/2014
+Abel Gigli,22,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Domenico Mungo,20,Attacking Midfield,Perugia,0.0,Summer,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,Trapani,0.0,Summer,2013,2013/2014
+Luca Berardocco,22,Defensive Midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Gennaro Scognamiglio,26,Centre-Back,Perugia,0.0,Summer,2013,2013/2014
+Giuseppe Caccavallo,26,Right Winger,AS Gubbio,0.0,Summer,2013,2013/2014
+Gianvito Misuraca,23,Central Midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Carmine De Sena,21,Centre-Forward,Paganese,0.0,Summer,2013,2013/2014
+Alessandro Favalli,20,Left-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Francesco Checcucci,24,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Carlo Crialese,20,Left-Back,ASG Nocerina,0.0,Summer,2013,2013/2014
+Lorenzo Pasqualini,23,Left-Back,Crotone,0.0,Summer,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,APS Zakynthos,0.0,Summer,2013,2013/2014
+Slawomir Peszko,28,Left Winger,1. FC Köln,0.0,Summer,2013,2013/2014
+Luca Tedeschi,26,Centre-Back,Grosseto,0.0,Summer,2013,2013/2014
+Francesco Pambianchi,24,Centre-Back,Foggia,0.0,Summer,2013,2013/2014
+Matteo Legittimo,24,Left-Back,Grosseto,0.0,Summer,2013,2013/2014
+Stefano Russo,24,Goalkeeper,Ascoli,0.0,Summer,2013,2013/2014
+Lazaros Fotias,22,Centre-Back,APS Zakynthos,0.0,Summer,2013,2013/2014
+Giovanbattista Catalano,19,Left Winger,Rimini,0.0,Summer,2013,2013/2014
+Andrea Marteddu,20,Central Midfield,Rimini,0.0,Summer,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Savona,0.0,Summer,2013,2013/2014
+Luigi Palumbo,22,Centre-Back,Cesena,0.0,Summer,2013,2013/2014
+Nicola Del Pivo,21,Central Midfield,Cesena,0.0,Summer,2013,2013/2014
+Diego Mella,20,Attacking Midfield,Inter,0.0,Summer,2013,2013/2014
+Jacopo Galimberti,20,Centre-Back,Inter,0.0,Summer,2013,2013/2014
+Daniel Ciofani,27,Centre-Forward,Frosinone,0.0,Summer,2013,2013/2014
+Nwankwo Obiora,21,Defensive Midfield,CFR Cluj,0.0,Summer,2013,2013/2014
+Tomislav Saric,23,Central Midfield,Crotone,0.0,Summer,2013,2013/2014
+Milos Malivojevic,20,midfield,Vicenza,0.0,Summer,2013,2013/2014
+Vincenzo Giannusa,32,Central Midfield,Arzanese,0.0,Summer,2013,2013/2014
+Simone Bezziccheri,20,Right Winger,Qormi FC,0.0,Summer,2013,2013/2014
+Nicolò Belotti,20,Right Midfield,Brescia,0.0,Summer,2013,2013/2014
+Nick Modaffari,21,Left-Back,VIS,0.0,Summer,2013,2013/2014
+Matteo Ghirardi,18,defence,Valtarese,0.0,Summer,2013,2013/2014
+Simone Ciboldi,18,defence,Rimini,0.0,Summer,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,AS Gubbio,0.0,Summer,2013,2013/2014
+Alex Cordaz,30,Goalkeeper,ND Gorica,0.0,Summer,2013,2013/2014
+Bright Addae,20,Defensive Midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Daniele Bazzoffia,25,Second Striker,ND Gorica,0.0,Summer,2013,2013/2014
+Jorman Aguilar,18,Centre-Forward,ND Gorica,0.0,Summer,2013,2013/2014
+Mirko Pigliacelli,20,Goalkeeper,Pescara,0.0,Summer,2013,2013/2014
+Stefano Rossini,22,Central Midfield,Vigor Lamezia,0.0,Summer,2013,2013/2014
+Matteo Bibba,21,Goalkeeper,Vigor Lamezia,0.0,Summer,2013,2013/2014
+Diego De Giorgi,20,midfield,Vigor Lamezia,0.0,Summer,2013,2013/2014
+Alessandro Iacobucci,22,Goalkeeper,Latina Calcio,0.0,Summer,2013,2013/2014
+Riccardo Brosco,22,Centre-Back,Latina Calcio,0.0,Summer,2013,2013/2014
+Cristian Pedrinelli,20,Attacking Midfield,Renate,0.0,Summer,2013,2013/2014
+Stefan Ristovski,21,Right-Back,Latina Calcio,0.0,Summer,2013,2013/2014
+Angelo Tartaglia,20,Centre-Back,AS Gubbio,0.0,Summer,2013,2013/2014
+Ivan Cacchioli,22,Goalkeeper,AS Gubbio,0.0,Summer,2013,2013/2014
+Mattia Sprocati,20,Right Winger,Perugia,0.0,Summer,2013,2013/2014
+Yves Bationo,19,Central Midfield,Perugia,0.0,Summer,2013,2013/2014
+Cristiano Spirito,21,Right-Back,Savona,0.0,Summer,2013,2013/2014
+Massimo Coda,24,Centre-Forward,ND Gorica,0.0,Summer,2013,2013/2014
+Gianluca Lapadula,23,Centre-Forward,ND Gorica,0.0,Summer,2013,2013/2014
+Mohamed Traoré,21,Right-Back,AS Gubbio,0.0,Summer,2013,2013/2014
+Matteo Pisseri,21,Goalkeeper,AS Gubbio,0.0,Summer,2013,2013/2014
+Solomon Enow,26,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Massimo Loviso,29,Defensive Midfield,Cremonese,0.0,Summer,2013,2013/2014
+Fabio Lebran,26,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Alen Jogan,27,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Uros Celcer,24,Left-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Álvaro Ampuero,20,Left-Back,Padova,0.0,Summer,2013,2013/2014
+Nicolas Sumsky,19,midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Soufiane Bidaoui,23,Left Winger,Crotone,0.0,Summer,2013,2013/2014
+Matteo Gaudiano,20,midfield,Savona,0.0,Summer,2013,2013/2014
+Giordano Maccarrone,23,Centre-Back,Savona,0.0,Summer,2013,2013/2014
+Alberto Ricter,20,Centre-Forward,Savona,0.0,Summer,2013,2013/2014
+Denilson Gabionetta,27,Right Winger,CFR Cluj,0.0,Summer,2013,2013/2014
+Alessandro Luparini,20,Centre-Forward,AS Gubbio,0.0,Summer,2013,2013/2014
+Alberto Giuliatto,29,Left-Back,Savona,0.0,Summer,2013,2013/2014
+Cosimo Chiricò,21,Right Winger,Latina Calcio,0.0,Summer,2013,2013/2014
+Robert Stillo,22,Goalkeeper,Perugia,0.0,Summer,2013,2013/2014
+Gabriele Puccio,23,Central Midfield,Savona,0.0,Summer,2013,2013/2014
+Mauro Cioffi,19,Centre-Forward,Paganese,0.0,Summer,2013,2013/2014
+Mirko Velardi,25,Central Midfield,Paganese,0.0,Summer,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,Crotone,0.0,Summer,2013,2013/2014
+Angelo Bencivenga,22,Right-Back,Lecce,0.0,Summer,2013,2013/2014
+Zé Eduardo,21,Defensive Midfield,OFI Crete FC,0.0,Summer,2013,2013/2014
+Fabiano Santacroce,26,Centre-Back,Padova,0.0,Summer,2013,2013/2014
+Paolo Dametto,20,Centre-Back,Reggiana,0.0,Summer,2013,2013/2014
+Gianluca Musacci,26,Central Midfield,Padova,0.0,Summer,2013,2013/2014
+Filippo Boniperti,21,Right Winger,Crotone,0.0,Summer,2013,2013/2014
+Vito Falconieri,27,Centre-Forward,AS Gubbio,0.0,Summer,2013,2013/2014
+Andrea Giallombardo,32,Left-Back,AS Gubbio,0.0,Summer,2013,2013/2014
+Pietro Tripoli,26,attack,Ascoli,0.0,Summer,2013,2013/2014
+Vicente,24,Defensive Midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Daniele Gragnoli,19,Centre-Forward,Ascoli,0.0,Summer,2013,2013/2014
+Simone Malatesta,31,Centre-Forward,Ascoli,0.0,Summer,2013,2013/2014
+Simon Gentili,23,midfield,Gavorrano,0.0,Summer,2013,2013/2014
+Matteo Bellucci,22,attack,Gavorrano,0.0,Summer,2013,2013/2014
+Federico Meacci,21,Defensive Midfield,Gavorrano,0.0,Summer,2013,2013/2014
+Luca Fiordiani,21,midfield,Gavorrano,0.0,Summer,2013,2013/2014
+Tomas Danilevicius,35,Centre-Forward,ND Gorica,0.0,Summer,2013,2013/2014
+Stefano Morrone,34,Central Midfield,Latina Calcio,0.0,Summer,2013,2013/2014
+Edoardo Pacini,22,Right Midfield,Teramo,0.0,Summer,2013,2013/2014
+Mikael Ishak,20,Centre-Forward,Crotone,0.0,Summer,2013,2013/2014
+Alessandro Piacenti,20,Goalkeeper,Ascoli,0.0,Summer,2013,2013/2014
+Sem Kamana,19,Centre-Back,ASG Nocerina,0.0,Summer,2013,2013/2014
+Ronaldo Vanin,30,Right-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Emmanuel Cascione,29,Central Midfield,Cesena,0.0,Summer,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Ascoli,0.0,Summer,2013,2013/2014
+Abdou Doumbia,23,Left Winger,Lecce,0.0,Summer,2013,2013/2014
+Zouhair Feddal,23,Centre-Back,Siena,0.0,Summer,2013,2013/2014
+Abdelkader Ghezzal,28,Centre-Forward,Latina Calcio,0.0,Summer,2013,2013/2014
+Mauro Cerquetani,19,Right-Back,APS Zakynthos,0.0,Summer,2013,2013/2014
+Giuseppe Pasquariello,20,attack,Aversa Norm.,0.0,Summer,2013,2013/2014
+Sotiris Ninis,23,Attacking Midfield,PAOK Salonika,0.0,Summer,2013,2013/2014
+Andrea Rispoli,24,Right-Back,Ternana,0.0,Summer,2013,2013/2014
+Matteo Mantovani,20,defence,Foggia,0.0,Summer,2013,2013/2014
+Luigi Del Giudice,19,Defensive Midfield,Qormi FC,0.0,Summer,2013,2013/2014
+Alessandro Elia,23,Centre-Forward,Chieti,0.0,Summer,2013,2013/2014
+Carlos García,20,Centre-Back,Brönshöj BK,0.0,Summer,2013,2013/2014
+Antonio Maglia,17,Central Midfield,Chieti,0.0,Summer,2013,2013/2014
+Nicolò Stirati,20,attack,Torres,0.0,Summer,2013,2013/2014
+Alessandro Ferretti,19,midfield,Bellaria IM,0.0,Summer,2013,2013/2014
+Nabil Taïder,30,Central Midfield,ND Gorica,0.0,Summer,2013,2013/2014
+Cristobal Jorquera,25,Central Midfield,Eskisehirspor,0.0,Summer,2013,2013/2014
+Giuseppe Pacini,20,Right-Back,Arzanese,0.0,Summer,2013,2013/2014
+Michele Bentoglio,19,midfield,L'Aquila,0.0,Summer,2013,2013/2014
+Simone Smacchia,18,Second Striker,Teramo,0.0,Summer,2013,2013/2014
+Calvin Lovric,20,Centre-Back,Hércules CF B,0.0,Summer,2013,2013/2014
+Mattia De Deo,21,Goalkeeper,Bellaria IM,0.0,Summer,2013,2013/2014
+Simone Ciciotti,19,defence,Teramo,0.0,Summer,2013,2013/2014
+Marco Modolo,24,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,Mosta FC,0.0,Summer,2013,2013/2014
+Mario Dragone,18,Right Midfield,Mariano Keller,0.0,Summer,2013,2013/2014
+Tommaso Cancelloni,21,Centre-Back,Rimini,0.0,Summer,2013,2013/2014
+Abdelaye Diakite,23,Centre-Back,ND Gorica,0.0,Summer,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Qormi FC,0.0,Summer,2013,2013/2014
+Tommaso Domini,24,Right Midfield,AS Gubbio,0.0,Summer,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Mosta FC,0.0,Summer,2013,2013/2014
+Luca Ceppitelli,24,Centre-Back,Bari,0.0,Summer,2013,2013/2014
+Raffaele Rosato,19,Centre-Back,ASG Nocerina,0.0,Summer,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Cuneo,0.0,Summer,2013,2013/2014
+Cristiano Bussi,23,Centre-Forward,Rimini,0.0,Summer,2013,2013/2014
+Vincenzo Perna,18,Defensive Midfield,Fondi,0.0,Summer,2013,2013/2014
+Alessandro Ligi,23,Centre-Back,Crotone,0.0,Summer,2013,2013/2014
+Alessio Manzoni,26,Central Midfield,Without Club,0.0,Summer,2013,2013/2014
+Hervé Diedhiou,20,Centre-Back,Without Club,0.0,Summer,2013,2013/2014
+Marco Parolo,28,Central Midfield,Cesena,0.0,Summer,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Cesena,0.0,Summer,2013,2013/2014
+Manuel Arteaga,19,Centre-Forward,Zulia FC,0.0,Summer,2013,2013/2014
+Rodney Strasser,23,Defensive Midfield,AC Milan,0.0,Summer,2013,2013/2014
+Andrea Coda,28,Centre-Back,Udinese Calcio,0.0,Summer,2013,2013/2014
+McDonald Mariga,26,Defensive Midfield,Inter,0.0,Summer,2013,2013/2014
+Emilio Mac Eachen,21,Centre-Back,Peñarol,0.0,Summer,2013,2013/2014
+Amedej Vetrih,23,Defensive Midfield,ND Gorica,300000.0,Winter,2013,2013/2014
+Andrea Garofalo,20,Centre-Back,Paganese,0.0,Winter,2013,2013/2014
+Cristian Molinaro,30,Left-Back,VfB Stuttgart,0.0,Winter,2013,2013/2014
+Ezequiel Schelotto,24,Right-Back,Inter,0.0,Winter,2013,2013/2014
+Jonathan Rossini,24,Centre-Back,Sassuolo,0.0,Winter,2013,2013/2014
+Giovanni Catalano,20,Central Midfield,ACD GT,0.0,Winter,2013,2013/2014
+Nicola Pozzi,27,Centre-Forward,Sampdoria,0.0,Winter,2013,2013/2014
+Alessio Butini,20,Central Midfield,San Donato,0.0,Winter,2013,2013/2014
+Leandro Campagna,19,Second Striker,Frosinone,0.0,Winter,2013,2013/2014
+Jherson Vergara,19,Centre-Back,AC Milan,0.0,Winter,2013,2013/2014
+Manuel Giandonato,22,Defensive Midfield,Without Club,0.0,Winter,2013,2013/2014
+Nicola Sansone,22,Left Winger,Sassuolo,-8250000.0,Winter,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Gavorrano,0.0,Winter,2013,2013/2014
+Giovanbattista Catalano,20,Left Winger,Vigor Lamezia,0.0,Winter,2013,2013/2014
+Luca Tedeschi,26,Centre-Back,UC AlbinoLeffe,0.0,Winter,2013,2013/2014
+Lorenzo Pasqualini,24,Left-Back,Salernitana,0.0,Winter,2013,2013/2014
+Gian Piero Tozzi,19,Centre-Forward,Vigor Lamezia,0.0,Winter,2013,2013/2014
+Domenico Mungo,21,Attacking Midfield,Viareggio,0.0,Winter,2013,2013/2014
+Mory Koné,19,Centre-Back,Crotone,0.0,Winter,2013,2013/2014
+Manuel Giandonato,22,Defensive Midfield,Juve Stabia,0.0,Winter,2013,2013/2014
+Antonio Stelitano,26,Right-Back,Don Bosco Moca,0.0,Winter,2013,2013/2014
+Gonçalo Brandão,27,Centre-Back,Belenenses,0.0,Winter,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,ND Gorica,0.0,Winter,2013,2013/2014
+Jaime Valdés,32,midfield,Colo Colo,0.0,Winter,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Savona,0.0,Winter,2013,2013/2014
+Raffaele Rosato,20,Centre-Back,Savona,0.0,Winter,2013,2013/2014
+Andrea Garofalo,20,Centre-Back,Teramo,0.0,Winter,2013,2013/2014
+Pedro Mendes,23,Centre-Back,Sassuolo,0.0,Winter,2013,2013/2014
+Stefano Okaka,24,Centre-Forward,Sampdoria,0.0,Winter,2013,2013/2014
+Giammaria Prete,19,defence,Correggese,0.0,Winter,2013,2013/2014
+Matteo Gaudiano,21,midfield,Arzanese,0.0,Winter,2013,2013/2014
+David Löfquist,27,Defensive Midfield,Mjällby AIF,0.0,Winter,2013,2013/2014
+Godfred Adofo,20,Defensive Midfield,CD Barco,0.0,Winter,2013,2013/2014
+Gabriele Puccio,24,Central Midfield,Pergolettese,0.0,Winter,2013,2013/2014
+Filippo Boniperti,22,Right Winger,ND Gorica,0.0,Winter,2013,2013/2014
+Riccardo Cocuzza,21,Right Winger,Südtirol,0.0,Winter,2013,2013/2014
+Mohamed Traoré,22,Right-Back,Südtirol,0.0,Winter,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,Savona,0.0,Winter,2013,2013/2014
+Carlos García,21,Centre-Back,J-Södra IF,0.0,Winter,2013,2013/2014
+Bongoura Thiam,20,attack,Savona,0.0,Winter,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,AS Gubbio,0.0,Winter,2013,2013/2014
+Jorman Aguilar,19,Centre-Forward,NK Istra,0.0,Winter,2013,2013/2014
+Nicolas Sumsky,20,midfield,Vysoke Myto,0.0,Winter,2013,2013/2014
+Ivan Cacchioli,23,Goalkeeper,ND Gorica,0.0,Winter,2013,2013/2014
+Gianmaria Cucurnia,20,Central Midfield,SM Avenza,0.0,Winter,2013,2013/2014
+Bright Addae,21,Defensive Midfield,AS Gubbio,0.0,Winter,2013,2013/2014
+Alessio Butini,20,Central Midfield,Viareggio,0.0,Winter,2013,2013/2014
+Giuseppe Pasquariello,20,attack,Colorno,0.0,Winter,2013,2013/2014
+Alessio Aracu,19,midfield,Viareggio,0.0,Winter,2013,2013/2014
+Brice Bonelli,19,attack,GS Consolat M.,0.0,Winter,2013,2013/2014
+Mirko Pigliacelli,20,Goalkeeper,Reggina,0.0,Winter,2013,2013/2014
+Fabio Lebran,26,Centre-Back,SPAL,0.0,Winter,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Atalanta BC,0.0,Winter,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,Arzanese,0.0,Winter,2013,2013/2014
+Alessandro Piacenti,21,Goalkeeper,Vigor Lamezia,0.0,Winter,2013,2013/2014
+Alessandro Elia,23,Centre-Forward,Cuneo,0.0,Winter,2013,2013/2014
+Simone Malatesta,31,Centre-Forward,Gavorrano,0.0,Winter,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,ND Gorica,0.0,Winter,2013,2013/2014
+Angelo Bencivenga,22,Right-Back,Como,0.0,Winter,2013,2013/2014
+Yves Bationo,20,Central Midfield,ND Gorica,0.0,Winter,2013,2013/2014
+Nicolò Stirati,20,attack,Rimini,0.0,Winter,2013,2013/2014
+Aleandro Rosi,26,Right-Back,Sassuolo,0.0,Winter,2013,2013/2014
+Cristiano Spirito,22,Right-Back,San Marino,0.0,Winter,2013,2013/2014
+Leandro Campagna,19,Second Striker,Barletta,0.0,Winter,2013,2013/2014
+Djamel Mesbah,29,Left-Back,AS Livorno,0.0,Winter,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Aprilia,0.0,Winter,2013,2013/2014
+Irfan Sahman,20,Central Midfield,Padova,0.0,Winter,2013,2013/2014
+Álvaro Ampuero,21,Left-Back,Salernitana,0.0,Winter,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Pontedera,0.0,Winter,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Savona,0.0,Winter,2013,2013/2014
+Nabil Taïder,30,Central Midfield,Lok. Sofia,0.0,Winter,2013,2013/2014
+Ishak Belfodil,22,Centre-Forward,Inter,5750000.0,Summer,2014,2014/2015
+Nicola Ravaglia,25,Goalkeeper,Cesena,2500000.0,Summer,2014,2014/2015
+Andrea Costa,28,Centre-Back,Sampdoria,2000000.0,Summer,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Cesena,1600000.0,Summer,2014,2014/2015
+Nicolò Lolli,19,Centre-Forward,Cesena,1500000.0,Summer,2014,2014/2015
+Simone Addessi,19,Right Winger,Latina U19,1070000.0,Summer,2014,2014/2015
+Daniele Casiraghi,21,Attacking Midfield,Lecce,1000000.0,Summer,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Cesena,1000000.0,Summer,2014,2014/2015
+Lucas Souza,24,Central Midfield,Olhanense,700000.0,Summer,2014,2014/2015
+Pedro Mendes,23,Centre-Back,Sassuolo,100000.0,Summer,2014,2014/2015
+Antonio Cassano,31,Second Striker,Inter,0.0,Summer,2014,2014/2015
+Federico Di Francesco,20,Left Winger,Pescara,0.0,Summer,2014,2014/2015
+Jonas Portin,27,Centre-Back,Padova,0.0,Summer,2014,2014/2015
+Giuseppe Prestia,20,Centre-Back,Crotone,0.0,Summer,2014,2014/2015
+Antonio Grillo,22,Defensive Midfield,Paganese,0.0,Summer,2014,2014/2015
+Giulio Mulas,17,Right-Back,Siena,0.0,Summer,2014,2014/2015
+Paolo Dellafiore,29,Centre-Back,Siena,0.0,Summer,2014,2014/2015
+Andrea Dragonetti,19,Right Winger,Ascoli U19,0.0,Summer,2014,2014/2015
+Camillo Ciano,24,Centre-Forward,SSC Napoli,0.0,Summer,2014,2014/2015
+Marijan Coric,19,Goalkeeper,Istra 1961 U19,20000.0,Summer,2014,2014/2015
+Errico Altobello,23,Centre-Back,Savona,0.0,Summer,2014,2014/2015
+Davide Colomba,25,Left Midfield,Ascoli,0.0,Summer,2014,2014/2015
+Gian Marco Ferrari,22,Centre-Back,AS Gubbio,0.0,Summer,2014,2014/2015
+Alberto Galuppo,28,Centre-Back,Siena,0.0,Summer,2014,2014/2015
+Zsolt Tamási,24,Central Midfield,Ascoli,0.0,Summer,2014,2014/2015
+Dániel Tőzsér,29,Central Midfield,Genoa,0.0,Summer,2014,2014/2015
+Pietro Manganelli,20,defence,VF Colligiana,0.0,Summer,2014,2014/2015
+Francesco Deli,20,Central Midfield,Paganese,0.0,Summer,2014,2014/2015
+Mattia Cassani,30,Right-Back,Fiorentina,0.0,Summer,2014,2014/2015
+Stefano Addario,20,Goalkeeper,Pontedera,0.0,Summer,2014,2014/2015
+Matija Sirok,23,Right-Back,ND Gorica,0.0,Summer,2014,2014/2015
+Juan Antonio,26,Second Striker,Sampdoria,0.0,Summer,2014,2014/2015
+Francesco Lodi,30,Defensive Midfield,Catania,0.0,Summer,2014,2014/2015
+Paolo De Ceglie,27,Left-Back,Juventus,0.0,Summer,2014,2014/2015
+McDonald Mariga,27,Defensive Midfield,Without Club,0.0,Summer,2014,2014/2015
+Matteo Di Gennaro,20,Centre-Back,Ascoli,0.0,Summer,2014,2014/2015
+Marco Parolo,29,Central Midfield,Lazio,-4500000.0,Summer,2014,2014/2015
+Emmanuel Cascione,30,Central Midfield,Cesena,-2500000.0,Summer,2014,2014/2015
+Luca Ceppitelli,24,Centre-Back,Cagliari Calcio,-2100000.0,Summer,2014,2014/2015
+Mohamed Traoré,22,Right-Back,Cesena,-1500000.0,Summer,2014,2014/2015
+Yohan Benalouane,27,Centre-Back,Atalanta BC,-1000000.0,Summer,2014,2014/2015
+Carlo Crialese,21,Left-Back,Cesena,-1000000.0,Summer,2014,2014/2015
+Aleandro Rosi,27,Right-Back,Genoa,-1000000.0,Summer,2014,2014/2015
+Slawomir Peszko,29,Left Winger,1. FC Köln,-500000.0,Summer,2014,2014/2015
+Riccardo Brosco,23,Centre-Back,Latina Calcio,-500000.0,Summer,2014,2014/2015
+Zé Eduardo,22,Defensive Midfield,Cesena,-300000.0,Summer,2014,2014/2015
+Álvaro Ampuero,21,Left-Back,Universitario,-200000.0,Summer,2014,2014/2015
+Alessandro Ligi,24,Centre-Back,Crotone,-150000.0,Summer,2014,2014/2015
+Gonçalo Brandão,27,Centre-Back,Siena,0.0,Summer,2014,2014/2015
+Fabio Lebran,27,Centre-Back,Crotone,0.0,Summer,2014,2014/2015
+Cristian Molinaro,30,Left-Back,Torino,0.0,Summer,2014,2014/2015
+Zsolt Tamási,24,Central Midfield,Paksi FC,0.0,Summer,2014,2014/2015
+Raffaele Schiavi,28,Centre-Back,Frosinone,0.0,Summer,2014,2014/2015
+Antonio Santurro,22,Goalkeeper,Savoia,0.0,Summer,2014,2014/2015
+Paolo Dellafiore,29,Centre-Back,Latina Calcio,0.0,Summer,2014,2014/2015
+Claudio Corsetti,28,Left Winger,Savoia,0.0,Summer,2014,2014/2015
+Mikael Ishak,21,Centre-Forward,Randers FC,0.0,Summer,2014,2014/2015
+Francesco Pambianchi,25,Centre-Back,Taranto,0.0,Summer,2014,2014/2015
+Luca Tedeschi,27,Centre-Back,Cosenza,0.0,Summer,2014,2014/2015
+Gianluca Nucera,20,Left Midfield,Savona,0.0,Summer,2014,2014/2015
+Sebestyén Ihrig-Farkas,20,Attacking Midfield,Honvéd,0.0,Summer,2014,2014/2015
+Amauri,34,Centre-Forward,Torino,0.0,Summer,2014,2014/2015
+Tiziano Scarfagna,20,Goalkeeper,Cynthia,0.0,Summer,2014,2014/2015
+Alberto Galuppo,28,Centre-Back,AS Gubbio,0.0,Summer,2014,2014/2015
+Luca Fiordiani,22,midfield,Foligno,0.0,Summer,2014,2014/2015
+Gioele Sterlicchio,19,midfield,Pomezia,0.0,Summer,2014,2014/2015
+Matteo Bibba,22,Goalkeeper,Vittoria Calcio,0.0,Summer,2014,2014/2015
+Alessandro Elia,24,Centre-Forward,Unknown,0.0,Summer,2014,2014/2015
+Andrea Marteddu,21,Central Midfield,Iglesias,0.0,Summer,2014,2014/2015
+Lazaros Fotias,23,Centre-Back,APS Zakynthos,0.0,Summer,2014,2014/2015
+Calvin Lovric,21,Centre-Back,Hércules CF B,0.0,Summer,2014,2014/2015
+Alessandro Vecchi,23,Centre-Back,Lentigione,0.0,Summer,2014,2014/2015
+Mário Rui,23,Left-Back,Empoli,0.0,Summer,2014,2014/2015
+Robert Stillo,23,Goalkeeper,Unknown,0.0,Summer,2014,2014/2015
+Vincenzo Perna,19,Defensive Midfield,Savoia,0.0,Summer,2014,2014/2015
+Francesco Finocchio,22,Right Midfield,AC Pisa,0.0,Summer,2014,2014/2015
+Domenico Mungo,21,Attacking Midfield,Pistoiese,0.0,Summer,2014,2014/2015
+Luca Berardocco,23,Defensive Midfield,Crotone,0.0,Summer,2014,2014/2015
+Matteo Di Gennaro,20,Centre-Back,Renate,0.0,Summer,2014,2014/2015
+Giuseppe Caccavallo,27,Right Winger,Paganese,0.0,Summer,2014,2014/2015
+Stefano Russo,25,Goalkeeper,Salernitana,0.0,Summer,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Lupa Roma,0.0,Summer,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Matera,0.0,Summer,2014,2014/2015
+Lorenzo Pasqualini,24,Left-Back,ND Gorica,0.0,Summer,2014,2014/2015
+Gianni Munari,31,Central Midfield,Watford,0.0,Summer,2014,2014/2015
+Daniele Bernasconi,21,Centre-Forward,L'Aquila,0.0,Summer,2014,2014/2015
+Manuel Giandonato,22,Defensive Midfield,Salernitana,0.0,Summer,2014,2014/2015
+Uros Celcer,25,Left-Back,Ross County,0.0,Summer,2014,2014/2015
+Abel Gigli,23,Centre-Back,Crotone,0.0,Summer,2014,2014/2015
+Matteo Legittimo,25,Left-Back,SPAL,0.0,Summer,2014,2014/2015
+Ronaldo Vanin,31,Right-Back,ND Gorica,0.0,Summer,2014,2014/2015
+Amedej Vetrih,23,Defensive Midfield,ND Gorica,0.0,Summer,2014,2014/2015
+Marco Modolo,25,Centre-Back,ND Gorica,0.0,Summer,2014,2014/2015
+Daniele Bazzoffia,26,Second Striker,Olhanense,0.0,Summer,2014,2014/2015
+Giulio Mulas,17,Right-Back,Tuttocuoio,0.0,Summer,2014,2014/2015
+Gian Piero Tozzi,20,Centre-Forward,Aprilia,0.0,Summer,2014,2014/2015
+Davide Adorni,21,Centre-Back,Cesena,0.0,Summer,2014,2014/2015
+Matteo Mantovani,21,defence,Crotone,0.0,Summer,2014,2014/2015
+Abdou Doumbia,24,Left Winger,Lecce,0.0,Summer,2014,2014/2015
+Luca Rovelli,20,Attacking Midfield,Renate,0.0,Summer,2014,2014/2015
+Gennaro Scognamiglio,27,Centre-Back,Benevento,0.0,Summer,2014,2014/2015
+Nicolas Sumsky,20,midfield,Banska Bystrica,0.0,Summer,2014,2014/2015
+Mory Koné,20,Centre-Back,Troyes,0.0,Summer,2014,2014/2015
+Bright Addae,21,Defensive Midfield,Ascoli,0.0,Summer,2014,2014/2015
+Salvatore Sandomenico,24,Left Winger,L'Aquila,0.0,Summer,2014,2014/2015
+Davide Colomba,26,Left Midfield,Pune City,0.0,Summer,2014,2014/2015
+Alessandro Gozzi,21,Goalkeeper,Savona,0.0,Summer,2014,2014/2015
+Jorman Aguilar,19,Centre-Forward,Olhanense,0.0,Summer,2014,2014/2015
+Stefano Addario,20,Goalkeeper,Paganese,0.0,Summer,2014,2014/2015
+Marco Marchionni,34,Right Midfield,Sampdoria,0.0,Summer,2014,2014/2015
+Francesco Checcucci,25,Centre-Back,Savoia,0.0,Summer,2014,2014/2015
+Daniele Abbracciante,20,Centre-Forward,Grosseto,0.0,Summer,2014,2014/2015
+Djamel Mesbah,29,Left-Back,Sampdoria,0.0,Summer,2014,2014/2015
+Simone Malatesta,32,Centre-Forward,Lupa Roma,0.0,Summer,2014,2014/2015
+Floriano Vanzo,20,Attacking Midfield,FC Brügge U21,0.0,Summer,2014,2014/2015
+Simon Gentili,24,midfield,Foligno,0.0,Summer,2014,2014/2015
+Alessio Butini,21,Central Midfield,Lornano Badesse,0.0,Summer,2014,2014/2015
+Nicolò Stirati,21,attack,ASDNU,0.0,Summer,2014,2014/2015
+Mario Dragone,19,Right Midfield,Campobasso,0.0,Summer,2014,2014/2015
+Alessandro Ferretti,20,midfield,Fabriano,0.0,Summer,2014,2014/2015
+Diego De Giorgi,21,midfield,Vigor Lamezia,0.0,Summer,2014,2014/2015
+Nabil Taïder,31,Central Midfield,ND Gorica,0.0,Summer,2014,2014/2015
+Gianmaria Cucurnia,20,Central Midfield,Vallicisa 2000,0.0,Summer,2014,2014/2015
+Cristiano Spirito,22,Right-Back,San Marino,0.0,Summer,2014,2014/2015
+Alessandro Piacenti,21,Goalkeeper,Vigor Lamezia,0.0,Summer,2014,2014/2015
+Cosimo Chiricò,22,Right Winger,Ascoli,0.0,Summer,2014,2014/2015
+Cristian Dell'Orco,20,Left-Back,Ascoli,0.0,Summer,2014,2014/2015
+Gian Marco Ferrari,22,Centre-Back,Crotone,0.0,Summer,2014,2014/2015
+Dániel Tőzsér,29,Central Midfield,Watford,0.0,Summer,2014,2014/2015
+Riccardo Cocuzza,21,Right Winger,Renate,0.0,Summer,2014,2014/2015
+Andrea Rossi,27,Left-Back,Latina Calcio,0.0,Summer,2014,2014/2015
+Nicola Ravaglia,25,Goalkeeper,Cosenza,0.0,Summer,2014,2014/2015
+Antonio Maglia,18,Central Midfield,Vigor Lamezia,0.0,Summer,2014,2014/2015
+Gabriele Puccio,24,Central Midfield,Vigor Lamezia,0.0,Summer,2014,2014/2015
+Mattia Sprocati,21,Right Winger,Crotone,0.0,Summer,2014,2014/2015
+Mattia Sandrini,20,Right Winger,Real Vicenza,0.0,Summer,2014,2014/2015
+Stefano Morrone,35,Central Midfield,AC Pisa,0.0,Summer,2014,2014/2015
+Mirko Pigliacelli,21,Goalkeeper,Frosinone,0.0,Summer,2014,2014/2015
+Michele Bentoglio,20,midfield,AS Gubbio,0.0,Summer,2014,2014/2015
+Alessandro Luparini,21,Centre-Forward,AS Gubbio,0.0,Summer,2014,2014/2015
+Pietro Manganelli,20,defence,AS Gubbio,0.0,Summer,2014,2014/2015
+Daniele Casiraghi,21,Attacking Midfield,AS Gubbio,0.0,Summer,2014,2014/2015
+Joyce Anacoura,19,Goalkeeper,Pro Vercelli,0.0,Summer,2014,2014/2015
+Denilson Gabionetta,28,Right Winger,Salernitana,0.0,Summer,2014,2014/2015
+Abdelaye Diakite,24,Centre-Back,Teramo,0.0,Summer,2014,2014/2015
+Gianluca Lapadula,24,Centre-Forward,Teramo,0.0,Summer,2014,2014/2015
+Leandro Campagna,20,Second Striker,Melfi,0.0,Summer,2014,2014/2015
+Dario Castaldo,18,Centre-Back,Lumezzane,0.0,Summer,2014,2014/2015
+Errico Altobello,23,Centre-Back,ACR Messina,0.0,Summer,2014,2014/2015
+Alberto Giuliatto,30,Left-Back,Unione Venezia,0.0,Summer,2014,2014/2015
+Gianvito Misuraca,24,Central Midfield,AC Pisa,0.0,Summer,2014,2014/2015
+Paolo Dametto,21,Centre-Back,Prato,0.0,Summer,2014,2014/2015
+Angelo Bencivenga,22,Right-Back,Foggia,0.0,Summer,2014,2014/2015
+Cristiano Bussi,24,Centre-Forward,Paganese,0.0,Summer,2014,2014/2015
+Francesco Deli,20,Central Midfield,Paganese,0.0,Summer,2014,2014/2015
+Pietro Tripoli,27,attack,Pistoiese,0.0,Summer,2014,2014/2015
+Andrea Scicchitano,22,Central Midfield,Santarcangelo,0.0,Summer,2014,2014/2015
+Pavol Bajza,22,Goalkeeper,Crotone,0.0,Summer,2014,2014/2015
+Antonio Grillo,22,Defensive Midfield,Salernitana,0.0,Summer,2014,2014/2015
+Andrea Dragonetti,19,Right Winger,Salernitana U19,0.0,Summer,2014,2014/2015
+Zouhair Feddal,24,Centre-Back,US Palermo,0.0,Summer,2014,2014/2015
+Matteo Pisseri,22,Goalkeeper,Juve Stabia,0.0,Summer,2014,2014/2015
+Giordano Maccarrone,24,Centre-Back,L'Aquila,0.0,Summer,2014,2014/2015
+Ivan Cacchioli,24,Goalkeeper,L'Aquila,0.0,Summer,2014,2014/2015
+Angelo Tartaglia,21,Centre-Back,Paganese,0.0,Summer,2014,2014/2015
+Alessandro Favalli,21,Left-Back,Cremonese,0.0,Summer,2014,2014/2015
+Federico Di Francesco,20,Left Winger,Cremonese,0.0,Summer,2014,2014/2015
+Massimo Loviso,30,Defensive Midfield,AS Gubbio,0.0,Summer,2014,2014/2015
+Gianluca Musacci,27,Central Midfield,Frosinone,0.0,Summer,2014,2014/2015
+Tommaso Cancelloni,22,Centre-Back,Paganese,0.0,Summer,2014,2014/2015
+Filip Jankovic,19,Central Midfield,Catania,0.0,Summer,2014,2014/2015
+Gonzalo Mastriani,21,Centre-Forward,Olhanense,0.0,Summer,2014,2014/2015
+Pietro Baccolo,24,Central Midfield,Paganese,0.0,Summer,2014,2014/2015
+Alberto Cerri,18,Centre-Forward,Virtus Lanciano,0.0,Summer,2014,2014/2015
+Michele Moroni,20,Attacking Midfield,Cremonese,0.0,Summer,2014,2014/2015
+Vito Falconieri,28,Centre-Forward,Pavia,0.0,Summer,2014,2014/2015
+Camillo Ciano,24,Centre-Forward,Crotone,0.0,Summer,2014,2014/2015
+Juan Antonio,26,Second Striker,Feralpisalò,0.0,Summer,2014,2014/2015
+Matija Sirok,23,Right-Back,ND Gorica,0.0,Summer,2014,2014/2015
+Daniele Gragnoli,20,Centre-Forward,ND Gorica,0.0,Summer,2014,2014/2015
+Mauro Cioffi,20,Centre-Forward,KF Vllaznia,0.0,Summer,2014,2014/2015
+Giuseppe Pacini,21,Right-Back,Tuttocuoio,0.0,Summer,2014,2014/2015
+Simone Addessi,19,Right Winger,Rimini,0.0,Summer,2014,2014/2015
+Yves Bationo,20,Central Midfield,Nîmes Olympique,0.0,Summer,2014,2014/2015
+Luigi Del Giudice,20,Defensive Midfield,Mqabba FC,0.0,Summer,2014,2014/2015
+Nicola Pavarini,40,Goalkeeper,Retired,0.0,Summer,2014,2014/2015
+Sotiris Ninis,24,Attacking Midfield,Without Club,0.0,Summer,2014,2014/2015
+Antonio Stelitano,26,Right-Back,Without Club,0.0,Summer,2014,2014/2015
+Simone Ciciotti,20,defence,Retired,0.0,Summer,2014,2014/2015
+Nicola Russo,22,Left Winger,Without Club,0.0,Summer,2014,2014/2015
+Edoardo Pacini,22,Right Midfield,Without Club,0.0,Summer,2014,2014/2015
+Filippo Boniperti,22,Right Winger,Without Club,0.0,Summer,2014,2014/2015
+Federico Meacci,22,Defensive Midfield,Without Club,0.0,Summer,2014,2014/2015
+Alberto Ricter,21,Centre-Forward,Without Club,0.0,Summer,2014,2014/2015
+Alessio Aracu,19,midfield,Without Club,0.0,Summer,2014,2014/2015
+Nicola Berselli,20,Right Winger,Without Club,0.0,Summer,2014,2014/2015
+Giuseppe Pasquariello,20,attack,Without Club,0.0,Summer,2014,2014/2015
+Ishak Belfodil,23,Centre-Forward,Without Club,0.0,Summer,2014,2014/2015
+Tomas Danilevicius,35,Centre-Forward,Retired,0.0,Summer,2014,2014/2015
+Antonio Cassano,31,Second Striker,Inter,0.0,Summer,2014,2014/2015
+Mattia Cassani,30,Right-Back,Fiorentina,0.0,Summer,2014,2014/2015
+Walter Gargano,29,Defensive Midfield,SSC Napoli,0.0,Summer,2014,2014/2015
+Joel Obi,23,Central Midfield,Inter,0.0,Summer,2014,2014/2015
+Jherson Vergara,20,Centre-Back,AC Milan,0.0,Summer,2014,2014/2015
+Jonathan Rossini,25,Centre-Back,Sassuolo,0.0,Summer,2014,2014/2015
+Ezequiel Schelotto,25,Right-Back,Inter,0.0,Summer,2014,2014/2015
+Andi Lila,28,Defensive Midfield,PAS Giannina,0.0,Winter,2014,2014/2015
+Antonio Nocerino,29,Central Midfield,AC Milan,0.0,Winter,2014,2014/2015
+Silvestre Varela,29,Left Winger,FC Porto,0.0,Winter,2014,2014/2015
+Cristian Rodríguez,29,Central Midfield,Atlético Madrid,0.0,Winter,2014,2014/2015
+Gabriel Paletta,28,Centre-Back,AC Milan,-2500000.0,Winter,2014,2014/2015
+Fernando Marqués,30,Right Winger,NY Cosmos B,0.0,Winter,2014,2014/2015
+Zoran Svonja,18,Defensive Midfield,Donji Srem,0.0,Winter,2014,2014/2015
+Pietro Tripoli,27,attack,Ascoli,0.0,Winter,2014,2014/2015
+Daniele Bazzoffia,26,Second Striker,Cittadella,0.0,Winter,2014,2014/2015
+Mauro Cioffi,20,Centre-Forward,FK Berane,0.0,Winter,2014,2014/2015
+Luca Berardocco,24,Defensive Midfield,Como,0.0,Winter,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Barletta,0.0,Winter,2014,2014/2015
+Manuel Giandonato,23,Defensive Midfield,Catanzaro,0.0,Winter,2014,2014/2015
+Daniele Bernasconi,22,Centre-Forward,Monza,0.0,Winter,2014,2014/2015
+Giuseppe Caccavallo,27,Right Winger,Casertana,0.0,Winter,2014,2014/2015
+Matteo Legittimo,25,Left-Back,Grosseto,0.0,Winter,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Savona,0.0,Winter,2014,2014/2015
+Vittorio Attili,19,Attacking Midfield,Gualdo,0.0,Winter,2014,2014/2015
+Mirko Pigliacelli,21,Goalkeeper,Frosinone,0.0,Winter,2014,2014/2015
+Irfan Sahman,21,Central Midfield,Jedinstvo,0.0,Winter,2014,2014/2015
+Andrea Scicchitano,22,Central Midfield,Tuttocuoio,0.0,Winter,2014,2014/2015
+Soufiane Bidaoui,24,Left Winger,Latina Calcio,0.0,Winter,2014,2014/2015
+Lucas Souza,24,Central Midfield,Moreirense,0.0,Winter,2014,2014/2015
+Salvatore Russo,18,Right-Back,Ribelle,0.0,Winter,2014,2014/2015
+Andrea Rispoli,26,Right-Back,US Palermo,0.0,Winter,2014,2014/2015
+Nicola Pozzi,28,Centre-Forward,Chievo Verona,0.0,Winter,2014,2014/2015
+Marco Modolo,25,Centre-Back,Carpi,0.0,Winter,2014,2014/2015
+Badara Sarr,20,Central Midfield,Catanzaro,0.0,Winter,2014,2014/2015
+Simone Addessi,20,Right Winger,Fondi,0.0,Winter,2014,2014/2015
+Dario Castaldo,19,Centre-Back,Trestina,0.0,Winter,2014,2014/2015
+Gianluca Musacci,27,Central Midfield,Pro Vercelli,0.0,Winter,2014,2014/2015
+Joyce Anacoura,20,Goalkeeper,Pontedera,0.0,Winter,2014,2014/2015
+Alex Cordaz,32,Goalkeeper,Crotone,0.0,Winter,2014,2014/2015
+Stefan Ristovski,22,Right-Back,Latina Calcio,0.0,Winter,2014,2014/2015
+Yves Bationo,21,Central Midfield,San Marino,0.0,Winter,2014,2014/2015
+Mattia Sprocati,21,Right Winger,Pro Vercelli,0.0,Winter,2014,2014/2015
+Vito Falconieri,28,Centre-Forward,Santarcangelo,0.0,Winter,2014,2014/2015
+Andrea Rossi,28,Left-Back,Pescara,0.0,Winter,2014,2014/2015
+Alessandro Luparini,21,Centre-Forward,Melfi,0.0,Winter,2014,2014/2015
+Carmine De Sena,23,Centre-Forward,Without Club,0.0,Winter,2014,2014/2015
+Felipe,30,Centre-Back,Without Club,0.0,Winter,2014,2014/2015
+Antonio Cassano,32,Second Striker,Without Club,0.0,Winter,2014,2014/2015
+Mirko Velardi,26,Central Midfield,Without Club,0.0,Winter,2014,2014/2015
+Marijan Coric,20,Goalkeeper,Without Club,0.0,Winter,2014,2014/2015
+Jonas Portin,28,Centre-Back,Retired,0.0,Winter,2014,2014/2015
+Jonathan Biabiany,26,Right Winger,Without Club,0.0,Winter,2014,2014/2015
+Cristian Rodríguez,29,Central Midfield,Atlético Madrid,0.0,Winter,2014,2014/2015
+Afriyie Acquah,23,Central Midfield,TSG Hoffenheim,0.0,Winter,2014,2014/2015
+Paolo De Ceglie,28,Left-Back,Juventus,0.0,Winter,2014,2014/2015
+Massimo Maccarone,24,Centre-Forward,Middlesbrough,1000000.0,in,Summer,2004,2004/2005
+Matteo Contini,24,Centre-Back,Avellino,580000.0,in,Summer,2004,2004/2005
+Alessandro Budel,23,Defensive Midfield,AC Milan,400000.0,in,Summer,2004,2004/2005
+Cesare Bovo,21,Centre-Back,AS Roma,100000.0,in,Summer,2004,2004/2005
+Gianluca Berti,37,Goalkeeper,US Palermo,0.0,in,Summer,2004,2004/2005
+Fábio Simplício,24,Central Midfield,São Paulo,0.0,in,Summer,2004,2004/2005
+Andrea Pisanu,22,Right Midfield,Hellas Verona,0.0,in,Summer,2004,2004/2005
+Damiano Ferronetti,19,Centre-Back,AS Roma,0.0,in,Summer,2004,2004/2005
+Vince Grella,24,Central Midfield,Empoli,0.0,in,Summer,2004,2004/2005
+Mario Rebecchi,20,Central Midfield,Inter,0.0,in,Summer,2004,2004/2005
+Alberto Galuppo,18,Centre-Back,Parma U19,0.0,in,Summer,2004,2004/2005
+Daniele Dessena,17,Central Midfield,Parma U19,0.0,in,Summer,2004,2004/2005
+Davide Furlan,18,Defensive Midfield,Parma U19,0.0,in,Summer,2004,2004/2005
+Matteo Brighi,23,Central Midfield,Juventus,11500000.0,out,Summer,2004,2004/2005
+Matteo Ferrari,24,Centre-Back,AS Roma,7000000.0,out,Summer,2004,2004/2005
+Simone Barone,26,Central Midfield,US Palermo,5000000.0,out,Summer,2004,2004/2005
+Marcello Castellini,31,Centre-Back,Sampdoria,1200000.0,out,Summer,2004,2004/2005
+Hidetoshi Nakata,27,Attacking Midfield,Fiorentina,0.0,out,Summer,2004,2004/2005
+Savo Milosevic,30,Centre-Forward,CA Osasuna,0.0,out,Summer,2004,2004/2005
+Emiliano Moretti,23,Centre-Back,Valencia,0.0,out,Summer,2004,2004/2005
+Júnior,31,Left-Back,São Paulo,0.0,out,Summer,2004,2004/2005
+Ianis Zicu,20,Attacking Midfield,Inter,0.0,out,Summer,2004,2004/2005
+Andrea Staffolani,21,Centre-Forward,Fermana,0.0,out,Summer,2004,2004/2005
+Paolo Ruffini,20,Central Midfield,Pro Sesto,0.0,out,Summer,2004,2004/2005
+Sebastiano Siviglia,31,Centre-Back,Lazio,0.0,out,Summer,2004,2004/2005
+Benny Carbone,32,Second Striker,Catanzaro,0.0,out,Summer,2004,2004/2005
+Gabriel Oyola,21,Centre-Back,Huracan TA,0.0,out,Summer,2004,2004/2005
+Mirko Stefani,20,Centre-Back,Bellaria IM,0.0,out,Summer,2004,2004/2005
+Zlatko Dedic,19,Centre-Forward,Empoli,0.0,out,Summer,2004,2004/2005
+Antonio Benarrivo,35,Left-Back,Retired,0.0,out,Summer,2004,2004/2005
+Marco Donadel,21,Defensive Midfield,AC Milan,0.0,out,Summer,2004,2004/2005
+Anthony Seric,25,Left-Back,Hellas Verona,0.0,out,Summer,2004,2004/2005
+Marco Amelia,22,Goalkeeper,AS Livorno,0.0,out,Summer,2004,2004/2005
+Manuele Blasi,23,Central Midfield,Juventus,0.0,out,Summer,2004,2004/2005
+Fabrizio Cammarata,28,Centre-Forward,Cagliari Calcio,0.0,out,Summer,2004,2004/2005
+Stefano Bettarini,32,Left-Back,Sampdoria,0.0,in,Winter,2004,2004/2005
+Luca Bucci,35,Goalkeeper,Without Club,0.0,in,Winter,2004,2004/2005
+Daniele Degano,22,Second Striker,Ancona,0.0,in,Winter,2004,2004/2005
+Federico Ranieri,18,midfield,Forlì,0.0,in,Winter,2004,2004/2005
+Fabio Vignaroli,28,Centre-Forward,Modena,0.0,in,Winter,2004,2004/2005
+Renato Olive,33,Central Midfield,Without Club,0.0,in,Winter,2004,2004/2005
+Gianluca Berti,37,Goalkeeper,Torino,0.0,out,Winter,2004,2004/2005
+Martin Djetou,30,Centre-Back,OGC Nice,0.0,out,Winter,2004,2004/2005
+Alessandro Rosina,20,Right Winger,Hellas Verona,0.0,out,Winter,2004,2004/2005
+Mario Rebecchi,21,Central Midfield,Inter,0.0,out,Winter,2004,2004/2005
+Gaetano Grieco,22,Centre-Forward,Foggia,0.0,out,Winter,2004,2004/2005
+Massimo Maccarone,25,Centre-Forward,Middlesbrough,0.0,out,Winter,2004,2004/2005
+Alessandro Potenza,20,Centre-Back,Inter,0.0,out,Winter,2004,2004/2005
+Alessandro Budel,23,Defensive Midfield,AC Milan,0.0,out,Winter,2004,2004/2005
+Domenico Morfeo,29,Attacking Midfield,Inter,7500000.0,in,Summer,2005,2005/2006
+Emiliano Bonazzoli,26,Centre-Forward,Reggina,4150000.0000000005,in,Summer,2005,2005/2006
+Ferdinand Coly,31,Right-Back,Perugia,0.0,in,Summer,2005,2005/2006
+Fernando Couto,35,Centre-Back,Lazio,0.0,in,Summer,2005,2005/2006
+Marco Delvecchio,32,Centre-Forward,Brescia,0.0,in,Summer,2005,2005/2006
+Bernardo Corradi,29,Centre-Forward,Valencia,0.0,in,Summer,2005,2005/2006
+Giovanni Pasquale,23,Left-Back,Inter,0.0,in,Summer,2005,2005/2006
+Cristiano Lupatelli,27,Goalkeeper,Fiorentina,0.0,in,Summer,2005,2005/2006
+Filippo Savi,18,Central Midfield,Parma U19,0.0,in,Summer,2005,2005/2006
+Fabio Virgili,19,Goalkeeper,Parma U19,0.0,in,Summer,2005,2005/2006
+Marco Rossi,17,Centre-Back,Parma U19,0.0,in,Summer,2005,2005/2006
+Alberto Gilardino,23,Centre-Forward,AC Milan,25000000.0,out,Summer,2005,2005/2006
+Alessandro Rosina,21,Right Winger,Torino,1250000.0,out,Summer,2005,2005/2006
+Sébastien Frey,25,Goalkeeper,Fiorentina,0.0,out,Summer,2005,2005/2006
+Gaetano Grieco,22,Centre-Forward,Napoli,0.0,out,Summer,2005,2005/2006
+Federico Ranieri,18,midfield,Forlì,0.0,out,Summer,2005,2005/2006
+Davide Furlan,19,Defensive Midfield,Carrarese,0.0,out,Summer,2005,2005/2006
+Paolo Bonoli,18,Goalkeeper,Bellaria IM,0.0,out,Summer,2005,2005/2006
+Leonardo Bianchi,19,attack,Portosummaga,0.0,out,Summer,2005,2005/2006
+Giordano Vanin,19,Goalkeeper,Olbia,0.0,out,Summer,2005,2005/2006
+Alex Gibbs,21,Centre-Forward,Pro Patria,0.0,out,Summer,2005,2005/2006
+Tonino Sorrentino,20,Centre-Forward,Catanzaro,0.0,out,Summer,2005,2005/2006
+Francesco Ruopolo,22,Centre-Forward,Loko Moscow,0.0,out,Summer,2005,2005/2006
+Alberto Galuppo,19,Centre-Back,AC Pisa,0.0,out,Summer,2005,2005/2006
+Fabio Virgili,19,Goalkeeper,Napoli,0.0,out,Summer,2005,2005/2006
+Emiliano Bonazzoli,26,Centre-Forward,Sampdoria,0.0,out,Summer,2005,2005/2006
+Stefano Bettarini,33,Left-Back,Retired,0.0,out,Summer,2005,2005/2006
+Renato Olive,34,Central Midfield,Without Club,0.0,out,Summer,2005,2005/2006
+Cesare Bovo,22,Centre-Back,AS Roma,0.0,out,Summer,2005,2005/2006
+Fabio Vignaroli,29,Centre-Forward,Modena,0.0,out,Summer,2005,2005/2006
+Domenico Morfeo,29,Attacking Midfield,Inter,0.0,out,Summer,2005,2005/2006
+Matteo Guardalben,31,Goalkeeper,US Palermo,0.0,in,Winter,2005,2005/2006
+Daniele Paponi,17,Centre-Forward,Parma U19,0.0,in,Winter,2005,2005/2006
+Filippo Mattiuzzo,18,Right-Back,Parma U19,0.0,in,Winter,2005,2005/2006
+Daniele Degano,23,Second Striker,Piacenza,0.0,out,Winter,2005,2005/2006
+Mirko Stefani,21,Centre-Back,Reggiana,0.0,out,Winter,2005,2005/2006
+Zlatko Dedic,21,Centre-Forward,Cremonese,0.0,out,Winter,2005,2005/2006
+Cristiano Lupatelli,27,Goalkeeper,Fiorentina,0.0,out,Winter,2005,2005/2006
+Vitali Kutuzov,26,Centre-Forward,Sampdoria,2000000.0,in,Summer,2006,2006/2007
+Paolo Castellini,27,Left-Back,Real Betis,0.0,in,Summer,2006,2006/2007
+Andrea Gasbarroni,24,Second Striker,US Palermo,0.0,in,Summer,2006,2006/2007
+Antonio Bocchetti,26,Left-Back,Piacenza,0.0,in,Summer,2006,2006/2007
+Massimo Paci,28,Centre-Back,Ascoli,0.0,in,Summer,2006,2006/2007
+Zlatan Muslimovic,25,Centre-Forward,Udinese,0.0,in,Summer,2006,2006/2007
+Igor Budan,26,Centre-Forward,US Palermo,0.0,in,Summer,2006,2006/2007
+Maurizio Ciaramitaro,24,Central Midfield,US Palermo,0.0,in,Summer,2006,2006/2007
+Federico Moretti,17,Central Midfield,Parma U19,0.0,in,Summer,2006,2006/2007
+Sébastien Frey,26,Goalkeeper,Fiorentina,5750000.0,out,Summer,2006,2006/2007
+Fábio Simplício,26,Central Midfield,US Palermo,5500000.0,out,Summer,2006,2006/2007
+Emiliano Bonazzoli,27,Centre-Forward,Sampdoria,5250000.0,out,Summer,2006,2006/2007
+Daniele Bonera,25,Centre-Back,AC Milan,3300000.0,out,Summer,2006,2006/2007
+Marco Delvecchio,33,Centre-Forward,Ascoli,0.0,out,Summer,2006,2006/2007
+Marco Marchionni,25,Right Midfield,Juventus,0.0,out,Summer,2006,2006/2007
+Ibrahima Camara,21,Left-Back,Le Mans UC 72,0.0,out,Summer,2006,2006/2007
+Francesco Ruopolo,23,Centre-Forward,Triestina,0.0,out,Summer,2006,2006/2007
+Paolo Cannavaro,25,Centre-Back,SSC Napoli,0.0,out,Summer,2006,2006/2007
+Mark Bresciano,26,Central Midfield,US Palermo,0.0,out,Summer,2006,2006/2007
+Filippo Mattiuzzo,19,Right-Back,Cremonese,0.0,out,Summer,2006,2006/2007
+Alberto Galuppo,20,Centre-Back,Grosseto,0.0,out,Summer,2006,2006/2007
+Giovanni Pasquale,24,Left-Back,Inter,0.0,out,Summer,2006,2006/2007
+Matteo Guardalben,32,Goalkeeper,US Palermo,0.0,out,Summer,2006,2006/2007
+Bernardo Corradi,30,Centre-Forward,Valencia,0.0,out,Summer,2006,2006/2007
+Armando Perna,25,Centre-Back,Modena,0.0,in,Winter,2006,2006/2007
+Giuseppe Rossi,19,Centre-Forward,Man Utd,0.0,in,Winter,2006,2006/2007
+Francesco Parravicini,25,Defensive Midfield,US Palermo,0.0,in,Winter,2006,2006/2007
+Marco Rossi,19,Centre-Back,Modena,0.0,out,Winter,2006,2006/2007
+Zlatko Dedic,22,Centre-Forward,Frosinone,0.0,out,Winter,2006,2006/2007
+Filippo Savi,19,Central Midfield,Monza,0.0,out,Winter,2006,2006/2007
+Maurizio Ciaramitaro,24,Central Midfield,US Palermo,0.0,out,Winter,2006,2006/2007
+Reginaldo,23,Second Striker,Fiorentina,4500000.0,in,Summer,2007,2007/2008
+Stefano Morrone,28,Central Midfield,AS Livorno,2000000.0,in,Summer,2007,2007/2008
+Francesco Parravicini,25,Defensive Midfield,US Palermo,1500000.0,in,Summer,2007,2007/2008
+Igor Budan,27,Centre-Forward,US Palermo,1100000.0,in,Summer,2007,2007/2008
+Davide Matteini,25,Left Winger,US Palermo,900000.0,in,Summer,2007,2007/2008
+Bernardo Corradi,31,Centre-Forward,Man City,200000.0,in,Summer,2007,2007/2008
+Marcelo Silva,31,Defensive Midfield,Atlético-PR,0.0,in,Summer,2007,2007/2008
+Manuel Pascali,26,Centre-Back,Foligno,0.0,in,Summer,2007,2007/2008
+Nicola Pavarini,33,Goalkeeper,Siena,0.0,in,Summer,2007,2007/2008
+Manuel Pascali,25,Centre-Back,AC Carpenedolo,0.0,in,Summer,2007,2007/2008
+Giulio Falcone,33,Centre-Back,Sampdoria,0.0,in,Summer,2007,2007/2008
+Damiano Zenoni,30,Right-Back,Udinese,0.0,in,Summer,2007,2007/2008
+Alessio Tombesi,25,Left-Back,AC Carpenedolo,0.0,in,Summer,2007,2007/2008
+Radek Petr,20,Goalkeeper,Banik Ostrava,0.0,in,Summer,2007,2007/2008
+Giordano Vanin,21,Goalkeeper,Pro Sesto,0.0,in,Summer,2007,2007/2008
+McDonald Mariga,20,Defensive Midfield,Helsingborg,0.0,in,Summer,2007,2007/2008
+Niccolò Galli,18,Central Midfield,Parma U19,0.0,in,Summer,2007,2007/2008
+Matteo Mandorlini,18,Central Midfield,Parma U19,0.0,in,Summer,2007,2007/2008
+Mattia Pin,19,attack,Parma U19,0.0,in,Summer,2007,2007/2008
+Matteo Contini,27,Centre-Back,SSC Napoli,3200000.0,out,Summer,2007,2007/2008
+Ibrahima Camara,22,Left-Back,Le Mans UC 72,1000000.0,out,Summer,2007,2007/2008
+Vince Grella,27,Central Midfield,Torino,0.0,out,Summer,2007,2007/2008
+Marcelo Silva,31,Defensive Midfield,Náutico,0.0,out,Summer,2007,2007/2008
+Manuel Pascali,25,Centre-Back,Foligno,0.0,out,Summer,2007,2007/2008
+Jorge Bolaño,30,Central Midfield,Modena,0.0,out,Summer,2007,2007/2008
+Damiano Ferronetti,22,Centre-Back,Udinese,0.0,out,Summer,2007,2007/2008
+Antonio Bocchetti,27,Left-Back,Frosinone,0.0,out,Summer,2007,2007/2008
+Alfonso De Lucia,23,Goalkeeper,AS Livorno,0.0,out,Summer,2007,2007/2008
+Giordano Vanin,22,Goalkeeper,Livingston FC,0.0,out,Summer,2007,2007/2008
+Matteo Mandorlini,18,Central Midfield,Pavia,0.0,out,Summer,2007,2007/2008
+Mattia Pin,19,attack,Sassuolo,0.0,out,Summer,2007,2007/2008
+Vitali Kutuzov,27,Centre-Forward,AC Pisa,0.0,out,Summer,2007,2007/2008
+Alberto Galuppo,21,Centre-Back,Ancona,0.0,out,Summer,2007,2007/2008
+Filippo Savi,20,Central Midfield,Arezzo,0.0,out,Summer,2007,2007/2008
+Mattia Cherubini,19,defence,Unknown,0.0,out,Summer,2007,2007/2008
+Igor Budan,27,Centre-Forward,US Palermo,0.0,out,Summer,2007,2007/2008
+Zlatan Muslimovic,26,Centre-Forward,Udinese,0.0,out,Summer,2007,2007/2008
+Francesco Parravicini,25,Defensive Midfield,US Palermo,0.0,out,Summer,2007,2007/2008
+Giuseppe Rossi,20,Centre-Forward,Man Utd,0.0,out,Summer,2007,2007/2008
+Armando Perna,26,Centre-Back,Modena,0.0,out,Summer,2007,2007/2008
+Cristiano Lucarelli,32,Centre-Forward,Shakhtar D.,5700000.0,in,Winter,2007,2007/2008
+Cristian Anelli,18,Centre-Back,AC Montichiari,0.0,in,Winter,2007,2007/2008
+Luca Antonelli,20,Left-Back,AC Milan,0.0,in,Winter,2007,2007/2008
+Giuseppe Cardone,33,Right-Back,Cesena,0.0,out,Winter,2007,2007/2008
+Alessio Tombesi,25,Left-Back,Avellino,0.0,out,Winter,2007,2007/2008
+Daniele Paponi,19,Centre-Forward,Cesena,0.0,out,Winter,2007,2007/2008
+Davide Matteini,25,Left Winger,Vicenza,0.0,out,Winter,2007,2007/2008
+Niccolò Galli,19,Central Midfield,Massese,0.0,out,Winter,2007,2007/2008
+Mattia Pin,19,attack,Cuoio Cappiano,0.0,out,Winter,2007,2007/2008
+Daniele Galloppa,24,Central Midfield,Siena,10000000.0,in,Summer,2009,2009/2010
+Pablo Fontanello,24,Centre-Back,Tigre,4000000.0,in,Summer,2009,2009/2010
+Antonio Mirante,25,Goalkeeper,Sampdoria,3600000.0,in,Summer,2009,2009/2010
+Cristian Zaccardo,27,Centre-Back,VfL Wolfsburg,2000000.0,in,Summer,2009,2009/2010
+Manuel Coppola,27,Central Midfield,Siena,1200000.0,in,Summer,2009,2009/2010
+Blerim Dzemaili,23,Central Midfield,Torino,1000000.0,in,Summer,2009,2009/2010
+Paolo Dellafiore,24,Centre-Back,US Palermo,250000.0,in,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Ternana,121000.0,in,Summer,2009,2009/2010
+Nicolás Córdova,30,Central Midfield,Grosseto,0.0,in,Summer,2009,2009/2010
+Ronny Valerio,20,Right Winger,AC Carpenedolo,0.0,in,Summer,2009,2009/2010
+Christian Panucci,36,Right-Back,AS Roma,0.0,in,Summer,2009,2009/2010
+Stefano Russo,20,Goalkeeper,Lecce,0.0,in,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Treviso,0.0,in,Summer,2009,2009/2010
+Nicola Amoruso,34,Centre-Forward,Torino,0.0,in,Summer,2009,2009/2010
+Riccardo Capogna,22,Centre-Forward,AC Carpenedolo,0.0,in,Summer,2009,2009/2010
+Federico Moretti,20,Central Midfield,Varese,0.0,in,Summer,2009,2009/2010
+Mohamed Traoré,17,Right-Back,Carpi,0.0,in,Summer,2009,2009/2010
+Fabio Lebran,22,Centre-Back,Unione Venezia,0.0,in,Summer,2009,2009/2010
+Abdou Doumbia,19,Left Winger,Pescara U19,0.0,in,Summer,2009,2009/2010
+Simone Malatesta,28,Centre-Forward,Mantova,0.0,in,Summer,2009,2009/2010
+Alessio Tombesi,28,Left-Back,Novara,0.0,in,Summer,2009,2009/2010
+Valeri Bozhinov,23,Centre-Forward,Man City,0.0,in,Summer,2009,2009/2010
+Davide Lanzafame,22,Centre-Forward,US Palermo,0.0,in,Summer,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,0.0,in,Summer,2009,2009/2010
+Stefano Crisci,19,Right Winger,Parma U19,0.0,in,Summer,2009,2009/2010
+Reginaldo,25,Second Striker,Siena,4500000.0,out,Summer,2009,2009/2010
+Francesco Parravicini,27,Defensive Midfield,Siena,1000000.0,out,Summer,2009,2009/2010
+Magnus Troest,22,Centre-Back,Genoa,900000.0,out,Summer,2009,2009/2010
+Cristian Anelli,20,Centre-Back,AC Carpenedolo,64000.0,out,Summer,2009,2009/2010
+Fabio Virgili,23,Goalkeeper,Sporting Terni,0.0,out,Summer,2009,2009/2010
+Federico Moretti,20,Central Midfield,Catania,0.0,out,Summer,2009,2009/2010
+Daniele Vantaggiato,24,Centre-Forward,Torino,0.0,out,Summer,2009,2009/2010
+Leandro Martínez,19,Left Winger,Südtirol,0.0,out,Summer,2009,2009/2010
+Cristiano Lucarelli,33,Centre-Forward,AS Livorno,0.0,out,Summer,2009,2009/2010
+Abdou Doumbia,19,Left Winger,Santegidiese,0.0,out,Summer,2009,2009/2010
+Luca Tedeschi,22,Centre-Back,Ternana,500,out,Summer,2009,2009/2010
+Mattia Ferrato,19,Centre-Back,Pro Vercelli,0.0,out,Summer,2009,2009/2010
+Wasim Atitallah,17,midfield,Sangiustese,0.0,out,Summer,2009,2009/2010
+Fabio Lebran,22,Centre-Back,Rimini,0.0,out,Summer,2009,2009/2010
+Giacomo Chiazzolino,23,Central Midfield,Alessandria,0.0,out,Summer,2009,2009/2010
+Ivan Cacchioli,18,Goalkeeper,Sansepolcro,0.0,out,Summer,2009,2009/2010
+Manuel Coppola,27,Central Midfield,Torino,0.0,out,Summer,2009,2009/2010
+Mattia Pin,21,attack,Crociati Noceto,0.0,out,Summer,2009,2009/2010
+Stefano Crisci,19,Right Winger,Bellaria IM,0.0,out,Summer,2009,2009/2010
+Matteo Mandorlini,20,Central Midfield,Viareggio,0.0,out,Summer,2009,2009/2010
+Filippo Savi,22,Central Midfield,AC Carpenedolo,0.0,out,Summer,2009,2009/2010
+Daniele Paponi,21,Centre-Forward,Perugia,0.0,out,Summer,2009,2009/2010
+Julio de León,29,Attacking Midfield,Torino,0.0,out,Summer,2009,2009/2010
+Francesco Pambianchi,20,Centre-Back,Pergocrema,0.0,out,Summer,2009,2009/2010
+Andrea Gasparri,20,Goalkeeper,Giulianova,0.0,out,Summer,2009,2009/2010
+Alberto Galuppo,23,Centre-Back,Cremonese,0.0,out,Summer,2009,2009/2010
+Marco Rossi,21,Centre-Back,Sampdoria,0.0,out,Summer,2009,2009/2010
+Giulio Falcone,35,Centre-Back,Retired,0.0,out,Summer,2009,2009/2010
+Paolo Ginestra,30,Goalkeeper,Ternana,0.0,out,Summer,2009,2009/2010
+Gianluca Pegolo,28,Goalkeeper,Genoa,0.0,out,Summer,2009,2009/2010
+Antonino D'Agostino,30,Right Midfield,Atalanta BC,0.0,out,Summer,2009,2009/2010
+Francesco Valiani,29,Central Midfield,Bologna,2800000.0,in,Winter,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,2500000.0,in,Winter,2009,2009/2010
+Hernán Crespo,34,Centre-Forward,Genoa,0.0,in,Winter,2009,2009/2010
+Luis Jiménez,25,Attacking Midfield,Inter,0.0,in,Winter,2009,2009/2010
+Pietro Baccolo,19,Central Midfield,Padova,0.0,in,Winter,2009,2009/2010
+Mattia Ferrato,20,Centre-Back,Pro Vercelli,0.0,in,Winter,2009,2009/2010
+McDonald Mariga,22,Defensive Midfield,Inter,10000000.0,out,Winter,2009,2009/2010
+Daniele Vantaggiato,25,Centre-Forward,Padova,5000000.0,out,Winter,2009,2009/2010
+Andrea Pisanu,28,Right Midfield,Bologna,5000000.0,out,Winter,2009,2009/2010
+Alessandro Budel,28,Defensive Midfield,Brescia,2500000.0,out,Winter,2009,2009/2010
+Nicolás Córdova,30,Central Midfield,Brescia,1000000.0,out,Winter,2009,2009/2010
+Nicola Amoruso,35,Centre-Forward,Atalanta BC,1000000.0,out,Winter,2009,2009/2010
+Leandro Martínez,20,Left Winger,GC Biaschesi,0.0,out,Winter,2009,2009/2010
+Alessio Manzoni,22,Central Midfield,Brescia,0.0,out,Winter,2009,2009/2010
+Mattia Ferrato,20,Centre-Back,AC Carpenedolo,0.0,out,Winter,2009,2009/2010
+Pablo Fontanello,25,Centre-Back,Tigre,0.0,out,Winter,2009,2009/2010
+Christian Panucci,36,Right-Back,Without Club,0.0,out,Winter,2009,2009/2010
+Jonathan Biabiany,21,Right Winger,Inter,0.0,out,Winter,2009,2009/2010
+Andrea Rispoli,21,Right-Back,Brescia,7000000.0,in,Summer,2010,2010/2011
+Blerim Dzemaili,24,Central Midfield,Torino,7000000.0,in,Summer,2010,2010/2011
+Gabriel Paletta,24,Centre-Back,Boca Juniors,2500000.0,in,Summer,2010,2010/2011
+Valeri Bozhinov,24,Centre-Forward,Man City,2000000.0,in,Summer,2010,2010/2011
+Sebastian Giovinco,23,Second Striker,Juventus,1000000.0,in,Summer,2010,2010/2011
+Gabriele Paonessa,23,Attacking Midfield,Bologna,600000.0,in,Summer,2010,2010/2011
+Antonio Candreva,23,Right Midfield,Udinese Calcio,500000.0,in,Summer,2010,2010/2011
+Zé Eduardo,18,Defensive Midfield,Maga,500000.0,in,Summer,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,US Palermo,400000.0,in,Summer,2010,2010/2011
+Milan Djuric,20,Centre-Forward,Cesena,300000.0,in,Summer,2010,2010/2011
+Alberto Galuppo,25,Centre-Back,Cesena,200000.0,in,Summer,2010,2010/2011
+Fernando Marqués,25,Right Winger,Espanyol,200000.0,in,Summer,2010,2010/2011
+Angelo,29,Right-Back,Lecce,0.0,in,Summer,2010,2010/2011
+Mario Merlonghi,22,Left Winger,Monterotondo,0.0,in,Summer,2010,2010/2011
+Massimo Gobbi,29,Left-Back,Fiorentina,0.0,in,Summer,2010,2010/2011
+Alain Mendy,20,Central Midfield,Mantova,0.0,in,Summer,2010,2010/2011
+Rolf Feltscher,19,Right-Back,Grasshoppers,0.0,in,Summer,2010,2010/2011
+Danilo Pereira,18,Defensive Midfield,Benfica U19,0.0,in,Summer,2010,2010/2011
+Filipe Oliveira,26,Right Winger,SC Braga,0.0,in,Summer,2010,2010/2011
+Fabio Lebran,23,Centre-Back,Rimini,0.0,in,Summer,2010,2010/2011
+Niccolò Galli,22,Central Midfield,Pergocrema,0.0,in,Summer,2010,2010/2011
+Marco Pisano,28,Left-Back,Torino,0.0,in,Summer,2010,2010/2011
+Abderrazzak Jadid,27,Central Midfield,Salernitana,0.0,in,Summer,2010,2010/2011
+Jonathan Biabiany,22,Right Winger,Inter,4200000.0,out,Summer,2010,2010/2011
+Julio de León,30,Attacking Midfield,SD Luneng,775000.0,out,Summer,2010,2010/2011
+Filipe Oliveira,26,Right Winger,Torino,600000.0,out,Summer,2010,2010/2011
+Daniele Paponi,22,Centre-Forward,Bologna,500000.0,out,Summer,2010,2010/2011
+Manuel Coppola,28,Central Midfield,Lecce,400000.0,out,Summer,2010,2010/2011
+Marco Rossi,22,Centre-Back,Bari,250000.0,out,Summer,2010,2010/2011
+Fabio Lebran,23,Centre-Back,UC AlbinoLeffe,150000.0,out,Summer,2010,2010/2011
+Milan Djuric,20,Centre-Forward,Ascoli,130000.0,out,Summer,2010,2010/2011
+Alessio Tombesi,28,Left-Back,Atletico Roma,100000.0,out,Summer,2010,2010/2011
+Radek Petr,23,Goalkeeper,KAS Eupen,0.0,out,Summer,2010,2010/2011
+Leandro Martínez,20,Left Winger,UC AlbinoLeffe,0.0,out,Summer,2010,2010/2011
+Mario Merlonghi,22,Left Winger,Fondi,0.0,out,Summer,2010,2010/2011
+Paolo Castellini,31,Left-Back,AS Roma,0.0,out,Summer,2010,2010/2011
+Luca Tedeschi,23,Centre-Back,FC Crotone,0.0,out,Summer,2010,2010/2011
+Abdou Doumbia,20,Left Winger,Atletico Roma,1000.0,out,Summer,2010,2010/2011
+Giacomo Chiazzolino,24,Central Midfield,Campobasso,0.0,out,Summer,2010,2010/2011
+Alberto Galuppo,24,Centre-Back,Cesena,0.0,out,Summer,2010,2010/2011
+Mattia Pin,22,attack,Colorno,0.0,out,Summer,2010,2010/2011
+Mattia Ferrato,20,Centre-Back,AC Carpenedolo,0.0,out,Summer,2010,2010/2011
+Stefano Crisci,20,Right Winger,Fondi,0.0,out,Summer,2010,2010/2011
+Alessio Manzoni,23,Central Midfield,UC AlbinoLeffe,0.0,out,Summer,2010,2010/2011
+Ivan Cacchioli,19,Goalkeeper,Fondi,0.0,out,Summer,2010,2010/2011
+Pablo Fontanello,25,Centre-Back,Gimnasia,0.0,out,Summer,2010,2010/2011
+Andrea Gasparri,21,Goalkeeper,Giacomense,0.0,out,Summer,2010,2010/2011
+Gabriele Paonessa,23,Attacking Midfield,Cesena,0.0,out,Summer,2010,2010/2011
+Matteo Mandorlini,21,Central Midfield,Piacenza,0.0,out,Summer,2010,2010/2011
+Riccardo Capogna,22,Centre-Forward,Fondi,0.0,out,Summer,2010,2010/2011
+Abderrazzak Jadid,27,Central Midfield,KAS Eupen,0.0,out,Summer,2010,2010/2011
+Andrea Rispoli,21,Right-Back,Lecce,0.0,out,Summer,2010,2010/2011
+Mohamed Traoré,18,Right-Back,Südtirol,0.0,out,Summer,2010,2010/2011
+Cristiano Lucarelli,34,Centre-Forward,SSC Napoli,0.0,out,Summer,2010,2010/2011
+Pietro Baccolo,20,Central Midfield,Südtirol,0.0,out,Summer,2010,2010/2011
+Francesco Lunardini,25,Defensive Midfield,Triestina,0.0,out,Summer,2010,2010/2011
+Simone Malatesta,28,Centre-Forward,Carpi,0.0,out,Summer,2010,2010/2011
+Ronny Valerio,20,Right Winger,Fondi,0.0,out,Summer,2010,2010/2011
+Damiano Zenoni,33,Right-Back,Without Club,0.0,out,Summer,2010,2010/2011
+Luis Jiménez,26,Attacking Midfield,Inter,0.0,out,Summer,2010,2010/2011
+Davide Lanzafame,23,Centre-Forward,US Palermo,0.0,out,Summer,2010,2010/2011
+Blerim Dzemaili,24,Central Midfield,Torino,0.0,out,Summer,2010,2010/2011
+Valeri Bozhinov,24,Centre-Forward,Man City,0.0,out,Summer,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,US Palermo,0.0,out,Summer,2010,2010/2011
+Raffaele Palladino,26,Left Winger,Genoa,6000000.0,in,Winter,2010,2010/2011
+Francesco Modesto,28,Left-Back,Genoa,2500000.0,in,Winter,2010,2010/2011
+Amauri,30,Centre-Forward,Juventus,0.0,in,Winter,2010,2010/2011
+Gianluca Lapadula,20,Centre-Forward,Atletico Roma,0.0,in,Winter,2010,2010/2011
+Valerio Mastrelli,22,attack,Campobasso,0.0,in,Winter,2010,2010/2011
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,in,Winter,2010,2010/2011
+Toni Calvo,23,Right Winger,Aris Saloniki,0.0,in,Winter,2010,2010/2011
+Amara Konate,20,Centre-Forward,Parma U19,0.0,in,Winter,2010,2010/2011
+Luca Antonelli,23,Left-Back,Genoa,7000000.0,out,Winter,2010,2010/2011
+Alberto Paloschi,20,Centre-Forward,Genoa,4350000.0,out,Winter,2010,2010/2011
+Paolo Dellafiore,25,Centre-Back,Cesena,200000.0,out,Winter,2010,2010/2011
+Danilo Pereira,19,Defensive Midfield,Aris Saloniki,0.0,out,Winter,2010,2010/2011
+Valerio Mastrelli,22,attack,GC Biaschesi,0.0,out,Winter,2010,2010/2011
+Filippo Savi,23,Central Midfield,Crociati Noceto,0.0,out,Winter,2010,2010/2011
+Milan Djuric,20,Centre-Forward,FC Crotone,0.0,out,Winter,2010,2010/2011
+Amara Konate,20,Centre-Forward,Crociati Noceto,0.0,out,Winter,2010,2010/2011
+Gianluca Lapadula,20,Centre-Forward,Ravenna,0.0,out,Winter,2010,2010/2011
+Abdou Doumbia,20,Left Winger,Ascoli,0.0,out,Winter,2010,2010/2011
+Simone Malatesta,28,Centre-Forward,Pro Vercelli,0.0,out,Winter,2010,2010/2011
+Sebastian Giovinco,24,Second Striker,Juventus,3000000.0,in,Summer,2011,2011/2012
+Manuele Blasi,30,Central Midfield,SSC Napoli,1500000.0,in,Summer,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Bologna,1500000.0,in,Summer,2011,2011/2012
+Graziano Pellè,25,Centre-Forward,AZ Alkmaar,1500000.0,in,Summer,2011,2011/2012
+Sergio Floccari,29,Centre-Forward,Lazio,1500000.0,in,Summer,2011,2011/2012
+Raffaele Schiavi,25,Centre-Back,Vicenza,750000.0,in,Summer,2011,2011/2012
+Daniel Ciofani,25,Centre-Forward,Atletico Roma,600000.0,in,Summer,2011,2011/2012
+Fabio Borini,20,Left Winger,Chelsea,360000.0,in,Summer,2011,2011/2012
+Riccardo Brosco,20,Centre-Back,Triestina,200000.0,in,Summer,2011,2011/2012
+Matteo Rubin,24,Left-Back,Torino,200000.0,in,Summer,2011,2011/2012
+Fabiano Santacroce,24,Centre-Back,SSC Napoli,100000.0,in,Summer,2011,2011/2012
+Emanuele Padella,22,Centre-Back,Atletico Roma,0.0,in,Summer,2011,2011/2012
+Angelo Bencivenga,19,Right-Back,AS Livorno,0.0,in,Summer,2011,2011/2012
+Mário Rui,20,Left-Back,Benfica,0.0,in,Summer,2011,2011/2012
+Nicola Sansone,19,Left Winger,FC Bayern II,0.0,in,Summer,2011,2011/2012
+Alberto Gallinetta,19,Goalkeeper,Inter U19,0.0,in,Summer,2011,2011/2012
+Fabio Lebran,25,Centre-Back,UC AlbinoLeffe,0.0,in,Summer,2011,2011/2012
+Matteo Pisseri,20,Goalkeeper,Renate,0.0,in,Summer,2011,2011/2012
+Zé Eduardo,19,Defensive Midfield,Maga,0.0,in,Summer,2011,2011/2012
+Davide Colomba,22,Left Midfield,SPAL,0.0,in,Summer,2011,2011/2012
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,in,Summer,2011,2011/2012
+Gianluca Musacci,24,Central Midfield,Empoli,0.0,in,Summer,2011,2011/2012
+Gonçalo Brandão,24,Centre-Back,Siena,0.0,in,Summer,2011,2011/2012
+Jonathan Biabiany,23,Right Winger,Sampdoria,0.0,in,Summer,2011,2011/2012
+Jaime Valdés,30,midfield,Sporting CP,0.0,in,Summer,2011,2011/2012
+Diego Manzoni,20,Goalkeeper,Pergocrema,0.0,in,Summer,2011,2011/2012
+Blerim Dzemaili,25,Central Midfield,SSC Napoli,9000000.0,out,Summer,2011,2011/2012
+Marco Rossi,23,Centre-Back,Cesena,4000000.0,out,Summer,2011,2011/2012
+Valeri Bozhinov,25,Centre-Forward,Sporting CP,2600000.0,out,Summer,2011,2011/2012
+Angelo,30,Right-Back,Siena,2500000.0,out,Summer,2011,2011/2012
+Matteo Mandorlini,22,Central Midfield,Brescia,1500000.0,out,Summer,2011,2011/2012
+Riccardo Pasi,20,Attacking Midfield,Bologna,1500000.0,out,Summer,2011,2011/2012
+Fabio Borini,20,Left Winger,AS Roma,1250000.0,out,Summer,2011,2011/2012
+Massimo Paci,33,Centre-Back,Novara,300000.0,out,Summer,2011,2011/2012
+Marco Pisano,29,Left-Back,Vicenza,150000.0,out,Summer,2011,2011/2012
+Riccardo Brosco,20,Centre-Back,Pescara,100000.0,out,Summer,2011,2011/2012
+Pablo Fontanello,26,Centre-Back,Chornomorets,100000.0,out,Summer,2011,2011/2012
+Paolo Castellini,32,Left-Back,Sampdoria,50000.0,out,Summer,2011,2011/2012
+Alain Mendy,21,Central Midfield,AS Roma,0.0,out,Summer,2011,2011/2012
+Ronny Valerio,21,Right Winger,Renate,0.0,out,Summer,2011,2011/2012
+Emanuele Padella,22,Centre-Back,Grosseto,0.0,out,Summer,2011,2011/2012
+Filippo Savi,24,Central Midfield,FC Brüssel,0.0,out,Summer,2011,2011/2012
+Abel Gigli,20,Centre-Back,Fondi,0.0,out,Summer,2011,2011/2012
+Mário Rui,20,Left-Back,AS Gubbio,0.0,out,Summer,2011,2011/2012
+Francesco Pambianchi,22,Centre-Back,SPAL,0.0,out,Summer,2011,2011/2012
+Stefano Russo,22,Goalkeeper,ASG Nocerina,0.0,out,Summer,2011,2011/2012
+Paolo Dellafiore,26,Centre-Back,Novara,500,out,Summer,2011,2011/2012
+Luca Tedeschi,24,Centre-Back,Crotone,500,out,Summer,2011,2011/2012
+Angelo Bencivenga,20,Right-Back,Pro Vercelli,500,out,Summer,2011,2011/2012
+Alessandro Vecchi,20,Centre-Back,SPAL,0.0,out,Summer,2011,2011/2012
+Zsolt Tamási,21,Central Midfield,Ascoli,0.0,out,Summer,2011,2011/2012
+Diego Manzoni,20,Goalkeeper,Unknown,0.0,out,Summer,2011,2011/2012
+Mohamed Traoré,19,Right-Back,Foggia,0.0,out,Summer,2011,2011/2012
+Paolo Beatrizzotti,18,Attacking Midfield,Santarcangelo,0.0,out,Summer,2011,2011/2012
+Andrea Gasparri,22,Goalkeeper,Fondi,0.0,out,Summer,2011,2011/2012
+Amara Konate,20,Centre-Forward,Fondi,0.0,out,Summer,2011,2011/2012
+Francesco Lunardini,26,Defensive Midfield,AS Gubbio,0.0,out,Summer,2011,2011/2012
+Alberto Galuppo,25,Centre-Back,Foligno,0.0,out,Summer,2011,2011/2012
+Loris Formuso,21,Centre-Forward,Fondi,0.0,out,Summer,2011,2011/2012
+Manuel Coppola,29,Central Midfield,Empoli,0.0,out,Summer,2011,2011/2012
+Nicola Sansone,19,Left Winger,Crotone,0.0,out,Summer,2011,2011/2012
+Gabriele Paonessa,24,Attacking Midfield,AS Gubbio,0.0,out,Summer,2011,2011/2012
+Filipe Oliveira,27,Right Winger,Videoton FC,0.0,out,Summer,2011,2011/2012
+Andrea Rispoli,22,Right-Back,Sampdoria,0.0,out,Summer,2011,2011/2012
+Niccolò Galli,22,Central Midfield,Hellas Verona,0.0,out,Summer,2011,2011/2012
+Davide Colomba,23,Left Midfield,Crotone,0.0,out,Summer,2011,2011/2012
+Pietro Baccolo,21,Central Midfield,Frosinone,0.0,out,Summer,2011,2011/2012
+Alessio Manzoni,24,Central Midfield,Frosinone,0.0,out,Summer,2011,2011/2012
+Riccardo Capogna,23,Centre-Forward,Renate,0.0,out,Summer,2011,2011/2012
+Ivan Cacchioli,20,Goalkeeper,Pavia,0.0,out,Summer,2011,2011/2012
+Raffaele Schiavi,25,Centre-Back,Padova,0.0,out,Summer,2011,2011/2012
+Gianluca Lapadula,21,Centre-Forward,San Marino,0.0,out,Summer,2011,2011/2012
+Daniel Ciofani,26,Centre-Forward,AS Gubbio,0.0,out,Summer,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Viareggio,0.0,out,Summer,2011,2011/2012
+Abdou Doumbia,21,Left Winger,Como,0.0,out,Summer,2011,2011/2012
+Sebastian Giovinco,24,Second Striker,Juventus,0.0,out,Summer,2011,2011/2012
+Nwankwo Obiora,19,Defensive Midfield,Inter,0.0,out,Summer,2011,2011/2012
+Amauri,31,Centre-Forward,Juventus,0.0,out,Summer,2011,2011/2012
+Toni Calvo,24,Right Winger,Aris Saloniki,0.0,out,Summer,2011,2011/2012
+Antonio Candreva,24,Right Midfield,Udinese Calcio,0.0,out,Summer,2011,2011/2012
+Zé Eduardo,19,Defensive Midfield,Maga,0.0,out,Summer,2011,2011/2012
+David Löfquist,25,Defensive Midfield,Mjällby AIF,0.0,in,Winter,2011,2011/2012
+Stefano Okaka,22,Centre-Forward,AS Roma,0.0,in,Winter,2011,2011/2012
+Paolo Beatrizzotti,19,Attacking Midfield,Santarcangelo,0.0,in,Winter,2011,2011/2012
+McDonald Mariga,24,Defensive Midfield,Inter,0.0,in,Winter,2011,2011/2012
+Stefano Ferrario,26,Centre-Back,Lecce,0.0,in,Winter,2011,2011/2012
+Jonathan,25,Right-Back,Inter,0.0,in,Winter,2011,2011/2012
+Fabio Borini,20,Left Winger,AS Roma,7600000.0,out,Winter,2011,2011/2012
+Pablo Fontanello,27,Centre-Back,Chornomorets,350000.0,out,Winter,2011,2011/2012
+Manuele Blasi,31,Central Midfield,Lecce,0.0,out,Winter,2011,2011/2012
+Francesco Finocchio,19,Right Midfield,Fondi,0.0,out,Winter,2011,2011/2012
+Zé Eduardo,20,Defensive Midfield,Empoli,0.0,out,Winter,2011,2011/2012
+Gabriele Paonessa,24,Attacking Midfield,Como,0.0,out,Winter,2011,2011/2012
+Riccardo Capogna,23,Centre-Forward,Pro Patria,0.0,out,Winter,2011,2011/2012
+David Löfquist,25,Defensive Midfield,AS Gubbio,0.0,out,Winter,2011,2011/2012
+Alessandro Elia,21,Centre-Forward,Arzanese,0.0,out,Winter,2011,2011/2012
+Graziano Pellè,26,Centre-Forward,Sampdoria,0.0,out,Winter,2011,2011/2012
+Abderrazzak Jadid,28,Central Midfield,Grosseto,0.0,out,Winter,2011,2011/2012
+Stefan Ristovski,19,Right-Back,Frosinone,0.0,out,Winter,2011,2011/2012
+Nwankwo Obiora,20,Defensive Midfield,AS Gubbio,0.0,out,Winter,2011,2011/2012
+Hernán Crespo,36,Centre-Forward,Retired,0.0,out,Winter,2011,2011/2012
+Matteo Rubin,24,Left-Back,Torino,0.0,out,Winter,2011,2011/2012
+Jonathan Biabiany,24,Right Winger,Sampdoria,4500000.0,in,Summer,2012,2012/2013
+Dorlan Pabón,24,Right Winger,Atl. Nacional,4000000.0,in,Summer,2012,2012/2013
+Andrea Rossi,25,Left-Back,Siena,3600000.0,in,Summer,2012,2012/2013
+Ishak Belfodil,20,Centre-Forward,Olympique Lyon,3500000.0,in,Summer,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Cesena,2000000.0,in,Summer,2012,2012/2013
+Jaime Valdés,31,midfield,Sporting CP,1800000.0,in,Summer,2012,2012/2013
+Raman Chibsah,19,Central Midfield,Juventus U19,1750000.0,in,Summer,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Empoli,1100000.0,in,Summer,2012,2012/2013
+Riccardo Casini,20,Defensive Midfield,Bologna U19,1000000.0,in,Summer,2012,2012/2013
+Marco Parolo,27,Central Midfield,Cesena,1000000.0,in,Summer,2012,2012/2013
+Fabiano Santacroce,25,Centre-Back,SSC Napoli,900000.0,in,Summer,2012,2012/2013
+Emilio Mac Eachen,20,Centre-Back,Peñarol,300000.0,in,Summer,2012,2012/2013
+Paolo Dellafiore,27,Centre-Back,Novara,250000.0,in,Summer,2012,2012/2013
+Ignacio Fideleff,23,Centre-Back,SSC Napoli,200000.0,in,Summer,2012,2012/2013
+Manuel Arteaga,18,Centre-Forward,Zulia FC,150000.0,in,Summer,2012,2012/2013
+Afriyie Acquah,20,Central Midfield,US Palermo,100000.0,in,Summer,2012,2012/2013
+Sotiris Ninis,22,Attacking Midfield,Panathinaikos,0.0,in,Summer,2012,2012/2013
+Amauri,32,Centre-Forward,Fiorentina,0.0,in,Summer,2012,2012/2013
+Pavol Bajza,20,Goalkeeper,Dubnica,0.0,in,Summer,2012,2012/2013
+Marco Marchionni,32,Right Midfield,Fiorentina,0.0,in,Summer,2012,2012/2013
+Mirko Pigliacelli,19,Goalkeeper,Roma U19,0.0,in,Summer,2012,2012/2013
+Alessandro Vecchi,21,Centre-Back,SPAL,0.0,in,Summer,2012,2012/2013
+Aleandro Rosi,25,Right-Back,AS Roma,0.0,in,Summer,2012,2012/2013
+Stefano Okaka,23,Centre-Forward,AS Roma,0.0,in,Summer,2012,2012/2013
+Solomon Enow,25,Centre-Back,Spezia Calcio,0.0,in,Summer,2012,2012/2013
+Nick Modaffari,20,Left-Back,Carpi,0.0,in,Summer,2012,2012/2013
+Bongoura Thiam,19,attack,US Tor di Quinto,0.0,in,Summer,2012,2012/2013
+Federico Meacci,20,Defensive Midfield,L'Aquila,0.0,in,Summer,2012,2012/2013
+Luca Tedeschi,25,Centre-Back,Crotone,0.0,in,Summer,2012,2012/2013
+Giuseppe Pacini,19,Right-Back,Siena,0.0,in,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Siena,0.0,in,Summer,2012,2012/2013
+Vittorio Fabris,19,Central Midfield,Vicenza U19,0.0,in,Summer,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Grosseto,0.0,in,Summer,2012,2012/2013
+Daniele Bazzoffia,24,Second Striker,AS Gubbio,0.0,in,Summer,2012,2012/2013
+Simone Smacchia,17,Second Striker,Gubbio U19,0.0,in,Summer,2012,2012/2013
+Filippo Cunsolo,23,attack,Losone,0.0,in,Summer,2012,2012/2013
+Diego De Giorgi,19,midfield,Casarano,0.0,in,Summer,2012,2012/2013
+Nicolò Stirati,20,attack,Pierantonio,0.0,in,Summer,2012,2012/2013
+Cristiano Bussi,22,Centre-Forward,Isola Liri,0.0,in,Summer,2012,2012/2013
+Gaetano Adamo,21,Centre-Back,AS Gubbio,0.0,in,Summer,2012,2012/2013
+Yohan Benalouane,25,Centre-Back,Cesena,0.0,in,Summer,2012,2012/2013
+Sebastian Giovinco,25,Second Striker,Juventus,11000000.0,out,Summer,2012,2012/2013
+Manuel Coppola,30,Central Midfield,Siena,3250000.0,out,Summer,2012,2012/2013
+Stefano Russo,23,Goalkeeper,Brescia,1200000.0,out,Summer,2012,2012/2013
+Francesco Finocchio,20,Right Midfield,Bologna,1000000.0,out,Summer,2012,2012/2013
+Francesco Valiani,31,Central Midfield,Siena,100000.0,out,Summer,2012,2012/2013
+Amara Konate,21,Centre-Forward,Campobasso,0.0,out,Summer,2012,2012/2013
+Riccardo Capogna,24,Centre-Forward,Chieti,0.0,out,Summer,2012,2012/2013
+Francesco Lunardini,27,Defensive Midfield,San Marino,0.0,out,Summer,2012,2012/2013
+Loris Formuso,22,Centre-Forward,Grottaglie,0.0,out,Summer,2012,2012/2013
+Raffaele Schiavi,26,Centre-Back,Spezia Calcio,0.0,out,Summer,2012,2012/2013
+Mário Rui,21,Left-Back,Spezia Calcio,0.0,out,Summer,2012,2012/2013
+Abel Gigli,21,Centre-Back,Chieti,0.0,out,Summer,2012,2012/2013
+Francesco Pambianchi,23,Centre-Back,AS Gubbio,0.0,out,Summer,2012,2012/2013
+Luca Tedeschi,25,Centre-Back,Cremonese,0.0,out,Summer,2012,2012/2013
+Raman Chibsah,19,Central Midfield,Sassuolo,0.0,out,Summer,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Como,0.0,out,Summer,2012,2012/2013
+Alessandro Vecchi,21,Centre-Back,Mantova,0.0,out,Summer,2012,2012/2013
+Vittorio Fabris,19,Central Midfield,Feralpisalò,0.0,out,Summer,2012,2012/2013
+Daniele Bazzoffia,24,Second Striker,AS Gubbio,0.0,out,Summer,2012,2012/2013
+Domenico Mungo,19,Attacking Midfield,Chieti,0.0,out,Summer,2012,2012/2013
+Gianluca Lapadula,22,Centre-Forward,Cesena,0.0,out,Summer,2012,2012/2013
+Niccolò Galli,23,Central Midfield,Padova,0.0,out,Summer,2012,2012/2013
+Grégoire Defrel,21,Centre-Forward,Cesena,0.0,out,Summer,2012,2012/2013
+Davide Colomba,23,Left Midfield,Ascoli,0.0,out,Summer,2012,2012/2013
+Alberto Galuppo,26,Centre-Back,Siena,0.0,out,Summer,2012,2012/2013
+Abdou Doumbia,22,Left Winger,Siena,0.0,out,Summer,2012,2012/2013
+Filipe Oliveira,28,Right Winger,Videoton FC,0.0,out,Summer,2012,2012/2013
+Abderrazzak Jadid,29,Central Midfield,Grosseto,0.0,out,Summer,2012,2012/2013
+Paolo Dellafiore,27,Centre-Back,Siena,0.0,out,Summer,2012,2012/2013
+Paolo Castellini,33,Left-Back,Sampdoria,0.0,out,Summer,2012,2012/2013
+Milan Djuric,22,Centre-Forward,Cesena,0.0,out,Summer,2012,2012/2013
+Pietro Baccolo,22,Central Midfield,AS Gubbio,0.0,out,Summer,2012,2012/2013
+Gaetano Adamo,21,Centre-Back,GC Biaschesi,0.0,out,Summer,2012,2012/2013
+Paolo Beatrizzotti,19,Attacking Midfield,Santarcangelo,0.0,out,Summer,2012,2012/2013
+Filippo Cunsolo,23,attack,GC Biaschesi,0.0,out,Summer,2012,2012/2013
+Rolf Feltscher,21,Right-Back,Padova,0.0,out,Summer,2012,2012/2013
+Danilo Pereira,20,Defensive Midfield,Roda JC,0.0,out,Summer,2012,2012/2013
+Matteo Pisseri,20,Goalkeeper,Catanzaro,0.0,out,Summer,2012,2012/2013
+Andrea Rispoli,23,Right-Back,Padova,0.0,out,Summer,2012,2012/2013
+Nwankwo Obiora,20,Defensive Midfield,Padova,0.0,out,Summer,2012,2012/2013
+Zé Eduardo,20,Defensive Midfield,Padova,0.0,out,Summer,2012,2012/2013
+Antonio Santurro,20,Goalkeeper,Renate,0.0,out,Summer,2012,2012/2013
+Stefan Ristovski,20,Right-Back,Bari,0.0,out,Summer,2012,2012/2013
+Alessandro De Vitis,20,Defensive Midfield,Padova,0.0,out,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Cesena,0.0,out,Summer,2012,2012/2013
+Fabio Lebran,25,Centre-Back,Perugia,0.0,out,Summer,2012,2012/2013
+Riccardo Casini,20,Defensive Midfield,Prato,0.0,out,Summer,2012,2012/2013
+Andrea Rossi,25,Left-Back,Cesena,0.0,out,Summer,2012,2012/2013
+Alessandro Elia,22,Centre-Forward,Arzanese,0.0,out,Summer,2012,2012/2013
+Daniel Ciofani,27,Centre-Forward,Perugia,0.0,out,Summer,2012,2012/2013
+Bright Addae,19,Defensive Midfield,Crotone,0.0,out,Summer,2012,2012/2013
+Mirko Pigliacelli,19,Goalkeeper,Sassuolo,0.0,out,Summer,2012,2012/2013
+Gabriele Paonessa,25,Attacking Midfield,Perugia,0.0,out,Summer,2012,2012/2013
+Alessio Manzoni,25,Central Midfield,AS Gubbio,0.0,out,Summer,2012,2012/2013
+Stefano Okaka,23,Centre-Forward,Spezia Calcio,0.0,out,Summer,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Foligno,0.0,out,Summer,2012,2012/2013
+Graziano Pellè,27,Centre-Forward,Feyenoord,0.0,out,Summer,2012,2012/2013
+Francesco Modesto,30,Left-Back,Pescara,0.0,out,Summer,2012,2012/2013
+Simone Smacchia,17,Second Striker,Spezia U19,0.0,out,Summer,2012,2012/2013
+Simone Malatesta,30,Centre-Forward,Carrarese,0.0,out,Summer,2012,2012/2013
+David Löfquist,26,Defensive Midfield,Malmö FF,0.0,out,Summer,2012,2012/2013
+Nick Modaffari,20,Left-Back,Bellaria IM,0.0,out,Summer,2012,2012/2013
+Giuseppe Pacini,20,Right-Back,Fondi,0.0,out,Summer,2012,2012/2013
+Ivan Cacchioli,21,Goalkeeper,Fondi,0.0,out,Summer,2012,2012/2013
+Bongoura Thiam,19,attack,Bellaria IM,0.0,out,Summer,2012,2012/2013
+Calvin Lovric,19,Centre-Back,Bellaria IM,0.0,out,Summer,2012,2012/2013
+Federico Meacci,20,Defensive Midfield,Bellaria IM,0.0,out,Summer,2012,2012/2013
+Solomon Enow,25,Centre-Back,Unirea Dej,0.0,out,Summer,2012,2012/2013
+Diego De Giorgi,19,midfield,Fondi,0.0,out,Summer,2012,2012/2013
+Cristiano Bussi,22,Centre-Forward,Campobasso,0.0,out,Summer,2012,2012/2013
+Cristiano Lucarelli,36,Centre-Forward,Retired,0.0,out,Summer,2012,2012/2013
+Sulaiman Sesay-Fullah,20,Left Winger,Without Club,0.0,out,Summer,2012,2012/2013
+Gonçalo Brandão,25,Centre-Back,Siena,0.0,out,Summer,2012,2012/2013
+Jonathan Biabiany,24,Right Winger,Sampdoria,0.0,out,Summer,2012,2012/2013
+Fabiano Santacroce,25,Centre-Back,SSC Napoli,0.0,out,Summer,2012,2012/2013
+Jaime Valdés,31,midfield,Sporting CP,0.0,out,Summer,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Empoli,0.0,out,Summer,2012,2012/2013
+Sergio Floccari,30,Centre-Forward,Lazio,0.0,out,Summer,2012,2012/2013
+Jonathan,26,Right-Back,Inter,0.0,out,Summer,2012,2012/2013
+Stefano Okaka,22,Centre-Forward,AS Roma,0.0,out,Summer,2012,2012/2013
+Stefano Ferrario,27,Centre-Back,Lecce,0.0,out,Summer,2012,2012/2013
+McDonald Mariga,25,Defensive Midfield,Inter,0.0,out,Summer,2012,2012/2013
+Alessandro Iacobucci,21,Goalkeeper,Siena,3400000.0,in,Winter,2012,2012/2013
+Álvaro Ampuero,20,Left-Back,Universitario,400000.0,in,Winter,2012,2012/2013
+Vincenzo Giannusa,31,Central Midfield,AJ Fano,0.0,in,Winter,2012,2012/2013
+Lazaros Fotias,21,Centre-Back,Anag.Epanomis,0.0,in,Winter,2012,2012/2013
+Rodney Strasser,22,Defensive Midfield,AC Milan,0.0,in,Winter,2012,2012/2013
+Filippo Boniperti,21,Right Winger,Juventus,0.0,in,Winter,2012,2012/2013
+Djamel Mesbah,28,Left-Back,AC Milan,0.0,in,Winter,2012,2012/2013
+Mohamed Traoré,21,Right-Back,Crotone,0.0,in,Winter,2012,2012/2013
+Tommaso Cancelloni,20,Centre-Back,SS Milazzo,0.0,in,Winter,2012,2012/2013
+Simone Bezziccheri,19,Right Winger,Arezzo,0.0,in,Winter,2012,2012/2013
+McDonald Mariga,25,Defensive Midfield,Inter,0.0,in,Winter,2012,2012/2013
+Andrea Coda,27,Centre-Back,Udinese Calcio,0.0,in,Winter,2012,2012/2013
+Cristian Zaccardo,31,Centre-Back,AC Milan,3000000.0,out,Winter,2012,2012/2013
+Marco Firenze,19,Central Midfield,Giacomense,0.0,out,Winter,2012,2012/2013
+Nicola Del Pivo,20,Central Midfield,Santarcangelo,0.0,out,Winter,2012,2012/2013
+Lazaros Fotias,21,Centre-Back,Kaposvár,0.0,out,Winter,2012,2012/2013
+Gianluca Musacci,25,Central Midfield,Spezia Calcio,0.0,out,Winter,2012,2012/2013
+Gabriele Paonessa,25,Attacking Midfield,Crotone,0.0,out,Winter,2012,2012/2013
+Angelo Bencivenga,21,Right-Back,Ternana,0.0,out,Winter,2012,2012/2013
+Dorlan Pabón,25,Right Winger,Real Betis,0.0,out,Winter,2012,2012/2013
+Godfred Adofo,19,Defensive Midfield,UTA Arad,0.0,out,Winter,2012,2012/2013
+Simone Smacchia,18,Second Striker,AS Gubbio,0.0,out,Winter,2012,2012/2013
+Nwankwo Obiora,21,Defensive Midfield,CFR Cluj,0.0,out,Winter,2012,2012/2013
+Federico Meacci,21,Defensive Midfield,Gavorrano,0.0,out,Winter,2012,2012/2013
+Simone Bezziccheri,19,Right Winger,Fondi,0.0,out,Winter,2012,2012/2013
+Calvin Lovric,20,Centre-Back,SC Kriens II,0.0,out,Winter,2012,2012/2013
+Vincenzo Giannusa,31,Central Midfield,Fondi,0.0,out,Winter,2012,2012/2013
+Tommaso Cancelloni,20,Centre-Back,Savona,0.0,out,Winter,2012,2012/2013
+Manuel La Rosa,20,Centre-Back,Savona,0.0,out,Winter,2012,2012/2013
+Rolf Feltscher,22,Right-Back,Grosseto,0.0,out,Winter,2012,2012/2013
+Andrea Rossi,26,Left-Back,Bari,0.0,out,Winter,2012,2012/2013
+Michele Bentoglio,19,midfield,Vallée d’Aoste,0.0,out,Winter,2012,2012/2013
+David Löfquist,26,Defensive Midfield,Odense BK,0.0,out,Winter,2012,2012/2013
+Afriyie Acquah,21,Central Midfield,US Palermo,0.0,out,Winter,2012,2012/2013
+Ignacio Fideleff,23,Centre-Back,SSC Napoli,0.0,out,Winter,2012,2012/2013
+Marco Parolo,28,Central Midfield,Cesena,3000000.0,in,Summer,2013,2013/2014
+Daniele Gragnoli,19,Centre-Forward,Ascoli,1600000.0,in,Summer,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,Bologna,1000000.0,in,Summer,2013,2013/2014
+Denilson Gabionetta,27,Right Winger,Crotone,1000000.0,in,Summer,2013,2013/2014
+Gianni Munari,30,Central Midfield,Sampdoria,1000000.0,in,Summer,2013,2013/2014
+Luca Ceppitelli,24,Centre-Back,Bari,1000000.0,in,Summer,2013,2013/2014
+Stefano Russo,24,Goalkeeper,Brescia,800000.0,in,Summer,2013,2013/2014
+Slawomir Peszko,28,Left Winger,1. FC Köln,620000.0,in,Summer,2013,2013/2014
+Filip Jankovic,18,Central Midfield,Red Star U19,500000.0,in,Summer,2013,2013/2014
+Mory Koné,19,Centre-Back,Le Mans FC,500000.0,in,Summer,2013,2013/2014
+Carlos García,20,Centre-Back,Juventus,500000.0,in,Summer,2013,2013/2014
+Massimo Loviso,29,Defensive Midfield,Crotone,400000.0,in,Summer,2013,2013/2014
+Tomas Danilevicius,35,Centre-Forward,Latina Calcio,400000.0,in,Summer,2013,2013/2014
+Zouhair Feddal,23,Centre-Back,FUS Rabat,350000.0,in,Summer,2013,2013/2014
+Alessandro Favalli,20,Left-Back,Cremonese,250000.0,in,Summer,2013,2013/2014
+Alessandro Ligi,23,Centre-Back,Crotone,150000.0,in,Summer,2013,2013/2014
+Andrea Brighenti,25,Centre-Forward,Renate,77000.0,in,Summer,2013,2013/2014
+Giuliano Laezza,19,Centre-Back,Arzanese,75000.0,in,Summer,2013,2013/2014
+Simone Palermo,24,Central Midfield,AS Gubbio,70000.0,in,Summer,2013,2013/2014
+Pedro Mendes,22,Centre-Back,Sporting B,0.0,in,Summer,2013,2013/2014
+Gennaro Scognamiglio,26,Centre-Back,Juve Stabia,0.0,in,Summer,2013,2013/2014
+Jorman Aguilar,18,Centre-Forward,Río Abajo,0.0,in,Summer,2013,2013/2014
+Tomislav Saric,23,Central Midfield,Inter Zapresic,0.0,in,Summer,2013,2013/2014
+Nicola Russo,21,Left Winger,ASG Nocerina,0.0,in,Summer,2013,2013/2014
+Alex Cordaz,30,Goalkeeper,Cittadella,0.0,in,Summer,2013,2013/2014
+Luca Berardocco,22,Defensive Midfield,Pescara,0.0,in,Summer,2013,2013/2014
+Giuseppe Prestia,19,Centre-Back,US Palermo,0.0,in,Summer,2013,2013/2014
+Abdelaye Diakite,23,Centre-Back,Aprilia,0.0,in,Summer,2013,2013/2014
+Francesco Rapisarda,21,Right-Back,L'Aquila,0.0,in,Summer,2013,2013/2014
+Matteo Bibba,21,Goalkeeper,Casale,0.0,in,Summer,2013,2013/2014
+Stefano Rossini,22,Central Midfield,Fondi,0.0,in,Summer,2013,2013/2014
+Soufiane Bidaoui,23,Left Winger,Lierse SK,0.0,in,Summer,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,CA Cerro,0.0,in,Summer,2013,2013/2014
+Uros Celcer,24,Left-Back,ND Gorica,0.0,in,Summer,2013,2013/2014
+Angelo Tartaglia,20,Centre-Back,Andria,0.0,in,Summer,2013,2013/2014
+Cristiano Spirito,21,Right-Back,Melfi,0.0,in,Summer,2013,2013/2014
+Paolo Dametto,20,Centre-Back,Cagliari Calcio,0.0,in,Summer,2013,2013/2014
+Robert Stillo,22,Goalkeeper,Genoa,0.0,in,Summer,2013,2013/2014
+Giordano Maccarrone,23,Centre-Back,Catania,0.0,in,Summer,2013,2013/2014
+Nicolas Sumsky,19,midfield,Bohemians 1905,0.0,in,Summer,2013,2013/2014
+Gianvito Misuraca,23,Central Midfield,Vicenza,0.0,in,Summer,2013,2013/2014
+Carlo Crialese,20,Left-Back,Vigor Lamezia,0.0,in,Summer,2013,2013/2014
+Pietro Tripoli,26,attack,Varese,0.0,in,Summer,2013,2013/2014
+Alessandro Luparini,20,Centre-Forward,Spoleto,0.0,in,Summer,2013,2013/2014
+Gabriele Puccio,23,Central Midfield,Monza,0.0,in,Summer,2013,2013/2014
+Marco Modolo,24,Centre-Back,Pro Vercelli,0.0,in,Summer,2013,2013/2014
+Nabil Taïder,30,Central Midfield,Como,0.0,in,Summer,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Sorrento,0.0,in,Summer,2013,2013/2014
+Mirko Velardi,25,Central Midfield,US Palermo,0.0,in,Summer,2013,2013/2014
+Carmine De Sena,21,Centre-Forward,Portogruaro,0.0,in,Summer,2013,2013/2014
+Vicente,24,Defensive Midfield,Padova,0.0,in,Summer,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Siena,0.0,in,Summer,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Tauras,0.0,in,Summer,2013,2013/2014
+Mauro Cerquetani,19,Right-Back,Cavese,0.0,in,Summer,2013,2013/2014
+Simon Gentili,23,midfield,Arezzo,0.0,in,Summer,2013,2013/2014
+Matteo Bellucci,21,attack,La Storta,0.0,in,Summer,2013,2013/2014
+Edoardo Pacini,22,Right Midfield,Bellaria IM,0.0,in,Summer,2013,2013/2014
+Emmanuel Cascione,29,Central Midfield,Pescara,0.0,in,Summer,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Spezia Calcio,0.0,in,Summer,2013,2013/2014
+Mattia De Deo,21,Goalkeeper,Riccione 1929,0.0,in,Summer,2013,2013/2014
+Cristobal Jorquera,25,Central Midfield,Genoa,0.0,in,Summer,2013,2013/2014
+Tommaso Domini,23,Right Midfield,Ribelle,0.0,in,Summer,2013,2013/2014
+Antonio Stelitano,25,Right-Back,Turnu-Severin,0.0,in,Summer,2013,2013/2014
+Walter Gargano,29,Defensive Midfield,SSC Napoli,0.0,in,Summer,2013,2013/2014
+Riccardo Brosco,22,Centre-Back,Pescara,500,in,Summer,2013,2013/2014
+Mario Dragone,18,Right Midfield,Arzanese,0.0,in,Summer,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,Arzanese,0.0,in,Summer,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Cesena,0.0,in,Summer,2013,2013/2014
+Luca Fiordiani,21,midfield,Foligno,0.0,in,Summer,2013,2013/2014
+Gianluca Lapadula,23,Centre-Forward,Cesena,0.0,in,Summer,2013,2013/2014
+Antonio Maglia,17,Central Midfield,Vigor Lamezia Y,0.0,in,Summer,2013,2013/2014
+Massimo Coda,24,Centre-Forward,San Marino,0.0,in,Summer,2013,2013/2014
+Giovanbattista Catalano,19,Left Winger,Vigor Lamezia,0.0,in,Summer,2013,2013/2014
+Alen Jogan,27,Centre-Back,ND Gorica,0.0,in,Summer,2013,2013/2014
+Felipe,28,Centre-Back,Fiorentina,0.0,in,Summer,2013,2013/2014
+Giuseppe Caccavallo,26,Right Winger,Crotone,0.0,in,Summer,2013,2013/2014
+Alessandro Ferretti,19,midfield,Foligno U19,0.0,in,Summer,2013,2013/2014
+Alessandro Piacenti,20,Goalkeeper,Foligno,0.0,in,Summer,2013,2013/2014
+Luigi Del Giudice,19,Defensive Midfield,Imperia,0.0,in,Summer,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Poggibonsi,0.0,in,Summer,2013,2013/2014
+Matteo Gaudiano,20,midfield,Fondi,0.0,in,Summer,2013,2013/2014
+Alberto Giuliatto,29,Left-Back,ASG Nocerina,0.0,in,Summer,2013,2013/2014
+Lorenzo Pasqualini,23,Left-Back,Ascoli,0.0,in,Summer,2013,2013/2014
+Cosimo Chiricò,21,Right Winger,Lecce,0.0,in,Summer,2013,2013/2014
+Francesco Checcucci,24,Centre-Back,Crotone,0.0,in,Summer,2013,2013/2014
+Vito Falconieri,27,Centre-Forward,Ascoli,0.0,in,Summer,2013,2013/2014
+Andrea Giallombardo,32,Left-Back,Ascoli,0.0,in,Summer,2013,2013/2014
+Ronaldo Vanin,30,Right-Back,Lecce,0.0,in,Summer,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,Savona,0.0,in,Summer,2013,2013/2014
+Mikael Ishak,20,Centre-Forward,1. FC Köln,0.0,in,Summer,2013,2013/2014
+Sem Kamana,19,Centre-Back,Juve Stabia,0.0,in,Summer,2013,2013/2014
+Matteo Legittimo,24,Left-Back,Lecce,0.0,in,Summer,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,SS Milazzo,0.0,in,Summer,2013,2013/2014
+Abdelkader Ghezzal,28,Centre-Forward,Bari,0.0,in,Summer,2013,2013/2014
+Raffaele Rosato,19,Centre-Back,Taranto,0.0,in,Summer,2013,2013/2014
+Abdou Doumbia,23,Left Winger,Siena,0.0,in,Summer,2013,2013/2014
+Vincenzo Perna,18,Defensive Midfield,Arzanese,0.0,in,Summer,2013,2013/2014
+Antonio Cassano,30,Second Striker,Inter,0.0,in,Summer,2013,2013/2014
+Afriyie Acquah,21,Central Midfield,TSG Hoffenheim,0.0,in,Summer,2013,2013/2014
+Mattia Cassani,29,Right-Back,Fiorentina,0.0,in,Summer,2013,2013/2014
+Joel Obi,22,Central Midfield,Inter,0.0,in,Summer,2013,2013/2014
+Alberto Cerri,17,Centre-Forward,Parma FC Youth,0.0,in,Summer,2013,2013/2014
+José Mauri,17,Central Midfield,Parma FC Youth,0.0,in,Summer,2013,2013/2014
+Alberto Ricter,20,Centre-Forward,Parma U19,0.0,in,Summer,2013,2013/2014
+Ishak Belfodil,21,Centre-Forward,Inter,5750000.0,out,Summer,2013,2013/2014
+Raman Chibsah,20,Central Midfield,Sassuolo,5000000.0,out,Summer,2013,2013/2014
+Dorlan Pabón,25,Right Winger,Monterrey,4830000.0,out,Summer,2013,2013/2014
+Graziano Pellè,27,Centre-Forward,Feyenoord,3000000.0,out,Summer,2013,2013/2014
+Alessandro De Vitis,21,Defensive Midfield,Sampdoria,2300000.0,out,Summer,2013,2013/2014
+Riccardo Casini,21,Defensive Midfield,Bologna,2000000.0,out,Summer,2013,2013/2014
+Alberto Gallinetta,21,Goalkeeper,Juventus,1780000.0,out,Summer,2013,2013/2014
+Emiliano Storani,20,Second Striker,Ascoli,1600000.0,out,Summer,2013,2013/2014
+Andrea Brighenti,25,Centre-Forward,Cremonese,250000.0,out,Summer,2013,2013/2014
+Giuliano Laezza,19,Centre-Back,AS Gubbio,200000.0,out,Summer,2013,2013/2014
+Francesco Rapisarda,21,Right-Back,Vigor Lamezia,100000.0,out,Summer,2013,2013/2014
+Simone Palermo,24,Central Midfield,Cremonese,100000.0,out,Summer,2013,2013/2014
+Vittorio Fabris,20,Central Midfield,Feralpisalò,60000.0,out,Summer,2013,2013/2014
+Francesco Modesto,31,Left-Back,Padova,0.0,out,Summer,2013,2013/2014
+Giuseppe Prestia,19,Centre-Back,Crotone,0.0,out,Summer,2013,2013/2014
+Danilo Pereira,21,Defensive Midfield,Marítimo,0.0,out,Summer,2013,2013/2014
+Rolf Feltscher,22,Right-Back,Lausanne-Sport,0.0,out,Summer,2013,2013/2014
+Domenico Morabito,19,midfield,San Lazzaro,0.0,out,Summer,2013,2013/2014
+Mário Rui,22,Left-Back,Empoli,0.0,out,Summer,2013,2013/2014
+Nicola Russo,21,Left Winger,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Gonçalo Brandão,26,Centre-Back,CFR Cluj,0.0,out,Summer,2013,2013/2014
+Raffaele Schiavi,27,Centre-Back,Pescara,0.0,out,Summer,2013,2013/2014
+Mattia Sandrini,19,Right Winger,Real Vicenza,0.0,out,Summer,2013,2013/2014
+Andrea Rossi,26,Left-Back,Pescara,0.0,out,Summer,2013,2013/2014
+Daniele Bernasconi,20,Centre-Forward,Renate,0.0,out,Summer,2013,2013/2014
+Abel Gigli,22,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Domenico Mungo,20,Attacking Midfield,Perugia,0.0,out,Summer,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,Trapani,0.0,out,Summer,2013,2013/2014
+Luca Berardocco,22,Defensive Midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Gennaro Scognamiglio,26,Centre-Back,Perugia,0.0,out,Summer,2013,2013/2014
+Giuseppe Caccavallo,26,Right Winger,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Gianvito Misuraca,23,Central Midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Carmine De Sena,21,Centre-Forward,Paganese,0.0,out,Summer,2013,2013/2014
+Alessandro Favalli,20,Left-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Francesco Checcucci,24,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Carlo Crialese,20,Left-Back,ASG Nocerina,0.0,out,Summer,2013,2013/2014
+Lorenzo Pasqualini,23,Left-Back,Crotone,0.0,out,Summer,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,APS Zakynthos,0.0,out,Summer,2013,2013/2014
+Slawomir Peszko,28,Left Winger,1. FC Köln,0.0,out,Summer,2013,2013/2014
+Luca Tedeschi,26,Centre-Back,Grosseto,0.0,out,Summer,2013,2013/2014
+Francesco Pambianchi,24,Centre-Back,Foggia,0.0,out,Summer,2013,2013/2014
+Matteo Legittimo,24,Left-Back,Grosseto,0.0,out,Summer,2013,2013/2014
+Stefano Russo,24,Goalkeeper,Ascoli,0.0,out,Summer,2013,2013/2014
+Lazaros Fotias,22,Centre-Back,APS Zakynthos,0.0,out,Summer,2013,2013/2014
+Giovanbattista Catalano,19,Left Winger,Rimini,0.0,out,Summer,2013,2013/2014
+Andrea Marteddu,20,Central Midfield,Rimini,0.0,out,Summer,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Savona,0.0,out,Summer,2013,2013/2014
+Luigi Palumbo,22,Centre-Back,Cesena,0.0,out,Summer,2013,2013/2014
+Nicola Del Pivo,21,Central Midfield,Cesena,0.0,out,Summer,2013,2013/2014
+Diego Mella,20,Attacking Midfield,Inter,0.0,out,Summer,2013,2013/2014
+Jacopo Galimberti,20,Centre-Back,Inter,0.0,out,Summer,2013,2013/2014
+Daniel Ciofani,27,Centre-Forward,Frosinone,0.0,out,Summer,2013,2013/2014
+Nwankwo Obiora,21,Defensive Midfield,CFR Cluj,0.0,out,Summer,2013,2013/2014
+Tomislav Saric,23,Central Midfield,Crotone,0.0,out,Summer,2013,2013/2014
+Milos Malivojevic,20,midfield,Vicenza,0.0,out,Summer,2013,2013/2014
+Vincenzo Giannusa,32,Central Midfield,Arzanese,0.0,out,Summer,2013,2013/2014
+Simone Bezziccheri,20,Right Winger,Qormi FC,0.0,out,Summer,2013,2013/2014
+Nicolò Belotti,20,Right Midfield,Brescia,0.0,out,Summer,2013,2013/2014
+Nick Modaffari,21,Left-Back,VIS,0.0,out,Summer,2013,2013/2014
+Matteo Ghirardi,18,defence,Valtarese,0.0,out,Summer,2013,2013/2014
+Simone Ciboldi,18,defence,Rimini,0.0,out,Summer,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Alex Cordaz,30,Goalkeeper,ND Gorica,0.0,out,Summer,2013,2013/2014
+Bright Addae,20,Defensive Midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Daniele Bazzoffia,25,Second Striker,ND Gorica,0.0,out,Summer,2013,2013/2014
+Jorman Aguilar,18,Centre-Forward,ND Gorica,0.0,out,Summer,2013,2013/2014
+Mirko Pigliacelli,20,Goalkeeper,Pescara,0.0,out,Summer,2013,2013/2014
+Stefano Rossini,22,Central Midfield,Vigor Lamezia,0.0,out,Summer,2013,2013/2014
+Matteo Bibba,21,Goalkeeper,Vigor Lamezia,0.0,out,Summer,2013,2013/2014
+Diego De Giorgi,20,midfield,Vigor Lamezia,0.0,out,Summer,2013,2013/2014
+Alessandro Iacobucci,22,Goalkeeper,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Riccardo Brosco,22,Centre-Back,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Cristian Pedrinelli,20,Attacking Midfield,Renate,0.0,out,Summer,2013,2013/2014
+Stefan Ristovski,21,Right-Back,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Angelo Tartaglia,20,Centre-Back,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Ivan Cacchioli,22,Goalkeeper,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Mattia Sprocati,20,Right Winger,Perugia,0.0,out,Summer,2013,2013/2014
+Yves Bationo,19,Central Midfield,Perugia,0.0,out,Summer,2013,2013/2014
+Cristiano Spirito,21,Right-Back,Savona,0.0,out,Summer,2013,2013/2014
+Massimo Coda,24,Centre-Forward,ND Gorica,0.0,out,Summer,2013,2013/2014
+Gianluca Lapadula,23,Centre-Forward,ND Gorica,0.0,out,Summer,2013,2013/2014
+Mohamed Traoré,21,Right-Back,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Matteo Pisseri,21,Goalkeeper,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Solomon Enow,26,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Massimo Loviso,29,Defensive Midfield,Cremonese,0.0,out,Summer,2013,2013/2014
+Fabio Lebran,26,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Alen Jogan,27,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Uros Celcer,24,Left-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Álvaro Ampuero,20,Left-Back,Padova,0.0,out,Summer,2013,2013/2014
+Nicolas Sumsky,19,midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Soufiane Bidaoui,23,Left Winger,Crotone,0.0,out,Summer,2013,2013/2014
+Matteo Gaudiano,20,midfield,Savona,0.0,out,Summer,2013,2013/2014
+Giordano Maccarrone,23,Centre-Back,Savona,0.0,out,Summer,2013,2013/2014
+Alberto Ricter,20,Centre-Forward,Savona,0.0,out,Summer,2013,2013/2014
+Denilson Gabionetta,27,Right Winger,CFR Cluj,0.0,out,Summer,2013,2013/2014
+Alessandro Luparini,20,Centre-Forward,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Alberto Giuliatto,29,Left-Back,Savona,0.0,out,Summer,2013,2013/2014
+Cosimo Chiricò,21,Right Winger,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Robert Stillo,22,Goalkeeper,Perugia,0.0,out,Summer,2013,2013/2014
+Gabriele Puccio,23,Central Midfield,Savona,0.0,out,Summer,2013,2013/2014
+Mauro Cioffi,19,Centre-Forward,Paganese,0.0,out,Summer,2013,2013/2014
+Mirko Velardi,25,Central Midfield,Paganese,0.0,out,Summer,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,Crotone,0.0,out,Summer,2013,2013/2014
+Angelo Bencivenga,22,Right-Back,Lecce,0.0,out,Summer,2013,2013/2014
+Zé Eduardo,21,Defensive Midfield,OFI Crete FC,0.0,out,Summer,2013,2013/2014
+Fabiano Santacroce,26,Centre-Back,Padova,0.0,out,Summer,2013,2013/2014
+Paolo Dametto,20,Centre-Back,Reggiana,0.0,out,Summer,2013,2013/2014
+Gianluca Musacci,26,Central Midfield,Padova,0.0,out,Summer,2013,2013/2014
+Filippo Boniperti,21,Right Winger,Crotone,0.0,out,Summer,2013,2013/2014
+Vito Falconieri,27,Centre-Forward,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Andrea Giallombardo,32,Left-Back,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Pietro Tripoli,26,attack,Ascoli,0.0,out,Summer,2013,2013/2014
+Vicente,24,Defensive Midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Daniele Gragnoli,19,Centre-Forward,Ascoli,0.0,out,Summer,2013,2013/2014
+Simone Malatesta,31,Centre-Forward,Ascoli,0.0,out,Summer,2013,2013/2014
+Simon Gentili,23,midfield,Gavorrano,0.0,out,Summer,2013,2013/2014
+Matteo Bellucci,22,attack,Gavorrano,0.0,out,Summer,2013,2013/2014
+Federico Meacci,21,Defensive Midfield,Gavorrano,0.0,out,Summer,2013,2013/2014
+Luca Fiordiani,21,midfield,Gavorrano,0.0,out,Summer,2013,2013/2014
+Tomas Danilevicius,35,Centre-Forward,ND Gorica,0.0,out,Summer,2013,2013/2014
+Stefano Morrone,34,Central Midfield,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Edoardo Pacini,22,Right Midfield,Teramo,0.0,out,Summer,2013,2013/2014
+Mikael Ishak,20,Centre-Forward,Crotone,0.0,out,Summer,2013,2013/2014
+Alessandro Piacenti,20,Goalkeeper,Ascoli,0.0,out,Summer,2013,2013/2014
+Sem Kamana,19,Centre-Back,ASG Nocerina,0.0,out,Summer,2013,2013/2014
+Ronaldo Vanin,30,Right-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Emmanuel Cascione,29,Central Midfield,Cesena,0.0,out,Summer,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Ascoli,0.0,out,Summer,2013,2013/2014
+Abdou Doumbia,23,Left Winger,Lecce,0.0,out,Summer,2013,2013/2014
+Zouhair Feddal,23,Centre-Back,Siena,0.0,out,Summer,2013,2013/2014
+Abdelkader Ghezzal,28,Centre-Forward,Latina Calcio,0.0,out,Summer,2013,2013/2014
+Mauro Cerquetani,19,Right-Back,APS Zakynthos,0.0,out,Summer,2013,2013/2014
+Giuseppe Pasquariello,20,attack,Aversa Norm.,0.0,out,Summer,2013,2013/2014
+Sotiris Ninis,23,Attacking Midfield,PAOK Salonika,0.0,out,Summer,2013,2013/2014
+Andrea Rispoli,24,Right-Back,Ternana,0.0,out,Summer,2013,2013/2014
+Matteo Mantovani,20,defence,Foggia,0.0,out,Summer,2013,2013/2014
+Luigi Del Giudice,19,Defensive Midfield,Qormi FC,0.0,out,Summer,2013,2013/2014
+Alessandro Elia,23,Centre-Forward,Chieti,0.0,out,Summer,2013,2013/2014
+Carlos García,20,Centre-Back,Brönshöj BK,0.0,out,Summer,2013,2013/2014
+Antonio Maglia,17,Central Midfield,Chieti,0.0,out,Summer,2013,2013/2014
+Nicolò Stirati,20,attack,Torres,0.0,out,Summer,2013,2013/2014
+Alessandro Ferretti,19,midfield,Bellaria IM,0.0,out,Summer,2013,2013/2014
+Nabil Taïder,30,Central Midfield,ND Gorica,0.0,out,Summer,2013,2013/2014
+Cristobal Jorquera,25,Central Midfield,Eskisehirspor,0.0,out,Summer,2013,2013/2014
+Giuseppe Pacini,20,Right-Back,Arzanese,0.0,out,Summer,2013,2013/2014
+Michele Bentoglio,19,midfield,L'Aquila,0.0,out,Summer,2013,2013/2014
+Simone Smacchia,18,Second Striker,Teramo,0.0,out,Summer,2013,2013/2014
+Calvin Lovric,20,Centre-Back,Hércules CF B,0.0,out,Summer,2013,2013/2014
+Mattia De Deo,21,Goalkeeper,Bellaria IM,0.0,out,Summer,2013,2013/2014
+Simone Ciciotti,19,defence,Teramo,0.0,out,Summer,2013,2013/2014
+Marco Modolo,24,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,Mosta FC,0.0,out,Summer,2013,2013/2014
+Mario Dragone,18,Right Midfield,Mariano Keller,0.0,out,Summer,2013,2013/2014
+Tommaso Cancelloni,21,Centre-Back,Rimini,0.0,out,Summer,2013,2013/2014
+Abdelaye Diakite,23,Centre-Back,ND Gorica,0.0,out,Summer,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Qormi FC,0.0,out,Summer,2013,2013/2014
+Tommaso Domini,24,Right Midfield,AS Gubbio,0.0,out,Summer,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Mosta FC,0.0,out,Summer,2013,2013/2014
+Luca Ceppitelli,24,Centre-Back,Bari,0.0,out,Summer,2013,2013/2014
+Raffaele Rosato,19,Centre-Back,ASG Nocerina,0.0,out,Summer,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Cuneo,0.0,out,Summer,2013,2013/2014
+Cristiano Bussi,23,Centre-Forward,Rimini,0.0,out,Summer,2013,2013/2014
+Vincenzo Perna,18,Defensive Midfield,Fondi,0.0,out,Summer,2013,2013/2014
+Alessandro Ligi,23,Centre-Back,Crotone,0.0,out,Summer,2013,2013/2014
+Alessio Manzoni,26,Central Midfield,Without Club,0.0,out,Summer,2013,2013/2014
+Hervé Diedhiou,20,Centre-Back,Without Club,0.0,out,Summer,2013,2013/2014
+Marco Parolo,28,Central Midfield,Cesena,0.0,out,Summer,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Cesena,0.0,out,Summer,2013,2013/2014
+Manuel Arteaga,19,Centre-Forward,Zulia FC,0.0,out,Summer,2013,2013/2014
+Rodney Strasser,23,Defensive Midfield,AC Milan,0.0,out,Summer,2013,2013/2014
+Andrea Coda,28,Centre-Back,Udinese Calcio,0.0,out,Summer,2013,2013/2014
+McDonald Mariga,26,Defensive Midfield,Inter,0.0,out,Summer,2013,2013/2014
+Emilio Mac Eachen,21,Centre-Back,Peñarol,0.0,out,Summer,2013,2013/2014
+Amedej Vetrih,23,Defensive Midfield,ND Gorica,300000.0,in,Winter,2013,2013/2014
+Andrea Garofalo,20,Centre-Back,Paganese,0.0,in,Winter,2013,2013/2014
+Cristian Molinaro,30,Left-Back,VfB Stuttgart,0.0,in,Winter,2013,2013/2014
+Ezequiel Schelotto,24,Right-Back,Inter,0.0,in,Winter,2013,2013/2014
+Jonathan Rossini,24,Centre-Back,Sassuolo,0.0,in,Winter,2013,2013/2014
+Giovanni Catalano,20,Central Midfield,ACD GT,0.0,in,Winter,2013,2013/2014
+Nicola Pozzi,27,Centre-Forward,Sampdoria,0.0,in,Winter,2013,2013/2014
+Alessio Butini,20,Central Midfield,San Donato,0.0,in,Winter,2013,2013/2014
+Leandro Campagna,19,Second Striker,Frosinone,0.0,in,Winter,2013,2013/2014
+Jherson Vergara,19,Centre-Back,AC Milan,0.0,in,Winter,2013,2013/2014
+Manuel Giandonato,22,Defensive Midfield,Without Club,0.0,in,Winter,2013,2013/2014
+Nicola Sansone,22,Left Winger,Sassuolo,8250000.0,out,Winter,2013,2013/2014
+Nicola Cosentini,25,Defensive Midfield,Gavorrano,0.0,out,Winter,2013,2013/2014
+Giovanbattista Catalano,20,Left Winger,Vigor Lamezia,0.0,out,Winter,2013,2013/2014
+Luca Tedeschi,26,Centre-Back,UC AlbinoLeffe,0.0,out,Winter,2013,2013/2014
+Lorenzo Pasqualini,24,Left-Back,Salernitana,0.0,out,Winter,2013,2013/2014
+Gian Piero Tozzi,19,Centre-Forward,Vigor Lamezia,0.0,out,Winter,2013,2013/2014
+Domenico Mungo,21,Attacking Midfield,Viareggio,0.0,out,Winter,2013,2013/2014
+Mory Koné,19,Centre-Back,Crotone,0.0,out,Winter,2013,2013/2014
+Manuel Giandonato,22,Defensive Midfield,Juve Stabia,0.0,out,Winter,2013,2013/2014
+Antonio Stelitano,26,Right-Back,Don Bosco Moca,0.0,out,Winter,2013,2013/2014
+Gonçalo Brandão,27,Centre-Back,Belenenses,0.0,out,Winter,2013,2013/2014
+Francesco Finocchio,21,Right Midfield,ND Gorica,0.0,out,Winter,2013,2013/2014
+Jaime Valdés,32,midfield,Colo Colo,0.0,out,Winter,2013,2013/2014
+Alessandro Cesarini,24,Attacking Midfield,Savona,0.0,out,Winter,2013,2013/2014
+Raffaele Rosato,20,Centre-Back,Savona,0.0,out,Winter,2013,2013/2014
+Andrea Garofalo,20,Centre-Back,Teramo,0.0,out,Winter,2013,2013/2014
+Pedro Mendes,23,Centre-Back,Sassuolo,0.0,out,Winter,2013,2013/2014
+Stefano Okaka,24,Centre-Forward,Sampdoria,0.0,out,Winter,2013,2013/2014
+Giammaria Prete,19,defence,Correggese,0.0,out,Winter,2013,2013/2014
+Matteo Gaudiano,21,midfield,Arzanese,0.0,out,Winter,2013,2013/2014
+David Löfquist,27,Defensive Midfield,Mjällby AIF,0.0,out,Winter,2013,2013/2014
+Godfred Adofo,20,Defensive Midfield,CD Barco,0.0,out,Winter,2013,2013/2014
+Gabriele Puccio,24,Central Midfield,Pergolettese,0.0,out,Winter,2013,2013/2014
+Filippo Boniperti,22,Right Winger,ND Gorica,0.0,out,Winter,2013,2013/2014
+Riccardo Cocuzza,21,Right Winger,Südtirol,0.0,out,Winter,2013,2013/2014
+Mohamed Traoré,22,Right-Back,Südtirol,0.0,out,Winter,2013,2013/2014
+Francesco Calcagno,21,Central Midfield,Savona,0.0,out,Winter,2013,2013/2014
+Carlos García,21,Centre-Back,J-Södra IF,0.0,out,Winter,2013,2013/2014
+Bongoura Thiam,20,attack,Savona,0.0,out,Winter,2013,2013/2014
+Alessandro Gozzi,20,Goalkeeper,AS Gubbio,0.0,out,Winter,2013,2013/2014
+Jorman Aguilar,19,Centre-Forward,NK Istra,0.0,out,Winter,2013,2013/2014
+Nicolas Sumsky,20,midfield,Vysoke Myto,0.0,out,Winter,2013,2013/2014
+Ivan Cacchioli,23,Goalkeeper,ND Gorica,0.0,out,Winter,2013,2013/2014
+Gianmaria Cucurnia,20,Central Midfield,SM Avenza,0.0,out,Winter,2013,2013/2014
+Bright Addae,21,Defensive Midfield,AS Gubbio,0.0,out,Winter,2013,2013/2014
+Alessio Butini,20,Central Midfield,Viareggio,0.0,out,Winter,2013,2013/2014
+Giuseppe Pasquariello,20,attack,Colorno,0.0,out,Winter,2013,2013/2014
+Alessio Aracu,19,midfield,Viareggio,0.0,out,Winter,2013,2013/2014
+Brice Bonelli,19,attack,GS Consolat M.,0.0,out,Winter,2013,2013/2014
+Mirko Pigliacelli,20,Goalkeeper,Reggina,0.0,out,Winter,2013,2013/2014
+Fabio Lebran,26,Centre-Back,SPAL,0.0,out,Winter,2013,2013/2014
+Yohan Benalouane,26,Centre-Back,Atalanta BC,0.0,out,Winter,2013,2013/2014
+Salvatore Sandomenico,23,Left Winger,Arzanese,0.0,out,Winter,2013,2013/2014
+Alessandro Piacenti,21,Goalkeeper,Vigor Lamezia,0.0,out,Winter,2013,2013/2014
+Alessandro Elia,23,Centre-Forward,Cuneo,0.0,out,Winter,2013,2013/2014
+Simone Malatesta,31,Centre-Forward,Gavorrano,0.0,out,Winter,2013,2013/2014
+Gonzalo Mastriani,20,Centre-Forward,ND Gorica,0.0,out,Winter,2013,2013/2014
+Angelo Bencivenga,22,Right-Back,Como,0.0,out,Winter,2013,2013/2014
+Yves Bationo,20,Central Midfield,ND Gorica,0.0,out,Winter,2013,2013/2014
+Nicolò Stirati,20,attack,Rimini,0.0,out,Winter,2013,2013/2014
+Aleandro Rosi,26,Right-Back,Sassuolo,0.0,out,Winter,2013,2013/2014
+Cristiano Spirito,22,Right-Back,San Marino,0.0,out,Winter,2013,2013/2014
+Leandro Campagna,19,Second Striker,Barletta,0.0,out,Winter,2013,2013/2014
+Djamel Mesbah,29,Left-Back,AS Livorno,0.0,out,Winter,2013,2013/2014
+Claudio Corsetti,27,Left Winger,Aprilia,0.0,out,Winter,2013,2013/2014
+Irfan Sahman,20,Central Midfield,Padova,0.0,out,Winter,2013,2013/2014
+Álvaro Ampuero,21,Left-Back,Salernitana,0.0,out,Winter,2013,2013/2014
+Andrea Scicchitano,21,Central Midfield,Pontedera,0.0,out,Winter,2013,2013/2014
+Gianluca Nucera,19,Left Midfield,Savona,0.0,out,Winter,2013,2013/2014
+Nabil Taïder,30,Central Midfield,Lok. Sofia,0.0,out,Winter,2013,2013/2014
+Ishak Belfodil,22,Centre-Forward,Inter,5750000.0,in,Summer,2014,2014/2015
+Nicola Ravaglia,25,Goalkeeper,Cesena,2500000.0,in,Summer,2014,2014/2015
+Andrea Costa,28,Centre-Back,Sampdoria,2000000.0,in,Summer,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Cesena,1600000.0,in,Summer,2014,2014/2015
+Nicolò Lolli,19,Centre-Forward,Cesena,1500000.0,in,Summer,2014,2014/2015
+Simone Addessi,19,Right Winger,Latina U19,1070000.0,in,Summer,2014,2014/2015
+Daniele Casiraghi,21,Attacking Midfield,Lecce,1000000.0,in,Summer,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Cesena,1000000.0,in,Summer,2014,2014/2015
+Lucas Souza,24,Central Midfield,Olhanense,700000.0,in,Summer,2014,2014/2015
+Pedro Mendes,23,Centre-Back,Sassuolo,100000.0,in,Summer,2014,2014/2015
+Antonio Cassano,31,Second Striker,Inter,0.0,in,Summer,2014,2014/2015
+Federico Di Francesco,20,Left Winger,Pescara,0.0,in,Summer,2014,2014/2015
+Jonas Portin,27,Centre-Back,Padova,0.0,in,Summer,2014,2014/2015
+Giuseppe Prestia,20,Centre-Back,Crotone,0.0,in,Summer,2014,2014/2015
+Antonio Grillo,22,Defensive Midfield,Paganese,0.0,in,Summer,2014,2014/2015
+Giulio Mulas,17,Right-Back,Siena,0.0,in,Summer,2014,2014/2015
+Paolo Dellafiore,29,Centre-Back,Siena,0.0,in,Summer,2014,2014/2015
+Andrea Dragonetti,19,Right Winger,Ascoli U19,0.0,in,Summer,2014,2014/2015
+Camillo Ciano,24,Centre-Forward,SSC Napoli,0.0,in,Summer,2014,2014/2015
+Marijan Coric,19,Goalkeeper,Istra 1961 U19,20000.0,in,Summer,2014,2014/2015
+Errico Altobello,23,Centre-Back,Savona,0.0,in,Summer,2014,2014/2015
+Davide Colomba,25,Left Midfield,Ascoli,0.0,in,Summer,2014,2014/2015
+Gian Marco Ferrari,22,Centre-Back,AS Gubbio,0.0,in,Summer,2014,2014/2015
+Alberto Galuppo,28,Centre-Back,Siena,0.0,in,Summer,2014,2014/2015
+Zsolt Tamási,24,Central Midfield,Ascoli,0.0,in,Summer,2014,2014/2015
+Dániel Tőzsér,29,Central Midfield,Genoa,0.0,in,Summer,2014,2014/2015
+Pietro Manganelli,20,defence,VF Colligiana,0.0,in,Summer,2014,2014/2015
+Francesco Deli,20,Central Midfield,Paganese,0.0,in,Summer,2014,2014/2015
+Mattia Cassani,30,Right-Back,Fiorentina,0.0,in,Summer,2014,2014/2015
+Stefano Addario,20,Goalkeeper,Pontedera,0.0,in,Summer,2014,2014/2015
+Matija Sirok,23,Right-Back,ND Gorica,0.0,in,Summer,2014,2014/2015
+Juan Antonio,26,Second Striker,Sampdoria,0.0,in,Summer,2014,2014/2015
+Francesco Lodi,30,Defensive Midfield,Catania,0.0,in,Summer,2014,2014/2015
+Paolo De Ceglie,27,Left-Back,Juventus,0.0,in,Summer,2014,2014/2015
+McDonald Mariga,27,Defensive Midfield,Without Club,0.0,in,Summer,2014,2014/2015
+Matteo Di Gennaro,20,Centre-Back,Ascoli,0.0,in,Summer,2014,2014/2015
+Marco Parolo,29,Central Midfield,Lazio,4500000.0,out,Summer,2014,2014/2015
+Emmanuel Cascione,30,Central Midfield,Cesena,2500000.0,out,Summer,2014,2014/2015
+Luca Ceppitelli,24,Centre-Back,Cagliari Calcio,2100000.0,out,Summer,2014,2014/2015
+Mohamed Traoré,22,Right-Back,Cesena,1500000.0,out,Summer,2014,2014/2015
+Yohan Benalouane,27,Centre-Back,Atalanta BC,1000000.0,out,Summer,2014,2014/2015
+Carlo Crialese,21,Left-Back,Cesena,1000000.0,out,Summer,2014,2014/2015
+Aleandro Rosi,27,Right-Back,Genoa,1000000.0,out,Summer,2014,2014/2015
+Slawomir Peszko,29,Left Winger,1. FC Köln,500000.0,out,Summer,2014,2014/2015
+Riccardo Brosco,23,Centre-Back,Latina Calcio,500000.0,out,Summer,2014,2014/2015
+Zé Eduardo,22,Defensive Midfield,Cesena,300000.0,out,Summer,2014,2014/2015
+Álvaro Ampuero,21,Left-Back,Universitario,200000.0,out,Summer,2014,2014/2015
+Alessandro Ligi,24,Centre-Back,Crotone,150000.0,out,Summer,2014,2014/2015
+Gonçalo Brandão,27,Centre-Back,Siena,0.0,out,Summer,2014,2014/2015
+Fabio Lebran,27,Centre-Back,Crotone,0.0,out,Summer,2014,2014/2015
+Cristian Molinaro,30,Left-Back,Torino,0.0,out,Summer,2014,2014/2015
+Zsolt Tamási,24,Central Midfield,Paksi FC,0.0,out,Summer,2014,2014/2015
+Raffaele Schiavi,28,Centre-Back,Frosinone,0.0,out,Summer,2014,2014/2015
+Antonio Santurro,22,Goalkeeper,Savoia,0.0,out,Summer,2014,2014/2015
+Paolo Dellafiore,29,Centre-Back,Latina Calcio,0.0,out,Summer,2014,2014/2015
+Claudio Corsetti,28,Left Winger,Savoia,0.0,out,Summer,2014,2014/2015
+Mikael Ishak,21,Centre-Forward,Randers FC,0.0,out,Summer,2014,2014/2015
+Francesco Pambianchi,25,Centre-Back,Taranto,0.0,out,Summer,2014,2014/2015
+Luca Tedeschi,27,Centre-Back,Cosenza,0.0,out,Summer,2014,2014/2015
+Gianluca Nucera,20,Left Midfield,Savona,0.0,out,Summer,2014,2014/2015
+Sebestyén Ihrig-Farkas,20,Attacking Midfield,Honvéd,0.0,out,Summer,2014,2014/2015
+Amauri,34,Centre-Forward,Torino,0.0,out,Summer,2014,2014/2015
+Tiziano Scarfagna,20,Goalkeeper,Cynthia,0.0,out,Summer,2014,2014/2015
+Alberto Galuppo,28,Centre-Back,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Luca Fiordiani,22,midfield,Foligno,0.0,out,Summer,2014,2014/2015
+Gioele Sterlicchio,19,midfield,Pomezia,0.0,out,Summer,2014,2014/2015
+Matteo Bibba,22,Goalkeeper,Vittoria Calcio,0.0,out,Summer,2014,2014/2015
+Alessandro Elia,24,Centre-Forward,Unknown,0.0,out,Summer,2014,2014/2015
+Andrea Marteddu,21,Central Midfield,Iglesias,0.0,out,Summer,2014,2014/2015
+Lazaros Fotias,23,Centre-Back,APS Zakynthos,0.0,out,Summer,2014,2014/2015
+Calvin Lovric,21,Centre-Back,Hércules CF B,0.0,out,Summer,2014,2014/2015
+Alessandro Vecchi,23,Centre-Back,Lentigione,0.0,out,Summer,2014,2014/2015
+Mário Rui,23,Left-Back,Empoli,0.0,out,Summer,2014,2014/2015
+Robert Stillo,23,Goalkeeper,Unknown,0.0,out,Summer,2014,2014/2015
+Vincenzo Perna,19,Defensive Midfield,Savoia,0.0,out,Summer,2014,2014/2015
+Francesco Finocchio,22,Right Midfield,AC Pisa,0.0,out,Summer,2014,2014/2015
+Domenico Mungo,21,Attacking Midfield,Pistoiese,0.0,out,Summer,2014,2014/2015
+Luca Berardocco,23,Defensive Midfield,Crotone,0.0,out,Summer,2014,2014/2015
+Matteo Di Gennaro,20,Centre-Back,Renate,0.0,out,Summer,2014,2014/2015
+Giuseppe Caccavallo,27,Right Winger,Paganese,0.0,out,Summer,2014,2014/2015
+Stefano Russo,25,Goalkeeper,Salernitana,0.0,out,Summer,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Lupa Roma,0.0,out,Summer,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Matera,0.0,out,Summer,2014,2014/2015
+Lorenzo Pasqualini,24,Left-Back,ND Gorica,0.0,out,Summer,2014,2014/2015
+Gianni Munari,31,Central Midfield,Watford,0.0,out,Summer,2014,2014/2015
+Daniele Bernasconi,21,Centre-Forward,L'Aquila,0.0,out,Summer,2014,2014/2015
+Manuel Giandonato,22,Defensive Midfield,Salernitana,0.0,out,Summer,2014,2014/2015
+Uros Celcer,25,Left-Back,Ross County,0.0,out,Summer,2014,2014/2015
+Abel Gigli,23,Centre-Back,Crotone,0.0,out,Summer,2014,2014/2015
+Matteo Legittimo,25,Left-Back,SPAL,0.0,out,Summer,2014,2014/2015
+Ronaldo Vanin,31,Right-Back,ND Gorica,0.0,out,Summer,2014,2014/2015
+Amedej Vetrih,23,Defensive Midfield,ND Gorica,0.0,out,Summer,2014,2014/2015
+Marco Modolo,25,Centre-Back,ND Gorica,0.0,out,Summer,2014,2014/2015
+Daniele Bazzoffia,26,Second Striker,Olhanense,0.0,out,Summer,2014,2014/2015
+Giulio Mulas,17,Right-Back,Tuttocuoio,0.0,out,Summer,2014,2014/2015
+Gian Piero Tozzi,20,Centre-Forward,Aprilia,0.0,out,Summer,2014,2014/2015
+Davide Adorni,21,Centre-Back,Cesena,0.0,out,Summer,2014,2014/2015
+Matteo Mantovani,21,defence,Crotone,0.0,out,Summer,2014,2014/2015
+Abdou Doumbia,24,Left Winger,Lecce,0.0,out,Summer,2014,2014/2015
+Luca Rovelli,20,Attacking Midfield,Renate,0.0,out,Summer,2014,2014/2015
+Gennaro Scognamiglio,27,Centre-Back,Benevento,0.0,out,Summer,2014,2014/2015
+Nicolas Sumsky,20,midfield,Banska Bystrica,0.0,out,Summer,2014,2014/2015
+Mory Koné,20,Centre-Back,Troyes,0.0,out,Summer,2014,2014/2015
+Bright Addae,21,Defensive Midfield,Ascoli,0.0,out,Summer,2014,2014/2015
+Salvatore Sandomenico,24,Left Winger,L'Aquila,0.0,out,Summer,2014,2014/2015
+Davide Colomba,26,Left Midfield,Pune City,0.0,out,Summer,2014,2014/2015
+Alessandro Gozzi,21,Goalkeeper,Savona,0.0,out,Summer,2014,2014/2015
+Jorman Aguilar,19,Centre-Forward,Olhanense,0.0,out,Summer,2014,2014/2015
+Stefano Addario,20,Goalkeeper,Paganese,0.0,out,Summer,2014,2014/2015
+Marco Marchionni,34,Right Midfield,Sampdoria,0.0,out,Summer,2014,2014/2015
+Francesco Checcucci,25,Centre-Back,Savoia,0.0,out,Summer,2014,2014/2015
+Daniele Abbracciante,20,Centre-Forward,Grosseto,0.0,out,Summer,2014,2014/2015
+Djamel Mesbah,29,Left-Back,Sampdoria,0.0,out,Summer,2014,2014/2015
+Simone Malatesta,32,Centre-Forward,Lupa Roma,0.0,out,Summer,2014,2014/2015
+Floriano Vanzo,20,Attacking Midfield,FC Brügge U21,0.0,out,Summer,2014,2014/2015
+Simon Gentili,24,midfield,Foligno,0.0,out,Summer,2014,2014/2015
+Alessio Butini,21,Central Midfield,Lornano Badesse,0.0,out,Summer,2014,2014/2015
+Nicolò Stirati,21,attack,ASDNU,0.0,out,Summer,2014,2014/2015
+Mario Dragone,19,Right Midfield,Campobasso,0.0,out,Summer,2014,2014/2015
+Alessandro Ferretti,20,midfield,Fabriano,0.0,out,Summer,2014,2014/2015
+Diego De Giorgi,21,midfield,Vigor Lamezia,0.0,out,Summer,2014,2014/2015
+Nabil Taïder,31,Central Midfield,ND Gorica,0.0,out,Summer,2014,2014/2015
+Gianmaria Cucurnia,20,Central Midfield,Vallicisa 2000,0.0,out,Summer,2014,2014/2015
+Cristiano Spirito,22,Right-Back,San Marino,0.0,out,Summer,2014,2014/2015
+Alessandro Piacenti,21,Goalkeeper,Vigor Lamezia,0.0,out,Summer,2014,2014/2015
+Cosimo Chiricò,22,Right Winger,Ascoli,0.0,out,Summer,2014,2014/2015
+Cristian Dell'Orco,20,Left-Back,Ascoli,0.0,out,Summer,2014,2014/2015
+Gian Marco Ferrari,22,Centre-Back,Crotone,0.0,out,Summer,2014,2014/2015
+Dániel Tőzsér,29,Central Midfield,Watford,0.0,out,Summer,2014,2014/2015
+Riccardo Cocuzza,21,Right Winger,Renate,0.0,out,Summer,2014,2014/2015
+Andrea Rossi,27,Left-Back,Latina Calcio,0.0,out,Summer,2014,2014/2015
+Nicola Ravaglia,25,Goalkeeper,Cosenza,0.0,out,Summer,2014,2014/2015
+Antonio Maglia,18,Central Midfield,Vigor Lamezia,0.0,out,Summer,2014,2014/2015
+Gabriele Puccio,24,Central Midfield,Vigor Lamezia,0.0,out,Summer,2014,2014/2015
+Mattia Sprocati,21,Right Winger,Crotone,0.0,out,Summer,2014,2014/2015
+Mattia Sandrini,20,Right Winger,Real Vicenza,0.0,out,Summer,2014,2014/2015
+Stefano Morrone,35,Central Midfield,AC Pisa,0.0,out,Summer,2014,2014/2015
+Mirko Pigliacelli,21,Goalkeeper,Frosinone,0.0,out,Summer,2014,2014/2015
+Michele Bentoglio,20,midfield,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Alessandro Luparini,21,Centre-Forward,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Pietro Manganelli,20,defence,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Daniele Casiraghi,21,Attacking Midfield,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Joyce Anacoura,19,Goalkeeper,Pro Vercelli,0.0,out,Summer,2014,2014/2015
+Denilson Gabionetta,28,Right Winger,Salernitana,0.0,out,Summer,2014,2014/2015
+Abdelaye Diakite,24,Centre-Back,Teramo,0.0,out,Summer,2014,2014/2015
+Gianluca Lapadula,24,Centre-Forward,Teramo,0.0,out,Summer,2014,2014/2015
+Leandro Campagna,20,Second Striker,Melfi,0.0,out,Summer,2014,2014/2015
+Dario Castaldo,18,Centre-Back,Lumezzane,0.0,out,Summer,2014,2014/2015
+Errico Altobello,23,Centre-Back,ACR Messina,0.0,out,Summer,2014,2014/2015
+Alberto Giuliatto,30,Left-Back,Unione Venezia,0.0,out,Summer,2014,2014/2015
+Gianvito Misuraca,24,Central Midfield,AC Pisa,0.0,out,Summer,2014,2014/2015
+Paolo Dametto,21,Centre-Back,Prato,0.0,out,Summer,2014,2014/2015
+Angelo Bencivenga,22,Right-Back,Foggia,0.0,out,Summer,2014,2014/2015
+Cristiano Bussi,24,Centre-Forward,Paganese,0.0,out,Summer,2014,2014/2015
+Francesco Deli,20,Central Midfield,Paganese,0.0,out,Summer,2014,2014/2015
+Pietro Tripoli,27,attack,Pistoiese,0.0,out,Summer,2014,2014/2015
+Andrea Scicchitano,22,Central Midfield,Santarcangelo,0.0,out,Summer,2014,2014/2015
+Pavol Bajza,22,Goalkeeper,Crotone,0.0,out,Summer,2014,2014/2015
+Antonio Grillo,22,Defensive Midfield,Salernitana,0.0,out,Summer,2014,2014/2015
+Andrea Dragonetti,19,Right Winger,Salernitana U19,0.0,out,Summer,2014,2014/2015
+Zouhair Feddal,24,Centre-Back,US Palermo,0.0,out,Summer,2014,2014/2015
+Matteo Pisseri,22,Goalkeeper,Juve Stabia,0.0,out,Summer,2014,2014/2015
+Giordano Maccarrone,24,Centre-Back,L'Aquila,0.0,out,Summer,2014,2014/2015
+Ivan Cacchioli,24,Goalkeeper,L'Aquila,0.0,out,Summer,2014,2014/2015
+Angelo Tartaglia,21,Centre-Back,Paganese,0.0,out,Summer,2014,2014/2015
+Alessandro Favalli,21,Left-Back,Cremonese,0.0,out,Summer,2014,2014/2015
+Federico Di Francesco,20,Left Winger,Cremonese,0.0,out,Summer,2014,2014/2015
+Massimo Loviso,30,Defensive Midfield,AS Gubbio,0.0,out,Summer,2014,2014/2015
+Gianluca Musacci,27,Central Midfield,Frosinone,0.0,out,Summer,2014,2014/2015
+Tommaso Cancelloni,22,Centre-Back,Paganese,0.0,out,Summer,2014,2014/2015
+Filip Jankovic,19,Central Midfield,Catania,0.0,out,Summer,2014,2014/2015
+Gonzalo Mastriani,21,Centre-Forward,Olhanense,0.0,out,Summer,2014,2014/2015
+Pietro Baccolo,24,Central Midfield,Paganese,0.0,out,Summer,2014,2014/2015
+Alberto Cerri,18,Centre-Forward,Virtus Lanciano,0.0,out,Summer,2014,2014/2015
+Michele Moroni,20,Attacking Midfield,Cremonese,0.0,out,Summer,2014,2014/2015
+Vito Falconieri,28,Centre-Forward,Pavia,0.0,out,Summer,2014,2014/2015
+Camillo Ciano,24,Centre-Forward,Crotone,0.0,out,Summer,2014,2014/2015
+Juan Antonio,26,Second Striker,Feralpisalò,0.0,out,Summer,2014,2014/2015
+Matija Sirok,23,Right-Back,ND Gorica,0.0,out,Summer,2014,2014/2015
+Daniele Gragnoli,20,Centre-Forward,ND Gorica,0.0,out,Summer,2014,2014/2015
+Mauro Cioffi,20,Centre-Forward,KF Vllaznia,0.0,out,Summer,2014,2014/2015
+Giuseppe Pacini,21,Right-Back,Tuttocuoio,0.0,out,Summer,2014,2014/2015
+Simone Addessi,19,Right Winger,Rimini,0.0,out,Summer,2014,2014/2015
+Yves Bationo,20,Central Midfield,Nîmes Olympique,0.0,out,Summer,2014,2014/2015
+Luigi Del Giudice,20,Defensive Midfield,Mqabba FC,0.0,out,Summer,2014,2014/2015
+Nicola Pavarini,40,Goalkeeper,Retired,0.0,out,Summer,2014,2014/2015
+Sotiris Ninis,24,Attacking Midfield,Without Club,0.0,out,Summer,2014,2014/2015
+Antonio Stelitano,26,Right-Back,Without Club,0.0,out,Summer,2014,2014/2015
+Simone Ciciotti,20,defence,Retired,0.0,out,Summer,2014,2014/2015
+Nicola Russo,22,Left Winger,Without Club,0.0,out,Summer,2014,2014/2015
+Edoardo Pacini,22,Right Midfield,Without Club,0.0,out,Summer,2014,2014/2015
+Filippo Boniperti,22,Right Winger,Without Club,0.0,out,Summer,2014,2014/2015
+Federico Meacci,22,Defensive Midfield,Without Club,0.0,out,Summer,2014,2014/2015
+Alberto Ricter,21,Centre-Forward,Without Club,0.0,out,Summer,2014,2014/2015
+Alessio Aracu,19,midfield,Without Club,0.0,out,Summer,2014,2014/2015
+Nicola Berselli,20,Right Winger,Without Club,0.0,out,Summer,2014,2014/2015
+Giuseppe Pasquariello,20,attack,Without Club,0.0,out,Summer,2014,2014/2015
+Ishak Belfodil,23,Centre-Forward,Without Club,0.0,out,Summer,2014,2014/2015
+Tomas Danilevicius,35,Centre-Forward,Retired,0.0,out,Summer,2014,2014/2015
+Antonio Cassano,31,Second Striker,Inter,0.0,out,Summer,2014,2014/2015
+Mattia Cassani,30,Right-Back,Fiorentina,0.0,out,Summer,2014,2014/2015
+Walter Gargano,29,Defensive Midfield,SSC Napoli,0.0,out,Summer,2014,2014/2015
+Joel Obi,23,Central Midfield,Inter,0.0,out,Summer,2014,2014/2015
+Jherson Vergara,20,Centre-Back,AC Milan,0.0,out,Summer,2014,2014/2015
+Jonathan Rossini,25,Centre-Back,Sassuolo,0.0,out,Summer,2014,2014/2015
+Ezequiel Schelotto,25,Right-Back,Inter,0.0,out,Summer,2014,2014/2015
+Andi Lila,28,Defensive Midfield,PAS Giannina,0.0,in,Winter,2014,2014/2015
+Antonio Nocerino,29,Central Midfield,AC Milan,0.0,in,Winter,2014,2014/2015
+Silvestre Varela,29,Left Winger,FC Porto,0.0,in,Winter,2014,2014/2015
+Cristian Rodríguez,29,Central Midfield,Atlético Madrid,0.0,in,Winter,2014,2014/2015
+Gabriel Paletta,28,Centre-Back,AC Milan,2500000.0,out,Winter,2014,2014/2015
+Fernando Marqués,30,Right Winger,NY Cosmos B,0.0,out,Winter,2014,2014/2015
+Zoran Svonja,18,Defensive Midfield,Donji Srem,0.0,out,Winter,2014,2014/2015
+Pietro Tripoli,27,attack,Ascoli,0.0,out,Winter,2014,2014/2015
+Daniele Bazzoffia,26,Second Striker,Cittadella,0.0,out,Winter,2014,2014/2015
+Mauro Cioffi,20,Centre-Forward,FK Berane,0.0,out,Winter,2014,2014/2015
+Luca Berardocco,24,Defensive Midfield,Como,0.0,out,Winter,2014,2014/2015
+Gianluca Turchetta,23,Left Winger,Barletta,0.0,out,Winter,2014,2014/2015
+Manuel Giandonato,23,Defensive Midfield,Catanzaro,0.0,out,Winter,2014,2014/2015
+Daniele Bernasconi,22,Centre-Forward,Monza,0.0,out,Winter,2014,2014/2015
+Giuseppe Caccavallo,27,Right Winger,Casertana,0.0,out,Winter,2014,2014/2015
+Matteo Legittimo,25,Left-Back,Grosseto,0.0,out,Winter,2014,2014/2015
+Andrea Rossini,24,Goalkeeper,Savona,0.0,out,Winter,2014,2014/2015
+Vittorio Attili,19,Attacking Midfield,Gualdo,0.0,out,Winter,2014,2014/2015
+Mirko Pigliacelli,21,Goalkeeper,Frosinone,0.0,out,Winter,2014,2014/2015
+Irfan Sahman,21,Central Midfield,Jedinstvo,0.0,out,Winter,2014,2014/2015
+Andrea Scicchitano,22,Central Midfield,Tuttocuoio,0.0,out,Winter,2014,2014/2015
+Soufiane Bidaoui,24,Left Winger,Latina Calcio,0.0,out,Winter,2014,2014/2015
+Lucas Souza,24,Central Midfield,Moreirense,0.0,out,Winter,2014,2014/2015
+Salvatore Russo,18,Right-Back,Ribelle,0.0,out,Winter,2014,2014/2015
+Andrea Rispoli,26,Right-Back,US Palermo,0.0,out,Winter,2014,2014/2015
+Nicola Pozzi,28,Centre-Forward,Chievo Verona,0.0,out,Winter,2014,2014/2015
+Marco Modolo,25,Centre-Back,Carpi,0.0,out,Winter,2014,2014/2015
+Badara Sarr,20,Central Midfield,Catanzaro,0.0,out,Winter,2014,2014/2015
+Simone Addessi,20,Right Winger,Fondi,0.0,out,Winter,2014,2014/2015
+Dario Castaldo,19,Centre-Back,Trestina,0.0,out,Winter,2014,2014/2015
+Gianluca Musacci,27,Central Midfield,Pro Vercelli,0.0,out,Winter,2014,2014/2015
+Joyce Anacoura,20,Goalkeeper,Pontedera,0.0,out,Winter,2014,2014/2015
+Alex Cordaz,32,Goalkeeper,Crotone,0.0,out,Winter,2014,2014/2015
+Stefan Ristovski,22,Right-Back,Latina Calcio,0.0,out,Winter,2014,2014/2015
+Yves Bationo,21,Central Midfield,San Marino,0.0,out,Winter,2014,2014/2015
+Mattia Sprocati,21,Right Winger,Pro Vercelli,0.0,out,Winter,2014,2014/2015
+Vito Falconieri,28,Centre-Forward,Santarcangelo,0.0,out,Winter,2014,2014/2015
+Andrea Rossi,28,Left-Back,Pescara,0.0,out,Winter,2014,2014/2015
+Alessandro Luparini,21,Centre-Forward,Melfi,0.0,out,Winter,2014,2014/2015
+Carmine De Sena,23,Centre-Forward,Without Club,0.0,out,Winter,2014,2014/2015
+Felipe,30,Centre-Back,Without Club,0.0,out,Winter,2014,2014/2015
+Antonio Cassano,32,Second Striker,Without Club,0.0,out,Winter,2014,2014/2015
+Mirko Velardi,26,Central Midfield,Without Club,0.0,out,Winter,2014,2014/2015
+Marijan Coric,20,Goalkeeper,Without Club,0.0,out,Winter,2014,2014/2015
+Jonas Portin,28,Centre-Back,Retired,0.0,out,Winter,2014,2014/2015
+Jonathan Biabiany,26,Right Winger,Without Club,0.0,out,Winter,2014,2014/2015
+Cristian Rodríguez,29,Central Midfield,Atlético Madrid,0.0,out,Winter,2014,2014/2015
+Afriyie Acquah,23,Central Midfield,TSG Hoffenheim,0.0,out,Winter,2014,2014/2015
+Paolo De Ceglie,28,Left-Back,Juventus,0.0,out,Winter,2014,2014/2015

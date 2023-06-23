@@ -1,0 +1,329 @@
+player_name,age,position,club_involved,fee,transfer_period,year,season
+Riccardo Gagliolo,31,Centre-Back,Parma,2000000.0,Summer,2021,2021/2022
+Vincenzo Fiorillo,31,Goalkeeper,Pescara,600000.0,Summer,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,500000.0,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Triestina,200000.0,Summer,2021,2021/2022
+Lassana Coulibaly,25,Central Midfield,Angers SCO,0.0,Summer,2021,2021/2022
+Wajdi Kechrida,25,Right Midfield,ES Sahel,0.0,Summer,2021,2021/2022
+Joel Obi,30,Central Midfield,Chievo Verona,0.0,Summer,2021,2021/2022
+Stefan Strandberg,30,Centre-Back,Ural,0.0,Summer,2021,2021/2022
+Michele Cavion,26,Central Midfield,Ascoli,0.0,Summer,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Livorno,0.0,Summer,2021,2021/2022
+Edoardo Vergani,20,Centre-Forward,Inter,0.0,Summer,2021,2021/2022
+Grigoris Kastanos,23,Central Midfield,Juventus U23,0.0,Summer,2021,2021/2022
+Clemente Crisci,19,Central Midfield,Sanfeliciana,0.0,Summer,2021,2021/2022
+Kaleb Jimenez Castillo,18,Central Midfield,Seregno,0.0,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Bari,0.0,Summer,2021,2021/2022
+Andrea Schiavone,28,Defensive Midfield,Bari,0.0,Summer,2021,2021/2022
+Luca Ranieri,22,Left-Back,Fiorentina,0.0,Summer,2021,2021/2022
+Filippo Delli Carri,22,Centre-Back,Juventus U23,0.0,Summer,2021,2021/2022
+Federico Bonazzoli,24,Centre-Forward,Sampdoria,0.0,Summer,2021,2021/2022
+Matteo Ruggeri,19,Left-Back,Atalanta BC,0.0,Summer,2021,2021/2022
+Nadir Zortea,22,Right Midfield,Atalanta BC,0.0,Summer,2021,2021/2022
+Pawel Jaroszynski,26,Left-Back,Genoa,0.0,Summer,2021,2021/2022
+Cedric Gondo,24,Centre-Forward,Without Club,0.0,Summer,2021,2021/2022
+Franck Ribéry,38,Left Winger,Without Club,0.0,Summer,2021,2021/2022
+Maoudo Diallo,21,Right-Back,Unknown,0.0,Summer,2021,2021/2022
+Iacopo Cernigoi,26,Centre-Forward,Seregno,0.0,Summer,2021,2021/2022
+Emilio Volpicelli,28,Right Winger,Viterbese,0.0,Summer,2021,2021/2022
+Giuseppe Barone,22,Left Winger,Ascoli,0.0,Summer,2021,2021/2022
+Antonino Musso,21,Centre-Forward,Trapani,0.0,Summer,2021,2021/2022
+Giuseppe Fella,27,Second Striker,Palermo,0.0,Summer,2021,2021/2022
+Filippo D'Andrea,22,Centre-Forward,Seregno,0.0,Summer,2021,2021/2022
+Edoardo Iannoni,20,Central Midfield,Ancona,0.0,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Pordenone,0.0,Summer,2021,2021/2022
+Felipe Curcio,28,Left-Back,Padova,0.0,Summer,2021,2021/2022
+Kaleb Jimenez Castillo,18,Central Midfield,Seregno,0.0,Summer,2021,2021/2022
+Gaetano Vitale,20,Central Midfield,Seregno,0.0,Summer,2021,2021/2022
+Clemente Crisci,19,Central Midfield,Bisceglie,0.0,Summer,2021,2021/2022
+Valerio Mantovani,25,Centre-Back,Alessandria,0.0,Summer,2021,2021/2022
+Gioacchino Galeotafiore,21,Centre-Back,Seregno,0.0,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Cosenza,0.0,Summer,2021,2021/2022
+Michele Cavion,26,Central Midfield,Brescia,0.0,Summer,2021,2021/2022
+Julian Kristoffersen,24,Centre-Forward,Cosenza,0.0,Summer,2021,2021/2022
+Sanasi Sy,22,Left-Back,Cosenza,0.0,Summer,2021,2021/2022
+Francesco Orlando,24,Right Winger,Alessandria,0.0,Summer,2021,2021/2022
+Alessandro Micai,27,Goalkeeper,Reggina,0.0,Summer,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Livorno,0.0,Summer,2021,2021/2022
+Niccolò Giannetti,30,attack,Without Club,0.0,Summer,2021,2021/2022
+Marco Firenze,28,Central Midfield,Without Club,0.0,Summer,2021,2021/2022
+Cedric Gondo,24,Centre-Forward,Lazio,0.0,Summer,2021,2021/2022
+Emanuele Cicerelli,26,Left Winger,Lazio,0.0,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Bari,0.0,Summer,2021,2021/2022
+Tiago Casasola,25,Right-Back,Lazio,0.0,Summer,2021,2021/2022
+Andrea Schiavone,28,Defensive Midfield,Bari,0.0,Summer,2021,2021/2022
+Gennaro Tutino,24,Centre-Forward,SSC Napoli,0.0,Summer,2021,2021/2022
+Patryk Dziczek,23,Defensive Midfield,Lazio,0.0,Summer,2021,2021/2022
+Mirko Antonucci,22,Right Winger,AS Roma,0.0,Summer,2021,2021/2022
+Marius Adamonis,24,Goalkeeper,Lazio,0.0,Summer,2021,2021/2022
+André Anderson,21,Attacking Midfield,Lazio,0.0,Summer,2021,2021/2022
+Joel Baraye,24,Left-Back,Padova,0.0,Summer,2021,2021/2022
+Riza Durmisi,27,Left-Back,Lazio,0.0,Summer,2021,2021/2022
+Sofian Kiyine,23,Central Midfield,Lazio,0.0,Summer,2021,2021/2022
+Pawel Jaroszynski,26,Left-Back,Pescara,0.0,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Triestina,0.0,Summer,2021,2021/2022
+Cristiano Lombardi,25,Right Winger,Lazio,0.0,Summer,2021,2021/2022
+Éderson,22,Central Midfield,Corinthians,6500000.0,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,3500000.0,Winter,2021,2021/2022
+Mikael,22,Centre-Forward,Sport Recife,800000.0,Winter,2021,2021/2022
+Emil Bohinen,22,Central Midfield,CSKA Moscow,250000.0,Winter,2021,2021/2022
+Ivan Radovanovic,33,Defensive Midfield,Genoa,0.0,Winter,2021,2021/2022
+Federico Fazio,34,Centre-Back,AS Roma,0.0,Winter,2021,2021/2022
+Simone Verdi,29,Attacking Midfield,Torino,0.0,Winter,2021,2021/2022
+Pasquale Mazzocchi,26,Right-Back,Venezia,0.0,Winter,2021,2021/2022
+Radu Dragusin,19,Centre-Back,Juventus,0.0,Winter,2021,2021/2022
+Lys Mousset,25,Centre-Forward,Sheff Utd,0.0,Winter,2021,2021/2022
+Luigi Sepe,30,Goalkeeper,Parma,0.0,Winter,2021,2021/2022
+Diego Perotti,33,Left Winger,Without Club,0.0,Winter,2021,2021/2022
+Guido Guerrieri,25,Goalkeeper,Tsarsko Selo,0.0,Winter,2021,2021/2022
+Sedrick Kalombo,26,Left Winger,Tsarsko Selo,0.0,Winter,2021,2021/2022
+Luca Castiglia,32,Central Midfield,Piacenza,0.0,Winter,2021,2021/2022
+Filippo D'Andrea,23,Centre-Forward,Teramo,0.0,Winter,2021,2021/2022
+Cedric Gondo,25,Centre-Forward,Cremonese,0.0,Winter,2021,2021/2022
+Ramzi Aya,31,Centre-Back,Reggina,0.0,Winter,2021,2021/2022
+Michele Cavion,27,Central Midfield,LR Vicenza,0.0,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Parma,0.0,Winter,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Ternana,0.0,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,0.0,Winter,2021,2021/2022
+Matteo Lovato,22,Centre-Back,Atalanta BC,7000000.0,Summer,2022,2022/2023
+Federico Bonazzoli,25,Centre-Forward,Sampdoria,5000000.0,Summer,2022,2022/2023
+Domagoj Bradaric,22,Left-Back,LOSC Lille,5000000.0,Summer,2022,2022/2023
+Flavius Daniliuc,21,Centre-Back,OGC Nice,5000000.0,Summer,2022,2022/2023
+Giulio Maggiore,24,Central Midfield,Spezia Calcio,4500000.0,Summer,2022,2022/2023
+Emil Bohinen,23,Central Midfield,CSKA Moscow,3250000.0,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Udinese Calcio,3000000.0,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Sport Recife,2730000.0,Summer,2022,2022/2023
+Diego Valencia,22,Centre-Forward,U. Católica,2500000.0,Summer,2022,2022/2023
+Dylan Bronn,27,Centre-Back,FC Metz,1000000.0,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Genoa,1000000.0,Summer,2022,2022/2023
+Pasquale Mazzocchi,26,Right-Back,Venezia,1000000.0,Summer,2022,2022/2023
+Boulaye Dia,25,Centre-Forward,Villarreal,1000000.0,Summer,2022,2022/2023
+Krzysztof Piatek,27,Centre-Forward,Hertha BSC,1000000.0,Summer,2022,2022/2023
+Lorenzo Pirola,20,Centre-Back,Inter,900000.0,Summer,2022,2022/2023
+Grigoris Kastanos,24,Central Midfield,Juve Next Gen,300000.0,Summer,2022,2022/2023
+Tonny Vilhena,27,Central Midfield,Espanyol,300000.0,Summer,2022,2022/2023
+Junior Sambia,25,Right-Back,Montpellier,0.0,Summer,2022,2022/2023
+Erik Botheim,22,Centre-Forward,Krasnodar,0.0,Summer,2022,2022/2023
+Luigi Sepe,31,Goalkeeper,Parma,0.0,Summer,2022,2022/2023
+Antonio Candreva,35,Right Midfield,Sampdoria,0.0,Summer,2022,2022/2023
+Andrei Motoc,20,Centre-Back,Salernitana U19,0.0,Summer,2022,2022/2023
+Éderson,22,Central Midfield,Atalanta BC,-21000000.0,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Ternana,-100000.0,Summer,2022,2022/2023
+Joel Obi,31,Central Midfield,Reggina,0.0,Summer,2022,2022/2023
+Gaetano Vitale,20,Central Midfield,Monopoli,0.0,Summer,2022,2022/2023
+Andrea Schiavone,29,Defensive Midfield,Südtirol,0.0,Summer,2022,2022/2023
+Clemente Crisci,20,Central Midfield,Taranto,0.0,Summer,2022,2022/2023
+Wajdi Kechrida,26,Right-Back,Atromitos Athen,0.0,Summer,2022,2022/2023
+Stefan Strandberg,32,Centre-Back,Vålerenga,0.0,Summer,2022,2022/2023
+Filippo D'Andrea,23,Centre-Forward,Cerignola,0.0,Summer,2022,2022/2023
+Milan Djuric,32,Centre-Forward,Hellas Verona,0.0,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Cracovia,0.0,Summer,2022,2022/2023
+Carmine Iannone,21,Centre-Forward,ACR Messina,0.0,Summer,2022,2022/2023
+Michele Cavion,27,Central Midfield,LR Vicenza,0.0,Summer,2022,2022/2023
+Frédéric Veseli,29,Centre-Back,Benevento,0.0,Summer,2022,2022/2023
+Edoardo Vergani,21,Centre-Forward,Pescara,0.0,Summer,2022,2022/2023
+Riccardo Gagliolo,32,Centre-Back,Reggina,0.0,Summer,2022,2022/2023
+Giuseppe Fella,28,Second Striker,Palermo,0.0,Summer,2022,2022/2023
+Antonio Russo,22,Goalkeeper,Taranto,0.0,Summer,2022,2022/2023
+Francesco Di Tacchio,32,Defensive Midfield,Ternana,0.0,Summer,2022,2022/2023
+Vid Belec,32,Goalkeeper,APOEL Nicosia,0.0,Summer,2022,2022/2023
+Valerio Mantovani,26,Centre-Back,Ternana,0.0,Summer,2022,2022/2023
+Reda Boultam,24,Attacking Midfield,NK Istra,0.0,Summer,2022,2022/2023
+Edoardo Iannoni,21,Central Midfield,Perugia,0.0,Summer,2022,2022/2023
+Kaleb Jimenez Castillo,19,Central Midfield,LR Vicenza,0.0,Summer,2022,2022/2023
+Simy,30,Centre-Forward,Benevento,0.0,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Internacional,0.0,Summer,2022,2022/2023
+Diego Perotti,33,Left Winger,Without Club,0.0,Summer,2022,2022/2023
+Mirko Esposito,26,Right-Back,Without Club,0.0,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Genoa,0.0,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Udinese Calcio,0.0,Summer,2022,2022/2023
+Nadir Zortea,23,Right Midfield,Atalanta BC,0.0,Summer,2022,2022/2023
+Matteo Ruggeri,19,Left-Back,Atalanta BC,0.0,Summer,2022,2022/2023
+Federico Bonazzoli,25,Centre-Forward,Sampdoria,0.0,Summer,2022,2022/2023
+Grigoris Kastanos,24,Central Midfield,Juve Next Gen,0.0,Summer,2022,2022/2023
+Filippo Delli Carri,23,Centre-Back,Juve Next Gen,0.0,Summer,2022,2022/2023
+Luca Ranieri,23,Left-Back,Fiorentina,0.0,Summer,2022,2022/2023
+Luigi Sepe,31,Goalkeeper,Parma,0.0,Summer,2022,2022/2023
+Pasquale Mazzocchi,26,Right-Back,Venezia,0.0,Summer,2022,2022/2023
+Simone Verdi,29,Attacking Midfield,Torino,0.0,Summer,2022,2022/2023
+Emil Bohinen,23,Central Midfield,CSKA Moscow,0.0,Summer,2022,2022/2023
+Radu Dragusin,20,Centre-Back,Juventus,0.0,Summer,2022,2022/2023
+Lys Mousset,26,Centre-Forward,Sheff Utd,0.0,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Sport Recife,0.0,Summer,2022,2022/2023
+William Troost-Ekong,29,Centre-Back,Watford,500k,Winter,2022,2022/2023
+Domen Crnigoj,27,Central Midfield,Venezia,350k,Winter,2022,2022/2023
+Guillermo Ochoa,37,Goalkeeper,América,0.0,Winter,2022,2022/2023
+Hans Nicolussi Caviglia,22,Central Midfield,Juve Next Gen,0.0,Winter,2022,2022/2023
+Alessandro Micai,29,Goalkeeper,Cosenza,0.0,Winter,2022,2022/2023
+Andrei Motoc,20,Centre-Back,Siena,0.0,Winter,2022,2022/2023
+Francesco Orlando,26,Right Winger,Siena,0.0,Winter,2022,2022/2023
+Jacopo De Matteis,20,Goalkeeper,Fermana,0.0,Winter,2022,2022/2023
+Sanasi Sy,23,Left-Back,Nîmes Olympique,0.0,Winter,2022,2022/2023
+Leonardo Capezzi,27,Central Midfield,Perugia,0.0,Winter,2022,2022/2023
+Julian Kristoffersen,25,Centre-Forward,Virtus Verona,0.0,Winter,2022,2022/2023
+Mikael,23,Centre-Forward,América-MG,0.0,Winter,2022,2022/2023
+Ivan Radovanovic,34,Defensive Midfield,Without Club,0.0,Winter,2022,2022/2023
+Riccardo Gagliolo,31,Centre-Back,Parma,2000000.0,in,Summer,2021,2021/2022
+Vincenzo Fiorillo,31,Goalkeeper,Pescara,600000.0,in,Summer,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,500000.0,in,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Triestina,200000.0,in,Summer,2021,2021/2022
+Lassana Coulibaly,25,Central Midfield,Angers SCO,0.0,in,Summer,2021,2021/2022
+Wajdi Kechrida,25,Right Midfield,ES Sahel,0.0,in,Summer,2021,2021/2022
+Joel Obi,30,Central Midfield,Chievo Verona,0.0,in,Summer,2021,2021/2022
+Stefan Strandberg,30,Centre-Back,Ural,0.0,in,Summer,2021,2021/2022
+Michele Cavion,26,Central Midfield,Ascoli,0.0,in,Summer,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Livorno,0.0,in,Summer,2021,2021/2022
+Edoardo Vergani,20,Centre-Forward,Inter,0.0,in,Summer,2021,2021/2022
+Grigoris Kastanos,23,Central Midfield,Juventus U23,0.0,in,Summer,2021,2021/2022
+Clemente Crisci,19,Central Midfield,Sanfeliciana,0.0,in,Summer,2021,2021/2022
+Kaleb Jimenez Castillo,18,Central Midfield,Seregno,0.0,in,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Bari,0.0,in,Summer,2021,2021/2022
+Andrea Schiavone,28,Defensive Midfield,Bari,0.0,in,Summer,2021,2021/2022
+Luca Ranieri,22,Left-Back,Fiorentina,0.0,in,Summer,2021,2021/2022
+Filippo Delli Carri,22,Centre-Back,Juventus U23,0.0,in,Summer,2021,2021/2022
+Federico Bonazzoli,24,Centre-Forward,Sampdoria,0.0,in,Summer,2021,2021/2022
+Matteo Ruggeri,19,Left-Back,Atalanta BC,0.0,in,Summer,2021,2021/2022
+Nadir Zortea,22,Right Midfield,Atalanta BC,0.0,in,Summer,2021,2021/2022
+Pawel Jaroszynski,26,Left-Back,Genoa,0.0,in,Summer,2021,2021/2022
+Cedric Gondo,24,Centre-Forward,Without Club,0.0,in,Summer,2021,2021/2022
+Franck Ribéry,38,Left Winger,Without Club,0.0,in,Summer,2021,2021/2022
+Maoudo Diallo,21,Right-Back,Unknown,0.0,out,Summer,2021,2021/2022
+Iacopo Cernigoi,26,Centre-Forward,Seregno,0.0,out,Summer,2021,2021/2022
+Emilio Volpicelli,28,Right Winger,Viterbese,0.0,out,Summer,2021,2021/2022
+Giuseppe Barone,22,Left Winger,Ascoli,0.0,out,Summer,2021,2021/2022
+Antonino Musso,21,Centre-Forward,Trapani,0.0,out,Summer,2021,2021/2022
+Giuseppe Fella,27,Second Striker,Palermo,0.0,out,Summer,2021,2021/2022
+Filippo D'Andrea,22,Centre-Forward,Seregno,0.0,out,Summer,2021,2021/2022
+Edoardo Iannoni,20,Central Midfield,Ancona,0.0,out,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Pordenone,0.0,out,Summer,2021,2021/2022
+Felipe Curcio,28,Left-Back,Padova,0.0,out,Summer,2021,2021/2022
+Kaleb Jimenez Castillo,18,Central Midfield,Seregno,0.0,out,Summer,2021,2021/2022
+Gaetano Vitale,20,Central Midfield,Seregno,0.0,out,Summer,2021,2021/2022
+Clemente Crisci,19,Central Midfield,Bisceglie,0.0,out,Summer,2021,2021/2022
+Valerio Mantovani,25,Centre-Back,Alessandria,0.0,out,Summer,2021,2021/2022
+Gioacchino Galeotafiore,21,Centre-Back,Seregno,0.0,out,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Cosenza,0.0,out,Summer,2021,2021/2022
+Michele Cavion,26,Central Midfield,Brescia,0.0,out,Summer,2021,2021/2022
+Julian Kristoffersen,24,Centre-Forward,Cosenza,0.0,out,Summer,2021,2021/2022
+Sanasi Sy,22,Left-Back,Cosenza,0.0,out,Summer,2021,2021/2022
+Francesco Orlando,24,Right Winger,Alessandria,0.0,out,Summer,2021,2021/2022
+Alessandro Micai,27,Goalkeeper,Reggina,0.0,out,Summer,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Livorno,0.0,out,Summer,2021,2021/2022
+Niccolò Giannetti,30,attack,Without Club,0.0,out,Summer,2021,2021/2022
+Marco Firenze,28,Central Midfield,Without Club,0.0,out,Summer,2021,2021/2022
+Cedric Gondo,24,Centre-Forward,Lazio,0.0,out,Summer,2021,2021/2022
+Emanuele Cicerelli,26,Left Winger,Lazio,0.0,out,Summer,2021,2021/2022
+Tomasz Kupisz,31,Right Midfield,Bari,0.0,out,Summer,2021,2021/2022
+Tiago Casasola,25,Right-Back,Lazio,0.0,out,Summer,2021,2021/2022
+Andrea Schiavone,28,Defensive Midfield,Bari,0.0,out,Summer,2021,2021/2022
+Gennaro Tutino,24,Centre-Forward,SSC Napoli,0.0,out,Summer,2021,2021/2022
+Patryk Dziczek,23,Defensive Midfield,Lazio,0.0,out,Summer,2021,2021/2022
+Mirko Antonucci,22,Right Winger,AS Roma,0.0,out,Summer,2021,2021/2022
+Marius Adamonis,24,Goalkeeper,Lazio,0.0,out,Summer,2021,2021/2022
+André Anderson,21,Attacking Midfield,Lazio,0.0,out,Summer,2021,2021/2022
+Joel Baraye,24,Left-Back,Padova,0.0,out,Summer,2021,2021/2022
+Riza Durmisi,27,Left-Back,Lazio,0.0,out,Summer,2021,2021/2022
+Sofian Kiyine,23,Central Midfield,Lazio,0.0,out,Summer,2021,2021/2022
+Pawel Jaroszynski,26,Left-Back,Pescara,0.0,out,Summer,2021,2021/2022
+Reda Boultam,23,Attacking Midfield,Triestina,0.0,out,Summer,2021,2021/2022
+Cristiano Lombardi,25,Right Winger,Lazio,0.0,out,Summer,2021,2021/2022
+Éderson,22,Central Midfield,Corinthians,6500000.0,in,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,3500000.0,in,Winter,2021,2021/2022
+Mikael,22,Centre-Forward,Sport Recife,800000.0,in,Winter,2021,2021/2022
+Emil Bohinen,22,Central Midfield,CSKA Moscow,250000.0,in,Winter,2021,2021/2022
+Ivan Radovanovic,33,Defensive Midfield,Genoa,0.0,in,Winter,2021,2021/2022
+Federico Fazio,34,Centre-Back,AS Roma,0.0,in,Winter,2021,2021/2022
+Simone Verdi,29,Attacking Midfield,Torino,0.0,in,Winter,2021,2021/2022
+Pasquale Mazzocchi,26,Right-Back,Venezia,0.0,in,Winter,2021,2021/2022
+Radu Dragusin,19,Centre-Back,Juventus,0.0,in,Winter,2021,2021/2022
+Lys Mousset,25,Centre-Forward,Sheff Utd,0.0,in,Winter,2021,2021/2022
+Luigi Sepe,30,Goalkeeper,Parma,0.0,in,Winter,2021,2021/2022
+Diego Perotti,33,Left Winger,Without Club,0.0,in,Winter,2021,2021/2022
+Guido Guerrieri,25,Goalkeeper,Tsarsko Selo,0.0,out,Winter,2021,2021/2022
+Sedrick Kalombo,26,Left Winger,Tsarsko Selo,0.0,out,Winter,2021,2021/2022
+Luca Castiglia,32,Central Midfield,Piacenza,0.0,out,Winter,2021,2021/2022
+Filippo D'Andrea,23,Centre-Forward,Teramo,0.0,out,Winter,2021,2021/2022
+Cedric Gondo,25,Centre-Forward,Cremonese,0.0,out,Winter,2021,2021/2022
+Ramzi Aya,31,Centre-Back,Reggina,0.0,out,Winter,2021,2021/2022
+Michele Cavion,27,Central Midfield,LR Vicenza,0.0,out,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Parma,0.0,out,Winter,2021,2021/2022
+Luka Bogdan,25,Centre-Back,Ternana,0.0,out,Winter,2021,2021/2022
+Simy,29,Centre-Forward,Crotone,0.0,out,Winter,2021,2021/2022
+Matteo Lovato,22,Centre-Back,Atalanta BC,7000000.0,in,Summer,2022,2022/2023
+Federico Bonazzoli,25,Centre-Forward,Sampdoria,5000000.0,in,Summer,2022,2022/2023
+Domagoj Bradaric,22,Left-Back,LOSC Lille,5000000.0,in,Summer,2022,2022/2023
+Flavius Daniliuc,21,Centre-Back,OGC Nice,5000000.0,in,Summer,2022,2022/2023
+Giulio Maggiore,24,Central Midfield,Spezia Calcio,4500000.0,in,Summer,2022,2022/2023
+Emil Bohinen,23,Central Midfield,CSKA Moscow,3250000.0,in,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Udinese Calcio,3000000.0,in,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Sport Recife,2730000.0,in,Summer,2022,2022/2023
+Diego Valencia,22,Centre-Forward,U. Católica,2500000.0,in,Summer,2022,2022/2023
+Dylan Bronn,27,Centre-Back,FC Metz,1000000.0,in,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Genoa,1000000.0,in,Summer,2022,2022/2023
+Pasquale Mazzocchi,26,Right-Back,Venezia,1000000.0,in,Summer,2022,2022/2023
+Boulaye Dia,25,Centre-Forward,Villarreal,1000000.0,in,Summer,2022,2022/2023
+Krzysztof Piatek,27,Centre-Forward,Hertha BSC,1000000.0,in,Summer,2022,2022/2023
+Lorenzo Pirola,20,Centre-Back,Inter,900000.0,in,Summer,2022,2022/2023
+Grigoris Kastanos,24,Central Midfield,Juve Next Gen,300000.0,in,Summer,2022,2022/2023
+Tonny Vilhena,27,Central Midfield,Espanyol,300000.0,in,Summer,2022,2022/2023
+Junior Sambia,25,Right-Back,Montpellier,0.0,in,Summer,2022,2022/2023
+Erik Botheim,22,Centre-Forward,Krasnodar,0.0,in,Summer,2022,2022/2023
+Luigi Sepe,31,Goalkeeper,Parma,0.0,in,Summer,2022,2022/2023
+Antonio Candreva,35,Right Midfield,Sampdoria,0.0,in,Summer,2022,2022/2023
+Andrei Motoc,20,Centre-Back,Salernitana U19,0.0,in,Summer,2022,2022/2023
+Éderson,22,Central Midfield,Atalanta BC,21000000.0,out,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Ternana,100000.0,out,Summer,2022,2022/2023
+Joel Obi,31,Central Midfield,Reggina,0.0,out,Summer,2022,2022/2023
+Gaetano Vitale,20,Central Midfield,Monopoli,0.0,out,Summer,2022,2022/2023
+Andrea Schiavone,29,Defensive Midfield,Südtirol,0.0,out,Summer,2022,2022/2023
+Clemente Crisci,20,Central Midfield,Taranto,0.0,out,Summer,2022,2022/2023
+Wajdi Kechrida,26,Right-Back,Atromitos Athen,0.0,out,Summer,2022,2022/2023
+Stefan Strandberg,32,Centre-Back,Vålerenga,0.0,out,Summer,2022,2022/2023
+Filippo D'Andrea,23,Centre-Forward,Cerignola,0.0,out,Summer,2022,2022/2023
+Milan Djuric,32,Centre-Forward,Hellas Verona,0.0,out,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Cracovia,0.0,out,Summer,2022,2022/2023
+Carmine Iannone,21,Centre-Forward,ACR Messina,0.0,out,Summer,2022,2022/2023
+Michele Cavion,27,Central Midfield,LR Vicenza,0.0,out,Summer,2022,2022/2023
+Frédéric Veseli,29,Centre-Back,Benevento,0.0,out,Summer,2022,2022/2023
+Edoardo Vergani,21,Centre-Forward,Pescara,0.0,out,Summer,2022,2022/2023
+Riccardo Gagliolo,32,Centre-Back,Reggina,0.0,out,Summer,2022,2022/2023
+Giuseppe Fella,28,Second Striker,Palermo,0.0,out,Summer,2022,2022/2023
+Antonio Russo,22,Goalkeeper,Taranto,0.0,out,Summer,2022,2022/2023
+Francesco Di Tacchio,32,Defensive Midfield,Ternana,0.0,out,Summer,2022,2022/2023
+Vid Belec,32,Goalkeeper,APOEL Nicosia,0.0,out,Summer,2022,2022/2023
+Valerio Mantovani,26,Centre-Back,Ternana,0.0,out,Summer,2022,2022/2023
+Reda Boultam,24,Attacking Midfield,NK Istra,0.0,out,Summer,2022,2022/2023
+Edoardo Iannoni,21,Central Midfield,Perugia,0.0,out,Summer,2022,2022/2023
+Kaleb Jimenez Castillo,19,Central Midfield,LR Vicenza,0.0,out,Summer,2022,2022/2023
+Simy,30,Centre-Forward,Benevento,0.0,out,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Internacional,0.0,out,Summer,2022,2022/2023
+Diego Perotti,33,Left Winger,Without Club,0.0,out,Summer,2022,2022/2023
+Mirko Esposito,26,Right-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Pawel Jaroszynski,27,Left-Back,Genoa,0.0,out,Summer,2022,2022/2023
+Mamadou Coulibaly,23,Central Midfield,Udinese Calcio,0.0,out,Summer,2022,2022/2023
+Nadir Zortea,23,Right Midfield,Atalanta BC,0.0,out,Summer,2022,2022/2023
+Matteo Ruggeri,19,Left-Back,Atalanta BC,0.0,out,Summer,2022,2022/2023
+Federico Bonazzoli,25,Centre-Forward,Sampdoria,0.0,out,Summer,2022,2022/2023
+Grigoris Kastanos,24,Central Midfield,Juve Next Gen,0.0,out,Summer,2022,2022/2023
+Filippo Delli Carri,23,Centre-Back,Juve Next Gen,0.0,out,Summer,2022,2022/2023
+Luca Ranieri,23,Left-Back,Fiorentina,0.0,out,Summer,2022,2022/2023
+Luigi Sepe,31,Goalkeeper,Parma,0.0,out,Summer,2022,2022/2023
+Pasquale Mazzocchi,26,Right-Back,Venezia,0.0,out,Summer,2022,2022/2023
+Simone Verdi,29,Attacking Midfield,Torino,0.0,out,Summer,2022,2022/2023
+Emil Bohinen,23,Central Midfield,CSKA Moscow,0.0,out,Summer,2022,2022/2023
+Radu Dragusin,20,Centre-Back,Juventus,0.0,out,Summer,2022,2022/2023
+Lys Mousset,26,Centre-Forward,Sheff Utd,0.0,out,Summer,2022,2022/2023
+Mikael,23,Centre-Forward,Sport Recife,0.0,out,Summer,2022,2022/2023
+William Troost-Ekong,29,Centre-Back,Watford,500k,in,Winter,2022,2022/2023
+Domen Crnigoj,27,Central Midfield,Venezia,350k,in,Winter,2022,2022/2023
+Guillermo Ochoa,37,Goalkeeper,América,0.0,in,Winter,2022,2022/2023
+Hans Nicolussi Caviglia,22,Central Midfield,Juve Next Gen,0.0,in,Winter,2022,2022/2023
+Alessandro Micai,29,Goalkeeper,Cosenza,0.0,out,Winter,2022,2022/2023
+Andrei Motoc,20,Centre-Back,Siena,0.0,out,Winter,2022,2022/2023
+Francesco Orlando,26,Right Winger,Siena,0.0,out,Winter,2022,2022/2023
+Jacopo De Matteis,20,Goalkeeper,Fermana,0.0,out,Winter,2022,2022/2023
+Sanasi Sy,23,Left-Back,Nîmes Olympique,0.0,out,Winter,2022,2022/2023
+Leonardo Capezzi,27,Central Midfield,Perugia,0.0,out,Winter,2022,2022/2023
+Julian Kristoffersen,25,Centre-Forward,Virtus Verona,0.0,out,Winter,2022,2022/2023
+Mikael,23,Centre-Forward,América-MG,0.0,out,Winter,2022,2022/2023
+Ivan Radovanovic,34,Defensive Midfield,Without Club,0.0,out,Winter,2022,2022/2023
