@@ -1,0 +1,914 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Clinton Morrison,26,Centre-Forward,Birmingham,3000000.0,in,Summer,2005,2005/2006
+Darren Ward,26,Centre-Back,Millwall,1650000.0,in,Summer,2005,2005/2006
+Jon Macken,27,Centre-Forward,Man City,1000000.0,in,Summer,2005,2005/2006
+Jobi McAnuff,23,Left Winger,Cardiff,800000.0,in,Summer,2005,2005/2006
+Lewis Grabban,17,Centre-Forward,Palace U18,0.0,in,Summer,2005,2005/2006
+Arron Fray,18,Right-Back,Palace U18,0.0,in,Summer,2005,2005/2006
+Marco Reich,27,Left Midfield,Without Club,0.0,in,Summer,2005,2005/2006
+Tyrone Berry,18,Centre-Forward,Notts County,0.0,in,Summer,2005,2005/2006
+Sam Togwell,21,Defensive Midfield,Port Vale,0.0,in,Summer,2005,2005/2006
+Tommy Black,26,Right Midfield,Gillingham FC,0.0,in,Summer,2005,2005/2006
+Wayne Routledge,20,Left Winger,Spurs,3000000.0,out,Summer,2005,2005/2006
+Sándor Torghelle,23,Centre-Forward,Panathinaikos,300000.0,out,Summer,2005,2005/2006
+Darren Powell,29,Centre-Back,Southampton,0.0,out,Summer,2005,2005/2006
+Lance Cronin,19,Goalkeeper,Barnet,0.0,out,Summer,2005,2005/2006
+Neil Shipperley,30,Centre-Forward,Sheff Utd,0.0,out,Summer,2005,2005/2006
+Vasilios Lakis,28,Right Midfield,AEK Athens,0.0,out,Summer,2005,2005/2006
+Tyrone Berry,18,Centre-Forward,Notts County,0.0,out,Summer,2005,2005/2006
+Kit Symons,34,Centre-Back,Retired,0.0,out,Summer,2005,2005/2006
+Nicola Ventola,27,Centre-Forward,Inter,0.0,out,Summer,2005,2005/2006
+Joonas Kolkka,31,Right Winger,ADO Den Haag,0.0,out,Winter,2005,2005/2006
+Tyrone Berry,18,Centre-Forward,Rush. & Diamon.,0.0,out,Winter,2005,2005/2006
+Sam Togwell,21,Defensive Midfield,Port Vale,0.0,out,Winter,2005,2005/2006
+Tommy Black,26,Right Midfield,Gillingham FC,0.0,out,Winter,2005,2005/2006
+Shefki Kuqi,29,Centre-Forward,Blackburn,3750000.0,in,Summer,2006,2006/2007
+Leon Cort,26,Centre-Back,Hull City,1500000.0,in,Summer,2006,2006/2007
+Scott Flinders,20,Goalkeeper,Barnsley FC,1130000.0,in,Summer,2006,2006/2007
+James Scowcroft,30,Centre-Forward,Coventry,750000.0,in,Summer,2006,2006/2007
+Carl Fletcher,26,Defensive Midfield,West Ham,600000.0,in,Summer,2006,2006/2007
+Stuart Green,25,Right Winger,Hull City,120000.0,in,Summer,2006,2006/2007
+Mark Kennedy,30,Left-Back,Wolves,0.0,in,Summer,2006,2006/2007
+Matt Lawrence,32,Centre-Back,Millwall,0.0,in,Summer,2006,2006/2007
+Charlie Sheringham,18,Centre-Forward,Ipswich U18,0.0,in,Summer,2006,2006/2007
+Sándor Torghelle,24,Centre-Forward,Panathinaikos,0.0,in,Summer,2006,2006/2007
+Lewwis Spence,18,Attacking Midfield,Palace U18,0.0,in,Summer,2006,2006/2007
+Ryan Hall,18,Left Midfield,Palace U18,0.0,in,Summer,2006,2006/2007
+David Wilkinson,18,Goalkeeper,Palace U18,0.0,in,Summer,2006,2006/2007
+Scott Flinders,20,Goalkeeper,Gillingham FC,0.0,in,Summer,2006,2006/2007
+Lewis Grabban,18,Centre-Forward,Oldham Athletic,0.0,in,Summer,2006,2006/2007
+Scott Flinders,20,Goalkeeper,Brighton,0.0,in,Summer,2006,2006/2007
+Andy Johnson,25,Centre-Forward,Everton,11000000.0,out,Summer,2006,2006/2007
+Fitz Hall,25,Centre-Back,Wigan,4500000.0,out,Summer,2006,2006/2007
+Emmerson Boyce,26,Right-Back,Wigan,1500000.0,out,Summer,2006,2006/2007
+Mikele Leigertwood,23,Defensive Midfield,Sheff Utd,750000.0,out,Summer,2006,2006/2007
+Sándor Torghelle,24,Centre-Forward,Panathinaikos,500000.0,out,Summer,2006,2006/2007
+Sam Togwell,21,Defensive Midfield,Barnsley FC,75000.0,out,Summer,2006,2006/2007
+Anthony Danze,22,midfield,Inglewood Utd,0.0,out,Summer,2006,2006/2007
+Aki Riihilahti,29,Defensive Midfield,1.FC K'lautern,0.0,out,Summer,2006,2006/2007
+Wayne Andrews,28,attack,Coventry,0.0,out,Summer,2006,2006/2007
+Anthony Popovic,32,Centre-Back,Al-Arabi SC,0.0,out,Summer,2006,2006/2007
+Lewis Grabban,18,Centre-Forward,Oldham Athletic,0.0,out,Summer,2006,2006/2007
+Jon Macken,28,Centre-Forward,Ipswich,0.0,out,Summer,2006,2006/2007
+Scott Flinders,20,Goalkeeper,Gillingham FC,0.0,out,Summer,2006,2006/2007
+Paul Ifill,27,Right Winger,Sheff Utd,1130000.0,in,Winter,2006,2006/2007
+Iain Turner,22,Goalkeeper,Everton,0.0,in,Winter,2006,2006/2007
+Dave Martin,21,Left Midfield,Dartford,40000.0,in,Winter,2006,2006/2007
+Jon Macken,29,Centre-Forward,Ipswich,0.0,in,Winter,2006,2006/2007
+Gábor Király,30,Goalkeeper,Aston Villa,0.0,in,Winter,2006,2006/2007
+Ryan Hall,18,Left Midfield,Lewes,0.0,in,Winter,2006,2006/2007
+Tommy Black,27,Right Midfield,Bradford,0.0,in,Winter,2006,2006/2007
+Gábor Király,30,Goalkeeper,West Ham,0.0,in,Winter,2006,2006/2007
+David Wilkinson,18,Goalkeeper,Welling Utd.,0.0,in,Winter,2006,2006/2007
+Marco Reich,29,Left Midfield,K. Offenbach,775000.0,out,Winter,2006,2006/2007
+Jon Macken,29,Centre-Forward,Derby,0.0,out,Winter,2006,2006/2007
+Tommy Black,26,Right Midfield,Bradford,0.0,out,Winter,2006,2006/2007
+Gábor Király,30,Goalkeeper,West Ham,0.0,out,Winter,2006,2006/2007
+David Wilkinson,18,Goalkeeper,Welling Utd.,0.0,out,Winter,2006,2006/2007
+Gábor Király,30,Goalkeeper,Aston Villa,0.0,out,Winter,2006,2006/2007
+Charlie Sheringham,18,Centre-Forward,CP Baltimore,0.0,out,Winter,2006,2006/2007
+Lewwis Spence,19,Attacking Midfield,CP Baltimore,0.0,out,Winter,2006,2006/2007
+Scott Flinders,20,Goalkeeper,Brighton,0.0,out,Winter,2006,2006/2007
+Ryan Hall,18,Left Midfield,Lewes,0.0,out,Winter,2006,2006/2007
+Iain Turner,22,Goalkeeper,Everton,0.0,out,Winter,2006,2006/2007
+Tony Craig,22,Centre-Back,Millwall,125000.0,in,Summer,2007,2007/2008
+Jeff Hughes,22,Central Midfield,Lincoln City,0.0,in,Summer,2007,2007/2008
+José Fonte,23,Centre-Back,Benfica,0.0,in,Summer,2007,2007/2008
+Franck Songo'o,20,Right Winger,Portsmouth,0.0,in,Summer,2007,2007/2008
+Paul Dickov,34,Centre-Forward,Man City,0.0,in,Summer,2007,2007/2008
+Besian Idrizaj,19,Centre-Forward,Liverpool,0.0,in,Summer,2007,2007/2008
+Lee Hills,17,Left-Back,Palace U18,0.0,in,Summer,2007,2007/2008
+Moses Swaibu,18,Centre-Back,Palace U18,0.0,in,Summer,2007,2007/2008
+John Bostock,15,Central Midfield,Palace U18,0.0,in,Summer,2007,2007/2008
+Ben Kudjodji,18,Centre-Forward,Palace U18,0.0,in,Summer,2007,2007/2008
+Lewwis Spence,19,Attacking Midfield,CP Baltimore,0.0,in,Summer,2007,2007/2008
+Shefki Kuqi,31,Centre-Forward,Ipswich,0.0,in,Summer,2007,2007/2008
+Scott Flinders,21,Goalkeeper,Blackpool,0.0,in,Summer,2007,2007/2008
+Dougie Freedman,33,Centre-Forward,Leeds,0.0,in,Summer,2007,2007/2008
+David Wilkinson,20,Goalkeeper,Eastleigh,0.0,in,Summer,2007,2007/2008
+Ryan Hall,20,Left Midfield,Crawley Town,0.0,in,Summer,2007,2007/2008
+Jobi McAnuff,25,Left Winger,Watford,2500000.0,out,Summer,2007,2007/2008
+Darren Ward,28,Centre-Back,Wolves,275000.0,out,Summer,2007,2007/2008
+Gary Borrowdale,21,Left-Back,Coventry,275000.0,out,Summer,2007,2007/2008
+Tommy Black,27,Right Midfield,Southend United,0.0,out,Summer,2007,2007/2008
+Danny Granville,32,Left-Back,Colchester Utd.,0.0,out,Summer,2007,2007/2008
+Michael Hughes,35,Attacking Midfield,Coventry,0.0,out,Summer,2007,2007/2008
+Gábor Király,31,Goalkeeper,Burnley,0.0,out,Summer,2007,2007/2008
+Shefki Kuqi,30,Centre-Forward,Fulham,0.0,out,Summer,2007,2007/2008
+Lewis Grabban,19,Centre-Forward,Motherwell FC,0.0,out,Summer,2007,2007/2008
+Scott Sinclair,19,Left Winger,Chelsea,0.0,out,Summer,2007,2007/2008
+Kyel Reid,20,Left Winger,West Ham,0.0,out,Summer,2007,2007/2008
+Nathan Ashton,21,Left-Back,Fulham,0.0,out,Summer,2007,2007/2008
+Neil Danns,25,Central Midfield,Birmingham,900000.0,in,Winter,2007,2007/2008
+Shaun Derry,30,Defensive Midfield,Leeds,350000.0,in,Winter,2007,2007/2008
+Clint Hill,29,Centre-Back,Stoke City,275000.0,in,Winter,2007,2007/2008
+Nathan Ashton,21,Left-Back,Fulham,0.0,in,Winter,2007,2007/2008
+Kyel Reid,20,Left Winger,West Ham,0.0,in,Winter,2007,2007/2008
+Scott Sinclair,19,Left Winger,Chelsea,0.0,in,Winter,2007,2007/2008
+John Halls,25,Defensive Midfield,Reading,0.0,in,Winter,2007,2007/2008
+Sean Scannell,17,Right Winger,Palace U18,0.0,in,Winter,2007,2007/2008
+Victor Moses,17,Right Midfield,Palace U18,0.0,in,Winter,2007,2007/2008
+Shefki Kuqi,31,Centre-Forward,Fulham,0.0,in,Winter,2007,2007/2008
+Jeff Hughes,22,Central Midfield,Peterborough,0.0,in,Winter,2007,2007/2008
+Scott Flinders,21,Goalkeeper,Yeovil Town,0.0,in,Winter,2007,2007/2008
+Moses Swaibu,18,Centre-Back,Weymouth FC,0.0,in,Winter,2007,2007/2008
+Ryan Hall,20,Left Midfield,Dag & Red FC,0.0,in,Winter,2007,2007/2008
+Lewis Grabban,19,Centre-Forward,Motherwell FC,0.0,in,Winter,2007,2007/2008
+Leon Cort,28,Centre-Back,Stoke City,1800000.0,out,Winter,2007,2007/2008
+Lewis Grabban,20,Centre-Forward,Millwall,225000.0,out,Winter,2007,2007/2008
+Tony Craig,22,Centre-Back,Millwall,90000.0,out,Winter,2007,2007/2008
+Dave Martin,22,Left Midfield,Millwall,75000.0,out,Winter,2007,2007/2008
+Stuart Green,26,Right Winger,Blackpool,0.0,out,Winter,2007,2007/2008
+Jeff Hughes,22,Central Midfield,Bristol Rovers,0.0,out,Winter,2007,2007/2008
+Shefki Kuqi,31,Centre-Forward,Ipswich,0.0,out,Winter,2007,2007/2008
+Ryan Hall,20,Left Midfield,Crawley Town,0.0,out,Winter,2007,2007/2008
+David Wilkinson,19,Goalkeeper,Eastleigh,0.0,out,Winter,2007,2007/2008
+Scott Flinders,21,Goalkeeper,Blackpool,0.0,out,Winter,2007,2007/2008
+Scott Flinders,21,Goalkeeper,Yeovil Town,0.0,out,Winter,2007,2007/2008
+Ryan Hall,19,Left Midfield,Dag & Red FC,0.0,out,Winter,2007,2007/2008
+Dougie Freedman,33,Centre-Forward,Leeds,0.0,out,Winter,2007,2007/2008
+Moses Swaibu,18,Centre-Back,Weymouth FC,0.0,out,Winter,2007,2007/2008
+Jeff Hughes,22,Central Midfield,Peterborough,0.0,out,Winter,2007,2007/2008
+John Halls,25,Defensive Midfield,Reading,0.0,out,Winter,2007,2007/2008
+Besian Idrizaj,20,Centre-Forward,Liverpool,0.0,out,Winter,2007,2007/2008
+Franck Songo'o,20,Right Winger,Portsmouth,0.0,out,Winter,2007,2007/2008
+Paul Dickov,35,Centre-Forward,Man City,0.0,out,Winter,2007,2007/2008
+Nick Carle,26,Attacking Midfield,Bristol City,1500000.0,in,Summer,2008,2008/2009
+Alan Lee,30,Centre-Forward,Ipswich,1350000.0,in,Summer,2008,2008/2009
+Calvin Andrew,21,Centre-Forward,Luton,600000.0,in,Summer,2008,2008/2009
+Patrick McCarthy,25,Centre-Back,Charlton,525000.0,in,Summer,2008,2008/2009
+Léandre Griffit,24,Central Midfield,Elfsborg,0.0,in,Summer,2008,2008/2009
+Johannes Ertl,25,Defensive Midfield,Austria Vienna,0.0,in,Summer,2008,2008/2009
+John Oster,29,Central Midfield,Reading,0.0,in,Summer,2008,2008/2009
+Darryl Flahavan,29,Goalkeeper,Southend United,0.0,in,Summer,2008,2008/2009
+Craig Beattie,24,Centre-Forward,West Brom,0.0,in,Summer,2008,2008/2009
+Simon Thomas,24,Centre-Forward,Boreham Wood,40000.0,in,Summer,2008,2008/2009
+Nathaniel Clyne,17,Right-Back,Palace U18,0.0,in,Summer,2008,2008/2009
+Kieran Djilali,17,Left Midfield,Palace U18,0.0,in,Summer,2008,2008/2009
+Jamie Smith,18,Central Midfield,Palace U18,0.0,in,Summer,2008,2008/2009
+Alan Lee,30,Centre-Forward,Norwich,0.0,in,Summer,2008,2008/2009
+Danny Butterfield,29,Right-Back,Charlton,0.0,in,Summer,2008,2008/2009
+Darryl Flahavan,30,Goalkeeper,Leeds,0.0,in,Summer,2008,2008/2009
+Calvin Andrew,22,Centre-Forward,Brighton,0.0,in,Summer,2008,2008/2009
+John Bostock,16,Central Midfield,Spurs,2000000.0,out,Summer,2008,2008/2009
+Tom Soares,22,Central Midfield,Stoke City,1900000.0,out,Summer,2008,2008/2009
+Ben Kudjodji,19,Centre-Forward,Bromley,0.0,out,Summer,2008,2008/2009
+Ryan Hall,20,Left Midfield,Bromley,0.0,out,Summer,2008,2008/2009
+Moses Swaibu,19,Centre-Back,Bromley,0.0,out,Summer,2008,2008/2009
+Dougie Freedman,34,Centre-Forward,Southend United,0.0,out,Summer,2008,2008/2009
+Mark Hudson,26,Centre-Back,Charlton,0.0,out,Summer,2008,2008/2009
+Charlie Sheringham,20,Centre-Forward,Welling Utd.,0.0,out,Summer,2008,2008/2009
+Lewwis Spence,20,Attacking Midfield,Wycombe,0.0,out,Summer,2008,2008/2009
+Clinton Morrison,29,Centre-Forward,Coventry,0.0,out,Summer,2008,2008/2009
+Mark Kennedy,32,Left-Back,Cardiff,0.0,out,Summer,2008,2008/2009
+Scott Flinders,22,Goalkeeper,Falkirk,0.0,out,Summer,2008,2008/2009
+Carl Fletcher,28,Defensive Midfield,Nottm Forest,0.0,out,Summer,2008,2008/2009
+Simon Thomas,24,Centre-Forward,Grays Athletic FC,0.0,out,Summer,2008,2008/2009
+Arron Fray,21,Right-Back,Without Club,0.0,out,Summer,2008,2008/2009
+Rui Fonte,19,Centre-Forward,Arsenal Res.,0.0,out,Summer,2008,2008/2009
+Anthony Stokes,20,Centre-Forward,Sunderland,0.0,out,Summer,2008,2008/2009
+Anthony Stokes,20,Centre-Forward,Sunderland,0.0,in,Winter,2008,2008/2009
+Claude Davis,29,Centre-Back,Derby,0.0,in,Winter,2008,2008/2009
+Rui Fonte,18,Centre-Forward,Arsenal Res.,0.0,in,Winter,2008,2008/2009
+Carl Fletcher,28,Defensive Midfield,Nottm Forest,0.0,in,Winter,2008,2008/2009
+Scott Flinders,22,Goalkeeper,Falkirk,0.0,in,Winter,2008,2008/2009
+Lee Hills,18,Left-Back,Colchester Utd.,0.0,in,Winter,2008,2008/2009
+Simon Thomas,24,Centre-Forward,Grays Athletic FC,0.0,in,Winter,2008,2008/2009
+David Wilkinson,20,Goalkeeper,Welling Utd.,0.0,in,Winter,2008,2008/2009
+Ben Watson,23,Central Midfield,Wigan,2100000.0,out,Winter,2008,2008/2009
+Carl Fletcher,28,Defensive Midfield,Plymouth,0.0,out,Winter,2008,2008/2009
+Lee Hills,18,Left-Back,Colchester Utd.,0.0,out,Winter,2008,2008/2009
+David Wilkinson,20,Goalkeeper,Welling Utd.,0.0,out,Winter,2008,2008/2009
+Darryl Flahavan,30,Goalkeeper,Leeds,0.0,out,Winter,2008,2008/2009
+Alan Lee,30,Centre-Forward,Norwich,0.0,out,Winter,2008,2008/2009
+Danny Butterfield,29,Right-Back,Charlton,0.0,out,Winter,2008,2008/2009
+Calvin Andrew,22,Centre-Forward,Brighton,0.0,out,Winter,2008,2008/2009
+Craig Beattie,24,Centre-Forward,West Brom,0.0,out,Winter,2008,2008/2009
+Ryan Smith,22,Left Winger,Southampton,0.0,in,Summer,2009,2009/2010
+Matthew Wright,18,Centre-Forward,Swansea U18,0.0,in,Summer,2009,2009/2010
+Charlie Mann,16,Goalkeeper,Arsenal U18,0.0,in,Summer,2009,2009/2010
+Claude Davis,30,Centre-Back,Derby,0.0,in,Summer,2009,2009/2010
+Stern John,32,Centre-Forward,Southampton,0.0,in,Summer,2009,2009/2010
+Darren Ambrose,25,Left Midfield,Charlton,0.0,in,Summer,2009,2009/2010
+Freddie Sears,19,Second Striker,West Ham,0.0,in,Summer,2009,2009/2010
+Alassane N'Diaye,19,Defensive Midfield,Palace U18,0.0,in,Summer,2009,2009/2010
+Nathaniel Pinney,18,Centre-Forward,Palace U18,0.0,in,Summer,2009,2009/2010
+Simon Thomas,25,Centre-Forward,Ebbsfleet,0.0,in,Summer,2009,2009/2010
+Kieran Djilali,18,Left Midfield,Crawley Town,0.0,in,Summer,2009,2009/2010
+Nathaniel Pinney,19,Centre-Forward,Woking,0.0,in,Summer,2009,2009/2010
+Darryl Flahavan,31,Goalkeeper,Oldham Athletic,0.0,in,Summer,2009,2009/2010
+Matthew Wright,19,Centre-Forward,Woking,0.0,in,Summer,2009,2009/2010
+David Wilkinson,21,Goalkeeper,Forest Green,0.0,out,Summer,2009,2009/2010
+Jamie Smith,19,Central Midfield,Brighton,0.0,out,Summer,2009,2009/2010
+John Oster,30,Central Midfield,Doncaster,0.0,out,Summer,2009,2009/2010
+Paul Ifill,29,Right Winger,Wellington P.,0.0,out,Summer,2009,2009/2010
+Shefki Kuqi,32,Centre-Forward,TuS Koblenz,0.0,out,Summer,2009,2009/2010
+James Scowcroft,33,Centre-Forward,Leyton Orient,0.0,out,Summer,2009,2009/2010
+Léandre Griffit,25,Central Midfield,URS Centre,0.0,out,Summer,2009,2009/2010
+Scott Flinders,23,Goalkeeper,Hartlepool,0.0,out,Summer,2009,2009/2010
+Simon Thomas,25,Centre-Forward,Ebbsfleet,0.0,out,Summer,2009,2009/2010
+Matthew Wright,18,Centre-Forward,Maidstone,0.0,out,Summer,2009,2009/2010
+Kieran Djilali,18,Left Midfield,Crawley Town,0.0,out,Summer,2009,2009/2010
+Nathaniel Pinney,18,Centre-Forward,Woking,0.0,out,Summer,2009,2009/2010
+Simon Thomas,25,Centre-Forward,Darlington,0.0,out,Summer,2009,2009/2010
+Claude Davis,30,Centre-Back,Derby,0.0,out,Summer,2009,2009/2010
+Lee Hills,19,Left-Back,Oldham Athletic,0.0,in,Winter,2009,2009/2010
+Kieran Djilali,18,Left Midfield,Chesterfield FC,0.0,in,Winter,2009,2009/2010
+Stern John,33,Centre-Forward,Ipswich,0.0,in,Winter,2009,2009/2010
+Simon Thomas,25,Centre-Forward,Darlington,0.0,in,Winter,2009,2009/2010
+Matthew Wright,18,Centre-Forward,Maidstone,0.0,in,Winter,2009,2009/2010
+Victor Moses,19,Right Midfield,Wigan,3000000.0,out,Winter,2009,2009/2010
+José Fonte,26,Centre-Back,Southampton,1400000.0,out,Winter,2009,2009/2010
+Ryan Smith,23,Left Winger,Wizards,0.0,out,Winter,2009,2009/2010
+Simon Thomas,25,Centre-Forward,Billericay,0.0,out,Winter,2009,2009/2010
+Lee Hills,19,Left-Back,Oldham Athletic,0.0,out,Winter,2009,2009/2010
+Darryl Flahavan,30,Goalkeeper,Oldham Athletic,0.0,out,Winter,2009,2009/2010
+Kieran Djilali,18,Left Midfield,Chesterfield FC,0.0,out,Winter,2009,2009/2010
+Stern John,33,Centre-Forward,Ipswich,0.0,out,Winter,2009,2009/2010
+Matthew Wright,18,Centre-Forward,Woking,0.0,out,Winter,2009,2009/2010
+Freddie Sears,20,Second Striker,West Ham,0.0,out,Winter,2009,2009/2010
+Owen Garvan,22,Central Midfield,Ipswich,280000.0,in,Summer,2010,2010/2011
+Stuart O'Keefe,19,Central Midfield,Southend United,0.0,in,Summer,2010,2010/2011
+David Wright,30,Defensive Midfield,Ipswich,0.0,in,Summer,2010,2010/2011
+Lewis Price,25,Goalkeeper,Derby,0.0,in,Summer,2010,2010/2011
+Adam Barrett,30,Centre-Back,Southend United,0.0,in,Summer,2010,2010/2011
+Andy Dorman,28,Defensive Midfield,St. Mirren,0.0,in,Summer,2010,2010/2011
+James Vaughan,22,Centre-Forward,Everton,0.0,in,Summer,2010,2010/2011
+Anthony Gardner,29,Centre-Back,Hull City,0.0,in,Summer,2010,2010/2011
+Alex Marrow,20,Central Midfield,Blackburn,0.0,in,Summer,2010,2010/2011
+Pablo Couñago,30,Centre-Forward,Ipswich,0.0,in,Summer,2010,2010/2011
+Jonathan Obika,19,Centre-Forward,Spurs,0.0,in,Summer,2010,2010/2011
+Julian Bennett,25,Left-Back,Nottm Forest,0.0,in,Summer,2010,2010/2011
+Edgar Davids,37,Central Midfield,Career break,0.0,in,Summer,2010,2010/2011
+Charlie Holness,18,Right-Back,Palace U18,0.0,in,Summer,2010,2010/2011
+Matt Parsons,18,Left-Back,Palace U18,0.0,in,Summer,2010,2010/2011
+Wilfried Zaha,17,Left Winger,Palace U18,0.0,in,Summer,2010,2010/2011
+Kieran Djilali,20,Left Midfield,Chesterfield FC,0.0,in,Summer,2010,2010/2011
+Alassane N'Diaye,21,Defensive Midfield,Swindon Town,0.0,in,Summer,2010,2010/2011
+Calvin Andrew,24,Centre-Forward,Swindon Town,0.0,in,Summer,2010,2010/2011
+Adam Barrett,31,Centre-Back,Leyton Orient,0.0,in,Summer,2010,2010/2011
+Alan Lee,32,Centre-Forward,Huddersfield,370000.0,out,Summer,2010,2010/2011
+Nick Carle,28,Attacking Midfield,Sydney FC,0.0,out,Summer,2010,2010/2011
+Matthew Wright,19,Centre-Forward,Salisbury,0.0,out,Summer,2010,2010/2011
+Darryl Flahavan,31,Goalkeeper,Portsmouth,0.0,out,Summer,2010,2010/2011
+Matt Lawrence,36,Centre-Back,Gillingham FC,0.0,out,Summer,2010,2010/2011
+Danny Butterfield,30,Right-Back,Southampton,0.0,out,Summer,2010,2010/2011
+Clint Hill,31,Centre-Back,QPR,0.0,out,Summer,2010,2010/2011
+Shaun Derry,32,Defensive Midfield,QPR,0.0,out,Summer,2010,2010/2011
+Johannes Ertl,27,Defensive Midfield,Sheff Utd,0.0,out,Summer,2010,2010/2011
+Nathaniel Pinney,19,Centre-Forward,Dag & Red FC,0.0,out,Summer,2010,2010/2011
+Stern John,33,Centre-Forward,Without Club,0.0,out,Summer,2010,2010/2011
+Pablo Couñago,31,Centre-Forward,Ipswich,0.0,out,Summer,2010,2010/2011
+James Vaughan,22,Centre-Forward,Everton,0.0,out,Summer,2010,2010/2011
+Anthony Gardner,30,Centre-Back,Hull City,0.0,out,Summer,2010,2010/2011
+Kagisho Dikgacoi,26,Central Midfield,Fulham,0.0,out,Summer,2010,2010/2011
+Gavin Mahon,34,Central Midfield,QPR,0.0,out,Summer,2010,2010/2011
+Jermaine Easter,28,Centre-Forward,MK Dons,465000.0,in,Winter,2010,2010/2011
+Alex Marrow,20,Central Midfield,Blackburn,275000.0,in,Winter,2010,2010/2011
+Steffen Iversen,34,Second Striker,Rosenborg,0.0,in,Winter,2010,2010/2011
+Gavin Mahon,34,Central Midfield,QPR,0.0,in,Winter,2010,2010/2011
+Kagisho Dikgacoi,26,Central Midfield,Fulham,0.0,in,Winter,2010,2010/2011
+Kemy Agustien,24,Defensive Midfield,Swansea,0.0,in,Winter,2010,2010/2011
+Dean Moxey,25,Left-Back,Derby,0.0,in,Winter,2010,2010/2011
+Nathaniel Pinney,20,Centre-Forward,Braintree,0.0,in,Winter,2010,2010/2011
+Calvin Andrew,23,Centre-Forward,Millwall,0.0,in,Winter,2010,2010/2011
+Nathaniel Pinney,19,Centre-Forward,Dag & Red FC,0.0,in,Winter,2010,2010/2011
+Calvin Andrew,24,Centre-Forward,Swindon Town,0.0,out,Winter,2010,2010/2011
+Calvin Andrew,23,Centre-Forward,Millwall,0.0,out,Winter,2010,2010/2011
+Alassane N'Diaye,21,Defensive Midfield,Swindon Town,0.0,out,Winter,2010,2010/2011
+Nathaniel Pinney,20,Centre-Forward,Braintree,0.0,out,Winter,2010,2010/2011
+Adam Barrett,31,Centre-Back,Leyton Orient,0.0,out,Winter,2010,2010/2011
+Kieran Djilali,20,Left Midfield,Chesterfield FC,0.0,out,Winter,2010,2010/2011
+Matt Parsons,19,Left-Back,Barnet,0.0,out,Winter,2010,2010/2011
+Edgar Davids,37,Central Midfield,Career break,0.0,out,Winter,2010,2010/2011
+Alex Marrow,20,Central Midfield,Blackburn,0.0,out,Winter,2010,2010/2011
+Julian Bennett,25,Left-Back,Nottm Forest,0.0,out,Winter,2010,2010/2011
+Jonathan Obika,20,Centre-Forward,Spurs,0.0,out,Winter,2010,2010/2011
+Kagisho Dikgacoi,26,Central Midfield,Fulham,670000.0,in,Summer,2011,2011/2012
+Anthony Gardner,30,Centre-Back,Hull City,0.0,in,Summer,2011,2011/2012
+Glenn Murray,27,Centre-Forward,Brighton,0.0,in,Summer,2011,2011/2012
+Mile Jedinak,27,Defensive Midfield,Genclerbirligi,0.0,in,Summer,2011,2011/2012
+Aleksandar Tunchev,30,Centre-Back,Leicester,0.0,in,Summer,2011,2011/2012
+Peter Ramage,27,Centre-Back,QPR,0.0,in,Summer,2011,2011/2012
+Ryan McGivern,21,Left-Back,Man City,0.0,in,Summer,2011,2011/2012
+Andrew Davies,26,Centre-Back,Stoke City,0.0,in,Summer,2011,2011/2012
+Antonio Pedroza,20,Centre-Forward,Jaguares,0.0,in,Summer,2011,2011/2012
+Jonathan Parr,22,Left-Back,Aalesund,0.0,in,Summer,2011,2011/2012
+Jonathan Williams,17,Attacking Midfield,Palace U18,0.0,in,Summer,2011,2011/2012
+Calvin Andrew,25,Centre-Forward,Leyton Orient,0.0,in,Summer,2011,2011/2012
+Lee Hills,22,Left-Back,Southend United,0.0,in,Summer,2011,2011/2012
+Matt Parsons,19,Left-Back,Barnet,0.0,in,Summer,2011,2011/2012
+Alex Marrow,22,Central Midfield,Preston,0.0,in,Summer,2011,2011/2012
+Charlie Holness,20,Right-Back,Leatherhead FC,0.0,in,Summer,2011,2011/2012
+Andy Dorman,30,Defensive Midfield,Bristol Rovers,0.0,in,Summer,2011,2011/2012
+Alassane N'Diaye,21,Defensive Midfield,Southend United,0.0,in,Summer,2011,2011/2012
+Alassane N'Diaye,21,Defensive Midfield,Barnet,0.0,out,Summer,2011,2011/2012
+Neil Danns,28,Central Midfield,Leicester,0.0,out,Summer,2011,2011/2012
+Charlie Mann,19,Goalkeeper,Harlow,0.0,out,Summer,2011,2011/2012
+Kieran Djilali,20,Left Midfield,AFC Wimbledon,0.0,out,Summer,2011,2011/2012
+Alassane N'Diaye,21,Defensive Midfield,Southend United,0.0,out,Summer,2011,2011/2012
+Claude Davis,32,Centre-Back,Crawley Town,0.0,out,Summer,2011,2011/2012
+Adam Barrett,31,Centre-Back,Bournemouth,0.0,out,Summer,2011,2011/2012
+Mustapha Dumbuya,24,Right-Back,Doncaster,0.0,out,Summer,2011,2011/2012
+Andrew Davies,26,Centre-Back,Stoke City,0.0,out,Summer,2011,2011/2012
+Ryan McGivern,21,Left-Back,Man City,0.0,out,Summer,2011,2011/2012
+Kemy Agustien,24,Defensive Midfield,Swansea,0.0,out,Summer,2011,2011/2012
+Michael Chambers,17,Centre-Back,Dulwich Hamlet,100000.0,in,Winter,2011,2011/2012
+Kwesi Appiah,21,Centre-Forward,Margate FC,0.0,in,Winter,2011,2011/2012
+Chris Martin,23,Centre-Forward,Norwich,0.0,in,Winter,2011,2011/2012
+Dekel Keinan,27,Centre-Back,Cardiff,0.0,in,Winter,2011,2011/2012
+John Egan,19,Centre-Back,Sunderland,0.0,in,Winter,2011,2011/2012
+Mustapha Dumbuya,24,Right-Back,Doncaster,0.0,in,Winter,2011,2011/2012
+Paul McShane,26,Centre-Back,Hull City,0.0,in,Winter,2011,2011/2012
+Nathaniel Pinney,21,Centre-Forward,Ebbsfleet,0.0,in,Winter,2011,2011/2012
+Nathaniel Pinney,20,Centre-Forward,Ebbsfleet,0.0,out,Winter,2011,2011/2012
+Calvin Andrew,25,Centre-Forward,Leyton Orient,0.0,out,Winter,2011,2011/2012
+Lee Hills,21,Left-Back,Southend United,0.0,out,Winter,2011,2011/2012
+Alex Marrow,22,Central Midfield,Preston,0.0,out,Winter,2011,2011/2012
+Steffen Iversen,35,Second Striker,Rosenborg,0.0,out,Winter,2011,2011/2012
+Charlie Holness,20,Right-Back,Leatherhead FC,0.0,out,Winter,2011,2011/2012
+Andy Dorman,29,Defensive Midfield,Bristol Rovers,0.0,out,Winter,2011,2011/2012
+John Egan,19,Centre-Back,Sunderland,0.0,out,Winter,2011,2011/2012
+Paul McShane,26,Centre-Back,Hull City,0.0,out,Winter,2011,2011/2012
+Peter Ramage,28,Centre-Back,QPR,0.0,out,Winter,2011,2011/2012
+Dekel Keinan,27,Centre-Back,Cardiff,0.0,out,Winter,2011,2011/2012
+Chris Martin,23,Centre-Forward,Norwich,0.0,out,Winter,2011,2011/2012
+Aleksandar Tunchev,30,Centre-Back,Leicester,0.0,out,Winter,2011,2011/2012
+Joel Ward,22,Right-Back,Portsmouth,650000.0,in,Summer,2012,2012/2013
+Yannick Bolasie,23,Left Winger,Bristol City,630000.0,in,Summer,2012,2012/2013
+Darcy Blake,23,Right-Back,Cardiff,445000.0,in,Summer,2012,2012/2013
+Aaron Wilbraham,32,Centre-Forward,Norwich,0.0,in,Summer,2012,2012/2013
+Damien Delaney,31,Centre-Back,Ipswich,0.0,in,Summer,2012,2012/2013
+Peter Ramage,28,Centre-Back,QPR,0.0,in,Summer,2012,2012/2013
+André Moritz,26,Attacking Midfield,Mersin IY,0.0,in,Summer,2012,2012/2013
+David Goodwillie,23,Centre-Forward,Blackburn,0.0,in,Summer,2012,2012/2013
+Aaron Martin,22,Centre-Back,Southampton,0.0,in,Summer,2012,2012/2013
+Danny Gabbidon,33,Centre-Back,Without Club,0.0,in,Summer,2012,2012/2013
+Jason Banton,19,Left Midfield,Without Club,0.0,in,Summer,2012,2012/2013
+David Wright,32,Defensive Midfield,Gillingham FC,0.0,in,Summer,2012,2012/2013
+Kwesi Appiah,22,Centre-Forward,Aldershot,0.0,in,Summer,2012,2012/2013
+Matt Parsons,20,Left-Back,Wycombe,0.0,in,Summer,2012,2012/2013
+Jermaine Easter,31,Centre-Forward,Millwall,0.0,in,Summer,2012,2012/2013
+Nathaniel Clyne,21,Right-Back,Southampton,3200000.0,out,Summer,2012,2012/2013
+Sean Scannell,21,Right Winger,Huddersfield,1120000.0,out,Summer,2012,2012/2013
+Darren Ambrose,28,Left Midfield,Birmingham,320000.0,out,Summer,2012,2012/2013
+Anthony Gardner,31,Centre-Back,Sheff Wed,0.0,out,Summer,2012,2012/2013
+Nathaniel Pinney,21,Centre-Forward,Croydon Ath.,0.0,out,Summer,2012,2012/2013
+Lee Hills,22,Left-Back,Stevenage,0.0,out,Summer,2012,2012/2013
+Matt Parsons,20,Left-Back,Wycombe,0.0,out,Summer,2012,2012/2013
+David Wright,32,Defensive Midfield,Gillingham FC,0.0,out,Summer,2012,2012/2013
+Kwesi Appiah,22,Centre-Forward,Aldershot,0.0,out,Summer,2012,2012/2013
+Alex Marrow,22,Central Midfield,Fleetwood,0.0,out,Summer,2012,2012/2013
+Antonio Pedroza,21,Centre-Forward,Monarcas Morelia,0.0,out,Summer,2012,2012/2013
+Charlie Holness,20,Right-Back,Retired,0.0,out,Summer,2012,2012/2013
+Calvin Andrew,25,Centre-Forward,Without Club,0.0,out,Summer,2012,2012/2013
+Andy Dorman,30,Defensive Midfield,Without Club,0.0,out,Summer,2012,2012/2013
+Alex Nimely,22,Centre-Forward,Man City U21,0.0,out,Summer,2012,2012/2013
+Wilfried Zaha,20,Left Winger,Man Utd,0.0,out,Summer,2012,2012/2013
+Jazz Richards,22,Right-Back,Swansea,0.0,out,Summer,2012,2012/2013
+Kevin Phillips,39,Centre-Forward,Blackpool,0.0,out,Summer,2012,2012/2013
+Stephen Dobbie,30,Centre-Forward,Brighton,0.0,out,Summer,2012,2012/2013
+David Goodwillie,23,Centre-Forward,Blackburn,0.0,out,Summer,2012,2012/2013
+Marcel Henry-Francis,20,Centre-Forward,Birmingham,0.0,in,Winter,2012,2012/2013
+Alastair Gordon,18,Right-Back,Chelsea U18,0.0,in,Winter,2012,2012/2013
+Alex Nimely,21,Centre-Forward,Man City U21,0.0,in,Winter,2012,2012/2013
+Jacob Butterfield,22,Central Midfield,Norwich,0.0,in,Winter,2012,2012/2013
+Wilfried Zaha,20,Left Winger,Man Utd,0.0,in,Winter,2012,2012/2013
+Jazz Richards,21,Right-Back,Swansea,0.0,in,Winter,2012,2012/2013
+Kevin Phillips,39,Centre-Forward,Blackpool,0.0,in,Winter,2012,2012/2013
+Stephen Dobbie,30,Centre-Forward,Brighton,0.0,in,Winter,2012,2012/2013
+Connor Dymond,18,Defensive Midfield,Palace U18,0.0,in,Winter,2012,2012/2013
+Aruna Dindane,32,Second Striker,Without Club,0.0,in,Winter,2012,2012/2013
+Jason Banton,20,Left Midfield,Plymouth,0.0,in,Winter,2012,2012/2013
+Kwesi Appiah,22,Centre-Forward,Yeovil Town,0.0,in,Winter,2012,2012/2013
+Alex Marrow,22,Central Midfield,Fleetwood,0.0,in,Winter,2012,2012/2013
+Wilfried Zaha,20,Left Winger,Man Utd,11750000.0,out,Winter,2012,2012/2013
+David Wright,32,Defensive Midfield,Colchester Utd.,0.0,out,Winter,2012,2012/2013
+Kwesi Appiah,22,Centre-Forward,Yeovil Town,0.0,out,Winter,2012,2012/2013
+Jermaine Easter,31,Centre-Forward,Millwall,0.0,out,Winter,2012,2012/2013
+Jason Banton,20,Left Midfield,Plymouth,0.0,out,Winter,2012,2012/2013
+Jacob Butterfield,22,Central Midfield,Norwich,0.0,out,Winter,2012,2012/2013
+Aaron Martin,23,Centre-Back,Southampton,0.0,out,Winter,2012,2012/2013
+Chris Armstrong,21,Centre-Forward,Millwall,1000000.0,in,Summer,1992,1992/1993
+Darren Patterson,22,Right-Back,Wigan,340000.0,in,Summer,1992,1992/1993
+Paul Williams,27,attack,Sheff Wed,0.0,in,Summer,1992,1992/1993
+Paul Heald,23,Goalkeeper,Leyton Orient,0.0,in,Summer,1992,1992/1993
+Niall Thompson,18,attack,Palace U23,0.0,in,Summer,1992,1992/1993
+George Ndah,17,Centre-Forward,Palace U18,0.0,in,Summer,1992,1992/1993
+Ricky Newman,22,Central Midfield,M. Invicta,0.0,in,Summer,1992,1992/1993
+David Whyte,21,attack,Charlton,0.0,in,Summer,1992,1992/1993
+Mark Bright,30,Centre-Forward,Sheff Wed,1700000.0,out,Summer,1992,1992/1993
+Rudi Hedman,27,Centre-Back,Dulwich Hamlet,0.0,out,Summer,1992,1992/1993
+Jamie Moralee,20,attack,Millwall,0.0,out,Summer,1992,1992/1993
+Neil Sullivan,23,Goalkeeper,Wimbledon FC,0.0,out,Summer,1992,1992/1993
+Louie Donowa,28,Central Midfield,Birmingham,0.0,out,Summer,1992,1992/1993
+Neil Sullivan,23,Goalkeeper,Wimbledon FC,0.0,in,Winter,1992,1992/1993
+Louie Donowa,28,Central Midfield,Birmingham,0.0,in,Winter,1992,1992/1993
+Martin O'Connor,25,midfield,Walsall,0.0,in,Winter,1992,1992/1993
+Stan Collymore,21,Centre-Forward,Southend United,167000.0,out,Winter,1992,1992/1993
+Ricky Newman,22,Central Midfield,M. Invicta,0.0,out,Winter,1992,1992/1993
+Paul Mortimer,24,midfield,Brentford,0.0,out,Winter,1992,1992/1993
+Martin O'Connor,25,midfield,Walsall,0.0,out,Winter,1992,1992/1993
+Paul Heald,24,Goalkeeper,Leyton Orient,0.0,out,Winter,1992,1992/1993
+Darren Pitcher,24,Right-Back,Charlton,890000.0,in,Summer,1994,1994/1995
+Ray Wilkins,37,Central Midfield,QPR,0.0,in,Summer,1994,1994/1995
+Rhys Wilmot,32,Goalkeeper,Grimsby Town,0.0,in,Summer,1994,1994/1995
+Sagi Burton,16,Centre-Back,Palace U18,0.0,in,Summer,1994,1994/1995
+Steven Thomson,16,Central Midfield,Palace U18,0.0,in,Summer,1994,1994/1995
+Jason Harris,17,attack,Palace U18,0.0,in,Summer,1994,1994/1995
+Anthony Folan,15,Left Midfield,Palace U18,0.0,in,Summer,1994,1994/1995
+Glen Little,18,Right Midfield,Palace U18,0.0,in,Summer,1994,1994/1995
+Jason Harris,18,attack,Dover Athletic,0.0,in,Summer,1994,1994/1995
+Paul Williams,29,attack,Birmingham,0.0,in,Summer,1994,1994/1995
+David Whyte,23,attack,Charlton,570000.0,out,Summer,1994,1994/1995
+Paul Mortimer,26,midfield,Charlton,251000.0,out,Summer,1994,1994/1995
+Simon Osborn,22,Central Midfield,Reading,150000.0,out,Summer,1994,1994/1995
+Stuart Massey,29,midfield,Oxford United,0.0,out,Summer,1994,1994/1995
+Andy Thorn,27,Centre-Back,Wimbledon FC,0.0,out,Summer,1994,1994/1995
+Andy Woodman,22,Goalkeeper,Exeter City,0.0,out,Summer,1994,1994/1995
+Niall Thompson,20,attack,Colchester Utd.,0.0,out,Summer,1994,1994/1995
+Tony Scully,18,midfield,Bournemouth,0.0,out,Summer,1994,1994/1995
+Iain Dowie,30,Centre-Forward,Southampton,500000.0,in,Winter,1994,1994/1995
+Ray Houghton,33,Central Midfield,Aston Villa,359000.0,in,Winter,1994,1994/1995
+Tony Scully,18,midfield,Bournemouth,0.0,in,Winter,1994,1994/1995
+Paul Williams,29,attack,Sunderland,0.0,in,Winter,1994,1994/1995
+Paul Williams,29,attack,Birmingham,0.0,out,Winter,1994,1994/1995
+Paul Williams,29,attack,Sunderland,0.0,out,Winter,1994,1994/1995
+Jamie Vincent,19,Left-Back,Bournemouth,40000.0,out,Winter,1994,1994/1995
+Jason Harris,18,attack,Dover Athletic,0.0,out,Winter,1994,1994/1995
+Neil Emblen,26,Defensive Midfield,Wolves,2500000.0,in,Summer,1997,1997/1998
+Kevin Miller,28,Goalkeeper,Watford,2000000.0,in,Summer,1997,1997/1998
+Jamie Smith,23,Right-Back,Wolves,1500000.0,in,Summer,1997,1997/1998
+Hermann Hreidarsson,23,Centre-Back,ÍBV,0.0,in,Summer,1997,1997/1998
+Paul Warhurst,27,Centre-Back,Blackburn,0.0,in,Summer,1997,1997/1998
+Eric Young,37,Centre-Back,Wolves,0.0,in,Summer,1997,1997/1998
+Jamie Fullarton,22,midfield,SC Bastia,0.0,in,Summer,1997,1997/1998
+Attilio Lombardo,31,Right Winger,Juventus,0.0,in,Summer,1997,1997/1998
+Itzik Zohar,26,Attacking Midfield,B. Jerusalem,0.0,in,Summer,1997,1997/1998
+Gareth Ormshaw,17,Goalkeeper,Palace U23,0.0,in,Summer,1997,1997/1998
+David Woozley,17,defence,Palace U18,0.0,in,Summer,1997,1997/1998
+Tom Evans,20,Goalkeeper,Coventry,0.0,in,Summer,1997,1997/1998
+Jason Harris,20,attack,Lincoln City,0.0,in,Summer,1997,1997/1998
+George Ndah,22,Centre-Forward,Gillingham FC,0.0,in,Summer,1997,1997/1998
+David Hopkin,26,Right Midfield,Leeds,4900000.0,out,Summer,1997,1997/1998
+Ray Houghton,35,Central Midfield,Reading,0.0,out,Summer,1997,1997/1998
+Leon McKenzie,19,Centre-Forward,Fulham,0.0,out,Summer,1997,1997/1998
+Jason Harris,20,attack,Leyton Orient,29000.0,out,Summer,1997,1997/1998
+Ivano Bonetti,32,Left Midfield,Genoa,0.0,out,Summer,1997,1997/1998
+Chris Day,21,Goalkeeper,Watford,0.0,out,Summer,1997,1997/1998
+Carl Veart,27,Centre-Forward,Millwall,0.0,out,Summer,1997,1997/1998
+Tony Scully,21,midfield,Man City,0.0,out,Summer,1997,1997/1998
+Tom Evans,20,Goalkeeper,Scunthorpe Utd.,0.0,out,Summer,1997,1997/1998
+Jason Harris,20,attack,Lincoln City,0.0,out,Summer,1997,1997/1998
+George Ndah,22,Centre-Forward,Gillingham FC,0.0,out,Summer,1997,1997/1998
+Tomas Brolin,28,Centre-Forward,Career break,0.0,out,Summer,1997,1997/1998
+Valérien Ismaël,22,Centre-Back,R. Strasbourg,3800000.0,in,Winter,1997,1997/1998
+Michele Padovano,31,Centre-Forward,Juventus,1950000.0,in,Winter,1997,1997/1998
+Sasa Curcic,26,Defensive Midfield,Aston Villa,1500000.0,in,Winter,1997,1997/1998
+Marcus Bent,19,Centre-Forward,Brentford,450000.0,in,Winter,1997,1997/1998
+Tomas Brolin,27,Centre-Forward,Leeds,0.0,in,Winter,1997,1997/1998
+Patrizio Billio,23,Attacking Midfield,Calcio Monza,0.0,in,Winter,1997,1997/1998
+Richard Harris,17,Centre-Forward,Palace U18,0.0,in,Winter,1997,1997/1998
+Danny Boxall,20,defence,Oldham Athletic,0.0,in,Winter,1997,1997/1998
+Danny Boxall,20,defence,Oldham Athletic,0.0,in,Winter,1997,1997/1998
+Darren Pitcher,28,Right-Back,Leyton Orient,0.0,in,Winter,1997,1997/1998
+Leon McKenzie,19,Centre-Forward,Fulham,0.0,in,Winter,1997,1997/1998
+Dougie Freedman,23,Centre-Forward,Wolves,950000.0,out,Winter,1997,1997/1998
+Gareth Davies,24,Centre-Back,Reading,215000.0,out,Winter,1997,1997/1998
+Itzik Zohar,27,Attacking Midfield,Maccabi Haifa,0.0,out,Winter,1997,1997/1998
+Danny Boxall,20,defence,Oldham Athletic,0.0,out,Winter,1997,1997/1998
+Darren Pitcher,28,Right-Back,Leyton Orient,0.0,out,Winter,1997,1997/1998
+Danny Boxall,20,defence,Oldham Athletic,0.0,out,Winter,1997,1997/1998
+George Ndah,22,Centre-Forward,Swindon Town,0.0,out,Winter,1997,1997/1998
+Fitz Hall,23,Centre-Back,Southampton,2250000.0,in,Summer,2004,2004/2005
+Sándor Torghelle,22,Centre-Forward,MTK Budapest,1100000.0,in,Summer,2004,2004/2005
+Julián Speroni,25,Goalkeeper,Dundee FC,1000000.0,in,Summer,2004,2004/2005
+Joonas Kolkka,29,Right Winger,Bor. M'gladbach,700000.0,in,Summer,2004,2004/2005
+Wayne Andrews,26,attack,Colchester Utd.,100000.0,in,Summer,2004,2004/2005
+Emmerson Boyce,24,Right-Back,Luton,0.0,in,Summer,2004,2004/2005
+Mark Hudson,22,Centre-Back,Fulham,0.0,in,Summer,2004,2004/2005
+Gábor Király,28,Goalkeeper,Hertha BSC,0.0,in,Summer,2004,2004/2005
+Gonzalo Sorondo,24,Centre-Back,Inter,0.0,in,Summer,2004,2004/2005
+Anthony Danze,20,midfield,Perth Glory,0.0,in,Summer,2004,2004/2005
+Iván Kaviedes,26,Centre-Forward,Barcelona SC,0.0,in,Summer,2004,2004/2005
+Nicola Ventola,26,Centre-Forward,Inter,0.0,in,Summer,2004,2004/2005
+Sam Togwell,19,Defensive Midfield,Palace U23,0.0,in,Summer,2004,2004/2005
+Tom Soares,17,Central Midfield,Palace U18,0.0,in,Summer,2004,2004/2005
+Tommy Black,24,Right Midfield,Sheff Utd,0.0,in,Summer,2004,2004/2005
+Jamie Smith,29,Right-Back,Bristol City,0.0,out,Summer,2004,2004/2005
+Gavin Heeroo,19,midfield,Billericay,0.0,out,Summer,2004,2004/2005
+Tariq Nabil,19,Attacking Midfield,FC Windsor,0.0,out,Summer,2004,2004/2005
+Curtis Fleming,35,Right-Back,Darlington,0.0,out,Summer,2004,2004/2005
+Julian Gray,24,Centre-Forward,Birmingham,0.0,out,Summer,2004,2004/2005
+Tommy Black,24,Right Midfield,Sheff Utd,0.0,out,Summer,2004,2004/2005
+Gareth Williams,21,Attacking Midfield,Colchester Utd.,0.0,out,Summer,2004,2004/2005
+Matt Clarke,30,Goalkeeper,Retired,0.0,out,Summer,2004,2004/2005
+Nico Vaesen,34,Goalkeeper,Birmingham,0.0,out,Summer,2004,2004/2005
+Gonzalo Sorondo,25,Centre-Back,Inter,0.0,out,Summer,2004,2004/2005
+Vasilios Lakis,28,Right Midfield,Without Club,0.0,in,Winter,2004,2004/2005
+Shaun Derry,27,Defensive Midfield,Nottm Forest,0.0,in,Winter,2004,2004/2005
+Anthony Danze,20,midfield,MK Dons,0.0,in,Winter,2004,2004/2005
+Shaun Derry,27,Defensive Midfield,Leeds,100000.0,out,Winter,2004,2004/2005
+Cédric Berthelin,28,Goalkeeper,RAEC Mons,0.0,out,Winter,2004,2004/2005
+Iván Kaviedes,27,Centre-Forward,Barcelona SC,0.0,out,Winter,2004,2004/2005
+Shaun Derry,27,Defensive Midfield,Nottm Forest,0.0,out,Winter,2004,2004/2005
+Anthony Danze,20,midfield,MK Dons,0.0,out,Winter,2004,2004/2005
+Dwight Gayle,23,Centre-Forward,Peterborough,5300000.0,in,Summer,2013,2013/2014
+Adlène Guédioura,27,Central Midfield,Nottm Forest,3500000.0,in,Summer,2013,2013/2014
+Adrian Mariappa,26,Centre-Back,Reading,3500000.0,in,Summer,2013,2013/2014
+Jack Hunt,22,Right-Back,Huddersfield,2350000.0,in,Summer,2013,2013/2014
+Barry Bannan,23,Central Midfield,Aston Villa,2100000.0,in,Summer,2013,2013/2014
+José Campaña,20,Central Midfield,Sevilla FC,2000000.0,in,Summer,2013,2013/2014
+Marouane Chamakh,29,Centre-Forward,Arsenal,1200000.0,in,Summer,2013,2013/2014
+Stephen Dobbie,30,Centre-Forward,Brighton,990000.0,in,Summer,2013,2013/2014
+Jimmy Kébé,29,Right Winger,Reading,880000.0,in,Summer,2013,2013/2014
+Elliot Grandin,25,Attacking Midfield,Blackpool,0.0,in,Summer,2013,2013/2014
+Osman Sow,23,Centre-Forward,Syrianska FC,0.0,in,Summer,2013,2013/2014
+Kevin Phillips,39,Centre-Forward,Blackpool,0.0,in,Summer,2013,2013/2014
+Jerome Thomas,30,Left Winger,West Brom,0.0,in,Summer,2013,2013/2014
+Neil Alexander,35,Goalkeeper,Rangers,0.0,in,Summer,2013,2013/2014
+Florian Marange,27,Left-Back,G. Bordeaux,0.0,in,Summer,2013,2013/2014
+Nabil Guedioura,20,Centre-Forward,Racing CFF,0.0,in,Summer,2013,2013/2014
+Jason Puncheon,27,Central Midfield,Southampton,0.0,in,Summer,2013,2013/2014
+Cameron Jerome,27,Centre-Forward,Stoke City,0.0,in,Summer,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Palace U18,0.0,in,Summer,2013,2013/2014
+Jimmy Kébé,30,Right Winger,Leeds,0.0,in,Summer,2013,2013/2014
+Peter Ramage,30,Centre-Back,Barnsley FC,0.0,in,Summer,2013,2013/2014
+Lewis Price,29,Goalkeeper,Mansfield Town,0.0,in,Summer,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,AFC Wimbledon,0.0,in,Summer,2013,2013/2014
+Owen Garvan,26,Central Midfield,Millwall,0.0,in,Summer,2013,2013/2014
+Jonathan Williams,20,Attacking Midfield,Ipswich,0.0,in,Summer,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Gillingham FC,0.0,in,Summer,2013,2013/2014
+Stephen Dobbie,31,Centre-Forward,Blackpool,0.0,in,Summer,2013,2013/2014
+Jack Hunt,23,Right-Back,Barnsley FC,0.0,in,Summer,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Cheltenham,0.0,in,Summer,2013,2013/2014
+Antonio Pedroza,22,Centre-Forward,Monarcas Morelia,0.0,in,Summer,2013,2013/2014
+Alex Marrow,23,Central Midfield,Blackburn,0.0,out,Summer,2013,2013/2014
+André Moritz,26,Attacking Midfield,Bolton,0.0,out,Summer,2013,2013/2014
+Jermaine Easter,31,Centre-Forward,Millwall,0.0,out,Summer,2013,2013/2014
+Jason Banton,20,Left Midfield,MK Dons,0.0,out,Summer,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Cheltenham,0.0,out,Summer,2013,2013/2014
+Stephen Dobbie,30,Centre-Forward,Blackpool,0.0,out,Summer,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,Cambridge Utd.,0.0,out,Summer,2013,2013/2014
+Peter Ramage,29,Centre-Back,Barnsley FC,0.0,out,Summer,2013,2013/2014
+Antonio Pedroza,22,Centre-Forward,Cruz Azul Hid.,0.0,out,Summer,2013,2013/2014
+Florian Marange,27,Left-Back,Without Club,0.0,out,Summer,2013,2013/2014
+Marcel Henry-Francis,20,Centre-Forward,Without Club,0.0,out,Summer,2013,2013/2014
+Tom Ince,22,Right Winger,Blackpool,0.0,out,Summer,2013,2013/2014
+Cameron Jerome,27,Centre-Forward,Stoke City,0.0,out,Summer,2013,2013/2014
+Wayne Hennessey,27,Goalkeeper,Wolves,3650000.0,in,Winter,2013,2013/2014
+Joe Ledley,27,Central Midfield,Celtic,3500000.0,in,Winter,2013,2013/2014
+Jason Puncheon,27,Central Midfield,Southampton,2200000.0,in,Winter,2013,2013/2014
+Scott Dann,26,Centre-Back,Blackburn,1830000.0,in,Winter,2013,2013/2014
+Tom Ince,22,Right Winger,Blackpool,0.0,in,Winter,2013,2013/2014
+Hiram Boateng,17,Central Midfield,Palace U18,0.0,in,Winter,2013,2013/2014
+Michael Chambers,19,Centre-Back,Harrow Borough,0.0,in,Winter,2013,2013/2014
+Hiram Boateng,18,Central Midfield,Crawley Town,0.0,in,Winter,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,Notts County,0.0,in,Winter,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Luton,0.0,in,Winter,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,Cambridge Utd.,0.0,in,Winter,2013,2013/2014
+Jason Banton,21,Left Midfield,MK Dons,0.0,in,Winter,2013,2013/2014
+Kevin Phillips,40,Centre-Forward,Leicester,0.0,out,Winter,2013,2013/2014
+Elliot Grandin,26,Attacking Midfield,Blackpool,0.0,out,Winter,2013,2013/2014
+Jack Hunt,23,Right-Back,Barnsley FC,0.0,out,Winter,2013,2013/2014
+Jonathan Williams,20,Attacking Midfield,Ipswich,0.0,out,Winter,2013,2013/2014
+Owen Garvan,26,Central Midfield,Millwall,0.0,out,Winter,2013,2013/2014
+Hiram Boateng,18,Central Midfield,Crawley Town,0.0,out,Winter,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Gillingham FC,0.0,out,Winter,2013,2013/2014
+José Campaña,20,Central Midfield,1.FC Nuremberg,0.0,out,Winter,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,Notts County,0.0,out,Winter,2013,2013/2014
+Kwesi Appiah,23,Centre-Forward,AFC Wimbledon,0.0,out,Winter,2013,2013/2014
+Ryan Inniss,18,Centre-Back,Luton,0.0,out,Winter,2013,2013/2014
+Lewis Price,29,Goalkeeper,Mansfield Town,0.0,out,Winter,2013,2013/2014
+Michael Chambers,19,Centre-Back,Harrow Borough,0.0,out,Winter,2013,2013/2014
+Matt Parsons,22,Left-Back,Plymouth,0.0,out,Winter,2013,2013/2014
+Jason Banton,21,Left Midfield,Plymouth,0.0,out,Winter,2013,2013/2014
+Connor Dymond,19,Defensive Midfield,Barnet,0.0,out,Winter,2013,2013/2014
+Jimmy Kébé,29,Right Winger,Leeds,0.0,out,Winter,2013,2013/2014
+Darcy Blake,25,Right-Back,Without Club,0.0,out,Winter,2013,2013/2014
+Jason Puncheon,27,Central Midfield,Southampton,0.0,out,Winter,2013,2013/2014
+James McArthur,26,Central Midfield,Wigan,8800000.0,in,Summer,2014,2014/2015
+Zeki Fryers,21,Left-Back,Spurs,3800000.0,in,Summer,2014,2014/2015
+Martin Kelly,24,Right-Back,Liverpool,2000000.0,in,Summer,2014,2014/2015
+Fraizer Campbell,26,Centre-Forward,Cardiff,1140000.0,in,Summer,2014,2014/2015
+Sam Magri,20,Right-Back,QPR,0.0,in,Summer,2014,2014/2015
+Brede Hangeland,33,Centre-Back,Fulham,0.0,in,Summer,2014,2014/2015
+Chris Kettings,21,Goalkeeper,Blackpool,0.0,in,Summer,2014,2014/2015
+Wilfried Zaha,21,Left Winger,Man Utd,0.0,in,Summer,2014,2014/2015
+Kevin Doyle,30,Centre-Forward,Wolves,0.0,in,Summer,2014,2014/2015
+Andy Johnson,33,Centre-Forward,Without Club,0.0,in,Summer,2014,2014/2015
+Peter Ramage,31,Centre-Back,Barnsley FC,0.0,in,Summer,2014,2014/2015
+Stephen Dobbie,32,Centre-Forward,Fleetwood,0.0,in,Summer,2014,2014/2015
+Lewis Price,30,Goalkeeper,Crawley Town,0.0,in,Summer,2014,2014/2015
+Jack Hunt,24,Right-Back,Rotherham,0.0,in,Summer,2014,2014/2015
+Barry Bannan,25,Central Midfield,Bolton,0.0,in,Summer,2014,2014/2015
+Adlène Guédioura,29,Central Midfield,Watford,0.0,in,Summer,2014,2014/2015
+Connor Dymond,19,Defensive Midfield,Barnet,0.0,in,Summer,2014,2014/2015
+Michael Chambers,20,Centre-Back,Welling Utd.,0.0,in,Summer,2014,2014/2015
+Patrick McCarthy,32,Centre-Back,Bolton,0.0,in,Summer,2014,2014/2015
+Zeki Fryers,22,Left-Back,Ipswich,0.0,in,Summer,2014,2014/2015
+Kwesi Appiah,24,Centre-Forward,Reading,0.0,in,Summer,2014,2014/2015
+José Campaña,21,Central Midfield,1.FC Nuremberg,0.0,in,Summer,2014,2014/2015
+José Campaña,21,Central Midfield,Sampdoria,1800000.0,out,Summer,2014,2014/2015
+Osman Sow,24,Centre-Forward,Heart of Midl.,0.0,out,Summer,2014,2014/2015
+Danny Gabbidon,35,Centre-Back,Cardiff,0.0,out,Summer,2014,2014/2015
+Jonathan Parr,25,Left-Back,Ipswich,0.0,out,Summer,2014,2014/2015
+Dean Moxey,28,Left-Back,Bolton,0.0,out,Summer,2014,2014/2015
+Aaron Wilbraham,34,Centre-Forward,Bristol City,0.0,out,Summer,2014,2014/2015
+Neil Alexander,36,Goalkeeper,Heart of Midl.,0.0,out,Summer,2014,2014/2015
+Kagisho Dikgacoi,29,Central Midfield,Cardiff,0.0,out,Summer,2014,2014/2015
+Peter Ramage,30,Centre-Back,Barnsley FC,0.0,out,Summer,2014,2014/2015
+Jonathan Williams,20,Attacking Midfield,Ipswich,0.0,out,Summer,2014,2014/2015
+Owen Garvan,26,Central Midfield,Bolton,0.0,out,Summer,2014,2014/2015
+Patrick McCarthy,31,Centre-Back,Sheff Utd,0.0,out,Summer,2014,2014/2015
+Stephen Dobbie,31,Centre-Forward,Fleetwood,0.0,out,Summer,2014,2014/2015
+Jack Hunt,23,Right-Back,Nottm Forest,0.0,out,Summer,2014,2014/2015
+Kwesi Appiah,23,Centre-Forward,Cambridge Utd.,0.0,out,Summer,2014,2014/2015
+Ryan Inniss,19,Centre-Back,Yeovil Town,0.0,out,Summer,2014,2014/2015
+Michael Chambers,20,Centre-Back,Welling Utd.,0.0,out,Summer,2014,2014/2015
+Glenn Murray,30,Centre-Forward,Reading,0.0,out,Summer,2014,2014/2015
+Aruna Dindane,33,Second Striker,Retired,0.0,out,Summer,2014,2014/2015
+Alastair Gordon,19,Right-Back,Without Club,0.0,out,Summer,2014,2014/2015
+Yaya Sanogo,22,Centre-Forward,Arsenal,0.0,out,Summer,2014,2014/2015
+Jordon Mutch,23,Central Midfield,QPR,6340000.0,in,Winter,2014,2014/2015
+Pape Souaré,24,Left-Back,LOSC Lille,5300000.0,in,Winter,2014,2014/2015
+Wilfried Zaha,22,Left Winger,Man Utd,3800000.0,in,Winter,2014,2014/2015
+Keshi Anderson,19,Right Winger,Barton Rovers,40000.0,in,Winter,2014,2014/2015
+Chung-yong Lee,26,Right Winger,Bolton,0.0,in,Winter,2014,2014/2015
+Yaya Sanogo,21,Centre-Forward,Arsenal,0.0,in,Winter,2014,2014/2015
+Shola Ameobi,33,Centre-Forward,Without Club,0.0,in,Winter,2014,2014/2015
+Michael Chambers,20,Centre-Back,Welling Utd.,0.0,in,Winter,2014,2014/2015
+Zeki Fryers,22,Left-Back,Rotherham,0.0,in,Winter,2014,2014/2015
+Jonathan Williams,21,Attacking Midfield,Ipswich,0.0,in,Winter,2014,2014/2015
+Ryan Inniss,19,Centre-Back,Port Vale,0.0,in,Winter,2014,2014/2015
+Kwesi Appiah,24,Centre-Forward,Cambridge Utd.,0.0,in,Winter,2014,2014/2015
+Stuart O'Keefe,23,Central Midfield,Blackpool,0.0,in,Winter,2014,2014/2015
+Adlène Guédioura,29,Central Midfield,Watford,0.0,in,Winter,2014,2014/2015
+Patrick McCarthy,31,Centre-Back,Sheff Utd,0.0,in,Winter,2014,2014/2015
+Ryan Inniss,19,Centre-Back,Yeovil Town,0.0,in,Winter,2014,2014/2015
+Patrick McCarthy,31,Centre-Back,Sheff Utd,0.0,in,Winter,2014,2014/2015
+Owen Garvan,26,Central Midfield,Bolton,0.0,in,Winter,2014,2014/2015
+Glenn Murray,31,Centre-Forward,Reading,0.0,in,Winter,2014,2014/2015
+Jack Hunt,24,Right-Back,Nottm Forest,0.0,in,Winter,2014,2014/2015
+Stuart O'Keefe,23,Central Midfield,Cardiff,1070000.0,out,Winter,2014,2014/2015
+Stuart O'Keefe,23,Central Midfield,Blackpool,0.0,out,Winter,2014,2014/2015
+Zeki Fryers,22,Left-Back,Rotherham,0.0,out,Winter,2014,2014/2015
+Jack Hunt,24,Right-Back,Rotherham,0.0,out,Winter,2014,2014/2015
+Ryan Inniss,19,Centre-Back,Port Vale,0.0,out,Winter,2014,2014/2015
+Adlène Guédioura,29,Central Midfield,Watford,0.0,out,Winter,2014,2014/2015
+Lewis Price,30,Goalkeeper,Crawley Town,0.0,out,Winter,2014,2014/2015
+Patrick McCarthy,31,Centre-Back,Sheff Utd,0.0,out,Winter,2014,2014/2015
+Kwesi Appiah,24,Centre-Forward,Reading,0.0,out,Winter,2014,2014/2015
+Zeki Fryers,22,Left-Back,Ipswich,0.0,out,Winter,2014,2014/2015
+Patrick McCarthy,31,Centre-Back,Bolton,0.0,out,Winter,2014,2014/2015
+Michael Chambers,20,Centre-Back,Welling Utd.,0.0,out,Winter,2014,2014/2015
+Adlène Guédioura,29,Central Midfield,Watford,0.0,out,Winter,2014,2014/2015
+Barry Bannan,25,Central Midfield,Bolton,0.0,out,Winter,2014,2014/2015
+Jimmy Kébé,31,Right Winger,Retired,0.0,out,Winter,2014,2014/2015
+Kevin Doyle,31,Centre-Forward,Wolves,0.0,out,Winter,2014,2014/2015
+Wilfried Zaha,22,Left Winger,Man Utd,0.0,out,Winter,2014,2014/2015
+Yohan Cabaye,29,Central Midfield,Paris SG,13900000.0,in,Summer,2015,2015/2016
+Connor Wickham,22,Centre-Forward,Sunderland,10000000.0,in,Summer,2015,2015/2016
+Alex McCarthy,25,Goalkeeper,QPR,4900000.0,in,Summer,2015,2015/2016
+Bakary Sako,27,Left Winger,Wolves,0.0,in,Summer,2015,2015/2016
+Kleton Perntreou,20,Goalkeeper,Hibernian FC,0.0,in,Summer,2015,2015/2016
+Patrick Bamford,21,Centre-Forward,Chelsea,0.0,in,Summer,2015,2015/2016
+Chris Kettings,22,Goalkeeper,Stevenage,0.0,in,Summer,2015,2015/2016
+Ryan Inniss,20,Centre-Back,Port Vale,0.0,in,Summer,2015,2015/2016
+Chris Kettings,22,Goalkeeper,Bromley,0.0,in,Summer,2015,2015/2016
+Jonathan Williams,22,Attacking Midfield,MK Dons,0.0,in,Summer,2015,2015/2016
+Hiram Boateng,20,Central Midfield,Plymouth,0.0,in,Summer,2015,2015/2016
+Glenn Murray,31,Centre-Forward,Bournemouth,5400000.0,out,Summer,2015,2015/2016
+Owen Garvan,27,Central Midfield,Colchester Utd.,0.0,out,Summer,2015,2015/2016
+Barry Bannan,25,Central Midfield,Sheff Wed,0.0,out,Summer,2015,2015/2016
+Sam Magri,21,Right-Back,Dover Athletic,0.0,out,Summer,2015,2015/2016
+Michael Chambers,21,Centre-Back,Welling Utd.,0.0,out,Summer,2015,2015/2016
+Stephen Dobbie,32,Centre-Forward,Bolton,0.0,out,Summer,2015,2015/2016
+Lewis Price,30,Goalkeeper,Sheff Wed,0.0,out,Summer,2015,2015/2016
+Peter Ramage,31,Centre-Back,Kerala Blasters,0.0,out,Summer,2015,2015/2016
+Jack Hunt,24,Right-Back,Sheff Wed,0.0,out,Summer,2015,2015/2016
+Hiram Boateng,19,Central Midfield,Plymouth,0.0,out,Summer,2015,2015/2016
+Patrick McCarthy,32,Centre-Back,Preston,0.0,out,Summer,2015,2015/2016
+Chris Kettings,22,Goalkeeper,Stevenage,0.0,out,Summer,2015,2015/2016
+Keshi Anderson,20,Right Winger,Doncaster,0.0,out,Summer,2015,2015/2016
+Chris Kettings,22,Goalkeeper,Bromley,0.0,out,Summer,2015,2015/2016
+Jonathan Williams,21,Attacking Midfield,Nottm Forest,0.0,out,Summer,2015,2015/2016
+Adlène Guédioura,29,Central Midfield,Watford,0.0,out,Summer,2015,2015/2016
+Ryan Inniss,20,Centre-Back,Port Vale,0.0,out,Summer,2015,2015/2016
+Andy Johnson,34,Centre-Forward,Retired,0.0,out,Summer,2015,2015/2016
+Jerome Thomas,32,Left Winger,Without Club,0.0,out,Summer,2015,2015/2016
+Shola Ameobi,33,Centre-Forward,Without Club,0.0,out,Summer,2015,2015/2016
+Freddie Ladapo,23,Centre-Forward,Margate FC,0.0,in,Winter,2015,2015/2016
+Emmanuel Adebayor,31,Centre-Forward,Without Club,0.0,in,Winter,2015,2015/2016
+Jack Hunt,25,Right-Back,Sheff Wed,0.0,in,Winter,2015,2015/2016
+Hiram Boateng,19,Central Midfield,Plymouth,0.0,in,Winter,2015,2015/2016
+Jonathan Williams,22,Attacking Midfield,Nottm Forest,0.0,in,Winter,2015,2015/2016
+Keshi Anderson,20,Right Winger,Doncaster,0.0,in,Winter,2015,2015/2016
+Patrick McCarthy,32,Centre-Back,Preston,0.0,in,Winter,2015,2015/2016
+Connor Dymond,21,Defensive Midfield,Newport County,0.0,in,Winter,2015,2015/2016
+Connor Dymond,21,Defensive Midfield,Newport County,0.0,out,Winter,2015,2015/2016
+Jonathan Williams,22,Attacking Midfield,MK Dons,0.0,out,Winter,2015,2015/2016
+Hiram Boateng,20,Central Midfield,Plymouth,0.0,out,Winter,2015,2015/2016
+Jack Hunt,25,Right-Back,Sheff Wed,0.0,out,Winter,2015,2015/2016
+Patrick Bamford,22,Centre-Forward,Chelsea,0.0,out,Winter,2015,2015/2016
+Christian Benteke,25,Centre-Forward,Liverpool,31200000.0,in,Summer,2016,2016/2017
+Andros Townsend,24,Right Winger,Newcastle,15600000.0,in,Summer,2016,2016/2017
+James Tomkins,27,Centre-Back,West Ham,11700000.0,in,Summer,2016,2016/2017
+Loïc Rémy,29,Centre-Forward,Chelsea,1000000.0,in,Summer,2016,2016/2017
+Steve Mandanda,31,Goalkeeper,Marseille,0.0,in,Summer,2016,2016/2017
+Jonathan Benteke,21,Centre-Forward,Zulte Waregem,0.0,in,Summer,2016,2016/2017
+Sullay Kaikai,20,Left Winger,Palace U23,0.0,in,Summer,2016,2016/2017
+Mathieu Flamini,32,Defensive Midfield,Without Club,0.0,in,Summer,2016,2016/2017
+Jonathan Williams,23,Attacking Midfield,Ipswich,0.0,in,Summer,2016,2016/2017
+Ryan Inniss,21,Centre-Back,Southend United,0.0,in,Summer,2016,2016/2017
+Hiram Boateng,21,Central Midfield,Northampton,0.0,in,Summer,2016,2016/2017
+Freddie Ladapo,24,Centre-Forward,Shrewsbury,0.0,in,Summer,2016,2016/2017
+Keshi Anderson,22,Right Winger,Northampton,0.0,in,Summer,2016,2016/2017
+Jordon Mutch,25,Central Midfield,Reading,0.0,in,Summer,2016,2016/2017
+Yannick Bolasie,27,Left Winger,Everton,28900000.0,out,Summer,2016,2016/2017
+Dwight Gayle,26,Centre-Forward,Newcastle,12000000.0,out,Summer,2016,2016/2017
+Alex McCarthy,26,Goalkeeper,Southampton,4700000.0,out,Summer,2016,2016/2017
+Mile Jedinak,32,Defensive Midfield,Aston Villa,4600000.0,out,Summer,2016,2016/2017
+Chris Kettings,23,Goalkeeper,Oldham Athletic,0.0,out,Summer,2016,2016/2017
+Adrian Mariappa,29,Centre-Back,Watford,0.0,out,Summer,2016,2016/2017
+Connor Dymond,21,Defensive Midfield,Bromley,0.0,out,Summer,2016,2016/2017
+Keshi Anderson,21,Right Winger,Bolton,0.0,out,Summer,2016,2016/2017
+Hiram Boateng,20,Central Midfield,Bristol Rovers,0.0,out,Summer,2016,2016/2017
+Freddie Ladapo,23,Centre-Forward,Oldham Athletic,0.0,out,Summer,2016,2016/2017
+Ryan Inniss,21,Centre-Back,Southend United,0.0,out,Summer,2016,2016/2017
+Jonathan Williams,22,Attacking Midfield,Ipswich,0.0,out,Summer,2016,2016/2017
+Sullay Kaikai,21,Left Winger,Brentford,0.0,out,Summer,2016,2016/2017
+Emmanuel Adebayor,32,Centre-Forward,Without Club,0.0,out,Summer,2016,2016/2017
+Marouane Chamakh,32,Centre-Forward,Without Club,0.0,out,Summer,2016,2016/2017
+Brede Hangeland,35,Centre-Back,Retired,0.0,out,Summer,2016,2016/2017
+Patrick McCarthy,33,Centre-Back,Retired,0.0,out,Summer,2016,2016/2017
+Loïc Rémy,30,Centre-Forward,Chelsea,0.0,out,Summer,2016,2016/2017
+Mamadou Sakho,27,Centre-Back,Liverpool,0.0,out,Summer,2016,2016/2017
+Luka Milivojevic,25,Defensive Midfield,Olympiacos,15100000.0,in,Winter,2016,2016/2017
+Jeffrey Schlupp,24,Left Midfield,Leicester,13800000.0,in,Winter,2016,2016/2017
+Patrick van Aanholt,26,Left-Back,Sunderland,10500000.0,in,Winter,2016,2016/2017
+Mamadou Sakho,26,Centre-Back,Liverpool,2300000.0,in,Winter,2016,2016/2017
+Freddie Ladapo,23,Centre-Forward,Oldham Athletic,0.0,in,Winter,2016,2016/2017
+Sullay Kaikai,21,Left Winger,Brentford,0.0,in,Winter,2016,2016/2017
+Hiram Boateng,20,Central Midfield,Bristol Rovers,0.0,in,Winter,2016,2016/2017
+Keshi Anderson,21,Right Winger,Bolton,0.0,in,Winter,2016,2016/2017
+Hiram Boateng,20,Central Midfield,Northampton,0.0,out,Winter,2016,2016/2017
+Freddie Ladapo,23,Centre-Forward,Shrewsbury,0.0,out,Winter,2016,2016/2017
+Keshi Anderson,21,Right Winger,Northampton,0.0,out,Winter,2016,2016/2017
+Kwesi Appiah,26,Centre-Forward,Viking FK,0.0,out,Winter,2016,2016/2017
+Jordon Mutch,25,Central Midfield,Reading,0.0,out,Winter,2016,2016/2017
+Mamadou Sakho,27,Centre-Back,Liverpool,28200000.0,in,Summer,2017,2017/2018
+Jairo Riedewald,20,Defensive Midfield,Ajax,9000000.0,in,Summer,2017,2017/2018
+Dion Henry,19,Goalkeeper,Peterborough,0.0,in,Summer,2017,2017/2018
+Ruben Loftus-Cheek,21,Central Midfield,Chelsea,0.0,in,Summer,2017,2017/2018
+Timothy Fosu-Mensah,19,Right-Back,Man Utd,0.0,in,Summer,2017,2017/2018
+Ryan Inniss,22,Centre-Back,Colchester Utd.,0.0,in,Summer,2017,2017/2018
+Jonathan Williams,24,Attacking Midfield,Sunderland,0.0,in,Summer,2017,2017/2018
+Kwesi Appiah,26,Centre-Forward,Viking FK,0.0,in,Summer,2017,2017/2018
+Sullay Kaikai,22,Left Winger,Charlton,0.0,in,Summer,2017,2017/2018
+Steve Mandanda,32,Goalkeeper,Marseille,3000000.0,out,Summer,2017,2017/2018
+Hiram Boateng,21,Central Midfield,Exeter City,0.0,out,Summer,2017,2017/2018
+Zeki Fryers,24,Left-Back,Barnsley FC,0.0,out,Summer,2017,2017/2018
+Fraizer Campbell,29,Centre-Forward,Hull City,0.0,out,Summer,2017,2017/2018
+Kwesi Appiah,26,Centre-Forward,AFC Wimbledon,0.0,out,Summer,2017,2017/2018
+Keshi Anderson,22,Right Winger,Swindon Town,0.0,out,Summer,2017,2017/2018
+Ryan Inniss,22,Centre-Back,Colchester Utd.,0.0,out,Summer,2017,2017/2018
+Jonathan Williams,23,Attacking Midfield,Sunderland,0.0,out,Summer,2017,2017/2018
+Jonathan Benteke,22,Centre-Forward,Without Club,0.0,out,Summer,2017,2017/2018
+Kleton Perntreou,22,Goalkeeper,Without Club,0.0,out,Summer,2017,2017/2018
+Mathieu Flamini,33,Defensive Midfield,Without Club,0.0,out,Summer,2017,2017/2018
+Joe Ledley,30,Central Midfield,Without Club,0.0,out,Summer,2017,2017/2018
+Timothy Fosu-Mensah,20,Right-Back,Man Utd,0.0,out,Summer,2017,2017/2018
+Ruben Loftus-Cheek,22,Central Midfield,Chelsea,0.0,out,Summer,2017,2017/2018
+Alexander Sörloth,22,Centre-Forward,FC Midtjylland,9000000.0,in,Winter,2017,2017/2018
+Jaroslaw Jach,23,Centre-Back,Zaglebie Lubin,2750000.0,in,Winter,2017,2017/2018
+Erdal Rakip,21,Central Midfield,Benfica,0.0,in,Winter,2017,2017/2018
+Diego Cavalieri,35,Goalkeeper,Without Club,0.0,in,Winter,2017,2017/2018
+Aaron Wan-Bissaka,20,Right-Back,Palace U23,0.0,in,Winter,2017,2017/2018
+Keshi Anderson,22,Right Winger,Swindon Town,0.0,in,Winter,2017,2017/2018
+Keshi Anderson,22,Right Winger,Swindon Town,0.0,out,Winter,2017,2017/2018
+Freddie Ladapo,24,Centre-Forward,Southend United,0.0,out,Winter,2017,2017/2018
+Sullay Kaikai,22,Left Winger,Charlton,0.0,out,Winter,2017,2017/2018
+Jordon Mutch,26,Central Midfield,Vancouver,0.0,out,Winter,2017,2017/2018
+Cheikhou Kouyaté,28,Defensive Midfield,West Ham,10700000.0,in,Summer,2018,2018/2019
+Vicente Guaita,31,Goalkeeper,Getafe,0.0,in,Summer,2018,2018/2019
+Max Meyer,22,Central Midfield,FC Schalke 04,0.0,in,Summer,2018,2018/2019
+Jordan Ayew,26,Centre-Forward,Swansea,0.0,in,Summer,2018,2018/2019
+Dion Henry,21,Goalkeeper,Maidstone,0.0,in,Summer,2018,2018/2019
+Damien Delaney,36,Centre-Back,Cork City,0.0,out,Summer,2018,2018/2019
+Yohan Cabaye,32,Central Midfield,Al-Nasr,0.0,out,Summer,2018,2018/2019
+Jaroslaw Jach,24,Centre-Back,C. Rizespor,0.0,out,Summer,2018,2018/2019
+Ryan Inniss,23,Centre-Back,Dundee FC,0.0,out,Summer,2018,2018/2019
+Diego Cavalieri,35,Goalkeeper,Without Club,0.0,out,Summer,2018,2018/2019
+Chung-yong Lee,29,Right Winger,Without Club,0.0,out,Summer,2018,2018/2019
+Bakary Sako,30,Left Winger,Without Club,0.0,out,Summer,2018,2018/2019
+Erdal Rakip,22,Central Midfield,Benfica,0.0,out,Summer,2018,2018/2019
+Jordan Ayew,27,Centre-Forward,Swansea,0.0,out,Summer,2018,2018/2019
+Michy Batshuayi,25,Centre-Forward,Chelsea,1150000.0,in,Winter,2018,2018/2019
+Bakary Sako,30,Left Winger,West Brom,0.0,in,Winter,2018,2018/2019
+Lucas Perri,21,Goalkeeper,São Paulo,0.0,in,Winter,2018,2018/2019
+Jordon Mutch,27,Central Midfield,Vancouver,0.0,in,Winter,2018,2018/2019
+Jaroslaw Jach,24,Centre-Back,C. Rizespor,0.0,in,Winter,2018,2018/2019
+Ryan Inniss,23,Centre-Back,Dundee FC,0.0,in,Winter,2018,2018/2019
+Alexander Sörloth,23,Centre-Forward,KAA Gent,350000.0,out,Winter,2018,2018/2019
+Jonathan Williams,25,Attacking Midfield,Charlton,0.0,out,Winter,2018,2018/2019
+Jordon Mutch,27,Central Midfield,Gyeongnam FC,0.0,out,Winter,2018,2018/2019
+Sullay Kaikai,23,Left Winger,NAC Breda,0.0,out,Winter,2018,2018/2019
+Dion Henry,21,Goalkeeper,Maidstone,0.0,out,Winter,2018,2018/2019
+Jason Puncheon,32,Central Midfield,Huddersfield,0.0,out,Winter,2018,2018/2019
+Jaroslaw Jach,24,Centre-Back,FC Sheriff,0.0,out,Winter,2018,2018/2019
+James McCarthy,28,Central Midfield,Everton,3300000.0,in,Summer,2019,2019/2020
+Jordan Ayew,27,Centre-Forward,Swansea,2800000.0,in,Summer,2019,2019/2020
+Víctor Camarasa,25,Central Midfield,Real Betis,1500000.0,in,Summer,2019,2019/2020
+Gary Cahill,33,Centre-Back,Chelsea,0.0,in,Summer,2019,2019/2020
+Stephen Henderson,31,Goalkeeper,Nottm Forest,0.0,in,Summer,2019,2019/2020
+Sam Woods,20,Centre-Back,Palace U23,0.0,in,Summer,2019,2019/2020
+Jaroslaw Jach,25,Centre-Back,FC Sheriff,0.0,in,Summer,2019,2019/2020
+Ryan Inniss,24,Centre-Back,Newport County,0.0,in,Summer,2019,2019/2020
+Alexander Sörloth,23,Centre-Forward,KAA Gent,0.0,in,Summer,2019,2019/2020
+Sam Woods,21,Centre-Back,Hamilton Acad.,0.0,in,Summer,2019,2019/2020
+Dion Henry,22,Goalkeeper,Hampton & Rich.,0.0,in,Summer,2019,2019/2020
+Jason Puncheon,33,Central Midfield,Huddersfield,0.0,in,Summer,2019,2019/2020
+Aaron Wan-Bissaka,21,Right-Back,Man Utd,55000000.0,out,Summer,2019,2019/2020
+Alexander Sörloth,23,Centre-Forward,Trabzonspor,375000.0,out,Summer,2019,2019/2020
+Jason Puncheon,33,Central Midfield,Pafos FC,0.0,out,Summer,2019,2019/2020
+Pape Souaré,29,Left-Back,Troyes,0.0,out,Summer,2019,2019/2020
+Ryan Inniss,24,Centre-Back,Newport County,0.0,out,Summer,2019,2019/2020
+Jaroslaw Jach,25,Centre-Back,Rakow,0.0,out,Summer,2019,2019/2020
+Bakary Sako,31,Left Winger,Without Club,0.0,out,Summer,2019,2019/2020
+Julián Speroni,40,Goalkeeper,Retired,0.0,out,Summer,2019,2019/2020
+Michy Batshuayi,25,Centre-Forward,Chelsea,0.0,out,Summer,2019,2019/2020
+Lucas Perri,21,Goalkeeper,São Paulo,0.0,out,Summer,2019,2019/2020
+Cenk Tosun,28,Centre-Forward,Everton,0.0,in,Winter,2019,2019/2020
+Dion Henry,22,Goalkeeper,Hampton & Rich.,0.0,out,Winter,2019,2019/2020
+Sam Woods,21,Centre-Back,Hamilton Acad.,0.0,out,Winter,2019,2019/2020
+Connor Wickham,26,Centre-Forward,Sheff Wed,0.0,out,Winter,2019,2019/2020
+Víctor Camarasa,25,Central Midfield,Real Betis,0.0,out,Winter,2019,2019/2020
+Cenk Tosun,28,Centre-Forward,Everton,0.0,out,Winter,2019,2019/2020
+Eberechi Eze,22,Attacking Midfield,QPR,17800000.0,in,Summer,2020,2020/2021
+Jack Butland,27,Goalkeeper,Stoke City,1100000.0,in,Summer,2020,2020/2021
+Nathan Ferguson,19,Centre-Back,West Brom,0.0,in,Summer,2020,2020/2021
+Nathaniel Clyne,29,Right-Back,Liverpool,0.0,in,Summer,2020,2020/2021
+Michy Batshuayi,26,Centre-Forward,Chelsea,0.0,in,Summer,2020,2020/2021
+Tyrick Mitchell,20,Left-Back,Palace U23,0.0,in,Summer,2020,2020/2021
+Alexander Sörloth,24,Centre-Forward,Trabzonspor,0.0,in,Summer,2020,2020/2021
+Jaroslaw Jach,26,Centre-Back,Rakow,0.0,in,Summer,2020,2020/2021
+Connor Wickham,27,Centre-Forward,Sheff Wed,0.0,in,Summer,2020,2020/2021
+Sam Woods,22,Centre-Back,Plymouth,0.0,in,Summer,2020,2020/2021
+Alexander Sörloth,24,Centre-Forward,RB Leipzig,20000000.0,out,Summer,2020,2020/2021
+Dion Henry,23,Goalkeeper,Billericay,0.0,out,Summer,2020,2020/2021
+Ryan Inniss,25,Centre-Back,Charlton,0.0,out,Summer,2020,2020/2021
+Jaroslaw Jach,26,Centre-Back,Fortuna Sittard,0.0,out,Summer,2020,2020/2021
+Michy Batshuayi,27,Centre-Forward,Chelsea,0.0,out,Summer,2020,2020/2021
+Jean-Philippe Mateta,23,Centre-Forward,1.FSV Mainz 05,3500000.0,in,Winter,2020,2020/2021
+Jaroslaw Jach,26,Centre-Back,Fortuna Sittard,0.0,in,Winter,2020,2020/2021
+Max Meyer,25,Central Midfield,1. FC Köln,0.0,out,Winter,2020,2020/2021
+Jaroslaw Jach,26,Centre-Back,Rakow,0.0,out,Winter,2020,2020/2021
+Sam Woods,22,Centre-Back,Plymouth,0.0,out,Winter,2020,2020/2021
+Marc Guéhi,21,Centre-Back,Chelsea U23,23340000.0,in,Summer,2021,2021/2022
+Joachim Andersen,25,Centre-Back,Olympique Lyon,17500000.0,in,Summer,2021,2021/2022
+Odsonne Edouard,23,Centre-Forward,Celtic,16300000.0,in,Summer,2021,2021/2022
+Michael Olise,19,Right Midfield,Reading,9300000.0,in,Summer,2021,2021/2022
+Will Hughes,26,Central Midfield,Watford,7000000.0,in,Summer,2021,2021/2022
+Jacob Montes,22,Attacking Midfield,Georgetown,0.0,in,Summer,2021,2021/2022
+Remi Matthews,27,Goalkeeper,Sunderland,0.0,in,Summer,2021,2021/2022
+Conor Gallagher,21,Central Midfield,Chelsea U23,0.0,in,Summer,2021,2021/2022
+Jaroslaw Jach,27,Centre-Back,Rakow,0.0,in,Summer,2021,2021/2022
+Luke Plange,19,Centre-Forward,Derby,0.0,in,Summer,2021,2021/2022
+James McCarthy,30,Central Midfield,Celtic,0.0,out,Summer,2021,2021/2022
+Wayne Hennessey,34,Goalkeeper,Burnley,0.0,out,Summer,2021,2021/2022
+Mamadou Sakho,31,Centre-Back,Montpellier,0.0,out,Summer,2021,2021/2022
+Patrick van Aanholt,30,Left-Back,Galatasaray,0.0,out,Summer,2021,2021/2022
+Andros Townsend,30,Right Winger,Everton,0.0,out,Summer,2021,2021/2022
+Scott Dann,34,Centre-Back,Reading,0.0,out,Summer,2021,2021/2022
+Gary Cahill,35,Centre-Back,Bournemouth,0.0,out,Summer,2021,2021/2022
+Jacob Montes,22,Attacking Midfield,Waasl.-Beveren,0.0,out,Summer,2021,2021/2022
+Connor Wickham,28,Centre-Forward,Without Club,0.0,out,Summer,2021,2021/2022
+Sam Woods,22,Centre-Back,Without Club,0.0,out,Summer,2021,2021/2022
+Stephen Henderson,33,Goalkeeper,Without Club,0.0,out,Summer,2021,2021/2022
+Conor Gallagher,22,Central Midfield,Chelsea U23,0.0,out,Summer,2021,2021/2022
+Jean-Philippe Mateta,24,Centre-Forward,1.FSV Mainz 05,11000000.0,in,Winter,2021,2021/2022
+Luke Plange,19,Centre-Forward,Derby,1180000.0,in,Winter,2021,2021/2022
+Jacob Montes,23,Attacking Midfield,Waasl.-Beveren,0.0,in,Winter,2021,2021/2022
+Jacob Montes,23,Attacking Midfield,RWDM,0.0,out,Winter,2021,2021/2022
+Luke Plange,19,Centre-Forward,Derby,0.0,out,Winter,2021,2021/2022
+Jean-Philippe Mateta,24,Centre-Forward,1.FSV Mainz 05,0.0,out,Winter,2021,2021/2022
+Cheick Doucouré,22,Defensive Midfield,Lens,22600000.0,in,Summer,2022,2022/2023
+Chris Richards,22,Centre-Back,Bayern Munich,12000000.0,in,Summer,2022,2022/2023
+Sam Johnstone,29,Goalkeeper,West Brom,0.0,in,Summer,2022,2022/2023
+Malcolm Ebiowei,18,Right Winger,Derby,0.0,in,Summer,2022,2022/2023
+Jacob Montes,23,Attacking Midfield,RWDM,0.0,in,Summer,2022,2022/2023
+Remi Matthews,29,Goalkeeper,St. Johnstone,0.0,in,Summer,2022,2022/2023
+Christian Benteke,31,Centre-Forward,D.C. United,5460000.0,out,Summer,2022,2022/2023
+Jaroslaw Jach,28,Centre-Back,Zaglebie Lubin,0.0,out,Summer,2022,2022/2023
+Martin Kelly,32,Right-Back,West Brom,0.0,out,Summer,2022,2022/2023
+Jacob Montes,23,Attacking Midfield,Botafogo,0.0,out,Summer,2022,2022/2023
+Cheikhou Kouyaté,32,Defensive Midfield,Nottm Forest,0.0,out,Summer,2022,2022/2023
+Luke Plange,19,Centre-Forward,RWDM,0.0,out,Summer,2022,2022/2023
+Remi Matthews,28,Goalkeeper,St. Johnstone,0.0,out,Summer,2022,2022/2023
+Naouirou Ahamada,20,Central Midfield,VfB Stuttgart,12000000.0,in,Winter,2022,2022/2023
+Albert Sambi Lokonga,23,Central Midfield,Arsenal,0.0,in,Winter,2022,2022/2023
+Luke Plange,20,Centre-Forward,RWDM,0.0,in,Winter,2022,2022/2023
+Jack Butland,29,Goalkeeper,Man Utd,0.0,out,Winter,2022,2022/2023
+Malcolm Ebiowei,19,Right Winger,Hull City,0.0,out,Winter,2022,2022/2023
+Luke Plange,20,Centre-Forward,Lincoln City,0.0,out,Winter,2022,2022/2023

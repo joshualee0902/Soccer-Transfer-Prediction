@@ -1,0 +1,61 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Jamie Cureton,30,Centre-Forward,Swindon Town,0.0,in,Summer,2006,2006/2007
+Johnnie Jackson,23,Central Midfield,Spurs,0.0,in,Summer,2006,2006/2007
+Kevin McLeod,25,Left Midfield,Swansea,0.0,in,Summer,2006,2006/2007
+Lawrie Wilson,18,Right-Back,Charlton U21,0.0,in,Summer,2006,2006/2007
+Chris Barker,26,Left-Back,Cardiff,0.0,in,Summer,2006,2006/2007
+Ritchie Jones,19,Central Midfield,Man Utd,0.0,in,Summer,2006,2006/2007
+Neil Danns,23,Central Midfield,Birmingham,1130000.0,out,Summer,2006,2006/2007
+Gareth Williams,23,Attacking Midfield,Weymouth FC,0.0,out,Summer,2006,2006/2007
+Tony Thorpe,32,Centre-Forward,Stevenage,0.0,out,Summer,2006,2006/2007
+Liam Chilvers,24,Centre-Back,Preston,0.0,out,Summer,2006,2006/2007
+Stephen Hunt,21,Left-Back,Notts County,0.0,out,Summer,2006,2006/2007
+Sam Stockley,28,Right-Back,Wycombe,0.0,out,Summer,2006,2006/2007
+Chris Barker,27,Left-Back,Cardiff,0.0,out,Summer,2006,2006/2007
+Hogan Ephraim,19,Left Midfield,West Ham Res.,0.0,out,Summer,2006,2006/2007
+Hogan Ephraim,18,Left Midfield,West Ham Res.,0.0,in,Winter,2006,2006/2007
+Matt Mills,20,Centre-Back,Man City,0.0,in,Winter,2006,2006/2007
+Garry Richards,20,Centre-Back,Brentford,0.0,in,Winter,2006,2006/2007
+Mark Cousins,19,Goalkeeper,Yeading FC,0.0,in,Winter,2006,2006/2007
+Greg Halford,22,Centre-Back,Reading,4500000.0,out,Winter,2006,2006/2007
+Robbie King,20,Defensive Midfield,Heybridge Swift,0.0,out,Winter,2006,2006/2007
+Garry Richards,20,Centre-Back,Brentford,0.0,out,Winter,2006,2006/2007
+Mark Cousins,19,Goalkeeper,Yeading FC,0.0,out,Winter,2006,2006/2007
+Marino Keith,32,Centre-Forward,Retired,0.0,out,Winter,2006,2006/2007
+Ritchie Jones,20,Central Midfield,Man Utd,0.0,out,Winter,2006,2006/2007
+Matt Mills,20,Centre-Back,Man City,0.0,out,Winter,2006,2006/2007
+Clive Platt,29,Centre-Forward,MK Dons,450000.0,in,Summer,2007,2007/2008
+Mark Yeates,22,Left Winger,Spurs,275000.0,in,Summer,2007,2007/2008
+Danny Granville,32,Left-Back,Crystal Palace,0.0,in,Summer,2007,2007/2008
+Kevin Lisbie,28,Centre-Forward,Charlton,0.0,in,Summer,2007,2007/2008
+Teddy Sheringham,41,Centre-Forward,West Ham,0.0,in,Summer,2007,2007/2008
+Luke Guttridge,25,Attacking Midfield,Leyton Orient,0.0,in,Summer,2007,2007/2008
+Béla Balogh,22,Centre-Back,MTK Budapest,0.0,in,Summer,2007,2007/2008
+Matthew Connolly,19,Centre-Back,Arsenal Res.,0.0,in,Summer,2007,2007/2008
+Adam Virgo,24,Centre-Back,Celtic,0.0,in,Summer,2007,2007/2008
+Fabian Batchelor,17,attack,Colchester U18,0.0,in,Summer,2007,2007/2008
+Anthony Wordsworth,18,Central Midfield,Colchester U18,0.0,in,Summer,2007,2007/2008
+Fabian Batchelor,17,attack,Welling Utd.,0.0,in,Summer,2007,2007/2008
+Wayne Brown,29,Centre-Back,Hull City,600000.0,out,Summer,2007,2007/2008
+Jamie Cureton,31,Centre-Forward,Norwich,300000.0,out,Summer,2007,2007/2008
+Garry Richards,21,Centre-Back,Southend United,75000.0,out,Summer,2007,2007/2008
+Chris Iwelumo,28,Centre-Forward,Charlton,0.0,out,Summer,2007,2007/2008
+Richard García,25,Second Striker,Hull City,0.0,out,Summer,2007,2007/2008
+Lawrie Wilson,19,Right-Back,Stevenage,0.0,out,Summer,2007,2007/2008
+Fabian Batchelor,17,attack,Welling Utd.,0.0,out,Summer,2007,2007/2008
+Teddy Sheringham,42,Centre-Forward,Retired,0.0,out,Summer,2007,2007/2008
+Adam Virgo,25,Centre-Back,Celtic,0.0,out,Summer,2007,2007/2008
+Izale McLeod,23,Centre-Forward,Charlton,0.0,out,Summer,2007,2007/2008
+Matt Heath,26,Centre-Back,Leeds,0.0,out,Summer,2007,2007/2008
+Chris Coyne,29,Centre-Back,Luton,525000.0,in,Winter,2007,2007/2008
+Philip Ifil,21,Right-Back,Spurs,475000.0,in,Winter,2007,2007/2008
+Dean Hammond,24,Central Midfield,Brighton,375000.0,in,Winter,2007,2007/2008
+Scott Vernon,24,Centre-Forward,Blackpool,0.0,in,Winter,2007,2007/2008
+Ademola Bankole,38,Goalkeeper,MK Dons,0.0,in,Winter,2007,2007/2008
+Izale McLeod,23,Centre-Forward,Charlton,0.0,in,Winter,2007,2007/2008
+Matt Heath,26,Centre-Back,Leeds,0.0,in,Winter,2007,2007/2008
+Medy Elito,17,Central Midfield,Colchester U18,0.0,in,Winter,2007,2007/2008
+John White,21,Centre-Back,Stevenage,0.0,in,Winter,2007,2007/2008
+George Elokobi,22,Centre-Back,Wolves,275000.0,out,Winter,2007,2007/2008
+John White,21,Centre-Back,Stevenage,0.0,out,Winter,2007,2007/2008
+Matthew Connolly,20,Centre-Back,Arsenal Res.,0.0,out,Winter,2007,2007/2008
