@@ -1,0 +1,70 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Guus Uhlenbeek,21,Right-Back,Ajax,0.0,in,Summer,1992,1992/1993
+Winnie Haatrecht,28,attack,Chaux-de-Fonds,0.0,in,Summer,1992,1992/1993
+Mark Oosterhof,20,Right-Back,Wolvega,0.0,in,Summer,1992,1992/1993
+Jan Gösgens,25,defence,FC Den Bosch,0.0,in,Summer,1992,1992/1993
+Martin Cruijff,20,Sweeper,Ajax U21,0.0,in,Summer,1992,1992/1993
+Ulrich Landvreugd,20,midfield,Ajax U21,0.0,in,Summer,1992,1992/1993
+Henk Koetje,33,Central Midfield,Harlingen,0.0,in,Summer,1992,1992/1993
+Milko Gjurovski,29,attack,FC Groningen,0.0,in,Summer,1992,1992/1993
+Gerard de Haan,24,defence,FVC,0.0,out,Summer,1992,1992/1993
+Nico-Jan Hoogma,23,Centre-Back,Twente FC,0.0,out,Summer,1992,1992/1993
+Ronald Steenge,28,defence,Achilles 1894,0.0,out,Summer,1992,1992/1993
+Frans Alma,22,Centre-Forward,Heerenveen,0.0,out,Summer,1992,1992/1993
+Jaap de Jong,24,defence,Unitas,0.0,out,Summer,1992,1992/1993
+Roland Kuitert,24,attack,Retired,0.0,out,Summer,1992,1992/1993
+Bert Konterman,21,Centre-Back,FC Zwolle,136000.0,in,Winter,1992,1992/1993
+Michel van Oostrum,26,Centre-Forward,Emmen,0.0,in,Winter,1992,1992/1993
+Michael Mols,22,Centre-Forward,Twente FC,545000.0,out,Winter,1992,1992/1993
+Lodewijk Roembiak,23,Defensive Midfield,FC Zwolle,0.0,out,Winter,1992,1992/1993
+Ulrich Crüden,26,Right Midfield,NEC Nijmegen,0.0,out,Winter,1992,1992/1993
+Martin Cruijff,20,Sweeper,Haarlem,0.0,out,Winter,1992,1992/1993
+Jaap Stam,20,Centre-Back,FC Zwolle,0.0,in,Summer,1993,1993/1994
+Mitar Mrkela,28,Left Winger,Besiktas,0.0,in,Summer,1993,1993/1994
+Hennie Meijer,31,Centre-Forward,Verdy Kawasaki,0.0,in,Summer,1993,1993/1994
+Jan van Raalte,24,midfield,FC Zwolle,0.0,in,Summer,1993,1993/1994
+Bart van der Meulen,23,midfield,Be Quick,0.0,in,Summer,1993,1993/1994
+Ron Postma,22,defence,Unknown,0.0,in,Summer,1993,1993/1994
+Jeppe Tengbjerg,19,attack,Naestved IF,0.0,in,Summer,1993,1993/1994
+Harry Wiebenga,24,attack,Sneek,0.0,in,Summer,1993,1993/1994
+Jan Gösgens,26,defence,FC Den Bosch,0.0,out,Summer,1993,1993/1994
+Ulrich Landvreugd,21,midfield,Unknown,0.0,out,Summer,1993,1993/1994
+Ben Spork,25,defence,Unknown,0.0,out,Summer,1993,1993/1994
+Thomas Hauser,28,attack,Retired,0.0,out,Summer,1993,1993/1994
+Milko Gjurovski,30,attack,FC Groningen,0.0,out,Summer,1993,1993/1994
+Michel van Oostrum,27,Centre-Forward,De Graafschap,0.0,out,Winter,1993,1993/1994
+Jeppe Tengbjerg,20,attack,Excelsior,0.0,out,Winter,1993,1993/1994
+Gregg Berhalter,24,Centre-Back,Sparta R.,0.0,in,Summer,1998,1998/1999
+Maickel Ferrier,22,Centre-Back,Salernitana,0.0,in,Summer,1998,1998/1999
+Danny Muller,28,Attacking Midfield,Royal Antwerp,0.0,in,Summer,1998,1998/1999
+Dominik Vergoossen,26,Centre-Back,Helmond Sport,0.0,in,Summer,1998,1998/1999
+Fuat Usta,25,Central Midfield,Fortuna Sittard,0.0,in,Summer,1998,1998/1999
+René Jansen,26,Goalkeeper,Unknown,0.0,in,Summer,1998,1998/1999
+Yevgen Levchenko,20,Central Midfield,Vitesse,0.0,in,Summer,1998,1998/1999
+Kenan Durmusoglu,25,Defensive Midfield,AZ Alkmaar,0.0,in,Summer,1998,1998/1999
+Twan Scheepers,26,Centre-Forward,NAC Breda,0.0,in,Summer,1998,1998/1999
+Harvey Esajas,24,Centre-Back,Dordrecht'90,0.0,out,Summer,1998,1998/1999
+Marcel Keizer,29,midfield,De Graafschap,0.0,out,Summer,1998,1998/1999
+Walter Smak,30,defence,Unknown,0.0,out,Summer,1998,1998/1999
+Mark Oosterhof,26,Right-Back,NEC Nijmegen,0.0,out,Summer,1998,1998/1999
+Harry van der Laan,34,Centre-Forward,FC Den Bosch,0.0,out,Summer,1998,1998/1999
+Gregory Playfair,24,midfield,Retired,0.0,out,Summer,1998,1998/1999
+Richard Beekink,27,midfield,RKC Waalwijk,0.0,in,Winter,1998,1998/1999
+Mischa Rook,26,Left Midfield,Dordrecht'90,0.0,in,Summer,1999,1999/2000
+Robin Nelisse,21,Centre-Forward,Feyenoord,0.0,in,Summer,1999,1999/2000
+Rob Alflen,31,Defensive Midfield,Heracles Almelo,0.0,in,Summer,1999,1999/2000
+Kenneth Goudmijn,28,Right Winger,Haarlem,0.0,in,Summer,1999,1999/2000
+Raymond de Waard,26,Left Winger,Excelsior,0.0,in,Summer,1999,1999/2000
+Rob Hilbers,28,Goalkeeper,FC Volendam,0.0,in,Summer,1999,1999/2000
+Dennis Scharrenburg,20,Central Midfield,FC Utrecht,0.0,in,Summer,1999,1999/2000
+Reinder Hendriks,26,Centre-Back,Willem II,0.0,in,Summer,1999,1999/2000
+Marinus Dijkhuizen,27,Centre-Forward,FC Utrecht,0.0,out,Summer,1999,1999/2000
+René van Rijswijk,28,Right Winger,NEC Nijmegen,0.0,out,Summer,1999,1999/2000
+Fuat Usta,27,Central Midfield,Sparta R.,0.0,out,Summer,1999,1999/2000
+Roy Hendriksen,30,Centre-Back,SC Veendam,0.0,out,Summer,1999,1999/2000
+Richard Elzinga,30,Right-Back,Sparta R.,0.0,out,Summer,1999,1999/2000
+René Jansen,27,Goalkeeper,Eindhoven,0.0,out,Summer,1999,1999/2000
+Richard Beekink,27,midfield,RKC Waalwijk,0.0,out,Summer,1999,1999/2000
+Kenan Durmusoglu,26,Defensive Midfield,AZ Alkmaar,0.0,out,Summer,1999,1999/2000
+Erik Tammer,30,Centre-Forward,Sparta R.,0.0,in,Winter,1999,1999/2000
+Twan Scheepers,28,Centre-Forward,Lommel SK,0.0,out,Winter,1999,1999/2000

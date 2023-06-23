@@ -1,0 +1,780 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Nico-Jan Hoogma,23,Centre-Back,Cambuur L.,0.0,in,Summer,1992,1992/1993
+Arno Arts,23,Central Midfield,FC Luzern,0.0,in,Summer,1992,1992/1993
+Erik ten Hag,22,Centre-Back,De Graafschap,0.0,in,Summer,1992,1992/1993
+Prince Polley,23,Centre-Forward,Germinal Ekeren,0.0,in,Summer,1992,1992/1993
+Rik Platvoet,16,Centre-Forward,FC Twente U19,0.0,in,Summer,1992,1992/1993
+Edwin Hilgerink,20,defence,FC Twente U19,0.0,in,Summer,1992,1992/1993
+Arthur Numan,22,Left-Back,PSV Eindhoven,1270000.0,out,Summer,1992,1992/1993
+Mitar Mrkela,26,Left Winger,Besiktas,364000.0,out,Summer,1992,1992/1993
+Orlando Trustfull,21,Defensive Midfield,Feyenoord,0.0,out,Summer,1992,1992/1993
+Husref Musemic,30,Centre-Forward,VVV-Venlo,0.0,out,Summer,1992,1992/1993
+Richard de Boer,21,defence,Unknown,0.0,out,Summer,1992,1992/1993
+Robin Schmidt,27,attack,Dordrecht'90,0.0,out,Summer,1992,1992/1993
+Jan van Rabenswaay,20,attack,Unknown,0.0,out,Summer,1992,1992/1993
+Eric van Rossum,29,Centre-Back,Unknown,0.0,out,Summer,1992,1992/1993
+Mark Wijnreder,18,attack,Unknown,0.0,out,Summer,1992,1992/1993
+Fred Rutten,29,Sweeper,Retired,0.0,out,Summer,1992,1992/1993
+Michael Mols,22,Centre-Forward,Cambuur L.,545000.0,in,Winter,1992,1992/1993
+Edwin Vurens,24,Centre-Forward,Sparta R.,450000.0,in,Winter,1992,1992/1993
+Ronald de Boer,22,Right Winger,Ajax,1360000.0,out,Winter,1992,1992/1993
+Marcel Peeper,27,Left Midfield,Sparta R.,0.0,out,Winter,1992,1992/1993
+Joost Volmer,19,Centre-Back,HSC '21,0.0,in,Summer,1993,1993/1994
+Michel Boerebach,30,midfield,Real Burgos CF,0.0,in,Summer,1993,1993/1994
+Arnold Bruggink,15,Attacking Midfield,FC Twente U19,0.0,in,Summer,1993,1993/1994
+Gerald Sibon,19,Centre-Forward,FC Twente U21,0.0,in,Summer,1993,1993/1994
+Youri Mulder,24,Centre-Forward,FC Schalke 04,700000.0,out,Summer,1993,1993/1994
+John Neijenhuis,28,attack,Achilles '29,0.0,out,Summer,1993,1993/1994
+Hans de Koning,33,Goalkeeper,Retired,0.0,out,Summer,1993,1993/1994
+André Paus,28,defence,Júbilo Iwata,499000.0,out,Winter,1993,1993/1994
+Juul Ellerman,28,Centre-Forward,PSV Eindhoven,450000.0,in,Summer,1994,1994/1995
+Paul Bosvelt,24,Defensive Midfield,Go Ahead Eagles,200000.0,in,Summer,1994,1994/1995
+Berthil ter Avest,23,Left Midfield,FC Groningen,0.0,in,Summer,1994,1994/1995
+Jeroen Heubach,19,Left-Back,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Sander Westerveld,19,Goalkeeper,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Niels Oude Kamphuis,16,Defensive Midfield,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Arno Knapen,18,Right-Back,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Pascal de Vries,17,midfield,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Björn Schurink,17,attack,FC Twente U19,0.0,in,Summer,1994,1994/1995
+Jan Gaasbeek,31,midfield,NAC Breda,0.0,out,Summer,1994,1994/1995
+Erwin Leurink,21,defence,Heracles,0.0,out,Summer,1994,1994/1995
+Prince Polley,25,Centre-Forward,Heerenveen,0.0,out,Summer,1994,1994/1995
+Edwin Hilgerink,22,defence,Heracles,0.0,out,Summer,1994,1994/1995
+Boudewijn Pahlplatz,22,attack,PSV Eindhoven,0.0,out,Summer,1994,1994/1995
+Erik ten Hag,24,Centre-Back,RKC Waalwijk,0.0,out,Summer,1994,1994/1995
+Gerald Sibon,20,Centre-Forward,VVV-Venlo,0.0,out,Summer,1994,1994/1995
+Arno Arts,25,Central Midfield,Cambuur L.,0.0,out,Summer,1994,1994/1995
+Andreas Augustsson,18,Centre-Back,Helsingborg U19,0.0,in,Summer,1995,1995/1996
+Ansar Ayupov,23,Central Midfield,Loko Moscow,0.0,in,Summer,1995,1995/1996
+Yuri Petrov,20,Centre-Forward,RKC Waalwijk,0.0,in,Summer,1995,1995/1996
+Theo ten Caat,30,Attacking Midfield,Vitesse,0.0,in,Summer,1995,1995/1996
+Haci Sen,19,attack,Unknown,0.0,in,Summer,1995,1995/1996
+Cees Paauwe,17,Goalkeeper,FC Twente U19,0.0,in,Summer,1995,1995/1996
+Clemens Zwijnenberg,25,Right-Back,Feyenoord,0.0,out,Summer,1995,1995/1996
+Ruud Kool,28,midfield,Fortuna Sittard,0.0,out,Summer,1995,1995/1996
+Edwin Vurens,27,Centre-Forward,Roda JC,0.0,out,Summer,1995,1995/1996
+Keith Gumbs,23,Centre-Forward,Newtown,0.0,in,Winter,1995,1995/1996
+Joost Volmer,21,Centre-Back,Helmond Sport,0.0,out,Winter,1995,1995/1996
+John Bosman,31,Centre-Forward,RSC Anderlecht,700000.0,in,Summer,1996,1996/1997
+Sergiy Kovalets,27,Attacking Midfield,Dnipro,0.0,in,Summer,1996,1996/1997
+Erik ten Hag,26,Centre-Back,FC Utrecht,0.0,in,Summer,1996,1996/1997
+Rab McKinnon,29,Left-Back,Motherwell FC,0.0,in,Summer,1996,1996/1997
+Aldo Swager,30,Goalkeeper,Heerenveen,0.0,in,Summer,1996,1996/1997
+Jan Vennegoor of Hesselink,17,Centre-Forward,FC Twente U19,0.0,in,Summer,1996,1996/1997
+Sander Westerveld,21,Goalkeeper,Vitesse,900000.0,out,Summer,1996,1996/1997
+Michael Mols,25,Centre-Forward,FC Utrecht,0.0,out,Summer,1996,1996/1997
+Keith Gumbs,23,Centre-Forward,Newtown,0.0,out,Summer,1996,1996/1997
+Björn Schurink,19,attack,Unknown,0.0,out,Summer,1996,1996/1997
+Michel Boerebach,33,midfield,Go Ahead Eagles,0.0,out,Summer,1996,1996/1997
+Haci Sen,20,attack,Unknown,0.0,out,Summer,1996,1996/1997
+Rik Platvoet,20,Centre-Forward,MVV Maastricht,0.0,out,Summer,1996,1996/1997
+Juul Ellerman,31,Centre-Forward,NEC Nijmegen,0.0,out,Winter,1996,1996/1997
+Daniel Nijhof,23,Centre-Back,NEC Nijmegen,0.0,out,Winter,1996,1996/1997
+Sergiy Kovalets,28,Attacking Midfield,Dnipro,0.0,out,Winter,1996,1996/1997
+Dennis Hulshoff,27,Right-Back,Go Ahead Eagles,0.0,in,Summer,1997,1997/1998
+Andrey Kurdyumov,25,Defensive Midfield,Zenit S-Pb,0.0,in,Summer,1997,1997/1998
+Rico Steinmann,29,Right Midfield,1. FC Köln,0.0,in,Summer,1997,1997/1998
+Martijn Abbenhuës,23,attack,SC Enschede,0.0,in,Summer,1997,1997/1998
+Achmed Kandhai,19,attack,Telstar,0.0,in,Summer,1997,1997/1998
+Rik Platvoet,21,Centre-Forward,MVV Maastricht,0.0,in,Summer,1997,1997/1998
+Paul Bosvelt,27,Defensive Midfield,Feyenoord,500000.0,out,Summer,1997,1997/1998
+Arnold Bruggink,19,Attacking Midfield,PSV Eindhoven,0.0,out,Summer,1997,1997/1998
+Wilfried Elzinga,27,defence,Emmen,0.0,out,Summer,1997,1997/1998
+Tobias Sumelka,21,midfield,Preußen Münster,0.0,out,Summer,1997,1997/1998
+Jeroen Heubach,22,Left-Back,MVV Maastricht,0.0,out,Summer,1997,1997/1998
+Rik Platvoet,21,Centre-Forward,Emmen,0.0,out,Summer,1997,1997/1998
+Antti Sumiala,23,Centre-Forward,NEC Nijmegen,0.0,in,Winter,1997,1997/1998
+Chris De Witte,19,Centre-Forward,RSC Anderlecht,0.0,in,Winter,1997,1997/1998
+Yuri Petrov,23,Centre-Forward,RKC Waalwijk,0.0,out,Winter,1997,1997/1998
+Andrey Kurdyumov,25,Defensive Midfield,Chernomorets N.,0.0,out,Winter,1997,1997/1998
+Kurt Van De Paar,20,Attacking Midfield,RSC Anderlecht,360000.0,in,Summer,1998,1998/1999
+Jörg Sobiech,29,Left-Back,NEC Nijmegen,0.0,in,Summer,1998,1998/1999
+Kenneth Veldhuis,18,Goalkeeper,Unknown,0.0,in,Summer,1998,1998/1999
+Rahim Ouédraogo,17,defence,FC Twente U19,0.0,in,Summer,1998,1998/1999
+Rik Platvoet,22,Centre-Forward,Emmen,0.0,in,Summer,1998,1998/1999
+Yuri Petrov,23,Centre-Forward,RKC Waalwijk,0.0,in,Summer,1998,1998/1999
+Andrey Kurdyumov,26,Defensive Midfield,Chernomorets N.,0.0,in,Summer,1998,1998/1999
+Nico-Jan Hoogma,29,Centre-Back,Hamburger SV,1000000.0,out,Summer,1998,1998/1999
+Yuri Petrov,24,Centre-Forward,RKC Waalwijk,0.0,out,Summer,1998,1998/1999
+Rab McKinnon,31,Left-Back,Heart of Midl.,0.0,out,Summer,1998,1998/1999
+Martijn Abbenhuës,24,attack,FC Zwolle,0.0,out,Summer,1998,1998/1999
+Arno Knapen,22,Right-Back,Heracles Almelo,0.0,out,Summer,1998,1998/1999
+Achmed Kandhai,20,attack,Heracles Almelo,0.0,out,Summer,1998,1998/1999
+Spira Grujic,27,Sweeper,RSC Anderlecht,360000.0,in,Winter,1998,1998/1999
+Andreas Augustsson,22,Centre-Back,Vålerenga,0.0,out,Winter,1998,1998/1999
+Andrey Kurdyumov,26,Defensive Midfield,Chernomorets N.,0.0,out,Winter,1998,1998/1999
+Ansar Ayupov,26,Central Midfield,Dinamo Moscow,0.0,out,Winter,1998,1998/1999
+Clemens Zwijnenberg,28,Right-Back,NAC Breda,0.0,out,Winter,1998,1998/1999
+Scott Booth,27,Centre-Forward,Vitesse,550000.0,in,Summer,1999,1999/2000
+Arjan van der Laan,29,Attacking Midfield,Sparta R.,450000.0,in,Summer,1999,1999/2000
+Jan Verlinden,22,Right-Back,KV Mechelen,0.0,in,Summer,1999,1999/2000
+Edwin Hilgerink,27,defence,Heracles Almelo,0.0,in,Summer,1999,1999/2000
+Frédéric Peiremans,25,Defensive Midfield,RSC Anderlecht,0.0,in,Summer,1999,1999/2000
+Andy van der Meyde,19,Right Winger,Ajax,0.0,in,Summer,1999,1999/2000
+Simon Cziommer,18,Central Midfield,FC Twente U19,0.0,in,Summer,1999,1999/2000
+Thijs Houwing,18,attack,FC Twente U19,0.0,in,Summer,1999,1999/2000
+Nick Hoekstra,17,Central Midfield,FC Twente U19,0.0,in,Summer,1999,1999/2000
+Clemens Zwijnenberg,29,Right-Back,NAC Breda,0.0,in,Summer,1999,1999/2000
+Jeroen Heubach,24,Left-Back,MVV Maastricht,0.0,in,Summer,1999,1999/2000
+Niels Oude Kamphuis,21,Defensive Midfield,FC Schalke 04,3400000.0,out,Summer,1999,1999/2000
+John Bosman,34,Centre-Forward,AZ Alkmaar,400000.0,out,Summer,1999,1999/2000
+Rik Platvoet,23,Centre-Forward,Heracles Almelo,0.0,out,Summer,1999,1999/2000
+Antti Sumiala,25,Centre-Forward,FC Jokerit,0.0,out,Summer,1999,1999/2000
+Clemens Zwijnenberg,29,Right-Back,A. Lustenau,0.0,out,Summer,1999,1999/2000
+Theo ten Caat,34,Attacking Midfield,SC Veendam,0.0,out,Summer,1999,1999/2000
+Jan van Halst,30,Defensive Midfield,Ajax,0.0,out,Summer,1999,1999/2000
+Kare Becker,21,Centre-Forward,DFC Delfia,0.0,out,Summer,1999,1999/2000
+Tom van der Leegte,23,Defensive Midfield,RKC Waalwijk,1800000.0,in,Summer,2000,2000/2001
+Ellery Cairo,21,Right Winger,Feyenoord,450000.0,in,Summer,2000,2000/2001
+Fouzi El Brazi,23,Centre-Back,Servette FC,0.0,in,Summer,2000,2000/2001
+Mitchell Piqué,20,Left-Back,Ajax,0.0,in,Summer,2000,2000/2001
+Boudewijn Pahlplatz,28,attack,Heerenveen,0.0,in,Summer,2000,2000/2001
+Jan Willem van Ede,37,Goalkeeper,NAC Breda,0.0,in,Summer,2000,2000/2001
+Peter Mentink,22,defence,Unknown,0.0,in,Summer,2000,2000/2001
+Jeffrey de Visscher,19,Right Winger,FC Twente U19,0.0,in,Summer,2000,2000/2001
+Frédéric Peiremans,26,Defensive Midfield,Real Sociedad,3600000.0,out,Summer,2000,2000/2001
+Berthil ter Avest,29,Left Midfield,Bor. M'gladbach,0.0,out,Summer,2000,2000/2001
+Jörg Sobiech,31,Left-Back,Waldh. Mannheim,0.0,out,Summer,2000,2000/2001
+Cees Paauwe,22,Goalkeeper,Cambuur L.,0.0,out,Summer,2000,2000/2001
+Pascal de Vries,23,midfield,Emmen,0.0,out,Summer,2000,2000/2001
+Aldo Swager,34,Goalkeeper,SC Veendam,0.0,out,Summer,2000,2000/2001
+Rico Steinmann,32,Right Midfield,Retired,0.0,out,Summer,2000,2000/2001
+Andy van der Meyde,20,Right Winger,Ajax,0.0,out,Summer,2000,2000/2001
+Sjaak Polak,24,Left-Back,Excelsior,225000.0,in,Winter,2000,2000/2001
+Patrick Pothuizen,28,Centre-Back,Vitesse,0.0,in,Winter,2000,2000/2001
+Nick Hoekstra,19,Central Midfield,VVV-Venlo,0.0,out,Winter,2000,2000/2001
+Jan Verlinden,23,Right-Back,Lierse SK,0.0,out,Winter,2000,2000/2001
+Jack de Gier,33,Centre-Forward,Dunfermline A.,500000.0,in,Summer,2001,2001/2002
+Björn van der Doelen,24,Central Midfield,PSV Eindhoven,400000.0,in,Summer,2001,2001/2002
+Roland Kollmann,24,Centre-Forward,FC Kärnten,0.0,in,Summer,2001,2001/2002
+Marc Veurink,25,Goalkeeper,Heracles Almelo,0.0,in,Summer,2001,2001/2002
+Ibad Muhamadu,19,Centre-Forward,AZ Alkmaar U19,0.0,in,Summer,2001,2001/2002
+Chris van der Weerden,28,Right-Back,PSV Eindhoven,0.0,in,Summer,2001,2001/2002
+Patrick Pothuizen,29,Centre-Back,Vitesse,0.0,in,Summer,2001,2001/2002
+Ruud ter Heide,18,Centre-Forward,FC Twente U19,0.0,in,Summer,2001,2001/2002
+Jan Verlinden,24,Right-Back,Lierse SK,0.0,in,Summer,2001,2001/2002
+Jan Vennegoor of Hesselink,22,Centre-Forward,PSV Eindhoven,8400000.0,out,Summer,2001,2001/2002
+André Karnebeek,30,Centre-Back,Dunfermline A.,0.0,out,Summer,2001,2001/2002
+Edwin Hilgerink,29,defence,HSC '21,0.0,out,Summer,2001,2001/2002
+Rahim Ouédraogo,20,defence,FC Zwolle,0.0,out,Summer,2001,2001/2002
+Jan Verlinden,24,Right-Back,Eendracht Aalst,0.0,out,Summer,2001,2001/2002
+Mitchell Piqué,21,Left-Back,Ajax,0.0,out,Summer,2001,2001/2002
+Patrick Pothuizen,29,Centre-Back,Vitesse,0.0,out,Summer,2001,2001/2002
+Mikko Rahkamaa,20,Goalkeeper,FC Jokerit,400000.0,in,Winter,2001,2001/2002
+Roland Kollmann,25,Centre-Forward,Grazer AK,0.0,out,Winter,2001,2001/2002
+Jurgen Cavens,24,Centre-Forward,Standard Liège,0.0,in,Summer,2002,2002/2003
+Nelson da Costa,19,Attacking Midfield,FC Twente U21,0.0,in,Summer,2002,2002/2003
+Collins John,16,Centre-Forward,FC Twente U19,0.0,in,Summer,2002,2002/2003
+Ramon Zomer,19,Centre-Back,FC Twente U19,0.0,in,Summer,2002,2002/2003
+Peter Niemeyer,18,Defensive Midfield,FC Twente U19,0.0,in,Summer,2002,2002/2003
+Cees Paauwe,24,Goalkeeper,Cambuur L.,0.0,in,Summer,2002,2002/2003
+Rahim Ouédraogo,21,defence,FC Zwolle,0.0,in,Summer,2002,2002/2003
+Jan Verlinden,25,Right-Back,Eendracht Aalst,0.0,in,Summer,2002,2002/2003
+Scott Booth,31,Centre-Forward,Aberdeen FC,0.0,out,Summer,2002,2002/2003
+Arjan van der Laan,32,Attacking Midfield,ADO Den Haag,0.0,out,Summer,2002,2002/2003
+Dennis Hulshoff,32,Right-Back,Go Ahead Eagles,0.0,out,Summer,2002,2002/2003
+Peter Mentink,24,defence,Cambuur L.,0.0,out,Summer,2002,2002/2003
+Sjors Brugge,21,midfield,Excelsior '31,0.0,out,Summer,2002,2002/2003
+Boudewijn Pahlplatz,30,attack,Quick '20,0.0,out,Summer,2002,2002/2003
+Jan Willem van Ede,39,Goalkeeper,Retired,0.0,out,Summer,2002,2002/2003
+Erik ten Hag,32,Centre-Back,Retired,0.0,out,Summer,2002,2002/2003
+Tom van der Leegte,25,Defensive Midfield,RKC Waalwijk,0.0,out,Summer,2002,2002/2003
+Daniel Côrtes,23,Left Midfield,Videoton FC,0.0,in,Winter,2002,2002/2003
+Mo Allach,29,Right-Back,FC Dordrecht,500000.0,in,Summer,2003,2003/2004
+Arco Jochemsen,32,Right Midfield,FC Utrecht,0.0,in,Summer,2003,2003/2004
+Giorgi Gakhokidze,27,Left Winger,PSV Eindhoven,0.0,in,Summer,2003,2003/2004
+Kim Christensen,23,Centre-Forward,Hamburger SV,0.0,in,Summer,2003,2003/2004
+Jelle ten Rouwelaar,22,Goalkeeper,PSV Eindhoven,0.0,in,Summer,2003,2003/2004
+Bas Sibum,20,Central Midfield,Emmen,0.0,in,Summer,2003,2003/2004
+Adil Ramzi,25,Left Midfield,PSV Eindhoven,0.0,in,Summer,2003,2003/2004
+Blaise Nkufo,28,Centre-Forward,Hannover 96,0.0,in,Summer,2003,2003/2004
+Karim El Ahmadi,18,Defensive Midfield,FC Twente U19,0.0,in,Summer,2003,2003/2004
+Thijs Houwing,22,attack,De Graafschap,175000.0,out,Summer,2003,2003/2004
+Marc Veurink,27,Goalkeeper,E. Nordhorn,0.0,out,Summer,2003,2003/2004
+Vincent Voshaar,21,Left-Back,E. Nordhorn,0.0,out,Summer,2003,2003/2004
+Ruud ter Heide,20,Centre-Forward,E. Nordhorn,0.0,out,Summer,2003,2003/2004
+Simon Cziommer,22,Central Midfield,FC Schalke 04,0.0,out,Summer,2003,2003/2004
+Jan Verlinden,26,Right-Back,KV Mechelen,0.0,out,Summer,2003,2003/2004
+Ellery Cairo,24,Right Winger,SC Freiburg,0.0,out,Summer,2003,2003/2004
+Fouzi El Brazi,26,Centre-Back,FAR Rabat,0.0,out,Summer,2003,2003/2004
+Kurt Van De Paar,25,Attacking Midfield,Trabzonspor,0.0,out,Summer,2003,2003/2004
+Sander Boschker,32,Goalkeeper,Ajax,0.0,out,Summer,2003,2003/2004
+Chris De Witte,25,Centre-Forward,FC Groningen,0.0,out,Summer,2003,2003/2004
+Jack de Gier,34,Centre-Forward,SVZW Wierden,0.0,out,Summer,2003,2003/2004
+Ibad Muhamadu,21,Centre-Forward,Cambuur L.,0.0,out,Summer,2003,2003/2004
+Jurgen Cavens,24,Centre-Forward,Standard Liège,0.0,out,Summer,2003,2003/2004
+Simon Cziommer,23,Central Midfield,FC Schalke 04,150000.0,in,Winter,2003,2003/2004
+Remko Pasveer,20,Goalkeeper,FC Twente U21,0.0,in,Winter,2003,2003/2004
+Collins John,18,Centre-Forward,Fulham,3500000.0,out,Winter,2003,2003/2004
+Björn van der Doelen,27,Central Midfield,NEC Nijmegen,175000.0,out,Winter,2003,2003/2004
+Daniel Côrtes,23,Left Midfield,Botafogo,0.0,out,Winter,2003,2003/2004
+Blaise Nkufo,29,Centre-Forward,Hannover 96,600000.0,in,Summer,2004,2004/2005
+Jason Culina,23,Central Midfield,Ajax,0.0,in,Summer,2004,2004/2005
+Raymond Fafiani,20,Central Midfield,Vitesse,0.0,in,Summer,2004,2004/2005
+Sander Boschker,33,Goalkeeper,Ajax,0.0,in,Summer,2004,2004/2005
+Dmitri Shukov,28,Left Midfield,Willem II,0.0,in,Summer,2004,2004/2005
+Guilherme Afonso,18,Centre-Forward,ASOA Valence,0.0,in,Summer,2004,2004/2005
+Karim Touzani,23,Defensive Midfield,FC Utrecht,0.0,in,Summer,2004,2004/2005
+Niels Wellenberg,21,Right-Back,Go Ahead Eagles,0.0,in,Summer,2004,2004/2005
+Elbekay Bouchiba,25,Attacking Midfield,Sparta R.,0.0,in,Summer,2004,2004/2005
+Resit Schuurman,25,Defensive Midfield,NEC Nijmegen,0.0,in,Summer,2004,2004/2005
+Ruud Bruns,18,attack,FC Twente U19,0.0,in,Summer,2004,2004/2005
+Ibad Muhamadu,22,Centre-Forward,Cambuur L.,0.0,in,Summer,2004,2004/2005
+Björn van der Doelen,27,Central Midfield,NEC Nijmegen,0.0,in,Summer,2004,2004/2005
+Thijs Houwing,23,attack,De Graafschap,0.0,in,Summer,2004,2004/2005
+Mo Allach,30,Right-Back,VVV-Venlo,300000.0,out,Summer,2004,2004/2005
+Ibad Muhamadu,22,Centre-Forward,MVV Maastricht,0.0,out,Summer,2004,2004/2005
+Mikko Rahkamaa,22,Goalkeeper,Go Ahead Eagles,0.0,out,Summer,2004,2004/2005
+Spira Grujic,32,Sweeper,ADO Den Haag,0.0,out,Summer,2004,2004/2005
+Björn van der Doelen,27,Central Midfield,NEC Nijmegen,0.0,out,Summer,2004,2004/2005
+Arco Jochemsen,33,Right Midfield,FC Zwolle,0.0,out,Summer,2004,2004/2005
+Thijs Houwing,23,attack,Cambuur L.,0.0,out,Summer,2004,2004/2005
+Sjaak Polak,28,Left-Back,ADO Den Haag,0.0,out,Summer,2004,2004/2005
+Jeffrey de Visscher,23,Right Winger,Heracles Almelo,0.0,out,Summer,2004,2004/2005
+Nelson da Costa,22,Attacking Midfield,Go Ahead Eagles,0.0,out,Summer,2004,2004/2005
+Patrick Pothuizen,32,Centre-Back,NEC Nijmegen,0.0,out,Summer,2004,2004/2005
+Chris van der Weerden,31,Right-Back,Germ. Beerschot,0.0,out,Summer,2004,2004/2005
+Giorgi Gakhokidze,28,Left Winger,Metalurg D.,0.0,out,Summer,2004,2004/2005
+Jelle ten Rouwelaar,23,Goalkeeper,PSV Eindhoven,0.0,out,Summer,2004,2004/2005
+Blaise Nkufo,29,Centre-Forward,Hannover 96,0.0,out,Summer,2004,2004/2005
+Adil Ramzi,26,Left Midfield,PSV Eindhoven,0.0,out,Summer,2004,2004/2005
+Daniel Majstorović,27,Centre-Back,Malmö FF,800000.0,in,Winter,2004,2004/2005
+Sharbel Touma,25,Attacking Midfield,Halmstads BK,0.0,in,Winter,2004,2004/2005
+Coen Slagter,19,attack,FC Twente U21,0.0,in,Winter,2004,2004/2005
+Giorgi Gakhokidze,29,Left Winger,Metalurg D.,0.0,in,Winter,2004,2004/2005
+Cees Paauwe,27,Goalkeeper,ADO Den Haag,0.0,out,Winter,2004,2004/2005
+Danny Wintjens,21,Goalkeeper,MVV Maastricht,0.0,in,Summer,2005,2005/2006
+Kennedy,24,Right Midfield,Iraklis,0.0,in,Summer,2005,2005/2006
+Konstantinos Louboutis,26,Left-Back,Perugia,0.0,in,Summer,2005,2005/2006
+Wout Brama,18,Defensive Midfield,FC Twente U19,0.0,in,Summer,2005,2005/2006
+Patrick Gerritsen,18,Centre-Forward,FC Twente U19,0.0,in,Summer,2005,2005/2006
+Marcel Kleizen,19,attack,FC Twente U19,0.0,in,Summer,2005,2005/2006
+Jeffrey de Visscher,24,Right Winger,Heracles Almelo,0.0,in,Summer,2005,2005/2006
+Nelson da Costa,22,Attacking Midfield,Go Ahead Eagles,0.0,in,Summer,2005,2005/2006
+Nelson da Costa,22,Attacking Midfield,Eintr. Rheine,0.0,out,Summer,2005,2005/2006
+Kim Christensen,25,Centre-Forward,Bröndby IF,0.0,out,Summer,2005,2005/2006
+Jeffrey de Visscher,24,Right Winger,De Graafschap,0.0,out,Summer,2005,2005/2006
+Raymond Fafiani,21,Central Midfield,FC Zwolle,0.0,out,Summer,2005,2005/2006
+Coen Slagter,20,attack,Unknown,0.0,out,Summer,2005,2005/2006
+Ruud Bruns,19,attack,Go Ahead Eagles,0.0,out,Summer,2005,2005/2006
+Simon Cziommer,24,Central Midfield,FC Schalke 04,0.0,out,Summer,2005,2005/2006
+Anatoli Gerk,21,Attacking Midfield,RSC Anderlecht,650000.0,in,Winter,2005,2005/2006
+Arnar Vidarsson,27,Defensive Midfield,KSC Lokeren,150000.0,in,Winter,2005,2005/2006
+Pablo Cáceres,20,Left-Back,Danubio FC,0.0,in,Winter,2005,2005/2006
+Julius Vehoff,21,Defensive Midfield,FC Twente U21,0.0,in,Winter,2005,2005/2006
+Daniel Majstorović,28,Centre-Back,FC Basel,1500000.0,out,Winter,2005,2005/2006
+Jason Culina,25,Central Midfield,PSV Eindhoven,1200000.0,out,Winter,2005,2005/2006
+Orlando Engelaar,27,Defensive Midfield,KRC Genk,550000.0,in,Summer,2006,2006/2007
+Rob Wielaert,27,Centre-Back,NEC Nijmegen,0.0,in,Summer,2006,2006/2007
+Cees Paauwe,28,Goalkeeper,ADO Den Haag,0.0,in,Summer,2006,2006/2007
+Luke Wilkshire,24,Right-Back,Bristol City,0.0,in,Summer,2006,2006/2007
+Niels Oude Kamphuis,28,Defensive Midfield,Bor. M'gladbach,0.0,in,Summer,2006,2006/2007
+Otman Bakkal,21,Attacking Midfield,PSV Eindhoven,0.0,in,Summer,2006,2006/2007
+Sergio Zijler,18,Right Winger,Ajax U19,0.0,in,Summer,2006,2006/2007
+Raymond Fafiani,22,Central Midfield,FC Zwolle,0.0,in,Summer,2006,2006/2007
+Elbekay Bouchiba,27,Attacking Midfield,Roda JC,0.0,out,Summer,2006,2006/2007
+Julius Vehoff,21,Defensive Midfield,E. Nordhorn,0.0,out,Summer,2006,2006/2007
+Danny Wintjens,22,Goalkeeper,Heerenveen,0.0,out,Summer,2006,2006/2007
+Remko Pasveer,22,Goalkeeper,Heracles Almelo,0.0,out,Summer,2006,2006/2007
+Karim Touzani,25,Defensive Midfield,Aberdeen FC,0.0,out,Summer,2006,2006/2007
+Pablo Cáceres,21,Left-Back,MSV Duisburg,0.0,out,Summer,2006,2006/2007
+Konstantinos Louboutis,27,Left-Back,ADO Den Haag,0.0,out,Summer,2006,2006/2007
+Raymond Fafiani,22,Central Midfield,Stormv. Telstar,0.0,out,Summer,2006,2006/2007
+Edson Braafheid,23,Left-Back,FC Utrecht,0.0,in,Winter,2006,2006/2007
+Ismail Aissati,18,Attacking Midfield,PSV Eindhoven,0.0,in,Winter,2006,2006/2007
+Marko Arnautovic,17,Centre-Forward,FC Twente U19,0.0,in,Winter,2006,2006/2007
+Peter Niemeyer,23,Defensive Midfield,Werder Bremen,450000.0,out,Winter,2006,2006/2007
+Rahim Ouédraogo,26,defence,Skoda Xanthi,0.0,out,Winter,2006,2006/2007
+Bas Sibum,24,Central Midfield,Roda JC,0.0,out,Winter,2006,2006/2007
+Guilherme Afonso,21,Centre-Forward,SC Veendam,0.0,out,Winter,2006,2006/2007
+Dmitri Shukov,31,Left Midfield,Retired,0.0,out,Winter,2006,2006/2007
+Giorgi Gakhokidze,31,Left Winger,Retired,0.0,out,Winter,2006,2006/2007
+Eljero Elia,20,Left Winger,ADO Den Haag,200000.0,in,Summer,2007,2007/2008
+Romano Denneboom,26,Right Winger,NEC Nijmegen,0.0,in,Summer,2007,2007/2008
+Douglas,19,Centre-Back,Joinville-SC,0.0,in,Summer,2007,2007/2008
+Alfred Schreuder,34,Defensive Midfield,Feyenoord,0.0,in,Summer,2007,2007/2008
+Stein Huysegems,25,Centre-Forward,Feyenoord,0.0,in,Summer,2007,2007/2008
+Nikolay Mihaylov,19,Goalkeeper,Liverpool,0.0,in,Summer,2007,2007/2008
+Jules Reimerink,17,Left Winger,FC Twente U19,0.0,in,Summer,2007,2007/2008
+Wout Droste,18,Right-Back,FC Twente U19,0.0,in,Summer,2007,2007/2008
+Raymond Fafiani,23,Central Midfield,Stormv. Telstar,0.0,in,Summer,2007,2007/2008
+Konstantinos Louboutis,28,Left-Back,ADO Den Haag,0.0,in,Summer,2007,2007/2008
+Kennedy,26,Right Midfield,Ajax,1300000.0,out,Summer,2007,2007/2008
+Resit Schuurman,28,Defensive Midfield,De Graafschap,0.0,out,Summer,2007,2007/2008
+Konstantinos Louboutis,28,Left-Back,Anorthosis,0.0,out,Summer,2007,2007/2008
+Anatoli Gerk,22,Attacking Midfield,Saturn II,0.0,out,Summer,2007,2007/2008
+Sharbel Touma,28,Attacking Midfield,Bor. M'gladbach,0.0,out,Summer,2007,2007/2008
+Raymond Fafiani,23,Central Midfield,Stormv. Telstar,0.0,out,Summer,2007,2007/2008
+Arnar Vidarsson,29,Defensive Midfield,De Graafschap,0.0,out,Summer,2007,2007/2008
+Marcel Kleizen,21,attack,FC Zwolle,0.0,out,Summer,2007,2007/2008
+Niels Oude Kamphuis,29,Defensive Midfield,Retired,0.0,out,Summer,2007,2007/2008
+Ismail Aissati,18,Attacking Midfield,PSV Eindhoven,0.0,out,Summer,2007,2007/2008
+Otman Bakkal,22,Attacking Midfield,PSV Eindhoven,0.0,out,Summer,2007,2007/2008
+Youssouf Hersi,25,Right Winger,Vitesse,0.0,in,Winter,2007,2007/2008
+Ibrahim Maaroufi,18,Defensive Midfield,Inter,0.0,in,Winter,2007,2007/2008
+Bjarni Vidarsson,19,Central Midfield,Everton Res.,0.0,in,Winter,2007,2007/2008
+Sergio Zijler,20,Right Winger,Willem II,0.0,out,Winter,2007,2007/2008
+Ronnie Stam,24,Right-Back,NAC Breda,2500000.0,in,Summer,2008,2008/2009
+Cheik Tioté,22,Defensive Midfield,RSC Anderlecht,2500000.0,in,Summer,2008,2008/2009
+Theo Janssen,26,Central Midfield,Vitesse,1500000.0,in,Summer,2008,2008/2009
+Bjarni Vidarsson,20,Central Midfield,Everton Res.,0.0,in,Summer,2008,2008/2009
+Kenneth Pérez,33,Centre-Forward,Ajax,0.0,in,Summer,2008,2008/2009
+Slobodan Rajkovic,19,Centre-Back,Chelsea,0.0,in,Summer,2008,2008/2009
+Andrej Rendla,17,Right Winger,FC Twente U19,0.0,in,Summer,2008,2008/2009
+Marcel Kleizen,22,attack,FC Zwolle,0.0,in,Summer,2008,2008/2009
+Arnar Vidarsson,30,Defensive Midfield,De Graafschap,0.0,in,Summer,2008,2008/2009
+Orlando Engelaar,28,Defensive Midfield,FC Schalke 04,5500000.0,out,Summer,2008,2008/2009
+Karim El Ahmadi,23,Defensive Midfield,Feyenoord,5000000.0,out,Summer,2008,2008/2009
+Luke Wilkshire,26,Right-Back,Dinamo Moscow,2200000.0,out,Summer,2008,2008/2009
+Alfred Schreuder,35,Defensive Midfield,Vitesse,0.0,out,Summer,2008,2008/2009
+Marcel Kleizen,22,attack,FC Zwolle,0.0,out,Summer,2008,2008/2009
+Arnar Vidarsson,30,Defensive Midfield,Cercle Brugge,0.0,out,Summer,2008,2008/2009
+Ramon Zomer,25,Centre-Back,NEC Nijmegen,0.0,out,Summer,2008,2008/2009
+Bjarni Vidarsson,20,Central Midfield,Everton Res.,0.0,out,Summer,2008,2008/2009
+Peter Wisgerhof,29,Centre-Back,NEC Nijmegen,1000000.0,in,Winter,2008,2008/2009
+Nikita Rukavytsya,21,Centre-Forward,Perth Glory,600000.0,in,Winter,2008,2008/2009
+Rob Wielaert,30,Centre-Back,Ajax,3000000.0,out,Winter,2008,2008/2009
+Stein Huysegems,26,Centre-Forward,KRC Genk,1000000.0,out,Winter,2008,2008/2009
+Jules Reimerink,19,Left Winger,Go Ahead Eagles,0.0,out,Winter,2008,2008/2009
+Ibrahim Maaroufi,19,Defensive Midfield,Inter,0.0,out,Winter,2008,2008/2009
+Bryan Ruiz,23,Attacking Midfield,KAA Gent,5500000.0,in,Summer,2009,2009/2010
+Bernard Parker,23,Attacking Midfield,T. Royal Zulu,1000000.0,in,Summer,2009,2009/2010
+Luuk de Jong,18,Centre-Forward,De Graafschap,900000.0,in,Summer,2009,2009/2010
+Miroslav Stoch,19,Left Winger,Chelsea,800000.0,in,Summer,2009,2009/2010
+Nicky Kuiper,20,Left-Back,Vitesse,750000.0,in,Summer,2009,2009/2010
+Nashat Akram,24,Attacking Midfield,Al-Gharafa SC,0.0,in,Summer,2009,2009/2010
+Dwight Tiendalli,23,Right-Back,Feyenoord,0.0,in,Summer,2009,2009/2010
+David Carney,25,Left Midfield,Sheff Utd,0.0,in,Summer,2009,2009/2010
+Perparim Hetemaj,22,Central Midfield,AEK Athens,0.0,in,Summer,2009,2009/2010
+Ransford Osei,18,Centre-Forward,Maccabi Haifa,0.0,in,Summer,2009,2009/2010
+Wellington,21,Centre-Forward,TSG Hoffenheim,0.0,in,Summer,2009,2009/2010
+Dario Vujicevic,19,Defensive Midfield,FC Twente U19,0.0,in,Summer,2009,2009/2010
+Ramon Zomer,26,Centre-Back,NEC Nijmegen,0.0,in,Summer,2009,2009/2010
+Eljero Elia,22,Left Winger,Hamburger SV,9000000.0,out,Summer,2009,2009/2010
+Edson Braafheid,26,Left-Back,Bayern Munich,2000000.0,out,Summer,2009,2009/2010
+Niels Wellenberg,26,Right-Back,NEC Nijmegen,0.0,out,Summer,2009,2009/2010
+Marko Arnautovic,20,Centre-Forward,Inter,0.0,out,Summer,2009,2009/2010
+Youssouf Hersi,26,Right Winger,AEK Athens,0.0,out,Summer,2009,2009/2010
+Bjarni Vidarsson,21,Central Midfield,KSV Roeselare,0.0,out,Summer,2009,2009/2010
+Romano Denneboom,28,Right Winger,Sparta R.,0.0,out,Summer,2009,2009/2010
+Ramon Zomer,26,Centre-Back,NEC Nijmegen,0.0,out,Summer,2009,2009/2010
+Patrick Gerritsen,22,Centre-Forward,Go Ahead Eagles,0.0,out,Summer,2009,2009/2010
+Nashat Akram,25,Attacking Midfield,Without Club,0.0,out,Summer,2009,2009/2010
+Vaqif Cavadov,20,Centre-Forward,Qarabag FK,250000.0,in,Winter,2009,2009/2010
+Perparim Hetemaj,23,Central Midfield,Brescia,0.0,out,Winter,2009,2009/2010
+Nikita Rukavytsya,22,Centre-Forward,KSV Roeselare,0.0,out,Winter,2009,2009/2010
+Jeroen Heubach,35,Left-Back,NEC Nijmegen,0.0,out,Winter,2009,2009/2010
+Marc Janko,27,Centre-Forward,RB Salzburg,7000000.0,in,Summer,2010,2010/2011
+Emir Bajrami,22,Right Winger,Elfsborg,3500000.0,in,Summer,2010,2010/2011
+Roberto Rosales,21,Right-Back,KAA Gent,2000000.0,in,Summer,2010,2010/2011
+Bart Buysse,23,Left-Back,Zulte Waregem,500000.0,in,Summer,2010,2010/2011
+Nacer Chadli,20,Left Winger,AGOVV,400000.0,in,Summer,2010,2010/2011
+Rasmus Bengtsson,24,Centre-Back,Hertha BSC,0.0,in,Summer,2010,2010/2011
+Denny Landzaat,34,Central Midfield,Feyenoord,0.0,in,Summer,2010,2010/2011
+Wilko de Vogt,34,Goalkeeper,FC Oss,0.0,in,Summer,2010,2010/2011
+Nikolay Mihaylov,22,Goalkeeper,Liverpool,0.0,in,Summer,2010,2010/2011
+Anouar Diba,27,Right Winger,Al-Nasr,0.0,in,Summer,2010,2010/2011
+Romano Denneboom,29,Right Winger,Sparta R.,0.0,in,Summer,2010,2010/2011
+Arnold Bruggink,33,Attacking Midfield,Without Club,0.0,in,Summer,2010,2010/2011
+Ola John,18,Left Winger,FC Twente U19,0.0,in,Summer,2010,2010/2011
+Alexander Bannink,20,Attacking Midfield,FC Twente U21,0.0,in,Summer,2010,2010/2011
+Nikita Rukavytsya,23,Centre-Forward,KSV Roeselare,0.0,in,Summer,2010,2010/2011
+Jeroen Heubach,35,Left-Back,NEC Nijmegen,0.0,in,Summer,2010,2010/2011
+Marko Arnautovic,21,Centre-Forward,Inter,0.0,in,Summer,2010,2010/2011
+Jules Reimerink,20,Left Winger,Go Ahead Eagles,0.0,in,Summer,2010,2010/2011
+Marko Arnautovic,21,Centre-Forward,Werder Bremen,6200000.0,out,Summer,2010,2010/2011
+Cheik Tioté,24,Defensive Midfield,Newcastle,4280000.0,out,Summer,2010,2010/2011
+Ronnie Stam,26,Right-Back,Wigan,4000000.0,out,Summer,2010,2010/2011
+Cees Paauwe,32,Goalkeeper,Excelsior,0.0,out,Summer,2010,2010/2011
+Kenneth Pérez,35,Centre-Forward,AFC Amsterdam,0.0,out,Summer,2010,2010/2011
+Nikita Rukavytsya,23,Centre-Forward,Hertha BSC,0.0,out,Summer,2010,2010/2011
+Blaise Nkufo,35,Centre-Forward,Seattle,0.0,out,Summer,2010,2010/2011
+David Carney,26,Left Midfield,Blackpool,0.0,out,Summer,2010,2010/2011
+Andrej Rendla,19,Right Winger,Heracles Almelo,0.0,out,Summer,2010,2010/2011
+Alexander Bannink,20,Attacking Midfield,Heracles Almelo,0.0,out,Summer,2010,2010/2011
+Jules Reimerink,20,Left Winger,Energie Cottbus,0.0,out,Summer,2010,2010/2011
+Vaqif Cavadov,21,Centre-Forward,FC Baku,0.0,out,Summer,2010,2010/2011
+Romano Denneboom,29,Right Winger,Without Club,0.0,out,Summer,2010,2010/2011
+Jeroen Heubach,35,Left-Back,Retired,0.0,out,Summer,2010,2010/2011
+Wellington,22,Centre-Forward,TSG Hoffenheim,0.0,out,Summer,2010,2010/2011
+Miroslav Stoch,20,Left Winger,Chelsea,0.0,out,Summer,2010,2010/2011
+Ransford Osei,19,Centre-Forward,Maccabi Haifa,0.0,out,Summer,2010,2010/2011
+Slobodan Rajkovic,21,Centre-Back,Chelsea,0.0,out,Summer,2010,2010/2011
+Nikolay Mihaylov,22,Goalkeeper,Liverpool,0.0,out,Summer,2010,2010/2011
+Oguchi Onyewu,28,Centre-Back,AC Milan,0.0,in,Winter,2010,2010/2011
+Thilo Leugers,19,Defensive Midfield,FC Twente U21,0.0,in,Winter,2010,2010/2011
+Alexander Bannink,20,Attacking Midfield,Heracles Almelo,0.0,in,Winter,2010,2010/2011
+Bernard Parker,25,Attacking Midfield,Panserraikos,0.0,in,Winter,2010,2010/2011
+Anouar Diba,27,Right Winger,Al-Wakrah SC,0.0,out,Winter,2010,2010/2011
+Bernard Parker,24,Attacking Midfield,Panserraikos,0.0,out,Winter,2010,2010/2011
+Dario Vujicevic,20,Defensive Midfield,VVV-Venlo,0.0,out,Winter,2010,2010/2011
+Leroy Fer,21,Defensive Midfield,Feyenoord,5500000.0,in,Summer,2011,2011/2012
+Willem Janssen,24,Centre-Back,Roda JC,0.0,in,Summer,2011,2011/2012
+Tim Cornelisse,33,Right-Back,FC Utrecht,0.0,in,Summer,2011,2011/2012
+Nick Marsman,20,Goalkeeper,FC Twente U21,0.0,in,Summer,2011,2011/2012
+Steven Berghuis,19,Attacking Midfield,FC Twente U21,0.0,in,Summer,2011,2011/2012
+Dario Vujicevic,21,Defensive Midfield,VVV-Venlo,0.0,in,Summer,2011,2011/2012
+Patrick Gerritsen,24,Centre-Forward,Go Ahead Eagles,0.0,in,Summer,2011,2011/2012
+Andrej Rendla,20,Right Winger,Heracles Almelo,0.0,in,Summer,2011,2011/2012
+Vaqif Cavadov,22,Centre-Forward,FC Baku,0.0,in,Summer,2011,2011/2012
+Bryan Ruiz,26,Attacking Midfield,Fulham,12000000.0,out,Summer,2011,2011/2012
+Theo Janssen,29,Central Midfield,Ajax,3000000.0,out,Summer,2011,2011/2012
+Patrick Gerritsen,24,Centre-Forward,Go Ahead Eagles,0.0,out,Summer,2011,2011/2012
+Wilko de Vogt,35,Goalkeeper,VVV-Venlo,0.0,out,Summer,2011,2011/2012
+Vaqif Cavadov,22,Centre-Forward,Volga NN,0.0,out,Summer,2011,2011/2012
+Bernard Parker,25,Attacking Midfield,Kaizer Chiefs,0.0,out,Summer,2011,2011/2012
+Alexander Bannink,21,Attacking Midfield,FC Zwolle,0.0,out,Summer,2011,2011/2012
+Arnold Bruggink,33,Attacking Midfield,Retired,0.0,out,Summer,2011,2011/2012
+Oguchi Onyewu,29,Centre-Back,AC Milan,0.0,out,Summer,2011,2011/2012
+Wesley Verhoek,25,Right Winger,ADO Den Haag,1500000.0,in,Winter,2011,2011/2012
+Glynor Plet,24,Centre-Forward,Heracles Almelo,1500000.0,in,Winter,2011,2011/2012
+Daniel Fernandes,28,Goalkeeper,CFR Cluj,0.0,in,Winter,2011,2011/2012
+Joshua John,23,Left Winger,Sparta R.,0.0,in,Winter,2011,2011/2012
+Marc Janko,28,Centre-Forward,FC Porto,3000000.0,out,Winter,2011,2011/2012
+Steven Berghuis,20,Attacking Midfield,VVV-Venlo,0.0,out,Winter,2011,2011/2012
+Dario Vujicevic,21,Defensive Midfield,Without Club,0.0,out,Winter,2011,2011/2012
+Luc Castaignos,19,Centre-Forward,Inter,6000000.0,in,Summer,2012,2012/2013
+Dusan Tadić,23,Left Winger,FC Groningen,5500000.0,in,Summer,2012,2012/2013
+Andreas Bjelland,23,Centre-Back,Nordsjaelland,2800000.0,in,Summer,2012,2012/2013
+Felipe Gutiérrez,21,Central Midfield,U. Católica,2800000.0,in,Summer,2012,2012/2013
+Robbert Schilder,26,Centre-Back,NAC Breda,900000.0,in,Summer,2012,2012/2013
+Dmitri Bulykin,32,Centre-Forward,Ajax,0.0,in,Summer,2012,2012/2013
+Tim Breukers,24,Right-Back,Heracles Almelo,0.0,in,Summer,2012,2012/2013
+Edson Braafheid,29,Left-Back,TSG Hoffenheim,0.0,in,Summer,2012,2012/2013
+Jerson Cabral,21,Left Winger,Feyenoord,0.0,in,Summer,2012,2012/2013
+Dedryck Boyata,21,Centre-Back,Man City,0.0,in,Summer,2012,2012/2013
+Nils Röseler,20,Centre-Back,FC Twente U21,0.0,in,Summer,2012,2012/2013
+Steven Berghuis,20,Attacking Midfield,VVV-Venlo,0.0,in,Summer,2012,2012/2013
+Alexander Bannink,22,Attacking Midfield,PEC Zwolle,0.0,in,Summer,2012,2012/2013
+Luuk de Jong,21,Centre-Forward,Bor. M'gladbach,12000000.0,out,Summer,2012,2012/2013
+Ola John,20,Left Winger,Benfica,12000000.0,out,Summer,2012,2012/2013
+Steven Berghuis,20,Attacking Midfield,AZ Alkmaar,500000.0,out,Summer,2012,2012/2013
+Bart Buysse,25,Left-Back,Club Brugge,0.0,out,Summer,2012,2012/2013
+Alexander Bannink,22,Attacking Midfield,FC Emmen,0.0,out,Summer,2012,2012/2013
+Nick Marsman,21,Goalkeeper,Go Ahead Eagles,0.0,out,Summer,2012,2012/2013
+Emir Bajrami,24,Right Winger,Monaco,0.0,out,Summer,2012,2012/2013
+Wesley Verhoek,25,Right Winger,Feyenoord,0.0,out,Summer,2012,2012/2013
+Glynor Plet,25,Centre-Forward,KRC Genk,0.0,out,Summer,2012,2012/2013
+Nils Röseler,20,Centre-Back,VVV-Venlo,0.0,out,Summer,2012,2012/2013
+Joshua John,23,Left Winger,Nordsjaelland,0.0,out,Summer,2012,2012/2013
+Thilo Leugers,21,Defensive Midfield,NAC Breda,0.0,out,Summer,2012,2012/2013
+Dwight Tiendalli,26,Right-Back,Without Club,0.0,out,Summer,2012,2012/2013
+Nicky Kuiper,23,Left-Back,Panathinaikos,0.0,out,Winter,2012,2012/2013
+Tim Cornelisse,34,Right-Back,Willem II,0.0,out,Winter,2012,2012/2013
+Dedryck Boyata,22,Centre-Back,Man City,0.0,out,Winter,2012,2012/2013
+Tecatito,20,Right Winger,Monterrey,3500000.0,in,Summer,2013,2013/2014
+Dico Koppers,21,Left-Back,Ajax,800000.0,in,Summer,2013,2013/2014
+Youness Mokhtar,22,Left Winger,PEC Zwolle,650000.0,in,Summer,2013,2013/2014
+Sonny Stevens,21,Goalkeeper,FC Volendam,400000.0,in,Summer,2013,2013/2014
+Cuco Martina,23,Right-Back,RKC Waalwijk,350000.0,in,Summer,2013,2013/2014
+Kyle Ebecilio,19,Central Midfield,Arsenal U21,0.0,in,Summer,2013,2013/2014
+Luka Djordjevic,19,Centre-Forward,Zenit S-Pb,0.0,in,Summer,2013,2013/2014
+Quincy Promes,21,Left Winger,FC Twente U21,0.0,in,Summer,2013,2013/2014
+Shadrach Eghan,18,Attacking Midfield,FC Twente U21,0.0,in,Summer,2013,2013/2014
+Joey Pelupessy,20,Defensive Midfield,FC Twente U21,0.0,in,Summer,2013,2013/2014
+Felitciano Zschusschen,21,Centre-Forward,FC Twente U21,0.0,in,Summer,2013,2013/2014
+Tim Hölscher,18,Defensive Midfield,FC Twente U21,0.0,in,Summer,2013,2013/2014
+Nick Marsman,22,Goalkeeper,Go Ahead Eagles,0.0,in,Summer,2013,2013/2014
+Nicky Kuiper,24,Left-Back,Panathinaikos,0.0,in,Summer,2013,2013/2014
+Tim Cornelisse,35,Right-Back,Willem II,0.0,in,Summer,2013,2013/2014
+Glynor Plet,26,Centre-Forward,KRC Genk,0.0,in,Summer,2013,2013/2014
+Nils Röseler,21,Centre-Back,VVV-Venlo,0.0,in,Summer,2013,2013/2014
+Joshua John,24,Left Winger,Nordsjaelland,0.0,in,Summer,2013,2013/2014
+Emir Bajrami,25,Right Winger,Monaco,0.0,in,Summer,2013,2013/2014
+Thilo Leugers,22,Defensive Midfield,NAC Breda,0.0,in,Summer,2013,2013/2014
+Nacer Chadli,23,Left Winger,Spurs,8150000.0,out,Summer,2013,2013/2014
+Leroy Fer,23,Defensive Midfield,Norwich,5500000.0,out,Summer,2013,2013/2014
+Joshua John,24,Left Winger,Nordsjaelland,550000.0,out,Summer,2013,2013/2014
+Nikolay Mihaylov,25,Goalkeeper,Hellas Verona,500000.0,out,Summer,2013,2013/2014
+Douglas,25,Centre-Back,Dinamo Moscow,0.0,out,Summer,2013,2013/2014
+Emir Bajrami,25,Right Winger,Panathinaikos,0.0,out,Summer,2013,2013/2014
+Tim Cornelisse,35,Right-Back,Willem II,0.0,out,Summer,2013,2013/2014
+Denny Landzaat,37,Central Midfield,Sriwijaya FC,0.0,out,Summer,2013,2013/2014
+Daniel Fernandes,29,Goalkeeper,OFI Crete FC,0.0,out,Summer,2013,2013/2014
+Willem Janssen,27,Centre-Back,FC Utrecht,0.0,out,Summer,2013,2013/2014
+Jerson Cabral,22,Left Winger,ADO Den Haag,0.0,out,Summer,2013,2013/2014
+Nicky Kuiper,24,Left-Back,FC Twente U21,0.0,out,Summer,2013,2013/2014
+Glynor Plet,26,Centre-Forward,Without Club,0.0,out,Summer,2013,2013/2014
+Thilo Leugers,22,Defensive Midfield,FC Twente U21,0.0,out,Summer,2013,2013/2014
+Dmitri Bulykin,33,Centre-Forward,Without Club,0.0,out,Summer,2013,2013/2014
+Nils Röseler,21,Centre-Back,FC Twente U21,0.0,out,Summer,2013,2013/2014
+Edson Braafheid,30,Left-Back,TSG Hoffenheim,0.0,out,Summer,2013,2013/2014
+Torgeir Börven,22,Centre-Forward,Vålerenga,550000.0,in,Winter,2013,2013/2014
+Felitciano Zschusschen,21,Centre-Forward,FC Dordrecht,0.0,out,Winter,2013,2013/2014
+Hakim Ziyech,21,Attacking Midfield,Heerenveen,3500000.0,in,Summer,2014,2014/2015
+Kamohelo Mokotjo,23,Defensive Midfield,PEC Zwolle,1500000.0,in,Summer,2014,2014/2015
+Kasper Kusk,22,Right Winger,Aalborg BK,600000.0,in,Summer,2014,2014/2015
+Darryl Lachman,24,Centre-Back,PEC Zwolle,0.0,in,Summer,2014,2014/2015
+Ryo Miyaichi,21,Right Winger,Arsenal,0.0,in,Summer,2014,2014/2015
+Renato Tapia,18,Defensive Midfield,FC Twente U21,0.0,in,Summer,2014,2014/2015
+Orlando Engelaar,35,Defensive Midfield,Without Club,0.0,in,Summer,2014,2014/2015
+Filip Bednarek,21,Goalkeeper,FC Twente U21,0.0,in,Summer,2014,2014/2015
+Joachim Andersen,18,Centre-Back,FC Twente U21,0.0,in,Summer,2014,2014/2015
+Bilal Ould-Chikh,16,Right Winger,FC Twente U21,0.0,in,Summer,2014,2014/2015
+Felitciano Zschusschen,22,Centre-Forward,FC Dordrecht,0.0,in,Summer,2014,2014/2015
+Willem Janssen,27,Centre-Back,FC Utrecht,0.0,in,Summer,2014,2014/2015
+Jerson Cabral,23,Left Winger,ADO Den Haag,0.0,in,Summer,2014,2014/2015
+Daniel Fernandes,30,Goalkeeper,OFI Crete FC,0.0,in,Summer,2014,2014/2015
+Dusan Tadić,25,Left Winger,Southampton,14000000.0,out,Summer,2014,2014/2015
+Quincy Promes,22,Left Winger,Spartak Moscow,11500000.0,out,Summer,2014,2014/2015
+Joey Pelupessy,21,Defensive Midfield,Heracles Almelo,0.0,out,Summer,2014,2014/2015
+Roberto Rosales,25,Right-Back,Málaga CF,0.0,out,Summer,2014,2014/2015
+Tim Hölscher,19,Defensive Midfield,Chemnitzer FC,0.0,out,Summer,2014,2014/2015
+Daniel Fernandes,30,Goalkeeper,Panthrakikos,0.0,out,Summer,2014,2014/2015
+Willem Janssen,27,Centre-Back,FC Utrecht,0.0,out,Summer,2014,2014/2015
+Jerson Cabral,23,Left Winger,Willem II,0.0,out,Summer,2014,2014/2015
+Andrej Rendla,23,Right Winger,FC Twente U21,0.0,out,Summer,2014,2014/2015
+Felitciano Zschusschen,22,Centre-Forward,FC Twente U21,0.0,out,Summer,2014,2014/2015
+Wout Brama,27,Defensive Midfield,Without Club,0.0,out,Summer,2014,2014/2015
+Peter Wisgerhof,34,Centre-Back,Retired,0.0,out,Summer,2014,2014/2015
+Sander Boschker,43,Goalkeeper,Retired,0.0,out,Summer,2014,2014/2015
+Luka Djordjevic,19,Centre-Forward,Zenit S-Pb,0.0,out,Summer,2014,2014/2015
+Chris David,21,Attacking Midfield,Fulham,0.0,in,Winter,2014,2014/2015
+Hidde ter Avest,17,Right-Back,FC Twente U19,0.0,in,Winter,2014,2014/2015
+Tim Hölscher,19,Defensive Midfield,Chemnitzer FC,0.0,in,Winter,2014,2014/2015
+Rasmus Bengtsson,28,Centre-Back,Malmö FF,110000.0,out,Winter,2014,2014/2015
+Tim Breukers,27,Right-Back,Heracles Almelo,0.0,out,Winter,2014,2014/2015
+Georgios Katsikas,25,Centre-Back,PAOK Salonika,0.0,in,Summer,2015,2015/2016
+Chinedu Ede,28,Right Winger,1.FSV Mainz 05,0.0,in,Summer,2015,2015/2016
+Bruno Uvini,24,Centre-Back,SSC Napoli,0.0,in,Summer,2015,2015/2016
+Michael Olaitan,22,Centre-Forward,Olympiacos,0.0,in,Summer,2015,2015/2016
+Thomas Agyepong,18,Left Winger,Man City U21,0.0,in,Summer,2015,2015/2016
+Jari Oosterwijk,20,Centre-Forward,FC Twente U21,0.0,in,Summer,2015,2015/2016
+Alessio Da Cruz,18,Attacking Midfield,FC Twente U19,0.0,in,Summer,2015,2015/2016
+Peet Bijen,20,Centre-Back,FC Twente U21,0.0,in,Summer,2015,2015/2016
+Jelle van der Heyden,19,Defensive Midfield,FC Twente U21,0.0,in,Summer,2015,2015/2016
+Joël Drommel,18,Goalkeeper,FC Twente U21,0.0,in,Summer,2015,2015/2016
+Timo Plattel,21,Goalkeeper,FC Twente U21,0.0,in,Summer,2015,2015/2016
+Jeroen van der Lely,19,Right-Back,FC Twente U19,0.0,in,Summer,2015,2015/2016
+Tim Breukers,27,Right-Back,Heracles Almelo,0.0,in,Summer,2015,2015/2016
+Jerson Cabral,24,Left Winger,Willem II,0.0,in,Summer,2015,2015/2016
+Daniel Fernandes,31,Goalkeeper,Panthrakikos,0.0,in,Summer,2015,2015/2016
+Tecatito,22,Right Winger,FC Porto,10500000.0,out,Summer,2015,2015/2016
+Andreas Bjelland,26,Centre-Back,Brentford,2500000.0,out,Summer,2015,2015/2016
+Luc Castaignos,22,Centre-Forward,E. Frankfurt,2500000.0,out,Summer,2015,2015/2016
+Cuco Martina,25,Right-Back,Southampton,1500000.0,out,Summer,2015,2015/2016
+Bilal Ould-Chikh,18,Right Winger,Benfica B,1250000.0,out,Summer,2015,2015/2016
+Youness Mokhtar,23,Left Winger,Al-Nassr FC,1000000.0,out,Summer,2015,2015/2016
+Kasper Kusk,23,Right Winger,FC Copenhagen,1000000.0,out,Summer,2015,2015/2016
+Darryl Lachman,25,Centre-Back,Sheff Wed,0.0,out,Summer,2015,2015/2016
+Dico Koppers,23,Left-Back,Willem II,0.0,out,Summer,2015,2015/2016
+Filip Bednarek,22,Goalkeeper,FC Utrecht,0.0,out,Summer,2015,2015/2016
+Tim Breukers,27,Right-Back,Heracles Almelo,0.0,out,Summer,2015,2015/2016
+Daniel Fernandes,31,Goalkeeper,San Antonio,0.0,out,Summer,2015,2015/2016
+Kyle Ebecilio,21,Central Midfield,Nottm Forest,0.0,out,Summer,2015,2015/2016
+Orlando Engelaar,35,Defensive Midfield,Retired,0.0,out,Summer,2015,2015/2016
+Chris David,22,Attacking Midfield,Fulham,0.0,out,Summer,2015,2015/2016
+Ryo Miyaichi,22,Right Winger,Arsenal,0.0,out,Summer,2015,2015/2016
+Oskar Zawada,20,Centre-Forward,VfL Wolfsburg,0.0,in,Winter,2015,2015/2016
+Zakaria El Azzouzi,19,Centre-Forward,Ajax U21,0.0,in,Winter,2015,2015/2016
+Stefan Thesker,24,Centre-Back,Greuther Fürth,0.0,in,Winter,2015,2015/2016
+Kyle Ebecilio,21,Central Midfield,Nottm Forest,0.0,in,Winter,2015,2015/2016
+Renato Tapia,20,Defensive Midfield,Feyenoord,1500000.0,out,Winter,2015,2015/2016
+Kyle Ebecilio,21,Central Midfield,ADO Den Haag,0.0,out,Winter,2015,2015/2016
+Shadrach Eghan,21,Attacking Midfield,Stabæk Fotball,0.0,out,Winter,2015,2015/2016
+Michael Olaitan,23,Centre-Forward,Olympiacos,0.0,out,Winter,2015,2015/2016
+Mateusz Klich,26,Central Midfield,1.FC K'lautern,50000.0,in,Summer,2016,2016/2017
+Stefan Thesker,25,Centre-Back,Greuther Fürth,50000.0,in,Summer,2016,2016/2017
+Dylan Seys,19,Right Winger,Club Brugge,0.0,in,Summer,2016,2016/2017
+Bersant Celina,19,Attacking Midfield,Man City,0.0,in,Summer,2016,2016/2017
+Dejan Trajkovski,24,Left-Back,NK Domzale,0.0,in,Summer,2016,2016/2017
+Enes Ünal,19,Centre-Forward,Man City,0.0,in,Summer,2016,2016/2017
+Yaw Yeboah,19,Right Winger,Man City U23,0.0,in,Summer,2016,2016/2017
+Fredrik Jensen,18,Attacking Midfield,FC Twente U19,0.0,in,Summer,2016,2016/2017
+Shadrach Eghan,21,Attacking Midfield,Stabæk Fotball,0.0,in,Summer,2016,2016/2017
+Kyle Ebecilio,22,Central Midfield,ADO Den Haag,0.0,in,Summer,2016,2016/2017
+Hakim Ziyech,23,Attacking Midfield,Ajax,11000000.0,out,Summer,2016,2016/2017
+Felipe Gutiérrez,25,Central Midfield,Real Betis,3500000.0,out,Summer,2016,2016/2017
+Chinedu Ede,30,Right Winger,Bangkok Utd.,0.0,out,Summer,2016,2016/2017
+Jerson Cabral,25,Left Winger,SC Bastia,0.0,out,Summer,2016,2016/2017
+Robbert Schilder,30,Centre-Back,SC Cambuur,0.0,out,Summer,2016,2016/2017
+Torgeir Börven,24,Centre-Forward,Brann,0.0,out,Summer,2016,2016/2017
+Alessio Da Cruz,19,Attacking Midfield,FC Twente U21,0.0,out,Summer,2016,2016/2017
+Timo Plattel,22,Goalkeeper,FC Twente U21,0.0,out,Summer,2016,2016/2017
+Bruno Uvini,25,Centre-Back,SSC Napoli,0.0,out,Summer,2016,2016/2017
+Oskar Zawada,20,Centre-Forward,VfL Wolfsburg,0.0,out,Summer,2016,2016/2017
+Stefan Thesker,25,Centre-Back,Greuther Fürth,0.0,out,Summer,2016,2016/2017
+Zakaria El Azzouzi,20,Centre-Forward,Ajax U21,0.0,out,Summer,2016,2016/2017
+Thomas Agyepong,19,Left Winger,Man City U23,0.0,out,Summer,2016,2016/2017
+Dejan Trajkovski,24,Left-Back,NK Domzale,250000.0,in,Winter,2016,2016/2017
+Enis Bunjaki,19,Centre-Forward,E. Frankfurt,0.0,in,Winter,2016,2016/2017
+Jos Hooiveld,33,Centre-Back,AIK,0.0,in,Winter,2016,2016/2017
+Oussama Assaidi,28,Left Winger,Without Club,0.0,in,Winter,2016,2016/2017
+Torgeir Börven,25,Centre-Forward,Brann,0.0,in,Winter,2016,2016/2017
+Torgeir Börven,25,Centre-Forward,Brann,0.0,out,Winter,2016,2016/2017
+Georgios Katsikas,26,Centre-Back,Esbjerg fB,0.0,out,Winter,2016,2016/2017
+Shadrach Eghan,22,Attacking Midfield,Vendsyssel FF,0.0,out,Winter,2016,2016/2017
+Jari Oosterwijk,21,Centre-Forward,NAC Breda,0.0,out,Winter,2016,2016/2017
+Kyle Ebecilio,23,Central Midfield,Without Club,0.0,out,Winter,2016,2016/2017
+Dejan Trajkovski,24,Left-Back,NK Domzale,0.0,out,Winter,2016,2016/2017
+Tom Boere,24,Centre-Forward,FC Oss,400000.0,in,Summer,2017,2017/2018
+Jorn Brondeel,23,Goalkeeper,Lierse SK,300000.0,in,Summer,2017,2017/2018
+Marko Kvasina,20,Centre-Forward,Austria Vienna,0.0,in,Summer,2017,2017/2018
+Haris Vuckic,24,Centre-Forward,Newcastle,0.0,in,Summer,2017,2017/2018
+Michael Liendl,31,Attacking Midfield,1860 Munich,0.0,in,Summer,2017,2017/2018
+Alexander Laukart,18,Attacking Midfield,B. Dortmund U19,0.0,in,Summer,2017,2017/2018
+Danny Holla,29,Central Midfield,PEC Zwolle,0.0,in,Summer,2017,2017/2018
+Cristian Cuevas,22,Left-Back,Huachipato,0.0,in,Summer,2017,2017/2018
+Nikola Gjorgjev,19,Left Midfield,Grasshoppers,0.0,in,Summer,2017,2017/2018
+Luciano Slagveer,23,Right Winger,KSC Lokeren,0.0,in,Summer,2017,2017/2018
+Isaac Buckley-Ricketts,19,Right Winger,Man City U23,0.0,in,Summer,2017,2017/2018
+Adnane Tighadouini,24,Left Winger,Málaga CF,0.0,in,Summer,2017,2017/2018
+Thomas Lam,23,Centre-Back,Nottm Forest,0.0,in,Summer,2017,2017/2018
+Richard Jensen,21,Centre-Back,FC Twente U21,0.0,in,Summer,2017,2017/2018
+Dylan George,19,Left Winger,FC Twente U21,0.0,in,Summer,2017,2017/2018
+Nick Hengelman,27,Goalkeeper,FC Twente U21,0.0,in,Summer,2017,2017/2018
+Jari Oosterwijk,22,Centre-Forward,NAC Breda,0.0,in,Summer,2017,2017/2018
+Joachim Andersen,21,Centre-Back,Sampdoria,1750000.0,out,Summer,2017,2017/2018
+Mateusz Klich,27,Central Midfield,Leeds,1700000.0,out,Summer,2017,2017/2018
+Kamohelo Mokotjo,26,Defensive Midfield,Brentford,1000000.0,out,Summer,2017,2017/2018
+Jos Hooiveld,35,Centre-Back,Orange County,0.0,out,Summer,2017,2017/2018
+Sonny Stevens,25,Goalkeeper,Go Ahead Eagles,0.0,out,Summer,2017,2017/2018
+Nick Marsman,26,Goalkeeper,FC Utrecht,0.0,out,Summer,2017,2017/2018
+Tim Hölscher,22,Defensive Midfield,Go Ahead Eagles,0.0,out,Summer,2017,2017/2018
+Enis Bunjaki,19,Centre-Forward,Without Club,0.0,out,Summer,2017,2017/2018
+Dylan Seys,20,Right Winger,Club Brugge,0.0,out,Summer,2017,2017/2018
+Yaw Yeboah,20,Right Winger,Man City U23,0.0,out,Summer,2017,2017/2018
+Enes Ünal,20,Centre-Forward,Man City,0.0,out,Summer,2017,2017/2018
+Bersant Celina,20,Attacking Midfield,Man City,0.0,out,Summer,2017,2017/2018
+Adam Maher,24,Defensive Midfield,PSV Eindhoven,0.0,in,Winter,2017,2017/2018
+Michaël Maria,22,Left-Back,Erzgebirge Aue,0.0,in,Winter,2017,2017/2018
+Mounir El Hamdaoui,33,Centre-Forward,Without Club,0.0,in,Winter,2017,2017/2018
+Dejan Trajkovski,25,Left-Back,Puskás AFC,0.0,out,Winter,2017,2017/2018
+Isaac Buckley-Ricketts,19,Right Winger,Man City U23,0.0,out,Winter,2017,2017/2018
+Nikola Gjorgjev,20,Left Midfield,Grasshoppers,0.0,out,Winter,2017,2017/2018
+Queensy Menig,24,Left Winger,FC Nantes B,0.0,in,Summer,2019,2019/2020
+Emil Berggreen,26,Centre-Forward,1.FSV Mainz 05,0.0,in,Summer,2019,2019/2020
+Julio Pleguezuelo,22,Centre-Back,Arsenal U23,0.0,in,Summer,2019,2019/2020
+Paul Verhaegh,35,Right-Back,VfL Wolfsburg,0.0,in,Summer,2019,2019/2020
+Lindon Selahi,20,Central Midfield,Standard Liège,0.0,in,Summer,2019,2019/2020
+Calvin Verdonk,22,Left-Back,Feyenoord,0.0,in,Summer,2019,2019/2020
+Oriol Busquets,20,Defensive Midfield,Barcelona B,0.0,in,Summer,2019,2019/2020
+Keito Nakamura,18,Left Winger,Gamba Osaka,0.0,in,Summer,2019,2019/2020
+Giorgi Aburjania,24,Defensive Midfield,Sevilla FC,0.0,in,Summer,2019,2019/2020
+José Matos,24,Left-Back,Cádiz CF,0.0,in,Summer,2019,2019/2020
+Joel Latibeaudiere,19,Centre-Back,Man City U23,0.0,in,Summer,2019,2019/2020
+Godfried Roemeratoe,19,Defensive Midfield,FC Twente U21,0.0,in,Summer,2019,2019/2020
+Dylan George,21,Left Winger,Helmond Sport,0.0,in,Summer,2019,2019/2020
+Alexander Laukart,20,Attacking Midfield,FC Den Bosch,0.0,out,Summer,2019,2019/2020
+Nick Hengelman,29,Goalkeeper,Ajax Cape Town,0.0,out,Summer,2019,2019/2020
+Jeroen van der Lely,23,Right-Back,Vendsyssel FF,0.0,out,Summer,2019,2019/2020
+Nacho Monsalve,25,Centre-Back,NAC Breda,0.0,out,Summer,2019,2019/2020
+Jelle van der Heyden,24,Defensive Midfield,Vendsyssel FF,0.0,out,Summer,2019,2019/2020
+Rafael Ramos,24,Right-Back,Santa Clara,0.0,out,Summer,2019,2019/2020
+Tom Boere,26,Centre-Forward,KFC Uerdingen,0.0,out,Summer,2019,2019/2020
+Fred Friday,24,Centre-Forward,AZ Alkmaar,0.0,out,Summer,2019,2019/2020
+Jari Oosterwijk,24,Centre-Forward,Career break,0.0,out,Summer,2019,2019/2020
+Oussama Assaidi,30,Left Winger,Retired,0.0,out,Summer,2019,2019/2020
+Dylan George,21,Left Winger,Without Club,0.0,out,Summer,2019,2019/2020
+Ricardinho,34,Left-Back,Without Club,0.0,out,Summer,2019,2019/2020
+Oussama Assaidi,30,Left Winger,Without Club,0.0,out,Summer,2019,2019/2020
+Joel Latibeaudiere,20,Centre-Back,Man City U23,0.0,out,Summer,2019,2019/2020
+Mohamed Hamdaoui,26,Left Winger,De Graafschap,0.0,out,Summer,2019,2019/2020
+Cristian Tassano,22,Centre-Back,Sevilla Atl.,0.0,out,Summer,2019,2019/2020
+Matt Smith,19,Defensive Midfield,Man City U23,0.0,out,Summer,2019,2019/2020
+Giovanni Troupée,22,Right-Back,FC Utrecht,0.0,out,Summer,2019,2019/2020
+Noa Lang,20,Left Winger,Ajax,0.0,out,Summer,2019,2019/2020
+Ulrich Bapoh,20,Attacking Midfield,VfL Bochum,0.0,out,Summer,2019,2019/2020
+Giovanni Troupée,21,Right-Back,FC Utrecht,0.0,in,Winter,2019,2019/2020
+Noa Lang,20,Left Winger,Ajax,0.0,in,Winter,2019,2019/2020
+Jesse Bosch,19,Central Midfield,FC Twente U21,0.0,in,Winter,2019,2019/2020
+Gijs Smal,22,Left-Back,FC Volendam,0.0,in,Summer,2020,2020/2021
+Lazaros Lamprou,22,Left Winger,PAOK Salonika,0.0,in,Summer,2020,2020/2021
+Dario Dumic,28,Centre-Back,FC Utrecht,0.0,in,Summer,2020,2020/2021
+Tyronne Ebuehi,24,Right-Back,Benfica B,0.0,in,Summer,2020,2020/2021
+Alexander Jeremejeff,26,Centre-Forward,Dynamo Dresden,0.0,in,Summer,2020,2020/2021
+Kik Pierie,19,Centre-Back,Ajax,0.0,in,Summer,2020,2020/2021
+Nathan Markelo,21,Right-Back,Everton U23,0.0,in,Summer,2020,2020/2021
+Vaclav Cerny,22,Right Winger,FC Utrecht,0.0,in,Summer,2020,2020/2021
+Danilo Pereira,21,Centre-Forward,Ajax U21,0.0,in,Summer,2020,2020/2021
+Luka Ilic,21,Attacking Midfield,Man City,0.0,in,Summer,2020,2020/2021
+Halil Dervisoglu,20,Centre-Forward,Brentford,0.0,in,Summer,2020,2020/2021
+Ennio van der Gouw,19,Goalkeeper,FC Twente U21,0.0,in,Summer,2020,2020/2021
+Mees Hilgers,19,Centre-Back,FC Twente U21,0.0,in,Summer,2020,2020/2021
+Thijs van Leeuwen,19,Left Winger,FC Twente U21,0.0,in,Summer,2020,2020/2021
+Jayden Oosterwolde,19,Left-Back,FC Twente U19,0.0,in,Summer,2020,2020/2021
+Ramiz Zerrouki,22,Central Midfield,FC Twente U21,0.0,in,Summer,2020,2020/2021
+Casper Staring,19,Central Midfield,FC Twente U19,0.0,in,Summer,2020,2020/2021
+Jorn Brondeel,26,Goalkeeper,Willem II,50000.0,out,Summer,2020,2020/2021
+Emil Berggreen,27,Centre-Forward,Greuther Fürth,0.0,out,Summer,2020,2020/2021
+Aitor Cantalapiedra,24,Right Winger,Panathinaikos,0.0,out,Summer,2020,2020/2021
+Haris Vuckic,27,Centre-Forward,Real Zaragoza,0.0,out,Summer,2020,2020/2021
+Peet Bijen,25,Centre-Back,ADO Den Haag,0.0,out,Summer,2020,2020/2021
+Xandro Schenk,27,Centre-Back,Al-Batin FC,0.0,out,Summer,2020,2020/2021
+Paul Verhaegh,36,Right-Back,Retired,0.0,out,Summer,2020,2020/2021
+Tim Hölscher,25,Defensive Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Javier Espinosa,27,Central Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Oriol Busquets,21,Defensive Midfield,Barcelona B,0.0,out,Summer,2020,2020/2021
+Calvin Verdonk,23,Left-Back,Feyenoord,0.0,out,Summer,2020,2020/2021
+Keito Nakamura,19,Left Winger,Gamba Osaka,0.0,out,Summer,2020,2020/2021
+Giorgi Aburjania,25,Defensive Midfield,Sevilla FC,0.0,out,Summer,2020,2020/2021
+José Matos,25,Left-Back,Cádiz CF,0.0,out,Summer,2020,2020/2021
+Rafik Zekhnini,22,Left Winger,Fiorentina,0.0,out,Summer,2020,2020/2021
+Issah Abass,22,Left Winger,1.FSV Mainz 05,0.0,in,Winter,2020,2020/2021
+Luciano Narsingh,30,Right Winger,Feyenoord,0.0,in,Winter,2020,2020/2021
+Daan Rots,19,Right Winger,FC Twente U21,0.0,in,Winter,2020,2020/2021
+Max Bruns,18,Centre-Back,FC Twente U21,0.0,in,Winter,2020,2020/2021
+Lindon Selahi,21,Central Midfield,Willem II,0.0,out,Winter,2020,2020/2021
+Lazaros Lamprou,23,Left Winger,PAOK Salonika,0.0,out,Winter,2020,2020/2021
+Alexander Jeremejeff,27,Centre-Forward,Dynamo Dresden,0.0,out,Winter,2020,2020/2021
+Halil Dervisoglu,21,Centre-Forward,Brentford,0.0,out,Winter,2020,2020/2021
+Vaclav Cerny,23,Right Winger,FC Utrecht,1000000.0,in,Summer,2021,2021/2022
+Ricky van Wolfswinkel,32,Centre-Forward,FC Basel,0.0,in,Summer,2021,2021/2022
+Denilho Cleonise,19,Right Winger,Genoa U19,0.0,in,Summer,2021,2021/2022
+Lars Unnerstall,30,Goalkeeper,PSV Eindhoven,0.0,in,Summer,2021,2021/2022
+Virgil Misidjan,27,Right Winger,PEC Zwolle,0.0,in,Summer,2021,2021/2022
+Robin Pröpper,27,Centre-Back,Heracles Almelo,0.0,in,Summer,2021,2021/2022
+Giovanni Troupée,23,Right-Back,FC Utrecht,0.0,in,Summer,2021,2021/2022
+Michal Sadilek,22,Defensive Midfield,PSV Eindhoven,0.0,in,Summer,2021,2021/2022
+Dimitrios Limnios,23,Left Winger,1. FC Köln,0.0,in,Summer,2021,2021/2022
+Michel Vlap,24,Attacking Midfield,RSC Anderlecht,0.0,in,Summer,2021,2021/2022
+Manfred Ugalde,19,Centre-Forward,Lommel SK,0.0,in,Summer,2021,2021/2022
+Luca Everink,20,Right-Back,FC Twente U21,0.0,in,Summer,2021,2021/2022
+Jahnoah Markelo,18,Right Winger,FC Twente U21,0.0,in,Summer,2021,2021/2022
+Jody Lukoki,NA,Right Winger,Without Club,0.0,in,Summer,2021,2021/2022
+Lindon Selahi,22,Central Midfield,Willem II,0.0,in,Summer,2021,2021/2022
+Joël Drommel,24,Goalkeeper,PSV Eindhoven,3500000.0,out,Summer,2021,2021/2022
+Queensy Menig,26,Left Winger,Partizan,700000.0,out,Summer,2021,2021/2022
+Lindon Selahi,22,Central Midfield,HNK Rijeka,0.0,out,Summer,2021,2021/2022
+Godfried Roemeratoe,22,Defensive Midfield,Willem II,0.0,out,Summer,2021,2021/2022
+Thijs van Leeuwen,20,Left Winger,Almere City,0.0,out,Summer,2021,2021/2022
+Jahnoah Markelo,19,Right Winger,Without Club,0.0,out,Summer,2021,2021/2022
+Luciano Narsingh,30,Right Winger,Feyenoord,0.0,out,Summer,2021,2021/2022
+Issah Abass,22,Left Winger,1.FSV Mainz 05,0.0,out,Summer,2021,2021/2022
+Tyronne Ebuehi,25,Right-Back,Benfica B,0.0,out,Summer,2021,2021/2022
+Danilo Pereira,22,Centre-Forward,Ajax U21,0.0,out,Summer,2021,2021/2022
+Nathan Markelo,22,Right-Back,Everton U23,0.0,out,Summer,2021,2021/2022
+Vaclav Cerny,23,Right Winger,FC Utrecht,0.0,out,Summer,2021,2021/2022
+Joshua Brenet,27,Right-Back,TSG Hoffenheim,0.0,in,Winter,2021,2021/2022
+Dario Dumic,29,Centre-Back,SV Sandhausen,0.0,out,Winter,2021,2021/2022
+Jayden Oosterwolde,20,Left-Back,Parma,0.0,out,Winter,2021,2021/2022
+Jody Lukoki,NA,Right Winger,Without Club,0.0,out,Winter,2021,2021/2022
+Jahnoah Markelo,18,Right Winger,FC Twente U21,0.0,out,Winter,2021,2021/2022
+Luka Ilic,22,Attacking Midfield,Man City,0.0,out,Winter,2021,2021/2022
+Michel Vlap,25,Attacking Midfield,RSC Anderlecht,2000000.0,in,Summer,2022,2022/2023
+Michal Sadilek,23,Defensive Midfield,PSV Eindhoven,1500000.0,in,Summer,2022,2022/2023
+Issam El Maach,22,Goalkeeper,RKC Waalwijk,0.0,in,Summer,2022,2022/2023
+Sem Steijn,20,Attacking Midfield,ADO Den Haag,0.0,in,Summer,2022,2022/2023
+Przemyslaw Tyton,35,Goalkeeper,Ajax,0.0,in,Summer,2022,2022/2023
+Mathias Kjölö,21,Central Midfield,PSV U21,0.0,in,Summer,2022,2022/2023
+Anass Salah-Eddine,20,Left-Back,Ajax U21,0.0,in,Summer,2022,2022/2023
+Christos Tzolis,20,Left Winger,Norwich,0.0,in,Summer,2022,2022/2023
+Sam Karssies,19,Goalkeeper,FC Twente U21,0.0,in,Summer,2022,2022/2023
+Jayden Oosterwolde,21,Left-Back,Parma,0.0,in,Summer,2022,2022/2023
+Thijs van Leeuwen,20,Left Winger,Almere City,0.0,in,Summer,2022,2022/2023
+Godfried Roemeratoe,22,Defensive Midfield,Willem II,0.0,in,Summer,2022,2022/2023
+Jayden Oosterwolde,21,Left-Back,Parma,3000000.0,out,Summer,2022,2022/2023
+Ennio van der Gouw,21,Goalkeeper,VVV-Venlo,0.0,out,Summer,2022,2022/2023
+Godfried Roemeratoe,22,Defensive Midfield,Hapoel Tel Aviv,0.0,out,Summer,2022,2022/2023
+Jesse Bosch,22,Central Midfield,Willem II,0.0,out,Summer,2022,2022/2023
+Jeffrey de Lange,24,Goalkeeper,Go Ahead Eagles,0.0,out,Summer,2022,2022/2023
+Giovanni Troupée,24,Right-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Michel Vlap,25,Attacking Midfield,RSC Anderlecht,0.0,out,Summer,2022,2022/2023
+Michal Sadilek,23,Defensive Midfield,PSV Eindhoven,0.0,out,Summer,2022,2022/2023
+Dimitrios Limnios,24,Right Winger,1. FC Köln,0.0,out,Summer,2022,2022/2023
+Kik Pierie,21,Centre-Back,Ajax,0.0,out,Summer,2022,2022/2023
+Alfons Sampsted,24,Right-Back,Bodø/Glimt,0.0,in,Winter,2022,2022/2023
+Thijs van Leeuwen,21,Left Winger,TOP Oss,0.0,out,Winter,2022,2022/2023
+Casper Staring,21,Central Midfield,NAC Breda,0.0,out,Winter,2022,2022/2023
+Luca Everink,21,Right-Back,Without Club,0.0,out,Winter,2022,2022/2023
+Christos Tzolis,21,Left Winger,Norwich,0.0,out,Winter,2022,2022/2023
