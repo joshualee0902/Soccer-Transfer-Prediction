@@ -1,0 +1,186 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Igor Stimac,24,Centre-Back,Hajduk Split,0.0,in,Summer,1992,1992/1993
+Quino,21,attack,CD Málaga,0.0,in,Summer,1992,1992/1993
+Feliciano Casanova,26,defence,R. B. Linense,0.0,in,Summer,1992,1992/1993
+Francisco Javier Aragón,23,attack,Elche CF,0.0,in,Summer,1992,1992/1993
+José Ramón Bermell,30,Goalkeeper,Real Zaragoza,0.0,out,Summer,1992,1992/1993
+József Szendrei,38,Goalkeeper,Retired,0.0,out,Summer,1992,1992/1993
+Indio Vázquez,27,midfield,Retired,0.0,out,Summer,1992,1992/1993
+Tilico,27,attack,São Paulo,0.0,out,Summer,1992,1992/1993
+Francisco Javier Aragón,23,attack,Granada CF,0.0,out,Winter,1992,1992/1993
+Alejandro Limia,29,Goalkeeper,Arsenal Sarandí,500000.0,in,Summer,2005,2005/2006
+Alexander Medina,27,Centre-Forward,Nacional,500000.0,in,Summer,2005,2005/2006
+Fabián Estoyanoff,22,Right Midfield,Valencia,300000.0,in,Summer,2005,2005/2006
+Mário Silva,28,Left-Back,FC Porto,0.0,in,Summer,2005,2005/2006
+Marc Bertrán,23,Right-Back,Espanyol,0.0,in,Summer,2005,2005/2006
+Eduardo Berizzo,35,Centre-Back,Celta de Vigo,0.0,in,Summer,2005,2005/2006
+Iván Ania,27,Left Midfield,Gimnàstic,0.0,in,Summer,2005,2005/2006
+Fernando Morán,29,Right Midfield,Racing,0.0,in,Summer,2005,2005/2006
+Benjamín,29,Left Midfield,Real Betis,0.0,in,Summer,2005,2005/2006
+Cherno Samba,21,Centre-Forward,Málaga B,0.0,in,Summer,2005,2005/2006
+Manuel de Gomar,20,Second Striker,Rayo Vallecano,0.0,out,Summer,2005,2005/2006
+Fredi,31,Left Midfield,CD Castellón,0.0,out,Summer,2005,2005/2006
+Jesús Velázquez,26,Right-Back,Lorca Deportiva,0.0,out,Summer,2005,2005/2006
+Alberto Merino,30,Centre-Back,FC Cartagena,0.0,out,Summer,2005,2005/2006
+Cherno Samba,20,Centre-Forward,Málaga B,0.0,out,Summer,2005,2005/2006
+Dani Navarrete,28,Right Winger,Hércules CF,0.0,out,Summer,2005,2005/2006
+Lucas Lobos,24,Second Striker,Gimnasia,1600000.0,in,Winter,2005,2005/2006
+Luciano Vella,24,Right-Back,Newell's,400000.0,in,Winter,2005,2005/2006
+Álvaro Giménez,29,Centre-Forward,Birmingham,2700000.0,in,Summer,2020,2020/2021
+Choco Lozano,27,Centre-Forward,Girona,2500000.0,in,Summer,2020,2020/2021
+Iván Alejo,25,Right Winger,Getafe,2000000.0,in,Summer,2020,2020/2021
+Jorge Pombo,26,Attacking Midfield,Real Zaragoza,1200000.0,in,Summer,2020,2020/2021
+Filip Malbasic,27,Right Winger,CD Tenerife,1000000.0,in,Summer,2020,2020/2021
+Jeremías Ledesma,27,Goalkeeper,Rosario Central,500000.0,in,Summer,2020,2020/2021
+Jairo Izquierdo,26,Left-Back,Girona,200000.0,in,Summer,2020,2020/2021
+Dani Sotres,27,Goalkeeper,Salamanca CF,0.0,in,Summer,2020,2020/2021
+Jens Jönsson,27,Central Midfield,Konyaspor,0.0,in,Summer,2020,2020/2021
+Nano Mesa,25,Centre-Forward,SD Eibar,0.0,in,Summer,2020,2020/2021
+David Mayoral,23,Right Winger,UCAM Murcia,0.0,in,Summer,2020,2020/2021
+Álvaro Negredo,34,Centre-Forward,Al-Nasr,0.0,in,Summer,2020,2020/2021
+Gaspar Panadero,22,Left Winger,Al-Wahda FC,0.0,in,Summer,2020,2020/2021
+Pedro Alcalá,31,Centre-Back,Girona,0.0,in,Summer,2020,2020/2021
+Bobby Adekanye,21,Right Winger,Lazio,0.0,in,Summer,2020,2020/2021
+Sergio González,23,Centre-Back,Cádiz CF B,0.0,in,Summer,2020,2020/2021
+José Matos,25,Left-Back,Twente FC,0.0,in,Summer,2020,2020/2021
+David Carmona,23,Right-Back,Racing,0.0,in,Summer,2020,2020/2021
+Dani Romera,24,Centre-Forward,Alcorcón,0.0,in,Summer,2020,2020/2021
+Djordje Jovanovic,21,Centre-Forward,FC Cartagena,0.0,in,Summer,2020,2020/2021
+Brian Oliván,26,Left-Back,Girona,0.0,in,Summer,2020,2020/2021
+Caye Quintana,26,Centre-Forward,CF Fuenlabrada,0.0,in,Summer,2020,2020/2021
+Christian Martínez,23,Defensive Midfield,Recr. Huelva,0.0,in,Summer,2020,2020/2021
+Javi Navarro,23,Left Winger,Ponferradina,0.0,in,Summer,2020,2020/2021
+David Querol,31,Right Winger,Albacete,0.0,in,Summer,2020,2020/2021
+Sergio Sánchez,34,Centre-Back,Albacete,0.0,in,Summer,2020,2020/2021
+Brian Oliván,26,Left-Back,RCD Mallorca,0.0,out,Summer,2020,2020/2021
+Dani Romera,25,Centre-Forward,Ponferradina,0.0,out,Summer,2020,2020/2021
+David Carmona,23,Right-Back,Betis Deportivo,0.0,out,Summer,2020,2020/2021
+Edu Ramos,28,Central Midfield,Marbella FC,0.0,out,Summer,2020,2020/2021
+Jean-Pierre Rhyner,24,Centre-Back,FC Cartagena,0.0,out,Summer,2020,2020/2021
+Gaspar Panadero,22,Left Winger,Ponferradina,0.0,out,Summer,2020,2020/2021
+José Matos,25,Left-Back,Málaga CF,0.0,out,Summer,2020,2020/2021
+Caye Quintana,26,Centre-Forward,Málaga CF,0.0,out,Summer,2020,2020/2021
+David Mayoral,23,Right Winger,FC Hermannstadt,0.0,out,Summer,2020,2020/2021
+Dani Sotres,27,Goalkeeper,R. Majadahonda,0.0,out,Summer,2020,2020/2021
+Javi Navarro,23,Left Winger,Albacete,0.0,out,Summer,2020,2020/2021
+David Querol,31,Right Winger,Without Club,0.0,out,Summer,2020,2020/2021
+Alberto Cifuentes,41,Goalkeeper,Retired,0.0,out,Summer,2020,2020/2021
+José Manuel Jurado,34,Attacking Midfield,Retired,0.0,out,Summer,2020,2020/2021
+Djordje Jovanovic,21,Centre-Forward,Without Club,0.0,out,Summer,2020,2020/2021
+Christian Martínez,23,Defensive Midfield,Cádiz CF B,0.0,out,Summer,2020,2020/2021
+Sergio Sánchez,34,Centre-Back,Without Club,0.0,out,Summer,2020,2020/2021
+Jorge Pombo,26,Attacking Midfield,Real Zaragoza,0.0,out,Summer,2020,2020/2021
+Nano Mesa,25,Centre-Forward,SD Eibar,0.0,out,Summer,2020,2020/2021
+Iván Alejo,25,Right Winger,Getafe,0.0,out,Summer,2020,2020/2021
+Choco Lozano,27,Centre-Forward,Girona,0.0,out,Summer,2020,2020/2021
+Filip Malbasic,27,Right Winger,CD Tenerife,0.0,out,Summer,2020,2020/2021
+Álvaro Giménez,29,Centre-Forward,Birmingham,0.0,out,Summer,2020,2020/2021
+Ivan Saponjic,23,Centre-Forward,Atlético Madrid,0.0,in,Winter,2020,2020/2021
+Rubén Sobrino,28,Centre-Forward,Valencia,0.0,in,Winter,2020,2020/2021
+Javi Navarro,24,Left Winger,Albacete,0.0,in,Winter,2020,2020/2021
+Jean-Pierre Rhyner,24,Centre-Back,FC Cartagena,0.0,in,Winter,2020,2020/2021
+Yann Bodiger,25,Central Midfield,CD Castellón,0.0,out,Winter,2020,2020/2021
+Jean-Pierre Rhyner,24,Centre-Back,FC Emmen,0.0,out,Winter,2020,2020/2021
+Nano Mesa,25,Centre-Forward,UD Logroñés,0.0,out,Winter,2020,2020/2021
+Álvaro Giménez,29,Centre-Forward,RCD Mallorca,0.0,out,Winter,2020,2020/2021
+Javi Navarro,24,Left Winger,Cádiz CF B,0.0,out,Winter,2020,2020/2021
+Luismi Quezada,24,Left-Back,Without Club,0.0,out,Winter,2020,2020/2021
+Sergio González,23,Centre-Back,CD Tenerife,0.0,out,Winter,2020,2020/2021
+Bobby Adekanye,21,Right Winger,Lazio,0.0,out,Winter,2020,2020/2021
+Santiago Arzamendia,23,Left-Back,Cerro Porteño,2100000.0,in,Summer,2021,2021/2022
+Tomás Alarcón,22,Defensive Midfield,O'Higgins,2000000.0,in,Summer,2021,2021/2022
+Jeremías Ledesma,28,Goalkeeper,Rosario Central,1800000.0,in,Summer,2021,2021/2022
+Álvaro Jiménez,25,Right Winger,Albacete,0.0,in,Summer,2021,2021/2022
+Martín Calderón,22,Central Midfield,RM Castilla,0.0,in,Summer,2021,2021/2022
+Varazdat Haroyan,28,Centre-Back,FC Astana,0.0,in,Summer,2021,2021/2022
+Rubén Sobrino,29,Centre-Forward,Valencia,0.0,in,Summer,2021,2021/2022
+Milutin Osmajic,21,Centre-Forward,Sutjeska Niksic,0.0,in,Summer,2021,2021/2022
+Florin Andone,28,Centre-Forward,Brighton,0.0,in,Summer,2021,2021/2022
+Víctor Chust,21,Centre-Back,Real Madrid,0.0,in,Summer,2021,2021/2022
+Dani Sotres,28,Goalkeeper,R. Majadahonda,0.0,in,Summer,2021,2021/2022
+David Mayoral,24,Right Winger,FC Hermannstadt,0.0,in,Summer,2021,2021/2022
+Caye Quintana,27,Centre-Forward,Málaga CF,0.0,in,Summer,2021,2021/2022
+José Matos,26,Left-Back,Málaga CF,0.0,in,Summer,2021,2021/2022
+Álvaro Giménez,30,Centre-Forward,RCD Mallorca,0.0,in,Summer,2021,2021/2022
+Gaspar Panadero,23,Left Winger,Ponferradina,0.0,in,Summer,2021,2021/2022
+Sergio González,24,Centre-Back,CD Tenerife,0.0,in,Summer,2021,2021/2022
+Jean-Pierre Rhyner,25,Centre-Back,FC Emmen,0.0,in,Summer,2021,2021/2022
+Nano Mesa,26,Centre-Forward,UD Logroñés,0.0,in,Summer,2021,2021/2022
+Pedro Alcalá,32,Centre-Back,FC Cartagena,0.0,out,Summer,2021,2021/2022
+Gaspar Panadero,23,Left Winger,Qarabag FK,0.0,out,Summer,2021,2021/2022
+José Matos,26,Left-Back,Burgos CF,0.0,out,Summer,2021,2021/2022
+Sergio González,24,Centre-Back,CD Tenerife,0.0,out,Summer,2021,2021/2022
+Caye Quintana,27,Centre-Forward,Slask Wroclaw,0.0,out,Summer,2021,2021/2022
+Jean-Pierre Rhyner,25,Centre-Back,Volos NPS,0.0,out,Summer,2021,2021/2022
+Dani Sotres,28,Goalkeeper,CyD Leonesa,0.0,out,Summer,2021,2021/2022
+Jorge Pombo,27,Attacking Midfield,Real Oviedo,0.0,out,Summer,2021,2021/2022
+Nano Mesa,26,Centre-Forward,Real Zaragoza,0.0,out,Summer,2021,2021/2022
+Álvaro Giménez,30,Centre-Forward,Real Zaragoza,0.0,out,Summer,2021,2021/2022
+Filip Malbasic,28,Right Winger,Without Club,0.0,out,Summer,2021,2021/2022
+Augusto Fernández,35,Central Midfield,Retired,0.0,out,Summer,2021,2021/2022
+Jeremías Ledesma,28,Goalkeeper,Rosario Central,0.0,out,Summer,2021,2021/2022
+Jairo Izquierdo,27,Left-Back,Girona,0.0,out,Summer,2021,2021/2022
+Ivan Saponjic,23,Centre-Forward,Atlético Madrid,0.0,out,Summer,2021,2021/2022
+Rubén Sobrino,29,Centre-Forward,Valencia,0.0,out,Summer,2021,2021/2022
+David Mayoral,24,Right Winger,CD Lugo,0.0,out,Summer,2021,2021/2022
+Lucas Pérez,33,Centre-Forward,Elche CF,200000.0,in,Winter,2021,2021/2022
+Luis Hernández,32,Centre-Back,M. Tel Aviv,0.0,in,Winter,2021,2021/2022
+Fede San Emeterio,24,Central Midfield,Real Valladolid,0.0,in,Winter,2021,2021/2022
+Rubén Alcaraz,30,Central Midfield,Real Valladolid,0.0,in,Winter,2021,2021/2022
+Oussama Idrissi,25,Left Winger,Sevilla FC,0.0,in,Winter,2021,2021/2022
+Marcos Mauro,31,Centre-Back,FC Juárez,0.0,out,Winter,2021,2021/2022
+Martín Calderón,22,Central Midfield,CD Mirandés,0.0,out,Winter,2021,2021/2022
+Jon Ander Garrido,32,Defensive Midfield,CD Mirandés,0.0,out,Winter,2021,2021/2022
+Álvaro Jiménez,26,Right Winger,UD Ibiza,0.0,out,Winter,2021,2021/2022
+Milutin Osmajic,22,Centre-Forward,Bandirmaspor,0.0,out,Winter,2021,2021/2022
+Théo Bongonda,26,Left Winger,KRC Genk,3000000.0,in,Summer,2022,2022/2023
+Brian Ocampo,23,Right Winger,Nacional,1900000.0,in,Summer,2022,2022/2023
+Rubén Alcaraz,31,Central Midfield,Real Valladolid,1000000.0,in,Summer,2022,2022/2023
+Víctor Chust,22,Centre-Back,Real Madrid,1000000.0,in,Summer,2022,2022/2023
+Awer Mabil,26,Left Winger,FC Midtjylland,0.0,in,Summer,2022,2022/2023
+Joseba Zaldua,30,Right-Back,Real Sociedad,0.0,in,Summer,2022,2022/2023
+Fede San Emeterio,25,Central Midfield,Real Valladolid,0.0,in,Summer,2022,2022/2023
+Antonio Blanco,22,Defensive Midfield,Real Madrid,0.0,in,Summer,2022,2022/2023
+David Mayoral,25,Right Winger,CD Lugo,0.0,in,Summer,2022,2022/2023
+Momo Mbaye,24,Centre-Back,Cádiz B,0.0,in,Summer,2022,2022/2023
+Ivan Chapela,23,Left Winger,Cádiz B,0.0,in,Summer,2022,2022/2023
+Juan Flere,24,Goalkeeper,Cádiz B,0.0,in,Summer,2022,2022/2023
+Raúl Parra,22,Right-Back,Cádiz B,0.0,in,Summer,2022,2022/2023
+Álvaro Jiménez,27,Right Winger,UD Ibiza,0.0,in,Summer,2022,2022/2023
+Álvaro Giménez,31,Centre-Forward,Real Zaragoza,0.0,in,Summer,2022,2022/2023
+Jon Ander Garrido,32,Defensive Midfield,CD Mirandés,0.0,in,Summer,2022,2022/2023
+Martín Calderón,23,Central Midfield,CD Mirandés,0.0,in,Summer,2022,2022/2023
+Nano Mesa,27,Centre-Forward,Real Zaragoza,0.0,in,Summer,2022,2022/2023
+Jorge Pombo,28,Attacking Midfield,Real Oviedo,0.0,in,Summer,2022,2022/2023
+Milutin Osmajic,22,Centre-Forward,Bandirmaspor,0.0,in,Summer,2022,2022/2023
+Salvi Sánchez,31,Right Winger,Rayo Vallecano,0.0,out,Summer,2022,2022/2023
+Jens Jönsson,29,Central Midfield,AEK Athens,0.0,out,Summer,2022,2022/2023
+Varazdat Haroyan,29,Centre-Back,Anorthosis,0.0,out,Summer,2022,2022/2023
+Alberto Perea,31,Left Winger,Granada CF,0.0,out,Summer,2022,2022/2023
+Jorge Pombo,28,Attacking Midfield,Racing,0.0,out,Summer,2022,2022/2023
+Milutin Osmajic,23,Centre-Forward,Vizela,0.0,out,Summer,2022,2022/2023
+Ivan Chapela,23,Left Winger,Unionistas CF,0.0,out,Summer,2022,2022/2023
+Martín Calderón,23,Central Midfield,Celta Vigo B,0.0,out,Summer,2022,2022/2023
+Juan Flere,24,Goalkeeper,Algeciras CF,0.0,out,Summer,2022,2022/2023
+Álvaro Jiménez,27,Right Winger,UD Las Palmas,0.0,out,Summer,2022,2022/2023
+Raúl Parra,22,Right-Back,CD Mirandés,0.0,out,Summer,2022,2022/2023
+Carlos Akapo,29,Right-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Nano Mesa,27,Centre-Forward,Without Club,0.0,out,Summer,2022,2022/2023
+David Mayoral,25,Right Winger,Without Club,0.0,out,Summer,2022,2022/2023
+Víctor Chust,22,Centre-Back,Real Madrid,0.0,out,Summer,2022,2022/2023
+Florin Andone,29,Centre-Forward,Brighton,0.0,out,Summer,2022,2022/2023
+Oussama Idrissi,26,Left Winger,Sevilla FC,0.0,out,Summer,2022,2022/2023
+Rubén Alcaraz,31,Central Midfield,Real Valladolid,0.0,out,Summer,2022,2022/2023
+Fede San Emeterio,25,Central Midfield,Real Valladolid,0.0,out,Summer,2022,2022/2023
+Chris Ramos,26,Centre-Forward,CD Lugo,1500000.0,in,Winter,2022,2022/2023
+Youba Diarra,24,Central Midfield,RB Salzburg,1100000.0,in,Winter,2022,2022/2023
+Gonzalo Escalante,29,Central Midfield,Lazio,0.0,in,Winter,2022,2022/2023
+Roger Martí,32,Centre-Forward,Elche CF,0.0,in,Winter,2022,2022/2023
+Jorge Meré,25,Centre-Back,América,0.0,in,Winter,2022,2022/2023
+Sergi Guardiola,31,Centre-Forward,Real Valladolid,0.0,in,Winter,2022,2022/2023
+Raúl Parra,23,Right-Back,CD Mirandés,0.0,in,Winter,2022,2022/2023
+Lucas Pérez,34,Centre-Forward,Dep. La Coruña,1000000.0,out,Winter,2022,2022/2023
+Tomás Alarcón,23,Central Midfield,Real Zaragoza,0.0,out,Winter,2022,2022/2023
+Awer Mabil,27,Left Winger,Sparta Prague,0.0,out,Winter,2022,2022/2023
+Álvaro Giménez,31,Centre-Forward,Without Club,0.0,out,Winter,2022,2022/2023
+Antonio Blanco,22,Defensive Midfield,Real Madrid,0.0,out,Winter,2022,2022/2023

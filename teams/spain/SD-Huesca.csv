@@ -1,0 +1,85 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Serdar Gürler,26,Right Winger,Osmanlispor,2500000.0,in,Summer,2018,2018/2019
+Aleksandar Jovanovic,25,Goalkeeper,Aarhus GF,1000000.0,in,Summer,2018,2018/2019
+Damián Musto,31,Defensive Midfield,Club Tijuana,1000000.0,in,Summer,2018,2018/2019
+Dani Escriche,20,Centre-Forward,CD Lugo,500000.0,in,Summer,2018,2018/2019
+Jonathan Toro,21,Attacking Midfield,Gil Vicente,0.0,in,Summer,2018,2018/2019
+Eugeni,23,Attacking Midfield,Valencia B,0.0,in,Summer,2018,2018/2019
+Luisinho,33,Left-Back,Dep. La Coruña,0.0,in,Summer,2018,2018/2019
+Jorge Miramón,29,Right-Back,Reus Deportiu,0.0,in,Summer,2018,2018/2019
+Christian Rivera,21,Central Midfield,UD Las Palmas,0.0,in,Summer,2018,2018/2019
+Xabi Etxeita,30,Centre-Back,Athletic,0.0,in,Summer,2018,2018/2019
+Pablo Insua,24,Centre-Back,FC Schalke 04,0.0,in,Summer,2018,2018/2019
+Axel Werner,22,Goalkeeper,Atlético Madrid,0.0,in,Summer,2018,2018/2019
+Samuele Longo,26,Centre-Forward,Inter,0.0,in,Summer,2018,2018/2019
+Rúben Semedo,24,Centre-Back,Villarreal,0.0,in,Summer,2018,2018/2019
+Alexander González,25,Right-Back,Elche CF,0.0,out,Summer,2018,2018/2019
+Luso,33,Central Midfield,R. Majadahonda,0.0,out,Summer,2018,2018/2019
+Kilian Grant,24,Right Winger,UCAM Murcia,0.0,out,Summer,2018,2018/2019
+Rulo Prieto,22,Left-Back,Alcorcón,0.0,out,Summer,2018,2018/2019
+Carlos David,32,Centre-Back,Union SG,0.0,out,Summer,2018,2018/2019
+Álvaro Vadillo,23,Left Winger,Granada CF,0.0,out,Summer,2018,2018/2019
+Iñigo López,36,Centre-Back,Extremadura,0.0,out,Summer,2018,2018/2019
+Jair Amador,28,Centre-Back,M. Tel Aviv,0.0,out,Summer,2018,2018/2019
+Dani Escriche,20,Centre-Forward,CD Lugo,0.0,out,Summer,2018,2018/2019
+Ander Bardají,23,Goalkeeper,CF Fuenlabrada,0.0,out,Summer,2018,2018/2019
+Jonathan Toro,21,Attacking Midfield,Varzim,0.0,out,Summer,2018,2018/2019
+Eugeni,24,Attacking Midfield,Albacete,0.0,out,Summer,2018,2018/2019
+Nagore,37,Right-Back,Retired,0.0,out,Summer,2018,2018/2019
+Antonio Valera,21,Goalkeeper,CD Teruel,0.0,out,Summer,2018,2018/2019
+Álex Remiro,23,Goalkeeper,Athletic,0.0,out,Summer,2018,2018/2019
+Ezequiel Rescaldani,26,Centre-Forward,Atl. Nacional,0.0,out,Summer,2018,2018/2019
+Enric Gallego,32,Centre-Forward,Extremadura,3000000.0,in,Winter,2018,2018/2019
+Javi Galán,24,Left-Back,Córdoba CF,1800000.0,in,Winter,2018,2018/2019
+Yangel Herrera,21,Central Midfield,Man City,0.0,in,Winter,2018,2018/2019
+Adrián Diéguez,22,Centre-Back,Alavés,0.0,in,Winter,2018,2018/2019
+Juanpi Añor,25,Attacking Midfield,Málaga CF,0.0,in,Winter,2018,2018/2019
+Martín Mantovani,34,Centre-Back,UD Las Palmas,0.0,in,Winter,2018,2018/2019
+Javi Varas,36,Goalkeeper,Without Club,0.0,in,Winter,2018,2018/2019
+Jonathan Toro,22,Attacking Midfield,Varzim,0.0,in,Winter,2018,2018/2019
+Serdar Gürler,27,Right Winger,Göztepe,400000.0,out,Winter,2018,2018/2019
+Lluis Sastre,32,Central Midfield,AEK Larnaca,0.0,out,Winter,2018,2018/2019
+Rajko Brezancic,29,Left-Back,Málaga CF,0.0,out,Winter,2018,2018/2019
+Jonathan Toro,22,Attacking Midfield,Coimbra,0.0,out,Winter,2018,2018/2019
+Samuele Longo,27,Centre-Forward,Inter,0.0,out,Winter,2018,2018/2019
+Axel Werner,22,Goalkeeper,Atlético Madrid,0.0,out,Winter,2018,2018/2019
+Rúben Semedo,24,Centre-Back,Villarreal,0.0,out,Winter,2018,2018/2019
+Borja García,29,Attacking Midfield,Girona,1500000.0,in,Summer,2020,2020/2021
+Dimitrios Siovas,32,Centre-Back,CD Leganés,1000000.0,in,Summer,2020,2020/2021
+Pablo Insua,26,Centre-Back,FC Schalke 04,1000000.0,in,Summer,2020,2020/2021
+Javi Ontiveros,23,Left Winger,Villarreal,650000.0,in,Summer,2020,2020/2021
+Andrés Fernández,33,Goalkeeper,Villarreal,500000.0,in,Summer,2020,2020/2021
+Sandro Ramírez,25,Centre-Forward,Everton,0.0,in,Summer,2020,2020/2021
+Gastón Silva,26,Left-Back,Independiente,0.0,in,Summer,2020,2020/2021
+Idrissa Doumbia,22,Defensive Midfield,Sporting CP,0.0,in,Summer,2020,2020/2021
+Pablo Maffeo,23,Right-Back,VfB Stuttgart,0.0,in,Summer,2020,2020/2021
+Juan Peñaloza,20,Left Winger,SD Ejea,0.0,in,Summer,2020,2020/2021
+Kike Hermoso,20,Centre-Back,SD Ejea,0.0,in,Summer,2020,2020/2021
+Ronald Gbizie,23,Central Midfield,SD Ejea,0.0,in,Summer,2020,2020/2021
+Serdar Gürler,28,Right Winger,Göztepe,0.0,in,Summer,2020,2020/2021
+Jonathan Toro,23,Attacking Midfield,Tondela,0.0,in,Summer,2020,2020/2021
+Aleksandar Jovanovic,27,Goalkeeper,Aarhus GF,0.0,in,Summer,2020,2020/2021
+Jaime Seoane,23,Central Midfield,CD Lugo,0.0,in,Summer,2020,2020/2021
+Dani Escriche,22,Centre-Forward,Elche CF,0.0,in,Summer,2020,2020/2021
+Joaquín Muñoz,21,Right Winger,CD Mirandés,0.0,in,Summer,2020,2020/2021
+Aleksandar Jovanovic,27,Goalkeeper,Dep. La Coruña,0.0,in,Summer,2020,2020/2021
+Jonathan Toro,23,Attacking Midfield,Chaves,0.0,out,Summer,2020,2020/2021
+Kike Hermoso,21,Centre-Back,Betis Deportivo,0.0,out,Summer,2020,2020/2021
+Aleksandar Jovanovic,27,Goalkeeper,Apol. Limassol,0.0,out,Summer,2020,2020/2021
+Serdar Gürler,28,Right Winger,Antalyaspor,0.0,out,Summer,2020,2020/2021
+Joaquín Muñoz,21,Right Winger,Málaga CF,0.0,out,Summer,2020,2020/2021
+Juan Peñaloza,20,Left Winger,Racing Ferrol,0.0,out,Summer,2020,2020/2021
+Ronald Gbizie,23,Central Midfield,CD Numancia,0.0,out,Summer,2020,2020/2021
+Cheick Doukouré,27,Defensive Midfield,Levante,0.0,out,Summer,2020,2020/2021
+Miguel Llambrich,24,Right-Back,Villarreal,0.0,out,Summer,2020,2020/2021
+Dani Raba,24,Right Winger,Villarreal,0.0,out,Summer,2020,2020/2021
+Cristo González,22,Centre-Forward,Udinese Calcio,0.0,out,Summer,2020,2020/2021
+Pablo Insua,26,Centre-Back,FC Schalke 04,0.0,out,Summer,2020,2020/2021
+Rubén Yáñez,26,Goalkeeper,Getafe,0.0,out,Summer,2020,2020/2021
+Josué Sá,28,Centre-Back,RSC Anderlecht,0.0,out,Summer,2020,2020/2021
+Toni Datkovic,26,Centre-Back,NK Lokomotiva,0.0,out,Summer,2020,2020/2021
+Jordi Mboula,21,Right Winger,Monaco,0.0,out,Summer,2020,2020/2021
+Denis Vavro,24,Centre-Back,Lazio,0.0,in,Winter,2020,2020/2021
+Damián Musto,33,Defensive Midfield,Internacional,0.0,in,Winter,2020,2020/2021
+Damián Musto,33,Defensive Midfield,Peñarol,0.0,out,Winter,2020,2020/2021
+Kelechi Nwakali,22,Central Midfield,Alcorcón,0.0,out,Winter,2020,2020/2021

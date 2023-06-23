@@ -1,0 +1,63 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Juan Carlos Paniagua,28,Centre-Forward,CD Toledo,30000.0,in,Summer,1994,1994/1995
+Ángel Lekunberri,24,midfield,Bilbao Athletic,0.0,in,Summer,1994,1994/1995
+Paco Llorente,29,Right Winger,Real Madrid,0.0,in,Summer,1994,1994/1995
+Franck Passi,28,Defensive Midfield,Monaco,0.0,in,Summer,1994,1994/1995
+Javier Villena,27,Centre-Back,RCD Mallorca,0.0,in,Summer,1994,1994/1995
+José Manuel Galdames,23,Centre-Back,Athletic,0.0,in,Summer,1994,1994/1995
+Bent Christensen,27,Centre-Forward,FC Schalke 04,0.0,in,Summer,1994,1994/1995
+Modesto Martínez,29,Centre-Back,Mensajero,0.0,out,Summer,1994,1994/1995
+Xose Carlos,23,Goalkeeper,Arosa SC,0.0,out,Summer,1994,1994/1995
+Óscar Arias,28,midfield,Alavés,0.0,out,Winter,1994,1994/1995
+Bodelón,26,attack,Racing Ferrol,0.0,out,Winter,1994,1994/1995
+Bent Christensen,28,Centre-Forward,FC Schalke 04,250000.0,in,Summer,1995,1995/1996
+Festus Agu,20,Centre-Forward,Bolívar,0.0,in,Summer,1995,1995/1996
+José Antonio Vilaseca Triviño,23,attack,CD Leganés,0.0,in,Summer,1995,1995/1996
+Virgilio Hernández,26,Left-Back,UE Lleida,0.0,in,Summer,1995,1995/1996
+Fernando Peralta,33,Goalkeeper,CD Castellón,0.0,in,Summer,1995,1995/1996
+José Ramón,27,Central Midfield,Dep. La Coruña,0.0,in,Summer,1995,1995/1996
+Mauro García,24,Right-Back,Pontevedra,0.0,in,Summer,1995,1995/1996
+Jesús Dulce,24,Right-Back,CD Logroñés,0.0,in,Summer,1995,1995/1996
+Modesto López,30,Centre-Back,Orense,0.0,out,Summer,1995,1995/1996
+Goyo,25,Left-Back,SD Eibar,0.0,out,Summer,1995,1995/1996
+José Álvarez,28,attack,Mensajero,0.0,out,Summer,1995,1995/1996
+Víctor Arias,28,Right-Back,Alavés,0.0,out,Summer,1995,1995/1996
+Pichi Lucas,36,Centre-Forward,Retired,0.0,out,Summer,1995,1995/1996
+Jesús Moure,33,attack,Retired,0.0,out,Summer,1995,1995/1996
+Bent Christensen,28,Centre-Forward,FC Schalke 04,0.0,out,Summer,1995,1995/1996
+Jesús Dulce,25,Right-Back,CD Logroñés,0.0,out,Summer,1995,1995/1996
+José Manuel Galdames,24,Centre-Back,Athletic,0.0,out,Summer,1995,1995/1996
+José Antonio Vilaseca Triviño,23,attack,Granada CF,0.0,out,Winter,1995,1995/1996
+Lyuboslav Penev,29,Centre-Forward,Atlético Madrid,1800000.0,in,Summer,1996,1996/1997
+Manuel Mosquera,27,Centre-Forward,CF Extremadura,0.0,in,Summer,1996,1996/1997
+Juan Viedma Schenkhuizen,21,Defensive Midfield,NEC Nijmegen,0.0,in,Summer,1996,1996/1997
+Carlos Sastre,27,midfield,CF Extremadura,0.0,in,Summer,1996,1996/1997
+Goran Saula,25,Centre-Back,Vojvodina,0.0,in,Summer,1996,1996/1997
+Pirri Mori,25,Attacking Midfield,Atlético Madrid,0.0,in,Summer,1996,1996/1997
+William,28,Centre-Back,SC Bastia,0.0,in,Summer,1996,1996/1997
+José Manuel Galdames,25,Centre-Back,Athletic,0.0,in,Summer,1996,1996/1997
+Saïd Chiba,25,Defensive Midfield,Al-Hilal SFC,0.0,in,Summer,1996,1996/1997
+Dmitriy Popov,29,Right-Back,Racing,0.0,in,Summer,1996,1996/1997
+Changui,19,Centre-Forward,Compostela U19,0.0,in,Summer,1996,1996/1997
+Juan Carlos Paniagua,30,Centre-Forward,Almería CF,0.0,out,Summer,1996,1996/1997
+Dragan Skocic,27,midfield,HNK Rijeka,0.0,out,Summer,1996,1996/1997
+Virgilio Hernández,27,Left-Back,CP Mérida,0.0,out,Summer,1996,1996/1997
+Fernando Tocornal,35,Centre-Back,Badajoz,0.0,out,Summer,1996,1996/1997
+Changui,19,Centre-Forward,Unknown,0.0,out,Summer,1996,1996/1997
+Festus Agu,21,Centre-Forward,Orense,0.0,out,Summer,1996,1996/1997
+Rafa Gómez,22,Goalkeeper,Racing Ferrol,0.0,in,Winter,1996,1996/1997
+René Ponk,25,Goalkeeper,FC Utrecht,0.0,in,Summer,1997,1997/1998
+Romano Sion,26,Centre-Forward,Emmen,0.0,in,Summer,1997,1997/1998
+Borja Agirretxu,28,Left-Back,Celta de Vigo,0.0,in,Summer,1997,1997/1998
+Xose Carlos,26,Goalkeeper,Arosa SC,0.0,in,Summer,1997,1997/1998
+Changui,20,Centre-Forward,Unknown,0.0,in,Summer,1997,1997/1998
+Festus Agu,22,Centre-Forward,CD Ourense,0.0,in,Summer,1997,1997/1998
+Bent Christensen,30,Centre-Forward,Genclerbirligi,0.0,out,Summer,1997,1997/1998
+Festus Agu,22,Centre-Forward,Optik Rathenow,0.0,out,Summer,1997,1997/1998
+José Manuel Galdames,26,Centre-Back,Toulouse,0.0,out,Summer,1997,1997/1998
+Pirri Mori,26,Attacking Midfield,CP Mérida,0.0,out,Summer,1997,1997/1998
+Fernando Peralta,35,Goalkeeper,Retired,0.0,out,Summer,1997,1997/1998
+Oskar Tabuenka,26,Centre-Back,Athletic,0.0,in,Winter,1997,1997/1998
+Jean-François Hernandez,28,Centre-Back,Marseille B,0.0,in,Winter,1997,1997/1998
+Manuel Mosquera,29,Centre-Forward,CF Extremadura,0.0,out,Winter,1997,1997/1998
+Carlos Sastre,29,midfield,Rayo Vallecano,0.0,out,Winter,1997,1997/1998

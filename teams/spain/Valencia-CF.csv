@@ -1,0 +1,956 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Miodrag Belodedici,28,Sweeper,Red Star,1680000.0,in,Summer,1992,1992/1993
+Gaizka Mendieta,18,Right Midfield,CD Castellón,180000.0,in,Summer,1992,1992/1993
+Álvaro Cervera,26,attack,RCD Mallorca,0.0,in,Summer,1992,1992/1993
+José González,27,Goalkeeper,Real Sociedad,0.0,in,Summer,1992,1992/1993
+Juan Sánchez,20,Centre-Forward,Valencia B,0.0,in,Summer,1992,1992/1993
+José Manuel Ochotorena,31,Goalkeeper,CD Tenerife,0.0,out,Summer,1992,1992/1993
+Emilio Fenoll,27,attack,Real Burgos CF,0.0,out,Summer,1992,1992/1993
+Toni,26,attack,Real Valladolid,0.0,out,Summer,1992,1992/1993
+Nando,25,defence,Dep. La Coruña,0.0,out,Summer,1992,1992/1993
+Rommel Fernández,NA,attack,Albacete,0.0,out,Summer,1992,1992/1993
+Predrag Mijatović,24,Centre-Forward,Partizan,2100000.0,in,Summer,1993,1993/1994
+Pepe Gálvez,18,Centre-Forward,RCD Mallorca,900000.0,in,Summer,1993,1993/1994
+Juan Antonio Pizzi,25,Centre-Forward,CD Tenerife,600000.0,in,Summer,1993,1993/1994
+José Serer,27,Centre-Back,RCD Mallorca,0.0,in,Summer,1993,1993/1994
+Javi Navarro,19,Centre-Back,Valencia B,0.0,in,Summer,1993,1993/1994
+Antonio Notario,20,Goalkeeper,Valencia B,0.0,in,Summer,1993,1993/1994
+José Manuel Tárraga,22,defence,Valencia B,0.0,in,Summer,1993,1993/1994
+Voro,29,Centre-Back,Dep. La Coruña,0.0,out,Summer,1993,1993/1994
+Leonardo,23,Attacking Midfield,São Paulo,0.0,out,Summer,1993,1993/1994
+Juan Sánchez,21,Centre-Forward,RCD Mallorca,0.0,out,Summer,1993,1993/1994
+Víctor Aristizábal,22,Centre-Forward,Atl. Nacional,500000.0,in,Winter,1993,1993/1994
+Alberto Benito,21,midfield,Valencia B,0.0,in,Winter,1993,1993/1994
+Andoni Zubizarreta,32,Goalkeeper,Barcelona,2100000.0,in,Summer,1994,1994/1995
+Oleg Salenko,24,Centre-Forward,CD Logroñés,2069999.9999999998,in,Summer,1994,1994/1995
+Juan Carlos,NA,defence,Barcelona,900000.0,in,Summer,1994,1994/1995
+Jorge Otero,25,Right-Back,Celta de Vigo,300000.0,in,Summer,1994,1994/1995
+Vicente Engonga,28,Central Midfield,Celta de Vigo,300000.0,in,Summer,1994,1994/1995
+Enrique Romero,23,Left-Back,CD Logroñés,0.0,in,Summer,1994,1994/1995
+Antonio Poyatos,28,midfield,CD Logroñés,0.0,in,Summer,1994,1994/1995
+David Clotet,21,Centre-Back,Gramenet,0.0,in,Summer,1994,1994/1995
+Juan Carlos,29,Left-Back,Barcelona,0.0,in,Summer,1994,1994/1995
+Juanjo Maqueda,25,midfield,Real Madrid B,0.0,in,Summer,1994,1994/1995
+Mazinho,28,Defensive Midfield,Palmeiras,0.0,in,Summer,1994,1994/1995
+Juan Sánchez,22,Centre-Forward,RCD Mallorca,0.0,in,Summer,1994,1994/1995
+Leonardo,24,Attacking Midfield,São Paulo,0.0,in,Summer,1994,1994/1995
+Leonardo,24,Attacking Midfield,Kashima Antlers,2400000.0,out,Summer,1994,1994/1995
+Quique Sánchez Flores,29,Right-Back,Real Madrid,1200000.0,out,Summer,1994,1994/1995
+Juan Sánchez,22,Centre-Forward,Celta de Vigo,600000.0,out,Summer,1994,1994/1995
+Víctor Aristizábal,22,Centre-Forward,Atl. Nacional,0.0,out,Summer,1994,1994/1995
+Javi Navarro,20,Centre-Back,CD Logroñés,0.0,out,Summer,1994,1994/1995
+José González,29,Goalkeeper,Real Valladolid,0.0,out,Summer,1994,1994/1995
+José Manuel Tárraga,23,defence,Celta de Vigo,0.0,out,Summer,1994,1994/1995
+Alberto Benito,22,midfield,CD Toledo,0.0,out,Summer,1994,1994/1995
+Miodrag Belodedici,30,Sweeper,Real Valladolid,0.0,out,Summer,1994,1994/1995
+Antonio Notario,21,Goalkeeper,Real Murcia,0.0,out,Summer,1994,1994/1995
+Juan Antonio Pizzi,26,Centre-Forward,CD Tenerife,0.0,out,Summer,1994,1994/1995
+Viola,26,Centre-Forward,Corinthians,3000000.0,in,Summer,1995,1995/1996
+Xabier Eskurza,25,Central Midfield,Barcelona,2000000.0,in,Summer,1995,1995/1996
+José Ignacio,21,Defensive Midfield,CD Logroñés,720000.0,in,Summer,1995,1995/1996
+Sietes,21,Left-Back,Real Oviedo,0.0,in,Summer,1995,1995/1996
+Iñaki Hurtado,23,midfield,Real Valladolid,0.0,in,Summer,1995,1995/1996
+Patxi Ferreira,28,Centre-Back,Atlético Madrid,0.0,in,Summer,1995,1995/1996
+Rafa Gómez,21,Goalkeeper,Valencia B,0.0,in,Summer,1995,1995/1996
+Jorge Bartual,23,Goalkeeper,Valencia B,0.0,in,Summer,1995,1995/1996
+Javi Navarro,21,Centre-Back,CD Logroñés,0.0,in,Summer,1995,1995/1996
+Oleg Salenko,25,Centre-Forward,Rangers,3000000.0,out,Summer,1995,1995/1996
+Lyuboslav Penev,28,Centre-Forward,Atlético Madrid,0.0,out,Summer,1995,1995/1996
+Juan Carlos,30,Left-Back,Real Valladolid,0.0,out,Summer,1995,1995/1996
+David Clotet,22,Centre-Back,CD Logroñés,0.0,out,Summer,1995,1995/1996
+Robert Fernández,32,Central Midfield,Villarreal,0.0,out,Summer,1995,1995/1996
+Eloy Olaya,30,Centre-Forward,Sporting Gijón,0.0,out,Summer,1995,1995/1996
+Álvaro Cervera,29,attack,Racing,0.0,out,Summer,1995,1995/1996
+José Serer,29,Centre-Back,Villarreal,0.0,out,Summer,1995,1995/1996
+Juanjo Maqueda,26,midfield,Albacete,0.0,out,Summer,1995,1995/1996
+José Manuel Sempere,37,Goalkeeper,Retired,0.0,out,Summer,1995,1995/1996
+Iván Campo,21,Defensive Midfield,Alavés,0.0,in,Winter,1995,1995/1996
+Iván Campo,21,Defensive Midfield,Real Valladolid,0.0,out,Winter,1995,1995/1996
+Valeriy Karpin,27,Right Midfield,Real Sociedad,6000000.0,in,Summer,1996,1996/1997
+Leandro Machado,20,Centre-Forward,Internacional,4200000.0,in,Summer,1996,1996/1997
+Claudio López,21,Centre-Forward,Racing Club,3360000.0,in,Summer,1996,1996/1997
+Goran Vlaovic,23,Centre-Forward,Padova,3000000.0,in,Summer,1996,1996/1997
+Gabi Moya,30,midfield,Sevilla FC,0.0,in,Summer,1996,1996/1997
+David Albelda,18,Defensive Midfield,Valencia B,0.0,in,Summer,1996,1996/1997
+Iván Campo,22,Defensive Midfield,Real Valladolid,0.0,in,Summer,1996,1996/1997
+Predrag Mijatović,27,Centre-Forward,Real Madrid,9000000.0,out,Summer,1996,1996/1997
+Mazinho,30,Defensive Midfield,Celta de Vigo,810000.0,out,Summer,1996,1996/1997
+Viola,27,Centre-Forward,Palmeiras,0.0,out,Summer,1996,1996/1997
+Rafa Gómez,22,Goalkeeper,Racing Ferrol,0.0,out,Summer,1996,1996/1997
+Carlos Arroyo,30,midfield,Villarreal,0.0,out,Summer,1996,1996/1997
+David Albelda,18,Defensive Midfield,Villarreal,0.0,out,Summer,1996,1996/1997
+Ariel Ortega,22,Attacking Midfield,River Plate,10200000.0,in,Winter,1996,1996/1997
+Fernando Cáceres,27,Centre-Back,Boca Juniors,4200000.0,in,Winter,1996,1996/1997
+Romário,30,Centre-Forward,Flamengo,2500000.0,in,Winter,1996,1996/1997
+Javier Farinós,18,Defensive Midfield,Valencia B,0.0,in,Winter,1996,1996/1997
+Pepe Gálvez,22,Centre-Forward,RCD Mallorca,0.0,out,Winter,1996,1996/1997
+Marcelinho Carioca,26,Attacking Midfield,Corinthians,5200000.0,in,Summer,1997,1997/1998
+Moussa Saïb,28,Left Midfield,AJ Auxerre,4300000.0,in,Summer,1997,1997/1998
+Amedeo Carboni,32,Left-Back,AS Roma,4000000.0,in,Summer,1997,1997/1998
+Chemo del Solar,29,Central Midfield,Celta de Vigo,2700000.0,in,Summer,1997,1997/1998
+Juanfran,20,Left-Back,Levante,1200000.0,in,Summer,1997,1997/1998
+Jocelyn Angloma,31,Right-Back,Inter,1200000.0,in,Summer,1997,1997/1998
+Gustavo Campagnuolo,24,Goalkeeper,Dep. Español,600000.0,in,Summer,1997,1997/1998
+Gerard López,18,Central Midfield,Barcelona B,0.0,in,Summer,1997,1997/1998
+Miroslav Djukic,31,Centre-Back,Dep. La Coruña,0.0,in,Summer,1997,1997/1998
+Nicolás Olivera,19,Second Striker,Defensor,4000.0,in,Summer,1997,1997/1998
+Guillermo Morigi,23,Left Midfield,Vélez Sarsfield,0.0,in,Summer,1997,1997/1998
+Luis Milla,31,Central Midfield,Real Madrid,0.0,in,Summer,1997,1997/1998
+Miguel Ángel Angulo,20,Second Striker,Valencia B,0.0,in,Summer,1997,1997/1998
+Miguel Ángel Soria,23,Centre-Back,Valencia B,0.0,in,Summer,1997,1997/1998
+David Albelda,19,Defensive Midfield,Villarreal,0.0,in,Summer,1997,1997/1998
+Valeriy Karpin,28,Right Midfield,Celta de Vigo,4200000.0,out,Summer,1997,1997/1998
+Xabier Eskurza,27,Central Midfield,Real Oviedo,1500000.0,out,Summer,1997,1997/1998
+Jorge Otero,28,Right-Back,Real Betis,1200000.0,out,Summer,1997,1997/1998
+Leandro Machado,21,Centre-Forward,Sporting CP,1000000.0,out,Summer,1997,1997/1998
+José Ignacio,23,Defensive Midfield,Real Zaragoza,900000.0,out,Summer,1997,1997/1998
+Enrique Romero,26,Left-Back,RCD Mallorca,0.0,out,Summer,1997,1997/1998
+Patxi Ferreira,30,Centre-Back,Athletic,0.0,out,Summer,1997,1997/1998
+Sietes,23,Left-Back,Racing,0.0,out,Summer,1997,1997/1998
+Vicente Engonga,31,Central Midfield,RCD Mallorca,0.0,out,Summer,1997,1997/1998
+Antonio Poyatos,31,midfield,Sporting Gijón,0.0,out,Summer,1997,1997/1998
+Gabi Moya,31,midfield,RCD Mallorca,0.0,out,Summer,1997,1997/1998
+Iñaki Hurtado,25,midfield,Villarreal,0.0,out,Summer,1997,1997/1998
+Iván Campo,23,Defensive Midfield,RCD Mallorca,0.0,out,Summer,1997,1997/1998
+Adrian Ilie,23,Centre-Forward,Galatasaray,3750000.0,in,Winter,1997,1997/1998
+Moussa Saïb,28,Left Midfield,Spurs,2600000.0,out,Winter,1997,1997/1998
+Gabriel Popescu,24,Attacking Midfield,UD Salamanca,4200000.0,in,Summer,1998,1998/1999
+Cristiano Lucarelli,22,Centre-Forward,Atalanta BC,4200000.0,in,Summer,1998,1998/1999
+Stefan Schwarz,29,Central Midfield,Fiorentina,3500000.0,in,Summer,1998,1998/1999
+Óscar Téllez,23,Centre-Back,Alavés,2100000.0,in,Summer,1998,1998/1999
+Sabin Ilie,23,Centre-Forward,Kocaelispor,1000000.0,in,Summer,1998,1998/1999
+Santiago Cañizares,28,Goalkeeper,Real Madrid,0.0,in,Summer,1998,1998/1999
+Alain Roche,30,Centre-Back,Paris SG,0.0,in,Summer,1998,1998/1999
+Joachim Björklund,27,Centre-Back,Rangers,0.0,in,Summer,1998,1998/1999
+Rubén Navarro,19,Centre-Forward,Valencia B,0.0,in,Summer,1998,1998/1999
+Jero Miñarro,20,Centre-Back,Valencia B,0.0,in,Summer,1998,1998/1999
+Pepe Gálvez,23,Centre-Forward,RCD Mallorca,0.0,in,Summer,1998,1998/1999
+Iván Campo,24,Defensive Midfield,RCD Mallorca,0.0,in,Summer,1998,1998/1999
+Ariel Ortega,24,Attacking Midfield,Sampdoria,8000000.0,out,Summer,1998,1998/1999
+Iván Campo,24,Defensive Midfield,Real Madrid,4800000.0,out,Summer,1998,1998/1999
+Pepe Gálvez,23,Centre-Forward,Real Betis,3000000.0,out,Summer,1998,1998/1999
+Fernando Cáceres,29,Centre-Back,Celta de Vigo,2000000.0,out,Summer,1998,1998/1999
+Gerard López,19,Central Midfield,Alavés,0.0,out,Summer,1998,1998/1999
+Gustavo Campagnuolo,25,Goalkeeper,San Lorenzo,0.0,out,Summer,1998,1998/1999
+Marcelinho Carioca,27,Attacking Midfield,Corinthians,0.0,out,Summer,1998,1998/1999
+Fernando,32,midfield,Wolves,0.0,out,Summer,1998,1998/1999
+Chemo del Solar,30,Central Midfield,Besiktas,0.0,out,Summer,1998,1998/1999
+Nicolás Olivera,20,Second Striker,Sevilla FC,0.0,out,Summer,1998,1998/1999
+David Albelda,20,Defensive Midfield,Villarreal,0.0,out,Summer,1998,1998/1999
+Andoni Zubizarreta,36,Goalkeeper,Retired,0.0,out,Summer,1998,1998/1999
+Dennis Serban,22,Central Midfield,Steaua Bucharest,2000000.0,in,Winter,1998,1998/1999
+Romário,32,Centre-Forward,Flamengo,2500000.0,out,Winter,1998,1998/1999
+Jero Miñarro,21,Centre-Back,Rayo Vallecano,0.0,out,Winter,1998,1998/1999
+Sabin Ilie,23,Centre-Forward,UE Lleida,20000.0,out,Winter,1998,1998/1999
+Óscar Téllez,23,Centre-Back,Villarreal,0.0,out,Winter,1998,1998/1999
+Rubén Baraja,23,Central Midfield,Atlético Madrid,10800000.0,in,Summer,1999,1999/2000
+Juan Sánchez,27,Centre-Forward,Celta de Vigo,4200000.0,in,Summer,1999,1999/2000
+Kily González,24,Left Midfield,Real Zaragoza,2500000.0,in,Summer,1999,1999/2000
+Daniel Fagiani,25,Left-Back,Newell's,1800000.0,in,Summer,1999,1999/2000
+Mauricio Pellegrino,27,Centre-Back,Vélez Sarsfield,1200000.0,in,Summer,1999,1999/2000
+Gerardo,24,Right-Back,Villarreal,216000.0,in,Summer,1999,1999/2000
+Óscar García,26,Attacking Midfield,Barcelona,0.0,in,Summer,1999,1999/2000
+Andrés Palop,25,Goalkeeper,Villarreal,0.0,in,Summer,1999,1999/2000
+Curro Torres,22,Right-Back,Valencia B,0.0,in,Summer,1999,1999/2000
+Líbero Parri,17,Attacking Midfield,Valencia B,0.0,in,Summer,1999,1999/2000
+Gerard López,20,Central Midfield,Alavés,0.0,in,Summer,1999,1999/2000
+Óscar Téllez,24,Centre-Back,Villarreal,0.0,in,Summer,1999,1999/2000
+Nicolás Olivera,21,Second Striker,Sevilla FC,0.0,in,Summer,1999,1999/2000
+David Albelda,21,Defensive Midfield,Villarreal,0.0,in,Summer,1999,1999/2000
+Stefan Schwarz,30,Central Midfield,Sunderland,6000000.0,out,Summer,1999,1999/2000
+Nicolás Olivera,21,Second Striker,Sevilla FC,2550000.0,out,Summer,1999,1999/2000
+Juanfran,22,Left-Back,Celta de Vigo,2000000.0,out,Summer,1999,1999/2000
+Óscar Téllez,24,Centre-Back,Alavés,0.0,out,Summer,1999,1999/2000
+Líbero Parri,17,Attacking Midfield,Villarreal,0.0,out,Summer,1999,1999/2000
+Curro Torres,22,Right-Back,Recr. Huelva,0.0,out,Summer,1999,1999/2000
+Dennis Serban,23,Central Midfield,Villarreal,0.0,out,Summer,1999,1999/2000
+Rubén Navarro,20,Centre-Forward,CD Numancia,0.0,out,Summer,1999,1999/2000
+Guillermo Morigi,25,Left Midfield,Vélez Sarsfield,0.0,out,Summer,1999,1999/2000
+Gabriel Popescu,25,Attacking Midfield,CD Numancia,0.0,out,Summer,1999,1999/2000
+Cristiano Lucarelli,23,Centre-Forward,Lecce,0.0,out,Summer,1999,1999/2000
+John Carew,20,Centre-Forward,Rosenborg,8500000.0,in,Summer,2000,2000/2001
+Zlatko Zahovic,29,Attacking Midfield,Olympiacos,8000000.0,in,Summer,2000,2000/2001
+Diego Alonso,25,Centre-Forward,Gimnasia,7650000.0,in,Summer,2000,2000/2001
+Fábio Aurélio,20,Left-Back,São Paulo,6000000.0,in,Summer,2000,2000/2001
+Roberto Ayala,27,Centre-Back,Milan,5000000.0,in,Summer,2000,2000/2001
+Vicente,18,Left Winger,Levante,4800000.0,in,Summer,2000,2000/2001
+Didier Deschamps,31,Defensive Midfield,Chelsea,3500000.0,in,Summer,2000,2000/2001
+Líbero Parri,18,Attacking Midfield,Villarreal,0.0,in,Summer,2000,2000/2001
+Curro Torres,23,Right-Back,Recr. Huelva,0.0,in,Summer,2000,2000/2001
+Dennis Serban,24,Central Midfield,Villarreal,0.0,in,Summer,2000,2000/2001
+Claudio López,25,Centre-Forward,Lazio,23000000.0,out,Summer,2000,2000/2001
+Gerard López,21,Central Midfield,Barcelona,21600000.0,out,Summer,2000,2000/2001
+Javier Farinós,22,Defensive Midfield,Inter,16250000.0,out,Summer,2000,2000/2001
+Daniel Fagiani,26,Left-Back,Boca Juniors,400000.0,out,Summer,2000,2000/2001
+Goran Vlaovic,27,Centre-Forward,Panathinaikos,0.0,out,Summer,2000,2000/2001
+Curro Torres,23,Right-Back,CD Tenerife,0.0,out,Summer,2000,2000/2001
+Javi Navarro,26,Centre-Back,Elche CF,0.0,out,Summer,2000,2000/2001
+Dennis Serban,24,Central Midfield,Elche CF,0.0,out,Summer,2000,2000/2001
+Óscar García,27,Attacking Midfield,Espanyol,0.0,out,Summer,2000,2000/2001
+Miguel Ángel Soria,26,Centre-Back,CD Numancia,0.0,out,Summer,2000,2000/2001
+Alain Roche,32,Centre-Back,G. Bordeaux,0.0,out,Summer,2000,2000/2001
+Paco Camarasa,32,Centre-Back,Valencia B,0.0,out,Summer,2000,2000/2001
+Pablo Aimar,21,Attacking Midfield,River Plate,21250000.0,in,Winter,2000,2000/2001
+Daniel Fagiani,26,Left-Back,Boca Juniors,0.0,in,Winter,2000,2000/2001
+Líbero Parri,18,Attacking Midfield,Elche CF,0.0,out,Winter,2000,2000/2001
+Jorge Bartual,29,Goalkeeper,CD Tenerife,0.0,out,Winter,2000,2000/2001
+Gerardo,26,Right-Back,CA Osasuna,0.0,out,Winter,2000,2000/2001
+Daniel Fagiani,26,Left-Back,Atlético Madrid,0.0,out,Winter,2000,2000/2001
+Gonzalo de los Santos,24,Defensive Midfield,Málaga CF,15000000.0,in,Summer,2001,2001/2002
+Salva Ballesta,26,Centre-Forward,Atlético Madrid,10800000.0,in,Summer,2001,2001/2002
+Francisco Rufete,24,Right Winger,Málaga CF,7750000.0,in,Summer,2001,2001/2002
+Mista,22,Centre-Forward,CD Tenerife,0.0,in,Summer,2001,2001/2002
+Carlos Marchena,21,Centre-Back,Benfica,0.0,in,Summer,2001,2001/2002
+Jandro,22,Attacking Midfield,Valencia B,0.0,in,Summer,2001,2001/2002
+Javier Garrido,22,Right-Back,Valencia B,0.0,in,Summer,2001,2001/2002
+Javi Navarro,27,Centre-Back,Elche CF,0.0,in,Summer,2001,2001/2002
+Curro Torres,24,Right-Back,CD Tenerife,0.0,in,Summer,2001,2001/2002
+Gerardo,26,Right-Back,CA Osasuna,0.0,in,Summer,2001,2001/2002
+Líbero Parri,19,Attacking Midfield,Elche CF,0.0,in,Summer,2001,2001/2002
+Dennis Serban,25,Central Midfield,Elche CF,0.0,in,Summer,2001,2001/2002
+Daniel Fagiani,27,Left-Back,Atlético Madrid,0.0,in,Summer,2001,2001/2002
+Gaizka Mendieta,27,Right Midfield,Lazio,48000000.0,out,Summer,2001,2001/2002
+Joachim Björklund,30,Centre-Back,AC Venezia 1907,4000000.0,out,Summer,2001,2001/2002
+Javi Navarro,27,Centre-Back,Sevilla FC,0.0,out,Summer,2001,2001/2002
+Gerardo,26,Right-Back,Málaga CF,0.0,out,Summer,2001,2001/2002
+Zlatko Zahovic,30,Attacking Midfield,Benfica,0.0,out,Summer,2001,2001/2002
+Líbero Parri,19,Attacking Midfield,CD Numancia,0.0,out,Summer,2001,2001/2002
+Diego Alonso,26,Centre-Forward,Atlético Madrid,0.0,out,Summer,2001,2001/2002
+Daniel Fagiani,27,Left-Back,San Lorenzo,0.0,out,Summer,2001,2001/2002
+Didier Deschamps,32,Defensive Midfield,Retired,0.0,out,Summer,2001,2001/2002
+Luis Milla,35,Central Midfield,Retired,0.0,out,Summer,2001,2001/2002
+Daniel Fagiani,27,Left-Back,San Lorenzo,0.0,in,Winter,2001,2001/2002
+Dennis Serban,25,Central Midfield,Rapid Bucharest,0.0,out,Winter,2001,2001/2002
+Daniel Fagiani,27,Left-Back,Gimnasia,0.0,out,Winter,2001,2001/2002
+Jean Félix Dorothée,20,Right Midfield,Stade Rennais,0.0,in,Summer,2002,2002/2003
+David Navarro,22,Centre-Back,Valencia B,0.0,in,Summer,2002,2002/2003
+Pablo Redondo,20,Attacking Midfield,Valencia B,0.0,in,Summer,2002,2002/2003
+Miguel Albiol,20,Right Midfield,Valencia B,0.0,in,Summer,2002,2002/2003
+Diego Alonso,27,Centre-Forward,Atlético Madrid,0.0,in,Summer,2002,2002/2003
+Líbero Parri,20,Attacking Midfield,CD Numancia,0.0,in,Summer,2002,2002/2003
+Dennis Serban,26,Central Midfield,Rapid Bucharest,0.0,in,Summer,2002,2002/2003
+Daniel Fagiani,28,Left-Back,Gimnasia,0.0,in,Summer,2002,2002/2003
+Adrian Ilie,28,Centre-Forward,Alavés,1500000.0,out,Summer,2002,2002/2003
+Dennis Serban,26,Central Midfield,Córdoba CF,0.0,out,Summer,2002,2002/2003
+Líbero Parri,20,Attacking Midfield,Albacete,0.0,out,Summer,2002,2002/2003
+Jandro,23,Attacking Midfield,Celta de Vigo,0.0,out,Summer,2002,2002/2003
+Daniel Fagiani,28,Left-Back,CD Numancia,0.0,out,Summer,2002,2002/2003
+Diego Alonso,27,Centre-Forward,Racing,0.0,out,Summer,2002,2002/2003
+Joaquín Enguix,24,Right Midfield,UD Salamanca,0.0,out,Summer,2002,2002/2003
+Jocelyn Angloma,36,Right-Back,Career break,0.0,out,Summer,2002,2002/2003
+Anthony Réveillère,23,Right-Back,Stade Rennais,0.0,in,Winter,2002,2002/2003
+Salva Ballesta,27,Centre-Forward,Bolton,0.0,out,Winter,2002,2002/2003
+Miguel Albiol,21,Right Midfield,Real Murcia,0.0,out,Winter,2002,2002/2003
+Javier Garrido,23,Right-Back,Córdoba CF,0.0,out,Winter,2002,2002/2003
+Jorge López,24,Right Winger,Villarreal,4000000.0,in,Summer,2003,2003/2004
+Ricardo Oliveira,23,Centre-Forward,Santos FC,3500000.0,in,Summer,2003,2003/2004
+Mohamed Sissoko,18,Defensive Midfield,AJ Auxerre,1000000.0,in,Summer,2003,2003/2004
+Fabián Canobbio,23,Attacking Midfield,Peñarol,0.0,in,Summer,2003,2003/2004
+David Rangel,23,Goalkeeper,Valencia B,0.0,in,Summer,2003,2003/2004
+Xisco Muñoz,22,Second Striker,Valencia B,0.0,in,Summer,2003,2003/2004
+Salva Ballesta,28,Centre-Forward,Bolton,0.0,in,Summer,2003,2003/2004
+Miguel Albiol,21,Right Midfield,Real Murcia,0.0,in,Summer,2003,2003/2004
+Joaquín Enguix,25,Right Midfield,UD Salamanca,0.0,in,Summer,2003,2003/2004
+Javier Garrido,23,Right-Back,Córdoba CF,0.0,in,Summer,2003,2003/2004
+Diego Alonso,28,Centre-Forward,Racing,0.0,in,Summer,2003,2003/2004
+Kily González,29,Left Midfield,Inter,2500000.0,out,Summer,2003,2003/2004
+John Carew,23,Centre-Forward,AS Roma,2000000.0,out,Summer,2003,2003/2004
+Miroslav Djukic,37,Centre-Back,CD Tenerife,0.0,out,Summer,2003,2003/2004
+Diego Alonso,28,Centre-Forward,Málaga CF,0.0,out,Summer,2003,2003/2004
+Salva Ballesta,28,Centre-Forward,Málaga CF,0.0,out,Summer,2003,2003/2004
+Miguel Albiol,21,Right Midfield,Recr. Huelva,0.0,out,Summer,2003,2003/2004
+Pablo Redondo,21,Attacking Midfield,Albacete,0.0,out,Summer,2003,2003/2004
+Gonzalo de los Santos,26,Defensive Midfield,Atlético Madrid,0.0,out,Summer,2003,2003/2004
+Joaquín Enguix,25,Right Midfield,Recr. Huelva,0.0,out,Summer,2003,2003/2004
+Anthony Réveillère,23,Right-Back,Stade Rennais,0.0,out,Summer,2003,2003/2004
+Stefano Fiore,29,Attacking Midfield,Lazio,17000000.0,in,Summer,2004,2004/2005
+Marco Di Vaio,27,Centre-Forward,Juventus,11000000.0,in,Summer,2004,2004/2005
+Bernardo Corradi,28,Centre-Forward,Lazio,10000000.0,in,Summer,2004,2004/2005
+Marco Caneira,25,Centre-Back,G. Bordeaux,2000000.0,in,Summer,2004,2004/2005
+Ludovic Butelle,21,Goalkeeper,FC Metz,0.0,in,Summer,2004,2004/2005
+Emiliano Moretti,23,Centre-Back,Parma,0.0,in,Summer,2004,2004/2005
+Miguel Albiol,22,Right Midfield,Recr. Huelva,0.0,in,Summer,2004,2004/2005
+Pedro López,20,Right-Back,Valencia B,0.0,in,Summer,2004,2004/2005
+Raúl Albiol,18,Centre-Back,Valencia B,0.0,in,Summer,2004,2004/2005
+David Silva,18,Attacking Midfield,Valencia B,0.0,in,Summer,2004,2004/2005
+Jaime Gavilán,19,Left Winger,Valencia B,0.0,in,Summer,2004,2004/2005
+John Carew,24,Centre-Forward,AS Roma,0.0,in,Summer,2004,2004/2005
+Joaquín Enguix,26,Right Midfield,Recr. Huelva,0.0,in,Summer,2004,2004/2005
+Gonzalo de los Santos,27,Defensive Midfield,Atlético Madrid,0.0,in,Summer,2004,2004/2005
+Salva Ballesta,29,Centre-Forward,Málaga CF,0.0,in,Summer,2004,2004/2005
+Líbero Parri,22,Attacking Midfield,Albacete,0.0,in,Summer,2004,2004/2005
+Ricardo Oliveira,24,Centre-Forward,Real Betis,4500000.0,out,Summer,2004,2004/2005
+John Carew,24,Centre-Forward,Besiktas,3500000.0,out,Summer,2004,2004/2005
+Juan Sánchez,32,Centre-Forward,Celta de Vigo,0.0,out,Summer,2004,2004/2005
+David Rangel,24,Goalkeeper,UE Lleida,0.0,out,Summer,2004,2004/2005
+Miguel Albiol,22,Right Midfield,Rayo Vallecano,0.0,out,Summer,2004,2004/2005
+David Silva,18,Attacking Midfield,SD Eibar,0.0,out,Summer,2004,2004/2005
+Líbero Parri,22,Attacking Midfield,Racing,0.0,out,Summer,2004,2004/2005
+Salva Ballesta,29,Centre-Forward,Atlético Madrid,0.0,out,Summer,2004,2004/2005
+Raúl Albiol,18,Centre-Back,Getafe,0.0,out,Summer,2004,2004/2005
+Jaime Gavilán,19,Left Winger,CD Tenerife,0.0,out,Summer,2004,2004/2005
+Fabián Canobbio,24,Attacking Midfield,Celta de Vigo,0.0,out,Summer,2004,2004/2005
+Javier Garrido,25,Right-Back,Saint-Étienne,0.0,out,Summer,2004,2004/2005
+Jorge López,25,Right Winger,RCD Mallorca,0.0,out,Summer,2004,2004/2005
+Pedro López,20,Right-Back,Racing,0.0,out,Summer,2004,2004/2005
+Joaquín Enguix,26,Right Midfield,Poli Ejido,0.0,out,Summer,2004,2004/2005
+Jean Félix Dorothée,22,Right Midfield,Valencia B,0.0,out,Summer,2004,2004/2005
+Mauricio Pellegrino,33,Centre-Back,Liverpool,0.0,out,Winter,2004,2004/2005
+Ludovic Butelle,21,Goalkeeper,Hércules CF,0.0,out,Winter,2004,2004/2005
+Gonzalo de los Santos,28,Defensive Midfield,RCD Mallorca,0.0,out,Winter,2004,2004/2005
+David Villa,23,Centre-Forward,Real Zaragoza,12000000.0,in,Summer,2005,2005/2006
+Miguel,25,Right-Back,Benfica,8000000.0,in,Summer,2005,2005/2006
+José Enrique,19,Left-Back,Levante B,1800000.0,in,Summer,2005,2005/2006
+Mario Regueiro,26,Left Winger,Racing,1200000.0,in,Summer,2005,2005/2006
+Fabián Estoyanoff,22,Right Midfield,CA Fénix,800000.0,in,Summer,2005,2005/2006
+João Moreira,19,Centre-Forward,CF Estrela,770000.0,in,Summer,2005,2005/2006
+Juan Luis Mora,31,Goalkeeper,Levante,240000.0,in,Summer,2005,2005/2006
+Patrick Kluivert,29,Centre-Forward,Newcastle,0.0,in,Summer,2005,2005/2006
+Edú Gaspar,27,Central Midfield,Arsenal,0.0,in,Summer,2005,2005/2006
+Hugo Viana,22,Central Midfield,Newcastle,0.0,in,Summer,2005,2005/2006
+Manuel Ruz,19,Right-Back,Valencia U19,0.0,in,Summer,2005,2005/2006
+Miguel Pallardó,18,Central Midfield,Valencia B,0.0,in,Summer,2005,2005/2006
+Jaime Gavilán,20,Left Winger,CD Tenerife,0.0,in,Summer,2005,2005/2006
+Fabián Canobbio,25,Attacking Midfield,Celta de Vigo,0.0,in,Summer,2005,2005/2006
+Pedro López,21,Right-Back,Racing,0.0,in,Summer,2005,2005/2006
+Ludovic Butelle,22,Goalkeeper,Hércules CF,0.0,in,Summer,2005,2005/2006
+Salva Ballesta,30,Centre-Forward,Atlético Madrid,0.0,in,Summer,2005,2005/2006
+Joaquín Enguix,27,Right Midfield,Poli Ejido,0.0,in,Summer,2005,2005/2006
+Jorge López,26,Right Winger,RCD Mallorca,0.0,in,Summer,2005,2005/2006
+Javier Garrido,25,Right-Back,Saint-Étienne,0.0,in,Summer,2005,2005/2006
+David Silva,19,Attacking Midfield,SD Eibar,0.0,in,Summer,2005,2005/2006
+Líbero Parri,23,Attacking Midfield,Racing,0.0,in,Summer,2005,2005/2006
+Gonzalo de los Santos,28,Defensive Midfield,RCD Mallorca,0.0,in,Summer,2005,2005/2006
+Raúl Albiol,19,Centre-Back,Getafe,0.0,in,Summer,2005,2005/2006
+Mohamed Sissoko,20,Defensive Midfield,Liverpool,12000000.0,out,Summer,2005,2005/2006
+Fabián Canobbio,25,Attacking Midfield,Celta de Vigo,1500000.0,out,Summer,2005,2005/2006
+Fabián Estoyanoff,22,Right Midfield,Cádiz CF,300000.0,out,Summer,2005,2005/2006
+Salva Ballesta,30,Centre-Forward,Málaga CF,0.0,out,Summer,2005,2005/2006
+Andrés Palop,31,Goalkeeper,Sevilla FC,0.0,out,Summer,2005,2005/2006
+Xisco Muñoz,24,Second Striker,Real Betis,0.0,out,Summer,2005,2005/2006
+Líbero Parri,23,Attacking Midfield,Albacete,0.0,out,Summer,2005,2005/2006
+David Silva,19,Attacking Midfield,Celta de Vigo,0.0,out,Summer,2005,2005/2006
+José Enrique,19,Left-Back,Celta de Vigo,0.0,out,Summer,2005,2005/2006
+Bernardo Corradi,29,Centre-Forward,Parma,0.0,out,Summer,2005,2005/2006
+Jaime Gavilán,20,Left Winger,Getafe,0.0,out,Summer,2005,2005/2006
+Stefano Fiore,30,Attacking Midfield,Fiorentina,0.0,out,Summer,2005,2005/2006
+Joaquín Enguix,27,Right Midfield,Sporting Gijón,0.0,out,Summer,2005,2005/2006
+Pedro López,21,Right-Back,Real Valladolid,0.0,out,Summer,2005,2005/2006
+João Moreira,19,Centre-Forward,Rayo Vallecano,0.0,out,Summer,2005,2005/2006
+Javier Garrido,26,Right-Back,Albacete,0.0,out,Summer,2005,2005/2006
+Manuel Ruz,19,Right-Back,Gimnàstic,0.0,out,Summer,2005,2005/2006
+João Moreira,19,Centre-Forward,Rayo Vallecano,0.0,in,Winter,2005,2005/2006
+Marco Di Vaio,29,Centre-Forward,Monaco,100000.0,out,Winter,2005,2005/2006
+Marco Caneira,26,Centre-Back,Sporting CP,0.0,out,Winter,2005,2005/2006
+Joaquín,25,Right Winger,Real Betis,25000000.0,in,Summer,2006,2006/2007
+Francesco Tavano,27,Centre-Forward,Empoli,10000000.0,in,Summer,2006,2006/2007
+Asier del Horno,25,Left-Back,Chelsea,7500000.0,in,Summer,2006,2006/2007
+Fernando Morientes,30,Centre-Forward,Liverpool,5000000.0,in,Summer,2006,2006/2007
+Hugo Viana,23,Central Midfield,Newcastle,2300000.0,in,Summer,2006,2006/2007
+David Cerra,22,Right-Back,Valencia B,0.0,in,Summer,2006,2006/2007
+Sisi González,20,Attacking Midfield,Valencia B,0.0,in,Summer,2006,2006/2007
+Natxo Insa,20,Central Midfield,Valencia B,0.0,in,Summer,2006,2006/2007
+Fabián Estoyanoff,23,Right Midfield,Cádiz CF,0.0,in,Summer,2006,2006/2007
+José Enrique,20,Left-Back,Celta de Vigo,0.0,in,Summer,2006,2006/2007
+Jaime Gavilán,21,Left Winger,Getafe,0.0,in,Summer,2006,2006/2007
+David Silva,20,Attacking Midfield,Celta de Vigo,0.0,in,Summer,2006,2006/2007
+Marco Di Vaio,29,Centre-Forward,Monaco,0.0,in,Summer,2006,2006/2007
+Bernardo Corradi,30,Centre-Forward,Parma,0.0,in,Summer,2006,2006/2007
+Javier Garrido,26,Right-Back,Albacete,0.0,in,Summer,2006,2006/2007
+Stefano Fiore,31,Attacking Midfield,Fiorentina,0.0,in,Summer,2006,2006/2007
+Pablo Aimar,26,Attacking Midfield,Real Zaragoza,11000000.0,out,Summer,2006,2006/2007
+Mista,27,Centre-Forward,Atlético Madrid,4000000.0,out,Summer,2006,2006/2007
+José Enrique,20,Left-Back,Villarreal,3000000.0,out,Summer,2006,2006/2007
+Bernardo Corradi,30,Centre-Forward,Man City,2000000.0,out,Summer,2006,2006/2007
+Fabián Estoyanoff,23,Right Midfield,Dep. La Coruña,250000.0,out,Summer,2006,2006/2007
+Marco Di Vaio,29,Centre-Forward,Monaco,0.0,out,Summer,2006,2006/2007
+Francisco Rufete,29,Right Winger,Espanyol,0.0,out,Summer,2006,2006/2007
+Patrick Kluivert,30,Centre-Forward,PSV Eindhoven,0.0,out,Summer,2006,2006/2007
+Fábio Aurélio,26,Left-Back,Liverpool,0.0,out,Summer,2006,2006/2007
+Gonzalo de los Santos,29,Defensive Midfield,Hércules CF,0.0,out,Summer,2006,2006/2007
+Stefano Fiore,31,Attacking Midfield,Torino,0.0,out,Summer,2006,2006/2007
+Sisi González,20,Attacking Midfield,Real Valladolid,0.0,out,Summer,2006,2006/2007
+Javier Garrido,27,Right-Back,Retired,0.0,out,Summer,2006,2006/2007
+Amedeo Carboni,41,Left-Back,Retired,0.0,out,Summer,2006,2006/2007
+Hugo Viana,23,Central Midfield,Newcastle,0.0,out,Summer,2006,2006/2007
+Pablo Hernández,21,Attacking Midfield,Valencia B,0.0,in,Winter,2006,2006/2007
+Stefano Fiore,31,Attacking Midfield,Torino,0.0,in,Winter,2006,2006/2007
+Francesco Tavano,27,Centre-Forward,AS Roma,580000.0,out,Winter,2006,2006/2007
+Stefano Fiore,31,Attacking Midfield,AS Livorno,0.0,out,Winter,2006,2006/2007
+Pablo Hernández,21,Attacking Midfield,Cádiz CF,0.0,out,Winter,2006,2006/2007
+Manuel Fernandes,21,Attacking Midfield,Benfica,18000000.0,in,Summer,2007,2007/2008
+Nikola Zigic,26,Centre-Forward,Racing,14000000.0,in,Summer,2007,2007/2008
+Javier Arizmendi,23,Centre-Forward,Dep. La Coruña,12000000.0,in,Summer,2007,2007/2008
+Alexis Ruano,21,Centre-Back,Getafe,6000000.0,in,Summer,2007,2007/2008
+Sunny,18,Defensive Midfield,Poli Ejido,1800000.0,in,Summer,2007,2007/2008
+Filip Krstic,18,Centre-Back,Hertha BSC U19,350000.0,in,Summer,2007,2007/2008
+Juan Mata,19,Attacking Midfield,RM Castilla,0.0,in,Summer,2007,2007/2008
+Timo Hildebrand,28,Goalkeeper,VfB Stuttgart,0.0,in,Summer,2007,2007/2008
+Iván Helguera,32,Centre-Back,Real Madrid,0.0,in,Summer,2007,2007/2008
+Manu Micó,20,Left-Back,Benidorm,0.0,in,Summer,2007,2007/2008
+Ángel Montoro,19,Central Midfield,Valencia B,0.0,in,Summer,2007,2007/2008
+Marco Caneira,28,Centre-Back,Sporting CP,0.0,in,Summer,2007,2007/2008
+Pablo Hernández,22,Attacking Midfield,Cádiz CF,0.0,in,Summer,2007,2007/2008
+Stefano Fiore,32,Attacking Midfield,AS Livorno,0.0,in,Summer,2007,2007/2008
+Francesco Tavano,28,Centre-Forward,AS Roma,0.0,in,Summer,2007,2007/2008
+Manuel Ruz,21,Right-Back,Gimnàstic,0.0,in,Summer,2007,2007/2008
+Fabián Estoyanoff,24,Right Midfield,Dep. La Coruña,0.0,in,Summer,2007,2007/2008
+Francesco Tavano,28,Centre-Forward,AS Livorno,6000000.0,out,Summer,2007,2007/2008
+Fabián Estoyanoff,24,Right Midfield,Real Valladolid,500000.0,out,Summer,2007,2007/2008
+Stefano Fiore,32,Attacking Midfield,Mantova,0.0,out,Summer,2007,2007/2008
+Miguel Pallardó,20,Central Midfield,Getafe,0.0,out,Summer,2007,2007/2008
+Roberto Ayala,34,Centre-Back,Real Zaragoza,0.0,out,Summer,2007,2007/2008
+Pablo Hernández,22,Attacking Midfield,Getafe,0.0,out,Summer,2007,2007/2008
+Jorge López,28,Right Winger,Racing,0.0,out,Summer,2007,2007/2008
+João Moreira,21,Centre-Forward,Nacional,0.0,out,Summer,2007,2007/2008
+Asier del Horno,26,Left-Back,Athletic,0.0,out,Summer,2007,2007/2008
+Hugo Viana,24,Central Midfield,CA Osasuna,0.0,out,Summer,2007,2007/2008
+Ludovic Butelle,24,Goalkeeper,Real Valladolid,0.0,out,Summer,2007,2007/2008
+Mario Regueiro,28,Left Winger,Real Murcia,0.0,out,Summer,2007,2007/2008
+David Navarro,27,Centre-Back,RCD Mallorca,0.0,out,Summer,2007,2007/2008
+Curro Torres,30,Right-Back,Real Murcia,0.0,out,Summer,2007,2007/2008
+Natxo Insa,21,Central Midfield,SD Eibar,0.0,out,Summer,2007,2007/2008
+Manuel Ruz,21,Right-Back,Granada 74 CF,0.0,out,Summer,2007,2007/2008
+David Cerra,23,Right-Back,Poli Ejido,0.0,out,Summer,2007,2007/2008
+Éver Banega,19,Central Midfield,Boca Juniors,18000000.0,in,Winter,2007,2007/2008
+Hedwiges Maduro,22,Defensive Midfield,Ajax,2000000.0,in,Winter,2007,2007/2008
+Fabián Estoyanoff,25,Right Midfield,Real Valladolid,0.0,in,Winter,2007,2007/2008
+João Moreira,21,Centre-Forward,Nacional,0.0,in,Winter,2007,2007/2008
+Manuel Fernandes,21,Attacking Midfield,Everton,750000.0,out,Winter,2007,2007/2008
+Filip Krstic,19,Centre-Back,AS Livorno,350000.0,out,Winter,2007,2007/2008
+Jaime Gavilán,22,Left Winger,Getafe,0.0,out,Winter,2007,2007/2008
+Fabián Estoyanoff,25,Right Midfield,Peñarol,0.0,out,Winter,2007,2007/2008
+João Moreira,21,Centre-Forward,Leixões,0.0,out,Winter,2007,2007/2008
+Renan,23,Goalkeeper,Internacional,5000000.0,in,Summer,2008,2008/2009
+Pablo Hernández,23,Attacking Midfield,Getafe,1000000.0,in,Summer,2008,2008/2009
+Ignacio González,26,Attacking Midfield,Danubio FC,0.0,in,Summer,2008,2008/2009
+Jordi Alba,19,Left-Back,Valencia B,0.0,in,Summer,2008,2008/2009
+Arturo Navarro,19,Centre-Back,Valencia B,0.0,in,Summer,2008,2008/2009
+João Moreira,22,Centre-Forward,Leixões,0.0,in,Summer,2008,2008/2009
+Manuel Ruz,22,Right-Back,Granada 74 CF,0.0,in,Summer,2008,2008/2009
+Aarón Ñíguez,19,Right Winger,Iraklis,0.0,in,Summer,2008,2008/2009
+Fabián Estoyanoff,25,Right Midfield,Peñarol,0.0,in,Summer,2008,2008/2009
+Manuel Fernandes,22,Attacking Midfield,Everton,0.0,in,Summer,2008,2008/2009
+Jaime Gavilán,23,Left Winger,Getafe,0.0,in,Summer,2008,2008/2009
+David Cerra,24,Right-Back,Poli Ejido,0.0,in,Summer,2008,2008/2009
+Sisi González,22,Attacking Midfield,Real Valladolid,0.0,in,Summer,2008,2008/2009
+Asier del Horno,27,Left-Back,Athletic,0.0,in,Summer,2008,2008/2009
+Curro Torres,31,Right-Back,Real Murcia,0.0,in,Summer,2008,2008/2009
+Ludovic Butelle,25,Goalkeeper,Real Valladolid,0.0,in,Summer,2008,2008/2009
+Hugo Viana,25,Central Midfield,CA Osasuna,0.0,in,Summer,2008,2008/2009
+Mario Regueiro,29,Left Winger,Real Murcia,0.0,in,Summer,2008,2008/2009
+Jaime Gavilán,23,Left Winger,Getafe,4500000.0,out,Summer,2008,2008/2009
+Javier Arizmendi,24,Centre-Forward,Real Zaragoza,4000000.0,out,Summer,2008,2008/2009
+Éver Banega,20,Central Midfield,Atlético Madrid,1500000.0,out,Summer,2008,2008/2009
+Sisi González,22,Attacking Midfield,Recr. Huelva,700000.0,out,Summer,2008,2008/2009
+Mario Regueiro,29,Left Winger,Aris Saloniki,100000.0,out,Summer,2008,2008/2009
+David Cerra,24,Right-Back,Levante,0.0,out,Summer,2008,2008/2009
+Juan Luis Mora,34,Goalkeeper,Levante,0.0,out,Summer,2008,2008/2009
+Fabián Estoyanoff,25,Right Midfield,Panionios,0.0,out,Summer,2008,2008/2009
+João Moreira,22,Centre-Forward,Beira-Mar,0.0,out,Summer,2008,2008/2009
+Marco Caneira,29,Centre-Back,Sporting CP,0.0,out,Summer,2008,2008/2009
+Jordi Alba,19,Left-Back,Gimnàstic,0.0,out,Summer,2008,2008/2009
+Sunny,19,Defensive Midfield,CA Osasuna,0.0,out,Summer,2008,2008/2009
+Aarón Ñíguez,19,Right Winger,Rangers,0.0,out,Summer,2008,2008/2009
+Ludovic Butelle,25,Goalkeeper,LOSC Lille,0.0,out,Summer,2008,2008/2009
+Ignacio González,26,Attacking Midfield,Newcastle,0.0,out,Summer,2008,2008/2009
+Manuel Ruz,22,Right-Back,Hércules CF,0.0,out,Summer,2008,2008/2009
+Ángel Montoro,20,Central Midfield,Real Murcia,0.0,out,Summer,2008,2008/2009
+Santiago Cañizares,38,Goalkeeper,Retired,0.0,out,Summer,2008,2008/2009
+Thiago Carleto,19,Left-Back,Santos FC,600000.0,in,Winter,2008,2008/2009
+César Sánchez,37,Goalkeeper,Spurs,0.0,in,Winter,2008,2008/2009
+Vicente Guaita,21,Goalkeeper,Valencia B,0.0,in,Winter,2008,2008/2009
+Míchel Herrero,20,Central Midfield,Valencia B,0.0,in,Winter,2008,2008/2009
+Nikola Zigic,28,Centre-Forward,Racing,500000.0,out,Winter,2008,2008/2009
+Timo Hildebrand,29,Goalkeeper,TSG Hoffenheim,0.0,out,Winter,2008,2008/2009
+Iván Helguera,33,Centre-Back,Retired,0.0,out,Winter,2008,2008/2009
+Miguel Ángel Moyá,25,Goalkeeper,RCD Mallorca,5000000.0,in,Summer,2009,2009/2010
+Ángel Dealbert,26,Centre-Back,CD Castellón,0.0,in,Summer,2009,2009/2010
+Jérémy Mathieu,25,Left-Back,Toulouse,0.0,in,Summer,2009,2009/2010
+Bruno Saltor,28,Right-Back,UD Almería,0.0,in,Summer,2009,2009/2010
+Miku Fedor,23,Centre-Forward,Valencia B,0.0,in,Summer,2009,2009/2010
+Nikola Zigic,28,Centre-Forward,Racing,0.0,in,Summer,2009,2009/2010
+Ignacio González,27,Attacking Midfield,Newcastle,0.0,in,Summer,2009,2009/2010
+Ludovic Butelle,26,Goalkeeper,LOSC Lille,0.0,in,Summer,2009,2009/2010
+Éver Banega,21,Central Midfield,Atlético Madrid,0.0,in,Summer,2009,2009/2010
+Aarón Ñíguez,20,Right Winger,Rangers,0.0,in,Summer,2009,2009/2010
+Jordi Alba,20,Left-Back,Gimnàstic,0.0,in,Summer,2009,2009/2010
+Sunny,20,Defensive Midfield,CA Osasuna,0.0,in,Summer,2009,2009/2010
+Ángel Montoro,21,Central Midfield,Real Murcia,0.0,in,Summer,2009,2009/2010
+David Navarro,29,Centre-Back,RCD Mallorca,0.0,in,Summer,2009,2009/2010
+Raúl Albiol,23,Centre-Back,Real Madrid,15000000.0,out,Summer,2009,2009/2010
+Emiliano Moretti,28,Centre-Back,Genoa,3700000.0,out,Summer,2009,2009/2010
+Renan,24,Goalkeeper,Xerez CD,500000.0,out,Summer,2009,2009/2010
+Sunny,20,Defensive Midfield,Real Betis,500000.0,out,Summer,2009,2009/2010
+Hugo Viana,26,Central Midfield,SC Braga,300000.0,out,Summer,2009,2009/2010
+Edú Gaspar,31,Central Midfield,Corinthians,0.0,out,Summer,2009,2009/2010
+Miguel Ángel Angulo,32,Second Striker,Sporting CP,0.0,out,Summer,2009,2009/2010
+Ludovic Butelle,26,Goalkeeper,LOSC Lille,0.0,out,Summer,2009,2009/2010
+Fernando Morientes,33,Centre-Forward,Marseille,0.0,out,Summer,2009,2009/2010
+Curro Torres,32,Right-Back,Gimnàstic,0.0,out,Summer,2009,2009/2010
+Aarón Ñíguez,20,Right Winger,Celta de Vigo,0.0,out,Summer,2009,2009/2010
+Thiago Carleto,20,Left-Back,Elche CF,0.0,out,Summer,2009,2009/2010
+Vicente Guaita,22,Goalkeeper,Recr. Huelva,0.0,out,Summer,2009,2009/2010
+Ángel Montoro,21,Central Midfield,Valencia B,0.0,out,Summer,2009,2009/2010
+Alejandro Domínguez,28,Attacking Midfield,Rubin Kazan,0.0,in,Winter,2009,2009/2010
+Thiago Carleto,20,Left-Back,Elche CF,0.0,in,Winter,2009,2009/2010
+Asier del Horno,28,Left-Back,Real Valladolid,625000.0,out,Winter,2009,2009/2010
+Miku Fedor,24,Centre-Forward,Getafe,0.0,out,Winter,2009,2009/2010
+Thiago Carleto,20,Left-Back,São Paulo,0.0,out,Winter,2009,2009/2010
+Ignacio González,27,Attacking Midfield,APO Levadiakos,0.0,out,Winter,2009,2009/2010
+Roberto Soldado,25,Centre-Forward,Getafe,10000000.0,in,Summer,2010,2010/2011
+Tino Costa,25,Central Midfield,Montpellier,6500000.0,in,Summer,2010,2010/2011
+Mehmet Topal,24,Defensive Midfield,Galatasaray,5500000.0,in,Summer,2010,2010/2011
+Aritz Aduriz,29,Centre-Forward,RCD Mallorca,4300000.0,in,Summer,2010,2010/2011
+Marius Stankevicius,29,Centre-Back,Sampdoria,300000.0,in,Summer,2010,2010/2011
+Sofiane Feghouli,20,Right Winger,Grenoble,0.0,in,Summer,2010,2010/2011
+Ricardo Costa,29,Centre-Back,LOSC Lille,0.0,in,Summer,2010,2010/2011
+Aarón Ñíguez,21,Right Winger,Celta de Vigo,0.0,in,Summer,2010,2010/2011
+Ignacio González,28,Attacking Midfield,APO Levadiakos,0.0,in,Summer,2010,2010/2011
+Asier del Horno,29,Left-Back,Real Valladolid,0.0,in,Summer,2010,2010/2011
+Hugo Viana,27,Central Midfield,SC Braga,0.0,in,Summer,2010,2010/2011
+Renan,25,Goalkeeper,Xerez CD,0.0,in,Summer,2010,2010/2011
+Sunny,21,Defensive Midfield,Real Betis,0.0,in,Summer,2010,2010/2011
+Vicente Guaita,23,Goalkeeper,Recr. Huelva,0.0,in,Summer,2010,2010/2011
+David Villa,28,Centre-Forward,Barcelona,40000000.0,out,Summer,2010,2010/2011
+David Silva,24,Attacking Midfield,Man City,28750000.0,out,Summer,2010,2010/2011
+Nikola Zigic,29,Centre-Forward,Birmingham,7000000.0,out,Summer,2010,2010/2011
+Alexis Ruano,25,Centre-Back,Sevilla FC,5000000.0,out,Summer,2010,2010/2011
+Carlos Marchena,31,Centre-Back,Villarreal,2500000.0,out,Summer,2010,2010/2011
+Renan,25,Goalkeeper,Internacional,300000.0,out,Summer,2010,2010/2011
+Hugo Viana,27,Central Midfield,SC Braga,0.0,out,Summer,2010,2010/2011
+Arturo Navarro,20,Centre-Back,Ontinyent CF,0.0,out,Summer,2010,2010/2011
+Asier del Horno,29,Left-Back,Levante,0.0,out,Summer,2010,2010/2011
+Ignacio González,28,Attacking Midfield,Levante,0.0,out,Summer,2010,2010/2011
+Aarón Ñíguez,21,Right Winger,Recr. Huelva,0.0,out,Summer,2010,2010/2011
+Míchel Herrero,21,Central Midfield,Dep. La Coruña,0.0,out,Summer,2010,2010/2011
+Rubén Baraja,34,Central Midfield,Retired,0.0,out,Summer,2010,2010/2011
+Jonas,26,Second Striker,Grêmio,1250000.0,in,Winter,2010,2010/2011
+Ignacio González,28,Attacking Midfield,Levante,0.0,in,Winter,2010,2010/2011
+Manuel Fernandes,24,Attacking Midfield,Besiktas,800000.0,out,Winter,2010,2010/2011
+Sunny,22,Defensive Midfield,CD Numancia,0.0,out,Winter,2010,2010/2011
+Sofiane Feghouli,21,Right Winger,UD Almería,0.0,out,Winter,2010,2010/2011
+Víctor Ruiz,22,Centre-Back,SSC Napoli,8000000.0,in,Summer,2011,2011/2012
+Pablo Piatti,22,Left Winger,UD Almería,7500000.0,in,Summer,2011,2011/2012
+Adil Rami,25,Centre-Back,LOSC Lille,6000000.0,in,Summer,2011,2011/2012
+Dani Parejo,22,Central Midfield,Getafe,6000000.0,in,Summer,2011,2011/2012
+Diego Alves,26,Goalkeeper,UD Almería,3000000.0,in,Summer,2011,2011/2012
+Sergio Canales,20,Attacking Midfield,Real Madrid,2000000.0,in,Summer,2011,2011/2012
+Antonio Barragán,24,Right-Back,Real Valladolid,1500000.0,in,Summer,2011,2011/2012
+Cristiano Figueiredo,20,Goalkeeper,SC Braga,0.0,in,Summer,2011,2011/2012
+Paco Alcácer,17,Centre-Forward,Valencia B,0.0,in,Summer,2011,2011/2012
+Manuel Fernandes,25,Attacking Midfield,Besiktas,0.0,in,Summer,2011,2011/2012
+Sofiane Feghouli,21,Right Winger,UD Almería,0.0,in,Summer,2011,2011/2012
+Sunny,22,Defensive Midfield,CD Numancia,0.0,in,Summer,2011,2011/2012
+Aarón Ñíguez,22,Right Winger,Recr. Huelva,0.0,in,Summer,2011,2011/2012
+Renan,26,Goalkeeper,Internacional,0.0,in,Summer,2011,2011/2012
+Míchel Herrero,22,Central Midfield,Dep. La Coruña,0.0,in,Summer,2011,2011/2012
+Asier del Horno,30,Left-Back,Levante,0.0,in,Summer,2011,2011/2012
+Juan Mata,23,Attacking Midfield,Chelsea,26700000.0,out,Summer,2011,2011/2012
+Joaquín,29,Right Winger,Málaga CF,4200000.0,out,Summer,2011,2011/2012
+Manuel Fernandes,25,Attacking Midfield,Besiktas,2000000.0,out,Summer,2011,2011/2012
+Aarón Ñíguez,22,Right Winger,UD Almería,0.0,out,Summer,2011,2011/2012
+Asier del Horno,30,Left-Back,Levante,0.0,out,Summer,2011,2011/2012
+Renan,26,Goalkeeper,Internacional,0.0,out,Summer,2011,2011/2012
+David Navarro,31,Centre-Back,Neuchâtel Xamax,0.0,out,Summer,2011,2011/2012
+Ignacio González,29,Attacking Midfield,Standard Liège,0.0,out,Summer,2011,2011/2012
+Sunny,22,Defensive Midfield,CD Numancia,0.0,out,Summer,2011,2011/2012
+César Sánchez,39,Goalkeeper,Villarreal,0.0,out,Summer,2011,2011/2012
+Alejandro Domínguez,30,Attacking Midfield,River Plate,0.0,out,Summer,2011,2011/2012
+Miguel Ángel Moyá,27,Goalkeeper,Getafe,0.0,out,Summer,2011,2011/2012
+Míchel Herrero,22,Central Midfield,Hércules CF,0.0,out,Summer,2011,2011/2012
+Vicente,29,Left Winger,Without Club,0.0,out,Summer,2011,2011/2012
+Marius Stankevicius,29,Centre-Back,Sampdoria,0.0,out,Summer,2011,2011/2012
+Sergio Canales,21,Attacking Midfield,Real Madrid,7500000.0,in,Summer,2012,2012/2013
+Aly Cissokho,24,Centre-Back,Olympique Lyon,6000000.0,in,Summer,2012,2012/2013
+João Pereira,28,Right-Back,Sporting CP,3700000.0,in,Summer,2012,2012/2013
+Fernando Gago,26,Defensive Midfield,Real Madrid,3500000.0,in,Summer,2012,2012/2013
+Jonathan Viera,22,Attacking Midfield,UD Las Palmas,2500000.0,in,Summer,2012,2012/2013
+Andrés Guardado,25,Central Midfield,Dep. La Coruña,0.0,in,Summer,2012,2012/2013
+Nelson Valdez,28,Centre-Forward,Rubin Kazan,0.0,in,Summer,2012,2012/2013
+Alejandro Domínguez,31,Attacking Midfield,River Plate,0.0,in,Summer,2012,2012/2013
+Míchel Herrero,23,Central Midfield,Hércules CF,0.0,in,Summer,2012,2012/2013
+Miguel Ángel Moyá,28,Goalkeeper,Getafe,0.0,in,Summer,2012,2012/2013
+Jordi Alba,23,Left-Back,Barcelona,14000000.0,out,Summer,2012,2012/2013
+Pablo Hernández,27,Attacking Midfield,Swansea,7000000.0,out,Summer,2012,2012/2013
+Mehmet Topal,26,Defensive Midfield,Fenerbahce,4500000.0,out,Summer,2012,2012/2013
+Aritz Aduriz,31,Centre-Forward,Athletic,2500000.0,out,Summer,2012,2012/2013
+Miguel Ángel Moyá,28,Goalkeeper,Getafe,2000000.0,out,Summer,2012,2012/2013
+Alejandro Domínguez,31,Attacking Midfield,Rayo Vallecano,0.0,out,Summer,2012,2012/2013
+Hedwiges Maduro,27,Defensive Midfield,Sevilla FC,0.0,out,Summer,2012,2012/2013
+Ángel Dealbert,29,Centre-Back,Kuban Krasnodar,0.0,out,Summer,2012,2012/2013
+Bruno Saltor,31,Right-Back,Brighton,0.0,out,Summer,2012,2012/2013
+Míchel Herrero,23,Central Midfield,Levante,0.0,out,Summer,2012,2012/2013
+Paco Alcácer,19,Centre-Forward,Getafe,0.0,out,Summer,2012,2012/2013
+Miguel,32,Right-Back,Retired,0.0,out,Summer,2012,2012/2013
+Cristiano Figueiredo,21,Goalkeeper,SC Braga,0.0,out,Summer,2012,2012/2013
+Sergio Canales,21,Attacking Midfield,Real Madrid,0.0,out,Summer,2012,2012/2013
+Fernando Gago,26,Defensive Midfield,Vélez Sarsfield,0.0,out,Winter,2012,2012/2013
+Dorlan Pabón,25,Right Winger,Monterrey,8000000.0,in,Summer,2013,2013/2014
+Nelson Valdez,29,Centre-Forward,Rubin Kazan,3000000.0,in,Summer,2013,2013/2014
+Hélder Postiga,31,Centre-Forward,Real Zaragoza,3000000.0,in,Summer,2013,2013/2014
+Oriol Romeu,21,Defensive Midfield,Chelsea,1000000.0,in,Summer,2013,2013/2014
+Míchel Herrero,24,Central Midfield,Levante,420000.0,in,Summer,2013,2013/2014
+Javi Fuego,29,Defensive Midfield,Rayo Vallecano,0.0,in,Summer,2013,2013/2014
+Fede Cartabia,20,Right Winger,Valencia B,0.0,in,Summer,2013,2013/2014
+Juan Bernat,20,Left-Back,Valencia B,0.0,in,Summer,2013,2013/2014
+Fernando Gago,27,Defensive Midfield,Vélez Sarsfield,0.0,in,Summer,2013,2013/2014
+Paco Alcácer,19,Centre-Forward,Getafe,0.0,in,Summer,2013,2013/2014
+Roberto Soldado,28,Centre-Forward,Spurs,30000000.0,out,Summer,2013,2013/2014
+Tino Costa,28,Central Midfield,Spartak Moscow,6500000.0,out,Summer,2013,2013/2014
+Nelson Valdez,29,Centre-Forward,Al-Jazira,3000000.0,out,Summer,2013,2013/2014
+Fernando Gago,27,Defensive Midfield,Boca Juniors,1700000.0,out,Summer,2013,2013/2014
+Aly Cissokho,25,Centre-Back,Liverpool,1000000.0,out,Summer,2013,2013/2014
+Jonathan Viera,23,Attacking Midfield,Rayo Vallecano,0.0,out,Summer,2013,2013/2014
+David Albelda,35,Defensive Midfield,Retired,0.0,out,Summer,2013,2013/2014
+Nelson Valdez,29,Centre-Forward,Rubin Kazan,0.0,out,Summer,2013,2013/2014
+Vinícius Araújo,20,Centre-Forward,Cruzeiro,3500000.0,in,Winter,2013,2013/2014
+Rúben Vezo,19,Centre-Back,Vitória Setúbal,2049999.9999999998,in,Winter,2013,2013/2014
+Eduardo Vargas,24,Second Striker,SSC Napoli,1500000.0,in,Winter,2013,2013/2014
+Seydou Keita,34,Central Midfield,DL Aerbin,0.0,in,Winter,2013,2013/2014
+Philippe Senderos,28,Centre-Back,Fulham,0.0,in,Winter,2013,2013/2014
+Sergio Canales,22,Attacking Midfield,Real Sociedad,3500000.0,out,Winter,2013,2013/2014
+Andrés Guardado,27,Central Midfield,Bay. Leverkusen,1000000.0,out,Winter,2013,2013/2014
+Adil Rami,28,Centre-Back,AC Milan,400000.0,out,Winter,2013,2013/2014
+Hélder Postiga,31,Centre-Forward,Lazio,0.0,out,Winter,2013,2013/2014
+Éver Banega,25,Central Midfield,Newell's,0.0,out,Winter,2013,2013/2014
+Dorlan Pabón,26,Right Winger,São Paulo,0.0,out,Winter,2013,2013/2014
+Nicolás Otamendi,26,Centre-Back,FC Porto,12000000.0,in,Summer,2014,2014/2015
+Shkodran Mustafi,22,Centre-Back,Sampdoria,8000000.0,in,Summer,2014,2014/2015
+Rodrigo de Paul,20,Central Midfield,Racing Club,6550000.0,in,Summer,2014,2014/2015
+Lucas Orbán,25,Centre-Back,G. Bordeaux,3500000.0,in,Summer,2014,2014/2015
+Yoel Rodríguez,25,Goalkeeper,Celta de Vigo,0.0,in,Summer,2014,2014/2015
+André Gomes,20,Central Midfield,Benfica,0.0,in,Summer,2014,2014/2015
+Rodrigo,23,Second Striker,Benfica,0.0,in,Summer,2014,2014/2015
+João Cancelo,20,Right-Back,Benfica,0.0,in,Summer,2014,2014/2015
+Bruno Zuculini,21,Defensive Midfield,Man City,0.0,in,Summer,2014,2014/2015
+Filipe Augusto,21,Defensive Midfield,Rio Ave FC,0.0,in,Summer,2014,2014/2015
+Álvaro Negredo,29,Centre-Forward,Man City,0.0,in,Summer,2014,2014/2015
+Rober Ibáñez,21,Right Winger,Valencia B,0.0,in,Summer,2014,2014/2015
+Carles Gil,21,Attacking Midfield,Valencia B,0.0,in,Summer,2014,2014/2015
+José Gayà,19,Left-Back,Valencia B,0.0,in,Summer,2014,2014/2015
+Éver Banega,26,Central Midfield,Newell's,0.0,in,Summer,2014,2014/2015
+Andrés Guardado,27,Central Midfield,Bay. Leverkusen,0.0,in,Summer,2014,2014/2015
+Hélder Postiga,31,Centre-Forward,Lazio,0.0,in,Summer,2014,2014/2015
+Dorlan Pabón,26,Right Winger,São Paulo,0.0,in,Summer,2014,2014/2015
+Adil Rami,28,Centre-Back,AC Milan,0.0,in,Summer,2014,2014/2015
+Jonathan Viera,24,Attacking Midfield,Rayo Vallecano,0.0,in,Summer,2014,2014/2015
+Aly Cissokho,26,Centre-Back,Liverpool,0.0,in,Summer,2014,2014/2015
+Jérémy Mathieu,30,Left-Back,Barcelona,20000000.0,out,Summer,2014,2014/2015
+Juan Bernat,21,Left-Back,Bayern Munich,10000000.0,out,Summer,2014,2014/2015
+Dorlan Pabón,26,Right Winger,Monterrey,6000000.0,out,Summer,2014,2014/2015
+Adil Rami,28,Centre-Back,AC Milan,4250000.0,out,Summer,2014,2014/2015
+Aly Cissokho,26,Centre-Back,Aston Villa,2500000.0,out,Summer,2014,2014/2015
+Éver Banega,26,Central Midfield,Sevilla FC,2500000.0,out,Summer,2014,2014/2015
+Jonathan Viera,24,Attacking Midfield,Standard Liège,2000000.0,out,Summer,2014,2014/2015
+Vicente Guaita,27,Goalkeeper,Getafe,0.0,out,Summer,2014,2014/2015
+Seydou Keita,34,Central Midfield,AS Roma,0.0,out,Summer,2014,2014/2015
+Philippe Senderos,29,Centre-Back,Aston Villa,0.0,out,Summer,2014,2014/2015
+Hélder Postiga,32,Centre-Forward,Dep. La Coruña,0.0,out,Summer,2014,2014/2015
+Ricardo Costa,33,Centre-Back,Al-Sailiya SC,0.0,out,Summer,2014,2014/2015
+Míchel Herrero,25,Central Midfield,Getafe,0.0,out,Summer,2014,2014/2015
+Víctor Ruiz,25,Centre-Back,Villarreal,0.0,out,Summer,2014,2014/2015
+Fede Cartabia,21,Right Winger,Córdoba CF,0.0,out,Summer,2014,2014/2015
+Vinícius Araújo,21,Centre-Forward,Standard Liège,0.0,out,Summer,2014,2014/2015
+Andrés Guardado,27,Central Midfield,PSV Eindhoven,0.0,out,Summer,2014,2014/2015
+Jonas,30,Second Striker,Without Club,0.0,out,Summer,2014,2014/2015
+Eduardo Vargas,24,Second Striker,SSC Napoli,0.0,out,Summer,2014,2014/2015
+Oriol Romeu,22,Defensive Midfield,Chelsea,0.0,out,Summer,2014,2014/2015
+Enzo Pérez,28,Defensive Midfield,Benfica,25000000.0,in,Winter,2014,2014/2015
+Míchel Herrero,26,Central Midfield,Getafe,0.0,in,Winter,2014,2014/2015
+Carles Gil,22,Attacking Midfield,Aston Villa,4200000.0,out,Winter,2014,2014/2015
+Míchel Herrero,26,Central Midfield,GZ R&F,4000000.0,out,Winter,2014,2014/2015
+João Pereira,30,Right-Back,Hannover 96,0.0,out,Winter,2014,2014/2015
+Rober Ibáñez,21,Right Winger,Granada CF,0.0,out,Winter,2014,2014/2015
+Bruno Zuculini,21,Defensive Midfield,Man City,0.0,out,Winter,2014,2014/2015
+Rodrigo,24,Second Striker,Benfica,30000000.0,in,Summer,2015,2015/2016
+Álvaro Negredo,29,Centre-Forward,Man City,28000000.0,in,Summer,2015,2015/2016
+Aymen Abdennour,26,Centre-Back,Monaco,22000000.0,in,Summer,2015,2015/2016
+André Gomes,21,Central Midfield,Benfica,20000000.0,in,Summer,2015,2015/2016
+João Cancelo,21,Right-Back,Benfica,15000000.0,in,Summer,2015,2015/2016
+Santi Mina,19,Centre-Forward,Celta de Vigo,10000000.0,in,Summer,2015,2015/2016
+Aderllan Santos,26,Centre-Back,SC Braga,9500000.0,in,Summer,2015,2015/2016
+Mathew Ryan,23,Goalkeeper,Club Brugge,7000000.0,in,Summer,2015,2015/2016
+Yoel Rodríguez,26,Goalkeeper,Celta de Vigo,2000000.0,in,Summer,2015,2015/2016
+Danilo Barbosa,19,Defensive Midfield,SC Braga,400000.0,in,Summer,2015,2015/2016
+Zakaria Bakkali,19,Left Winger,PSV U21,0.0,in,Summer,2015,2015/2016
+Jaume Doménech,24,Goalkeeper,Valencia B,0.0,in,Summer,2015,2015/2016
+Víctor Ruiz,26,Centre-Back,Villarreal,0.0,in,Summer,2015,2015/2016
+Fede Cartabia,22,Right Winger,Córdoba CF,0.0,in,Summer,2015,2015/2016
+Rober Ibáñez,22,Right Winger,Granada CF,0.0,in,Summer,2015,2015/2016
+Andrés Guardado,28,Central Midfield,PSV Eindhoven,0.0,in,Summer,2015,2015/2016
+Vinícius Araújo,22,Centre-Forward,Standard Liège,0.0,in,Summer,2015,2015/2016
+Nicolás Otamendi,27,Centre-Back,Man City,44500000.0,out,Summer,2015,2015/2016
+Andrés Guardado,28,Central Midfield,PSV Eindhoven,2800000.0,out,Summer,2015,2015/2016
+Víctor Ruiz,26,Centre-Back,Villarreal,2700000.0,out,Summer,2015,2015/2016
+Fede Cartabia,22,Right Winger,Dep. La Coruña,0.0,out,Summer,2015,2015/2016
+Rober Ibáñez,22,Right Winger,Granada CF,0.0,out,Summer,2015,2015/2016
+Vinícius Araújo,22,Centre-Forward,Cruzeiro,0.0,out,Summer,2015,2015/2016
+Yoel Rodríguez,26,Goalkeeper,Celta de Vigo,0.0,out,Summer,2015,2015/2016
+João Cancelo,21,Right-Back,Benfica,0.0,out,Summer,2015,2015/2016
+André Gomes,21,Central Midfield,Benfica,0.0,out,Summer,2015,2015/2016
+Rodrigo,24,Second Striker,Benfica,0.0,out,Summer,2015,2015/2016
+Álvaro Negredo,29,Centre-Forward,Man City,0.0,out,Summer,2015,2015/2016
+Filipe Augusto,21,Defensive Midfield,Rio Ave FC,0.0,out,Summer,2015,2015/2016
+Guilherme Siqueira,29,Left-Back,Atlético Madrid,0.0,in,Winter,2015,2015/2016
+Denis Cheryshev,25,Left Winger,Real Madrid,0.0,in,Winter,2015,2015/2016
+Vinícius Araújo,23,Centre-Forward,Cruzeiro,0.0,in,Winter,2015,2015/2016
+Rodrigo de Paul,21,Central Midfield,Racing Club,0.0,out,Winter,2015,2015/2016
+Vinícius Araújo,23,Centre-Forward,Sport Recife,0.0,out,Winter,2015,2015/2016
+Yoel Rodríguez,27,Goalkeeper,Rayo Vallecano,0.0,out,Winter,2015,2015/2016
+Lucas Orbán,26,Centre-Back,Levante,0.0,out,Winter,2015,2015/2016
+Ezequiel Garay,29,Centre-Back,Zenit S-Pb,24000000.0,in,Summer,2016,2016/2017
+Nani,29,Left Winger,Fenerbahce,8500000.0,in,Summer,2016,2016/2017
+Álvaro Medrán,22,Central Midfield,Real Madrid,1500000.0,in,Summer,2016,2016/2017
+Martín Montoya,25,Right-Back,Barcelona,0.0,in,Summer,2016,2016/2017
+Eliaquim Mangala,25,Centre-Back,Man City,0.0,in,Summer,2016,2016/2017
+Mario Suárez,29,Centre-Back,Watford,0.0,in,Summer,2016,2016/2017
+Munir El Haddadi,20,Centre-Forward,Barcelona,0.0,in,Summer,2016,2016/2017
+Rober Ibáñez,23,Right Winger,Granada CF,0.0,in,Summer,2016,2016/2017
+Rodrigo de Paul,22,Central Midfield,Racing Club,0.0,in,Summer,2016,2016/2017
+Lucas Orbán,27,Centre-Back,Levante,0.0,in,Summer,2016,2016/2017
+Yoel Rodríguez,27,Goalkeeper,Rayo Vallecano,0.0,in,Summer,2016,2016/2017
+Fede Cartabia,23,Right Winger,Dep. La Coruña,0.0,in,Summer,2016,2016/2017
+Shkodran Mustafi,24,Centre-Back,Arsenal,41000000.0,out,Summer,2016,2016/2017
+André Gomes,22,Central Midfield,Barcelona,37000000.0,out,Summer,2016,2016/2017
+Paco Alcácer,23,Centre-Forward,Barcelona,30000000.0,out,Summer,2016,2016/2017
+Rodrigo de Paul,22,Central Midfield,Udinese Calcio,10000000.0,out,Summer,2016,2016/2017
+Antonio Barragán,29,Right-Back,Middlesbrough,2700000.0,out,Summer,2016,2016/2017
+Javi Fuego,32,Defensive Midfield,Espanyol,1000000.0,out,Summer,2016,2016/2017
+Pablo Piatti,27,Left Winger,Espanyol,200000.0,out,Summer,2016,2016/2017
+Sofiane Feghouli,26,Right Winger,West Ham,0.0,out,Summer,2016,2016/2017
+Lucas Orbán,27,Centre-Back,Genoa,0.0,out,Summer,2016,2016/2017
+Rúben Vezo,22,Centre-Back,Granada CF,0.0,out,Summer,2016,2016/2017
+Rober Ibáñez,23,Right Winger,CD Leganés,0.0,out,Summer,2016,2016/2017
+Álvaro Negredo,30,Centre-Forward,Middlesbrough,0.0,out,Summer,2016,2016/2017
+Yoel Rodríguez,27,Goalkeeper,SD Eibar,0.0,out,Summer,2016,2016/2017
+Denis Cheryshev,25,Left Winger,Real Madrid,0.0,out,Summer,2016,2016/2017
+Danilo Barbosa,20,Defensive Midfield,SC Braga,0.0,out,Summer,2016,2016/2017
+Simone Zaza,25,Centre-Forward,Juventus,2000000.0,in,Winter,2016,2016/2017
+Fabián Orellana,31,Right Winger,Celta de Vigo,0.0,in,Winter,2016,2016/2017
+Carlos Soler,19,Central Midfield,Valencia B,0.0,in,Winter,2016,2016/2017
+Vinícius Araújo,23,Centre-Forward,Sport Recife,0.0,in,Winter,2016,2016/2017
+Fede Cartabia,24,Right Winger,Dep. La Coruña,0.0,out,Winter,2016,2016/2017
+Vinícius Araújo,23,Centre-Forward,SD Huesca,0.0,out,Winter,2016,2016/2017
+Mathew Ryan,24,Goalkeeper,KRC Genk,0.0,out,Winter,2016,2016/2017
+Simone Zaza,26,Centre-Forward,Juventus,16000000.0,in,Summer,2017,2017/2018
+Gabriel Paulista,26,Centre-Back,Arsenal,11000000.0,in,Summer,2017,2017/2018
+Neto,27,Goalkeeper,Juventus,7000000.0,in,Summer,2017,2017/2018
+Fabián Orellana,31,Right Winger,Celta de Vigo,3000000.0,in,Summer,2017,2017/2018
+Andreas Pereira,21,Attacking Midfield,Man Utd,3000000.0,in,Summer,2017,2017/2018
+Jeison Murillo,25,Centre-Back,Inter,1000000.0,in,Summer,2017,2017/2018
+Nemanja Maksimović,22,Defensive Midfield,FC Astana,0.0,in,Summer,2017,2017/2018
+Geoffrey Kondogbia,24,Defensive Midfield,Inter,0.0,in,Summer,2017,2017/2018
+Gonçalo Guedes,20,Left Winger,Paris SG,0.0,in,Summer,2017,2017/2018
+Nacho Vidal,22,Right-Back,Valencia B,0.0,in,Summer,2017,2017/2018
+Nacho Gil,21,Left Winger,Valencia B,0.0,in,Summer,2017,2017/2018
+Toni Lato,19,Left-Back,Valencia B,0.0,in,Summer,2017,2017/2018
+Mathew Ryan,25,Goalkeeper,KRC Genk,0.0,in,Summer,2017,2017/2018
+Vinícius Araújo,24,Centre-Forward,SD Huesca,0.0,in,Summer,2017,2017/2018
+Rober Ibáñez,24,Right Winger,CD Leganés,0.0,in,Summer,2017,2017/2018
+Rúben Vezo,23,Centre-Back,Granada CF,0.0,in,Summer,2017,2017/2018
+Álvaro Negredo,31,Centre-Forward,Middlesbrough,0.0,in,Summer,2017,2017/2018
+Pablo Piatti,28,Left Winger,Espanyol,0.0,in,Summer,2017,2017/2018
+Yoel Rodríguez,28,Goalkeeper,SD Eibar,0.0,in,Summer,2017,2017/2018
+Mathew Ryan,25,Goalkeeper,Brighton,6000000.0,out,Summer,2017,2017/2018
+Enzo Pérez,31,Defensive Midfield,River Plate,2500000.0,out,Summer,2017,2017/2018
+Álvaro Negredo,31,Centre-Forward,Besiktas,2500000.0,out,Summer,2017,2017/2018
+Nani,30,Left Winger,Lazio,2000000.0,out,Summer,2017,2017/2018
+Pablo Piatti,28,Left Winger,Espanyol,1300000.0,out,Summer,2017,2017/2018
+Aderllan Santos,28,Centre-Back,São Paulo,800000.0,out,Summer,2017,2017/2018
+Yoel Rodríguez,28,Goalkeeper,SD Eibar,750000.0,out,Summer,2017,2017/2018
+Diego Alves,32,Goalkeeper,Flamengo,300000.0,out,Summer,2017,2017/2018
+Vinícius Araújo,24,Centre-Forward,Real Zaragoza,0.0,out,Summer,2017,2017/2018
+Aymen Abdennour,28,Centre-Back,Marseille,0.0,out,Summer,2017,2017/2018
+João Cancelo,23,Right-Back,Inter,0.0,out,Summer,2017,2017/2018
+Álvaro Medrán,23,Central Midfield,Alavés,0.0,out,Summer,2017,2017/2018
+Zakaria Bakkali,21,Left Winger,Dep. La Coruña,0.0,out,Summer,2017,2017/2018
+Guilherme Siqueira,31,Left-Back,Atlético Madrid,0.0,out,Summer,2017,2017/2018
+Fabián Orellana,31,Right Winger,Celta de Vigo,0.0,out,Summer,2017,2017/2018
+Simone Zaza,26,Centre-Forward,Juventus,0.0,out,Summer,2017,2017/2018
+Eliaquim Mangala,26,Centre-Back,Man City,0.0,out,Summer,2017,2017/2018
+Munir El Haddadi,21,Centre-Forward,Barcelona,0.0,out,Summer,2017,2017/2018
+Mario Suárez,30,Centre-Back,Watford,0.0,out,Summer,2017,2017/2018
+Francis Coquelin,26,Defensive Midfield,Arsenal,14000000.0,in,Winter,2017,2017/2018
+Luciano Vietto,24,Centre-Forward,Atlético Madrid,0.0,in,Winter,2017,2017/2018
+Ferran Torres,17,Left Winger,Valencia B,0.0,in,Winter,2017,2017/2018
+Aderllan Santos,29,Centre-Back,São Paulo,0.0,in,Winter,2017,2017/2018
+Fabián Orellana,31,Right Winger,SD Eibar,400000.0,out,Winter,2017,2017/2018
+Rober Ibáñez,24,Right Winger,Getafe,0.0,out,Winter,2017,2017/2018
+Nacho Gil,22,Left Winger,UD Las Palmas,0.0,out,Winter,2017,2017/2018
+Aderllan Santos,29,Centre-Back,EC Vitória,0.0,out,Winter,2017,2017/2018
+Gonçalo Guedes,21,Left Winger,Paris SG,40000000.0,in,Summer,2018,2018/2019
+Geoffrey Kondogbia,25,Defensive Midfield,Inter,22000000.0,in,Summer,2018,2018/2019
+Kévin Gameiro,31,Centre-Forward,Atlético Madrid,16000000.0,in,Summer,2018,2018/2019
+Mouctar Diakhaby,21,Centre-Back,Olympique Lyon,15000000.0,in,Summer,2018,2018/2019
+Jeison Murillo,26,Centre-Back,Inter,12000000.0,in,Summer,2018,2018/2019
+Cristiano Piccini,25,Right-Back,Sporting CP,8000000.0,in,Summer,2018,2018/2019
+Daniel Wass,29,Central Midfield,Celta de Vigo,6000000.0,in,Summer,2018,2018/2019
+Michy Batshuayi,24,Centre-Forward,Chelsea,3000000.0,in,Summer,2018,2018/2019
+Uroš Račić,20,Defensive Midfield,Red Star,2200000.0,in,Summer,2018,2018/2019
+Denis Cheryshev,27,Left Winger,Villarreal,0.0,in,Summer,2018,2018/2019
+Fran Villalba,20,Attacking Midfield,Valencia B,0.0,in,Summer,2018,2018/2019
+Nacho Gil,22,Left Winger,UD Las Palmas,0.0,in,Summer,2018,2018/2019
+Fabián Orellana,32,Right Winger,SD Eibar,0.0,in,Summer,2018,2018/2019
+Álvaro Medrán,24,Central Midfield,Alavés,0.0,in,Summer,2018,2018/2019
+Nani,31,Left Winger,Lazio,0.0,in,Summer,2018,2018/2019
+João Cancelo,24,Right-Back,Inter,0.0,in,Summer,2018,2018/2019
+Zakaria Bakkali,22,Left Winger,Dep. La Coruña,0.0,in,Summer,2018,2018/2019
+João Cancelo,24,Right-Back,Juventus,40400000.0,out,Summer,2018,2018/2019
+Nemanja Maksimović,23,Defensive Midfield,Getafe,10000000.0,out,Summer,2018,2018/2019
+Martín Montoya,27,Right-Back,Brighton,7000000.0,out,Summer,2018,2018/2019
+Fabián Orellana,32,Right Winger,SD Eibar,2000000.0,out,Summer,2018,2018/2019
+Simone Zaza,27,Centre-Forward,Torino,2000000.0,out,Summer,2018,2018/2019
+Zakaria Bakkali,22,Left Winger,RSC Anderlecht,1200000.0,out,Summer,2018,2018/2019
+Nacho Vidal,23,Right-Back,CA Osasuna,0.0,out,Summer,2018,2018/2019
+Nani,31,Left Winger,Sporting CP,0.0,out,Summer,2018,2018/2019
+Álvaro Medrán,24,Central Midfield,Rayo Vallecano,0.0,out,Summer,2018,2018/2019
+Fran Villalba,20,Attacking Midfield,CD Numancia,0.0,out,Summer,2018,2018/2019
+Nacho Gil,23,Left Winger,Elche CF,0.0,out,Summer,2018,2018/2019
+Luciano Vietto,24,Centre-Forward,Atlético Madrid,0.0,out,Summer,2018,2018/2019
+Andreas Pereira,22,Attacking Midfield,Man Utd,0.0,out,Summer,2018,2018/2019
+Gonçalo Guedes,21,Left Winger,Paris SG,0.0,out,Summer,2018,2018/2019
+Geoffrey Kondogbia,25,Defensive Midfield,Inter,0.0,out,Summer,2018,2018/2019
+Jeison Murillo,26,Centre-Back,Inter,0.0,out,Summer,2018,2018/2019
+Rubén Sobrino,26,Centre-Forward,Alavés,5000000.0,in,Winter,2018,2018/2019
+Facundo Roncaglia,31,Centre-Back,Celta de Vigo,0.0,in,Winter,2018,2018/2019
+Kang-in Lee,17,Attacking Midfield,Valencia B,0.0,in,Winter,2018,2018/2019
+Álex Blanco,20,Left Winger,Valencia B,0.0,in,Winter,2018,2018/2019
+Aderllan Santos,29,Centre-Back,EC Vitória,0.0,in,Winter,2018,2018/2019
+Aderllan Santos,29,Centre-Back,Al-Ahli SFC,5000000.0,out,Winter,2018,2018/2019
+Jeison Murillo,26,Centre-Back,Barcelona,1200000.0,out,Winter,2018,2018/2019
+Uroš Račić,20,Defensive Midfield,CD Tenerife,0.0,out,Winter,2018,2018/2019
+Rúben Vezo,24,Centre-Back,Levante,0.0,out,Winter,2018,2018/2019
+Álex Blanco,20,Left Winger,Alavés,0.0,out,Winter,2018,2018/2019
+Michy Batshuayi,25,Centre-Forward,Chelsea,0.0,out,Winter,2018,2018/2019
+Jasper Cillessen,30,Goalkeeper,Barcelona,35000000.0,in,Summer,2019,2019/2020
+Maxi Gómez,22,Centre-Forward,Celta de Vigo,14500000.0,in,Summer,2019,2019/2020
+Thierry Correia,20,Right-Back,Sporting CP,12000000.0,in,Summer,2019,2019/2020
+Denis Cheryshev,28,Left Winger,Villarreal,6000000.0,in,Summer,2019,2019/2020
+Manu Vallejo,22,Second Striker,Cádiz CF,5500000.0,in,Summer,2019,2019/2020
+Jorge Sáenz,22,Centre-Back,CD Tenerife,2000000.0,in,Summer,2019,2019/2020
+Jason,24,Right Winger,Levante,0.0,in,Summer,2019,2019/2020
+Eliaquim Mangala,28,Centre-Back,Man City,0.0,in,Summer,2019,2019/2020
+Àlex Carbonell,21,Central Midfield,Córdoba CF,0.0,in,Summer,2019,2019/2020
+Salva Ruiz,24,Left-Back,RCD Mallorca,0.0,in,Summer,2019,2019/2020
+Jaume Costa,31,Left-Back,Villarreal,0.0,in,Summer,2019,2019/2020
+Álex Centelles,19,Left-Back,Valencia B,0.0,in,Summer,2019,2019/2020
+Álex Blanco,20,Left Winger,Alavés,0.0,in,Summer,2019,2019/2020
+Rúben Vezo,25,Centre-Back,Levante,0.0,in,Summer,2019,2019/2020
+Uroš Račić,21,Defensive Midfield,CD Tenerife,0.0,in,Summer,2019,2019/2020
+Jeison Murillo,27,Centre-Back,Barcelona,0.0,in,Summer,2019,2019/2020
+Nacho Gil,23,Left Winger,Elche CF,0.0,in,Summer,2019,2019/2020
+Simone Zaza,28,Centre-Forward,Torino,0.0,in,Summer,2019,2019/2020
+Álvaro Medrán,25,Central Midfield,Rayo Vallecano,0.0,in,Summer,2019,2019/2020
+Fran Villalba,21,Attacking Midfield,CD Numancia,0.0,in,Summer,2019,2019/2020
+Aymen Abdennour,29,Centre-Back,Marseille,0.0,in,Summer,2019,2019/2020
+Neto,29,Goalkeeper,Barcelona,26000000.0,out,Summer,2019,2019/2020
+Simone Zaza,28,Centre-Forward,Torino,12000000.0,out,Summer,2019,2019/2020
+Rúben Vezo,25,Centre-Back,Levante,5000000.0,out,Summer,2019,2019/2020
+Nacho Gil,23,Left Winger,Ponferradina,0.0,out,Summer,2019,2019/2020
+Santi Mina,23,Centre-Forward,Celta de Vigo,0.0,out,Summer,2019,2019/2020
+Aymen Abdennour,29,Centre-Back,Kayserispor,0.0,out,Summer,2019,2019/2020
+Salva Ruiz,24,Left-Back,Dep. La Coruña,0.0,out,Summer,2019,2019/2020
+Fran Villalba,21,Attacking Midfield,Birmingham,0.0,out,Summer,2019,2019/2020
+Jorge Sáenz,22,Centre-Back,Celta de Vigo,0.0,out,Summer,2019,2019/2020
+Jason,25,Right Winger,Getafe,0.0,out,Summer,2019,2019/2020
+Uroš Račić,21,Defensive Midfield,Famalicão,0.0,out,Summer,2019,2019/2020
+Álex Centelles,19,Left-Back,Famalicão,0.0,out,Summer,2019,2019/2020
+Toni Lato,21,Left-Back,PSV Eindhoven,0.0,out,Summer,2019,2019/2020
+Álex Blanco,20,Left Winger,Real Zaragoza,0.0,out,Summer,2019,2019/2020
+Àlex Carbonell,21,Central Midfield,Fortuna Sittard,0.0,out,Summer,2019,2019/2020
+Jeison Murillo,27,Centre-Back,Sampdoria,0.0,out,Summer,2019,2019/2020
+Álvaro Medrán,25,Central Midfield,Without Club,0.0,out,Summer,2019,2019/2020
+Facundo Roncaglia,32,Centre-Back,Celta de Vigo,0.0,out,Summer,2019,2019/2020
+Denis Cheryshev,28,Left Winger,Villarreal,0.0,out,Summer,2019,2019/2020
+Alessandro Florenzi,28,Right-Back,AS Roma,0.0,in,Winter,2019,2019/2020
+Toni Lato,22,Left-Back,PSV Eindhoven,0.0,in,Winter,2019,2019/2020
+Jeison Murillo,27,Centre-Back,Sampdoria,0.0,in,Winter,2019,2019/2020
+Jeison Murillo,27,Centre-Back,Sampdoria,13300000.0,out,Winter,2019,2019/2020
+Toni Lato,22,Left-Back,CA Osasuna,0.0,out,Winter,2019,2019/2020
+Javi Jiménez,23,Centre-Back,Valencia B,0.0,in,Summer,2020,2020/2021
+Hugo Guillamón,20,Defensive Midfield,Valencia B,0.0,in,Summer,2020,2020/2021
+Cristian Rivero,22,Goalkeeper,Valencia B,0.0,in,Summer,2020,2020/2021
+Yunus Musah,17,Central Midfield,Valencia B,0.0,in,Summer,2020,2020/2021
+Toni Lato,22,Left-Back,CA Osasuna,0.0,in,Summer,2020,2020/2021
+Jason,26,Right Winger,Getafe,0.0,in,Summer,2020,2020/2021
+Uroš Račić,22,Defensive Midfield,Famalicão,0.0,in,Summer,2020,2020/2021
+Àlex Carbonell,22,Central Midfield,Fortuna Sittard,0.0,in,Summer,2020,2020/2021
+Álex Blanco,21,Left Winger,Real Zaragoza,0.0,in,Summer,2020,2020/2021
+Álex Centelles,20,Left-Back,Famalicão,0.0,in,Summer,2020,2020/2021
+Ferran Torres,20,Left Winger,Man City,33500000.0,out,Summer,2020,2020/2021
+Rodrigo,29,Second Striker,Leeds,30000000.0,out,Summer,2020,2020/2021
+Francis Coquelin,29,Defensive Midfield,Villarreal,7100000.0,out,Summer,2020,2020/2021
+Dani Parejo,31,Central Midfield,Villarreal,2250000.0,out,Summer,2020,2020/2021
+Álex Centelles,21,Left-Back,UD Almería,0.0,out,Summer,2020,2020/2021
+Àlex Carbonell,23,Central Midfield,FC Luzern,0.0,out,Summer,2020,2020/2021
+Javi Jiménez,23,Centre-Back,Albacete,0.0,out,Summer,2020,2020/2021
+Cristiano Piccini,27,Right-Back,Atalanta BC,0.0,out,Summer,2020,2020/2021
+Ezequiel Garay,33,Centre-Back,Without Club,0.0,out,Summer,2020,2020/2021
+Alessandro Florenzi,29,Right-Back,AS Roma,0.0,out,Summer,2020,2020/2021
+Jaume Costa,32,Left-Back,Villarreal,0.0,out,Summer,2020,2020/2021
+Christian Oliva,24,Defensive Midfield,Cagliari Calcio,50000.0,in,Winter,2020,2020/2021
+Patrick Cutrone,23,Centre-Forward,Wolves,0.0,in,Winter,2020,2020/2021
+Ferro,23,Centre-Back,Benfica,0.0,in,Winter,2020,2020/2021
+Cristiano Piccini,28,Right-Back,Atalanta BC,0.0,in,Winter,2020,2020/2021
+Geoffrey Kondogbia,27,Defensive Midfield,Atlético Madrid,15000000.0,out,Winter,2020,2020/2021
+Rubén Sobrino,28,Centre-Forward,Cádiz CF,0.0,out,Winter,2020,2020/2021
+Marcos André,24,Centre-Forward,Real Valladolid,8500000.0,in,Summer,2021,2021/2022
+Dimitri Foulquier,28,Right-Back,Granada CF,2500000.0,in,Summer,2021,2021/2022
+Giorgi Mamardashvili,20,Goalkeeper,Dinamo Tbilisi,200000.0,in,Summer,2021,2021/2022
+Omar Alderete,24,Centre-Back,Hertha BSC,0.0,in,Summer,2021,2021/2022
+Hélder Costa,27,Right Winger,Leeds,0.0,in,Summer,2021,2021/2022
+Hugo Duro,21,Centre-Forward,Getafe,0.0,in,Summer,2021,2021/2022
+Jorge Sáenz,24,Centre-Back,Celta de Vigo,0.0,in,Summer,2021,2021/2022
+Rubén Sobrino,29,Centre-Forward,Cádiz CF,0.0,in,Summer,2021,2021/2022
+Javi Jiménez,24,Centre-Back,Albacete,0.0,in,Summer,2021,2021/2022
+Kang-in Lee,20,Attacking Midfield,RCD Mallorca,0.0,out,Summer,2021,2021/2022
+Javi Jiménez,24,Centre-Back,Albacete,0.0,out,Summer,2021,2021/2022
+Kévin Gameiro,34,Centre-Forward,R. Strasbourg,0.0,out,Summer,2021,2021/2022
+Rubén Sobrino,29,Centre-Forward,Cádiz CF,0.0,out,Summer,2021,2021/2022
+Jorge Sáenz,24,Centre-Back,Marítimo,0.0,out,Summer,2021,2021/2022
+Eliaquim Mangala,30,Centre-Back,Without Club,0.0,out,Summer,2021,2021/2022
+Christian Oliva,25,Defensive Midfield,Cagliari Calcio,0.0,out,Summer,2021,2021/2022
+Ferro,24,Centre-Back,Benfica,0.0,out,Summer,2021,2021/2022
+Patrick Cutrone,23,Centre-Forward,Wolves,0.0,out,Summer,2021,2021/2022
+Giorgi Mamardashvili,21,Goalkeeper,Dinamo Tbilisi,850000.0,in,Winter,2021,2021/2022
+Eray Cömert,23,Centre-Back,FC Basel,800000.0,in,Winter,2021,2021/2022
+Ilaix Moriba,19,Central Midfield,RB Leipzig,0.0,in,Winter,2021,2021/2022
+Bryan Gil,20,Left Winger,Spurs,0.0,in,Winter,2021,2021/2022
+Koba Koindredi,20,Central Midfield,Valencia B,0.0,in,Winter,2021,2021/2022
+Jesús Vázquez,18,Left-Back,Valencia B,0.0,in,Winter,2021,2021/2022
+Jorge Sáenz,25,Centre-Back,Marítimo,0.0,in,Winter,2021,2021/2022
+Daniel Wass,32,Central Midfield,Atlético Madrid,2700000.0,out,Winter,2021,2021/2022
+Jason,27,Right Winger,Alavés,0.0,out,Winter,2021,2021/2022
+Cristiano Piccini,29,Right-Back,Red Star,0.0,out,Winter,2021,2021/2022
+Álex Blanco,23,Left Winger,Como,0.0,out,Winter,2021,2021/2022
+Cristian Rivero,23,Goalkeeper,Alcorcón,0.0,out,Winter,2021,2021/2022
+Jorge Sáenz,25,Centre-Back,CD Mirandés,0.0,out,Winter,2021,2021/2022
+Manu Vallejo,24,Second Striker,Alavés,0.0,out,Winter,2021,2021/2022
+André Almeida,22,Central Midfield,Vit. Guimarães,8000000.0,in,Summer,2022,2022/2023
+Hugo Duro,22,Centre-Forward,Getafe,4000000.0,in,Summer,2022,2022/2023
+Cenk Özkacar,21,Centre-Back,Olympique Lyon,500000.0,in,Summer,2022,2022/2023
+Samu Castillejo,27,Right Winger,AC Milan,0.0,in,Summer,2022,2022/2023
+Edinson Cavani,35,Centre-Forward,Man Utd,0.0,in,Summer,2022,2022/2023
+Justin Kluivert,23,Left Winger,AS Roma,0.0,in,Summer,2022,2022/2023
+Samuel Lino,22,Left Winger,Atlético Madrid,0.0,in,Summer,2022,2022/2023
+Nico González,20,Central Midfield,Barcelona,0.0,in,Summer,2022,2022/2023
+Ilaix Moriba,19,Central Midfield,RB Leipzig,0.0,in,Summer,2022,2022/2023
+Cristian Rivero,24,Goalkeeper,Alcorcón,0.0,in,Summer,2022,2022/2023
+Jorge Sáenz,25,Centre-Back,CD Mirandés,0.0,in,Summer,2022,2022/2023
+Manu Vallejo,25,Left Winger,Alavés,0.0,in,Summer,2022,2022/2023
+Gonçalo Guedes,25,Left Winger,Wolves,32600000.0,out,Summer,2022,2022/2023
+Carlos Soler,25,Central Midfield,Paris SG,18000000.0,out,Summer,2022,2022/2023
+Maxi Gómez,26,Centre-Forward,Trabzonspor,3000000.0,out,Summer,2022,2022/2023
+Jasper Cillessen,33,Goalkeeper,NEC Nijmegen,1000000.0,out,Summer,2022,2022/2023
+Manu Vallejo,25,Left Winger,Girona,0.0,out,Summer,2022,2022/2023
+Denis Cheryshev,31,Left Winger,Venezia,0.0,out,Summer,2022,2022/2023
+Koba Koindredi,20,Central Midfield,Real Oviedo,0.0,out,Summer,2022,2022/2023
+Jorge Sáenz,25,Centre-Back,CD Leganés,0.0,out,Summer,2022,2022/2023
+Uroš Račić,24,Defensive Midfield,SC Braga,0.0,out,Summer,2022,2022/2023
+Omar Alderete,25,Centre-Back,Hertha BSC,0.0,out,Summer,2022,2022/2023
+Hugo Duro,22,Centre-Forward,Getafe,0.0,out,Summer,2022,2022/2023
+Hélder Costa,28,Right Winger,Leeds,0.0,out,Summer,2022,2022/2023
+Ilaix Moriba,19,Central Midfield,RB Leipzig,0.0,out,Summer,2022,2022/2023
+Bryan Gil,21,Left Winger,Spurs,0.0,out,Summer,2022,2022/2023
+Giorgi Mamardashvili,21,Goalkeeper,Dinamo Tbilisi,0.0,out,Summer,2022,2022/2023
