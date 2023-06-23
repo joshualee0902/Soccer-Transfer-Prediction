@@ -1,0 +1,476 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Moussa Saïb,23,Left Midfield,JS Kabylie,38000.0,in,Summer,1992,1992/1993
+Frank Verlaat,24,Centre-Back,Lausanne-Sport,0.0,in,Summer,1992,1992/1993
+Lilian Laslandes,20,Centre-Forward,AS Saint-Seurin,0.0,in,Summer,1992,1992/1993
+Thierry Bonalair,26,Left-Back,FC Nantes,0.0,in,Summer,1992,1992/1993
+Bernard Diomède,18,Left Winger,AJ Auxerre U19,0.0,in,Summer,1992,1992/1993
+Jacques-Désiré Périatambée,16,Defensive Midfield,AJ Auxerre U19,0.0,in,Summer,1992,1992/1993
+Franck Rabarivony,21,Left-Back,AJ Auxerre B,0.0,in,Summer,1992,1992/1993
+Fabien Cool,19,Goalkeeper,AJ Auxerre B,0.0,in,Summer,1992,1992/1993
+Laurent Ciechelski,21,Right-Back,AJ Auxerre U19,0.0,in,Summer,1992,1992/1993
+Guy-Roger Nzamba,22,Centre-Forward,AJ Auxerre B,0.0,in,Summer,1992,1992/1993
+Jean-Marc Ferreri,29,Attacking Midfield,Marseille,0.0,out,Summer,1992,1992/1993
+Frédéric Darras,25,Right-Back,FC Sochaux,0.0,out,Summer,1992,1992/1993
+Alain Roche,24,Centre-Back,Paris SG,0.0,out,Summer,1992,1992/1993
+Zbigniew Kaczmarek,30,Defensive Midfield,Guingamp,0.0,out,Summer,1992,1992/1993
+Franco Vignola,25,attack,Guingamp,0.0,out,Summer,1992,1992/1993
+Philippe Violeau,22,Defensive Midfield,Chamois Niort,0.0,in,Summer,1993,1993/1994
+Taribo West,19,Left-Back,Julius Berger,0.0,in,Summer,1993,1993/1994
+Franck Silvestre,26,Centre-Back,FC Sochaux,0.0,in,Summer,1993,1993/1994
+Yann Lachuer,20,Attacking Midfield,US Créteil,0.0,in,Summer,1993,1993/1994
+Christian Henna,21,Defensive Midfield,Mulhouse S-A,0.0,in,Summer,1993,1993/1994
+Franco Vignola,26,attack,Guingamp,0.0,in,Summer,1993,1993/1994
+William Prunier,25,Centre-Back,Marseille,0.0,out,Summer,1993,1993/1994
+Daniel Dutuel,25,Central Midfield,Marseille,0.0,out,Summer,1993,1993/1994
+Didier Otokoré,24,Left Winger,FC Sochaux,0.0,out,Summer,1993,1993/1994
+Thierry Bonalair,27,Left-Back,LOSC Lille,0.0,out,Summer,1993,1993/1994
+Guy-Roger Nzamba,22,Centre-Forward,Mulhouse S-A,0.0,out,Summer,1993,1993/1994
+Stéphane Mazzolini,26,Right-Back,FC Martigues,0.0,out,Summer,1993,1993/1994
+Fabien Cool,20,Goalkeeper,FC Gueugnon,0.0,out,Summer,1993,1993/1994
+Stéphane Ferrand,25,Goalkeeper,FC Sochaux,0.0,in,Winter,1993,1993/1994
+Sabri Lamouchi,22,Central Midfield,Olympique Alès,0.0,in,Summer,1994,1994/1995
+Georges Moureaux,25,attack,FC Sète 34,0.0,in,Summer,1994,1994/1995
+Frédéric Danjou,19,Centre-Back,AJ Auxerre U19,0.0,in,Summer,1994,1994/1995
+Fabien Cool,21,Goalkeeper,FC Gueugnon,0.0,in,Summer,1994,1994/1995
+Franco Vignola,27,attack,Marseille,0.0,out,Summer,1994,1994/1995
+Thomas Deniaud,22,Centre-Forward,Angers SCO,0.0,out,Summer,1994,1994/1995
+Stéphane Ferrand,25,Goalkeeper,FC Sochaux,0.0,out,Summer,1994,1994/1995
+Laurent Blanc,29,Centre-Back,Saint-Étienne,0.0,in,Summer,1995,1995/1996
+Awudu Issaka,16,Attacking Midfield,Anderlecht U19,0.0,in,Summer,1995,1995/1996
+Stéphane Guivarc'h,24,Centre-Forward,Guingamp,0.0,in,Summer,1995,1995/1996
+Abdelhafid Tasfaout,26,Attacking Midfield,MC Oran,0.0,in,Summer,1995,1995/1996
+Ronan Le Crom,20,Goalkeeper,AJ Auxerre B,0.0,in,Summer,1995,1995/1996
+Thomas Deniaud,23,Centre-Forward,Angers SCO,0.0,in,Summer,1995,1995/1996
+Frank Verlaat,27,Centre-Back,VfB Stuttgart,2000000.0,out,Summer,1995,1995/1996
+Bruno Martini,33,Goalkeeper,Montpellier,0.0,out,Summer,1995,1995/1996
+Pascal Vahirua,29,Left Winger,SM Caen,0.0,out,Summer,1995,1995/1996
+Gérald Baticle,25,Centre-Forward,R. Strasbourg,0.0,out,Summer,1995,1995/1996
+Raphaël Guerreiro,27,Central Midfield,SM Caen,0.0,out,Summer,1995,1995/1996
+Stéphane Mahé,26,Left-Back,Paris SG,0.0,out,Summer,1995,1995/1996
+Franck Soler,24,attack,FC Martigues,0.0,out,Summer,1995,1995/1996
+Thomas Deniaud,24,Centre-Forward,Angers SCO,0.0,out,Summer,1995,1995/1996
+Georges Moureaux,26,attack,AJ Auxerre B,0.0,out,Summer,1995,1995/1996
+Laurent Ciechelski,24,Right-Back,FC Gueugnon,0.0,out,Winter,1995,1995/1996
+Antoine Sibierski,21,Attacking Midfield,LOSC Lille,0.0,in,Summer,1996,1996/1997
+Steve Marlet,22,Centre-Forward,AS Red Star 93,0.0,in,Summer,1996,1996/1997
+Jean-Louis Valois,22,Right Winger,AS Lyon-Duchère,0.0,in,Summer,1996,1996/1997
+Ned Zelic,24,Defensive Midfield,E. Frankfurt,0.0,in,Summer,1996,1996/1997
+Alexandre Dujeux,20,Centre-Back,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Frédéric Jay,19,Right-Back,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Benjamin Nivet,19,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Fabrice Lepaul,19,Left Winger,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Arnaud Gonzalez,18,Centre-Forward,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Jean-Sébastien Jaurès,18,Left-Back,AJ Auxerre U19,0.0,in,Summer,1996,1996/1997
+Éric Assati,21,Left-Back,AJ Auxerre U19,0.0,in,Summer,1996,1996/1997
+Johan Radet,19,Right-Back,AJ Auxerre B,0.0,in,Summer,1996,1996/1997
+Laurent Ciechelski,25,Right-Back,FC Gueugnon,0.0,in,Summer,1996,1996/1997
+Thomas Deniaud,24,Centre-Forward,Angers SCO,0.0,in,Summer,1996,1996/1997
+Laurent Blanc,30,Centre-Back,Barcelona,4600000.0,out,Summer,1996,1996/1997
+Corentin Martins,26,Attacking Midfield,Dep. La Coruña,3600000.0,out,Summer,1996,1996/1997
+Ronan Le Crom,21,Goalkeeper,LB Châteauroux,0.0,out,Summer,1996,1996/1997
+Stéphane Guivarc'h,25,Centre-Forward,Stade Rennais,0.0,out,Summer,1996,1996/1997
+Christophe Remy,24,Left-Back,Derby,0.0,out,Summer,1996,1996/1997
+Christophe Cocard,28,Right Winger,Olympique Lyon,0.0,out,Summer,1996,1996/1997
+Yann Lachuer,23,Attacking Midfield,LB Châteauroux,0.0,out,Summer,1996,1996/1997
+Teemu Tainio,17,Defensive Midfield,FC Haka,760000.0,in,Summer,1997,1997/1998
+Cyril Jeunechamp,21,Defensive Midfield,Nîmes Olympique,0.0,in,Summer,1997,1997/1998
+Lilian Compan,20,Centre-Forward,Cannes,0.0,in,Summer,1997,1997/1998
+Tarik Sektioui,20,Right Winger,MAS Fes,0.0,in,Summer,1997,1997/1998
+Kwami Hodouto,22,Right-Back,Cannes,0.0,in,Summer,1997,1997/1998
+Stéphane Guivarc'h,26,Centre-Forward,Stade Rennais,0.0,in,Summer,1997,1997/1998
+David Recorbet,20,Centre-Back,AJ Auxerre B,0.0,in,Summer,1997,1997/1998
+Ronan Le Crom,22,Goalkeeper,LB Châteauroux,0.0,in,Summer,1997,1997/1998
+Yann Lachuer,24,Attacking Midfield,LB Châteauroux,0.0,in,Summer,1997,1997/1998
+Moussa Saïb,28,Left Midfield,Valencia,4300000.0,out,Summer,1997,1997/1998
+Taribo West,23,Left-Back,Inter,3000000.0,out,Summer,1997,1997/1998
+Jean-Louis Valois,23,Right Winger,FC Gueugnon,0.0,out,Summer,1997,1997/1998
+Philippe Violeau,26,Defensive Midfield,Olympique Lyon,0.0,out,Summer,1997,1997/1998
+Jacques-Désiré Périatambée,21,Defensive Midfield,Troyes,0.0,out,Summer,1997,1997/1998
+Ronan Le Crom,23,Goalkeeper,ASOA Valence,0.0,out,Summer,1997,1997/1998
+Alexandre Dujeux,21,Centre-Back,AS Red Star 93,0.0,out,Summer,1997,1997/1998
+Lilian Laslandes,25,Centre-Forward,G. Bordeaux,0.0,out,Summer,1997,1997/1998
+Vincent Gouttebarge,21,defence,FC Volendam,0.0,out,Summer,1997,1997/1998
+Abdelhafid Tasfaout,28,Attacking Midfield,Guingamp,0.0,out,Summer,1997,1997/1998
+Kuami Agboh,20,Defensive Midfield,AJ Auxerre B,0.0,in,Winter,1997,1997/1998
+Ned Zelic,26,Defensive Midfield,1860 Munich,400000.0,out,Winter,1997,1997/1998
+Djibril Cissé,16,Centre-Forward,Nîmes Ol. U19,0.0,in,Summer,1998,1998/1999
+Amdy Faye,21,Defensive Midfield,Fréjus-St-Raph.,0.0,in,Summer,1998,1998/1999
+Gérald Baticle,28,Centre-Forward,R. Strasbourg,0.0,in,Summer,1998,1998/1999
+Tomasz Klos,25,Centre-Back,LKS Lodz,0.0,in,Summer,1998,1998/1999
+Oumar Dieng,25,Centre-Back,Sampdoria,0.0,in,Summer,1998,1998/1999
+Pedro Reyes,25,Centre-Back,Colo Colo,0.0,in,Summer,1998,1998/1999
+Stéphane Carnot,25,Attacking Midfield,Monaco,0.0,in,Summer,1998,1998/1999
+Marcin Kuzba,21,Centre-Forward,Górnik Zabrze,0.0,in,Summer,1998,1998/1999
+David Vandenbossche,17,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,1998,1998/1999
+Jean-Joël Perrier-Doumbé,19,Right-Back,AJ Auxerre B,0.0,in,Summer,1998,1998/1999
+Olivier Kapo,17,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,1998,1998/1999
+Ronan Le Crom,23,Goalkeeper,ASOA Valence,0.0,in,Summer,1998,1998/1999
+Alexandre Dujeux,22,Centre-Back,AS Red Star 93,0.0,in,Summer,1998,1998/1999
+Abdelhafid Tasfaout,29,Attacking Midfield,Guingamp,0.0,in,Summer,1998,1998/1999
+Stéphane Guivarc'h,27,Centre-Forward,Newcastle,4000000.0,out,Summer,1998,1998/1999
+Sabri Lamouchi,26,Central Midfield,Monaco,1500000.0,out,Summer,1998,1998/1999
+Franck Rabarivony,27,Left-Back,Real Oviedo,600000.0,out,Summer,1998,1998/1999
+Alain Goma,25,Centre-Back,Paris SG,0.0,out,Summer,1998,1998/1999
+Awudu Issaka,19,Attacking Midfield,1860 München II,0.0,out,Summer,1998,1998/1999
+Lilian Compan,21,Centre-Forward,LB Châteauroux,0.0,out,Summer,1998,1998/1999
+Fabrice Lepaul,21,Left Winger,Saint-Étienne,0.0,out,Summer,1998,1998/1999
+Lionel Charbonnier,31,Goalkeeper,Rangers,0.0,out,Summer,1998,1998/1999
+Yann Lachuer,25,Attacking Midfield,Paris SG,0.0,out,Summer,1998,1998/1999
+Franck Silvestre,31,Centre-Back,Montpellier,0.0,out,Summer,1998,1998/1999
+Antoine Sibierski,23,Attacking Midfield,FC Nantes,0.0,out,Summer,1998,1998/1999
+Kwami Hodouto,24,Right-Back,AS Red Star 93,0.0,out,Winter,1998,1998/1999
+Tarik Sektioui,21,Right Winger,Marítimo,0.0,out,Winter,1998,1998/1999
+Stéphane Guivarc'h,28,Centre-Forward,Rangers,3850000.0,in,Summer,1999,1999/2000
+Alexandre Comisetti,25,Left Midfield,Grasshoppers,0.0,in,Summer,1999,1999/2000
+Albert Michael Yobo,20,Centre-Back,Enugu Rangers,0.0,in,Summer,1999,1999/2000
+Cyrille Magnier,29,Centre-Back,Lens,0.0,in,Summer,1999,1999/2000
+Anthony Basso,19,Goalkeeper,AJ Auxerre B,0.0,in,Summer,1999,1999/2000
+Cédric Liabeuf,19,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,1999,1999/2000
+Pantxi Sirieix,18,Central Midfield,AJ Auxerre B,0.0,in,Summer,1999,1999/2000
+Philippe Mexès,17,Centre-Back,AJ Auxerre U19,0.0,in,Summer,1999,1999/2000
+Jacques-Désiré Périatambée,23,Defensive Midfield,Troyes,0.0,in,Summer,1999,1999/2000
+Kwami Hodouto,24,Right-Back,AS Red Star 93,0.0,in,Summer,1999,1999/2000
+Lilian Compan,22,Centre-Forward,LB Châteauroux,0.0,in,Summer,1999,1999/2000
+Tarik Sektioui,22,Right Winger,Marítimo,0.0,in,Summer,1999,1999/2000
+Benjamin Nivet,22,Attacking Midfield,LB Châteauroux,0.0,out,Summer,1999,1999/2000
+Marcin Kuzba,22,Centre-Forward,Lausanne-Sport,0.0,out,Summer,1999,1999/2000
+Frédéric Danjou,24,Centre-Back,Real Oviedo,0.0,out,Summer,1999,1999/2000
+Tarik Sektioui,22,Right Winger,Xamax,0.0,out,Summer,1999,1999/2000
+Kwami Hodouto,24,Right-Back,Huddersfield,0.0,out,Summer,1999,1999/2000
+Alexandre Dujeux,23,Centre-Back,LB Châteauroux,0.0,out,Summer,1999,1999/2000
+Thomas Deniaud,27,Centre-Forward,AC Le Havre,0.0,out,Summer,1999,1999/2000
+Oumar Dieng,26,Centre-Back,CS Sedan,0.0,out,Summer,1999,1999/2000
+Gérald Baticle,30,Centre-Forward,FC Metz,0.0,out,Winter,1999,1999/2000
+Pierre Deblock,27,Right Midfield,CS Sedan,2800000.0,in,Summer,2000,2000/2001
+Jean-Alain Boumsong,20,Centre-Back,AC Le Havre,0.0,in,Summer,2000,2000/2001
+Moussa Saïb,31,Left Midfield,Al-Nasr,0.0,in,Summer,2000,2000/2001
+Nicolas Marin,19,Right Midfield,AJ Auxerre B,0.0,in,Summer,2000,2000/2001
+Marc Kalenga,15,Defensive Midfield,AJ Auxerre U19,0.0,in,Summer,2000,2000/2001
+Benjamin Nivet,23,Attacking Midfield,LB Châteauroux,0.0,in,Summer,2000,2000/2001
+Oumar Dieng,27,Centre-Back,CS Sedan,0.0,in,Summer,2000,2000/2001
+Bernard Diomède,26,Left Winger,Liverpool,4500000.0,out,Summer,2000,2000/2001
+Anthony Basso,20,Goalkeeper,Udinese,500000.0,out,Summer,2000,2000/2001
+Jacques-Désiré Périatambée,24,Defensive Midfield,Grenoble,0.0,out,Summer,2000,2000/2001
+Oumar Dieng,27,Centre-Back,C. Rizespor,0.0,out,Summer,2000,2000/2001
+Steve Marlet,26,Centre-Forward,Olympique Lyon,0.0,out,Summer,2000,2000/2001
+Lilian Compan,23,Centre-Forward,US Créteil,0.0,out,Summer,2000,2000/2001
+Cédric Liabeuf,20,Attacking Midfield,SO Romorantin,0.0,out,Summer,2000,2000/2001
+Benjamin Nivet,23,Attacking Midfield,LB Châteauroux,0.0,out,Summer,2000,2000/2001
+Arnaud Gonzalez,22,Centre-Forward,AS Beauvais,0.0,out,Summer,2000,2000/2001
+Laurent Ciechelski,29,Right-Back,AC Le Havre,0.0,out,Summer,2000,2000/2001
+Stéphane Carnot,28,Attacking Midfield,Guingamp,0.0,out,Summer,2000,2000/2001
+Albert Michael Yobo,21,Centre-Back,VfL Osnabrück,0.0,out,Summer,2000,2000/2001
+Khalilou Fadiga,26,Left Winger,Club Brugge,0.0,in,Winter,2000,2000/2001
+Tomasz Klos,27,Centre-Back,1.FC K'lautern,1100000.0,out,Winter,2000,2000/2001
+Yann Lachuer,28,Attacking Midfield,SC Bastia,2000000.0,in,Summer,2001,2001/2002
+Lassina Diabaté,26,Defensive Midfield,G. Bordeaux,0.0,in,Summer,2001,2001/2002
+Pawel Hajduczek,19,Defensive Midfield,UKS SMS U19,0.0,in,Summer,2001,2001/2002
+Hélder Esteves,24,Centre-Forward,US Lusitanos,0.0,in,Summer,2001,2001/2002
+Piotr Wlodarczyk,24,Centre-Forward,Slask Wroclaw,0.0,in,Summer,2001,2001/2002
+Nikola Jozic,18,Centre-Back,E. Frankfurt II,0.0,in,Summer,2001,2001/2002
+Pedro Kamatà,19,Left Winger,AJ Auxerre U19,0.0,in,Summer,2001,2001/2002
+Lionel Mathis,19,Defensive Midfield,AJ Auxerre B,0.0,in,Summer,2001,2001/2002
+Arnaud Gonzalez,23,Centre-Forward,AS Beauvais,0.0,in,Summer,2001,2001/2002
+Alexandre Comisetti,27,Left Midfield,Servette FC,0.0,out,Summer,2001,2001/2002
+Cyril Jeunechamp,25,Defensive Midfield,SC Bastia,0.0,out,Summer,2001,2001/2002
+Moussa Saïb,32,Left Midfield,Monaco,0.0,out,Summer,2001,2001/2002
+Stéphane Guivarc'h,30,Centre-Forward,Guingamp,0.0,out,Summer,2001,2001/2002
+Christophe Virlogeux,19,Left-Back,Besançon RC,0.0,out,Summer,2001,2001/2002
+Pierre Deblock,28,Right Midfield,SC Bastia,0.0,out,Summer,2001,2001/2002
+David Recorbet,24,Centre-Back,Wasquehal,0.0,out,Summer,2001,2001/2002
+Christian Henna,29,Defensive Midfield,Retired,0.0,out,Summer,2001,2001/2002
+Stéphane Grichting,23,Centre-Back,FC Sion,0.0,in,Summer,2002,2002/2003
+Sébastien Hamel,26,Goalkeeper,FC Lorient,0.0,in,Summer,2002,2002/2003
+Romain Poyet,21,Centre-Forward,AS Saint-Priest,0.0,in,Summer,2002,2002/2003
+Benjani,23,Centre-Forward,Jomo Cosmos,0.0,in,Summer,2002,2002/2003
+Richard Suriano,20,Right-Back,AJ Auxerre B,0.0,in,Summer,2002,2002/2003
+Mohamed Sissoko,17,Defensive Midfield,AJ Auxerre U19,0.0,in,Summer,2002,2002/2003
+Jean-Pascal Mignot,21,Centre-Back,AJ Auxerre B,0.0,in,Summer,2002,2002/2003
+Pierre Deblock,29,Right Midfield,SC Bastia,0.0,in,Summer,2002,2002/2003
+David Recorbet,25,Centre-Back,Wasquehal,0.0,in,Summer,2002,2002/2003
+Lassina Diabaté,27,Defensive Midfield,Portsmouth,0.0,out,Summer,2002,2002/2003
+Ronan Le Crom,27,Goalkeeper,Guingamp,0.0,out,Summer,2002,2002/2003
+Pawel Hajduczek,20,Defensive Midfield,Podbeskidzie,0.0,out,Summer,2002,2002/2003
+Frédéric Jay,25,Right-Back,Stade Rennais,0.0,out,Summer,2002,2002/2003
+Cyrille Magnier,32,Centre-Back,Amiens SC,0.0,out,Summer,2002,2002/2003
+Azzedine Hatim,19,defence,Stade Auxerre,0.0,out,Summer,2002,2002/2003
+Pedro Reyes,29,Centre-Back,U. de Chile,0.0,out,Summer,2002,2002/2003
+Pedro Kamatà,20,Left Winger,FC Groningen,0.0,out,Summer,2002,2002/2003
+Piotr Wlodarczyk,25,Centre-Forward,Widzew Lodz,0.0,out,Summer,2002,2002/2003
+Kanga Akalé,21,Left Winger,FC Zürich,1000000.0,in,Winter,2002,2002/2003
+Hélder Esteves,25,Centre-Forward,US Créteil-L,0.0,out,Winter,2002,2002/2003
+Bonaventure Kalou,25,Right Winger,Feyenoord,4000000.0,in,Summer,2003,2003/2004
+Philippe Violeau,32,Defensive Midfield,Olympique Lyon,400000.0,in,Summer,2003,2003/2004
+Tiago Henrique,21,Right Winger,Corinthians,0.0,in,Summer,2003,2003/2004
+Mamoutou Coulibaly,19,Centre-Back,CSK Bamako,0.0,in,Summer,2003,2003/2004
+Baptiste Chabert,20,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2003,2003/2004
+Hassan Yebda,19,Central Midfield,AJ Auxerre B,0.0,in,Summer,2003,2003/2004
+Rafik Djebbour,19,Centre-Forward,AJ Auxerre B,0.0,in,Summer,2003,2003/2004
+Hélder Esteves,25,Centre-Forward,US Créteil-L,0.0,in,Summer,2003,2003/2004
+Amdy Faye,26,Defensive Midfield,Portsmouth,2230000.0,out,Summer,2003,2003/2004
+Mohamed Sissoko,18,Defensive Midfield,Valencia,1000000.0,out,Summer,2003,2003/2004
+Khalilou Fadiga,28,Left Winger,Inter,300000.0,out,Summer,2003,2003/2004
+Marc Kalenga,18,Defensive Midfield,Rangers,0.0,out,Summer,2003,2003/2004
+Kuami Agboh,25,Defensive Midfield,Grenoble,0.0,out,Summer,2003,2003/2004
+Nicolas Marin,22,Right Midfield,Saint-Étienne,0.0,out,Summer,2003,2003/2004
+Éric Assati,28,Left-Back,Amiens SC,0.0,out,Summer,2003,2003/2004
+Hélder Esteves,26,Centre-Forward,Troyes,0.0,out,Summer,2003,2003/2004
+Nikola Jozic,20,Centre-Back,Zeleznik Belgr.,0.0,out,Summer,2003,2003/2004
+David Vandenbossche,23,Attacking Midfield,LB Châteauroux,0.0,out,Winter,2003,2003/2004
+Luigi Pieroni,23,Centre-Forward,Exc. Mouscron,1250000.0,in,Summer,2004,2004/2005
+Rene Bolf,30,Centre-Back,Banik Ostrava,1000000.0,in,Summer,2004,2004/2005
+Michaël Ciani,20,Centre-Back,RSC Charleroi,750000.0,in,Summer,2004,2004/2005
+Yannick Boumsong,20,Defensive Midfield,Clyde FC,0.0,in,Summer,2004,2004/2005
+Benoît Cheyrou,23,Defensive Midfield,LOSC Lille,0.0,in,Summer,2004,2004/2005
+Abou Diaby,18,Central Midfield,AJ Auxerre B,0.0,in,Summer,2004,2004/2005
+Younès Kaboul,18,Centre-Back,AJ Auxerre B,0.0,in,Summer,2004,2004/2005
+Bacary Sagna,21,Right-Back,AJ Auxerre B,0.0,in,Summer,2004,2004/2005
+Pierre Vignaud,21,Left-Back,AJ Auxerre B,0.0,in,Summer,2004,2004/2005
+Mickael Castejon,19,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2004,2004/2005
+David Vandenbossche,23,Attacking Midfield,LB Châteauroux,0.0,in,Summer,2004,2004/2005
+Hélder Esteves,26,Centre-Forward,Troyes,0.0,in,Summer,2004,2004/2005
+Djibril Cissé,22,Centre-Forward,Liverpool,20000000.0,out,Summer,2004,2004/2005
+Philippe Mexès,22,Centre-Back,AS Roma,7000000.0,out,Summer,2004,2004/2005
+Pantxi Sirieix,23,Central Midfield,Toulouse,0.0,out,Summer,2004,2004/2005
+Olivier Kapo,23,Attacking Midfield,Juventus,0.0,out,Summer,2004,2004/2005
+Rafik Djebbour,20,Centre-Forward,La Louviere,0.0,out,Summer,2004,2004/2005
+Jean-Alain Boumsong,24,Centre-Back,Rangers,0.0,out,Summer,2004,2004/2005
+Jean-Joël Perrier-Doumbé,25,Right-Back,Stade Rennais,0.0,out,Summer,2004,2004/2005
+Pierre Deblock,31,Right Midfield,Stade Lavallois,0.0,out,Summer,2004,2004/2005
+Hélder Esteves,27,Centre-Forward,Dijon,0.0,out,Summer,2004,2004/2005
+Romain Poyet,23,Centre-Forward,Clermont FA,0.0,out,Summer,2004,2004/2005
+Tiago Henrique,22,Right Winger,Palmeiras,0.0,out,Winter,2004,2004/2005
+Noam Surrier,23,attack,FC Lahti,0.0,out,Winter,2004,2004/2005
+Thomas Kahlenberg,22,Central Midfield,Bröndby IF,5000000.0,in,Summer,2005,2005/2006
+Oumar Kalabane,24,Centre-Back,ES Sahel,0.0,in,Summer,2005,2005/2006
+Péguy Luyindula,26,Centre-Forward,Marseille,0.0,in,Summer,2005,2005/2006
+Krisztián Vadócz,20,Central Midfield,Honvéd,0.0,in,Summer,2005,2005/2006
+Mathieu Berson,25,Defensive Midfield,Aston Villa,0.0,in,Summer,2005,2005/2006
+Kevin Lejeune,20,Left Midfield,AJ Auxerre B,0.0,in,Summer,2005,2005/2006
+Baptiste Martin,20,Centre-Back,AJ Auxerre B,0.0,in,Summer,2005,2005/2006
+Ludovic Genest,17,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,2005,2005/2006
+Romain Poyet,24,Centre-Forward,Clermont FA,0.0,in,Summer,2005,2005/2006
+Hélder Esteves,27,Centre-Forward,Dijon,0.0,in,Summer,2005,2005/2006
+Bonaventure Kalou,27,Right Winger,Paris SG,8500000.0,out,Summer,2005,2005/2006
+David Vandenbossche,24,Attacking Midfield,LB Châteauroux,0.0,out,Summer,2005,2005/2006
+Hélder Esteves,28,Centre-Forward,Dijon,0.0,out,Summer,2005,2005/2006
+Yannick Boumsong,21,Defensive Midfield,CSKA Sofia,0.0,out,Summer,2005,2005/2006
+David Recorbet,28,Centre-Back,FC Lorient,0.0,out,Summer,2005,2005/2006
+Arnaud Gonzalez,27,Centre-Forward,Guingamp,0.0,out,Summer,2005,2005/2006
+Teemu Tainio,25,Defensive Midfield,Spurs,0.0,out,Summer,2005,2005/2006
+Michaël Ciani,21,Centre-Back,CS Sedan,0.0,out,Summer,2005,2005/2006
+Benjani,27,Centre-Forward,Portsmouth,6000000.0,out,Winter,2005,2005/2006
+Abou Diaby,19,Central Midfield,Arsenal,3000000.0,out,Winter,2005,2005/2006
+Hassan Yebda,21,Central Midfield,Stade Lavallois,0.0,out,Winter,2005,2005/2006
+Benoît Pedretti,25,Defensive Midfield,Olympique Lyon,5000000.0,in,Summer,2006,2006/2007
+Frédéric Thomas,25,Central Midfield,Le Mans UC 72,4000000.0,in,Summer,2006,2006/2007
+Daniel Niculae,23,Centre-Forward,Rapid Bucharest,3300000.0,in,Summer,2006,2006/2007
+Ireneusz Jelen,25,Centre-Forward,Wisla Plock,900000.0,in,Summer,2006,2006/2007
+Anthony Basso,26,Goalkeeper,Viking FK,0.0,in,Summer,2006,2006/2007
+Issa Ba,24,Central Midfield,LB Châteauroux,0.0,in,Summer,2006,2006/2007
+Moussa N'Diaye,27,Right Winger,FC Istres,0.0,in,Summer,2006,2006/2007
+Benoît Tardieu,20,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2006,2006/2007
+Krisztián Vadócz,21,Central Midfield,Motherwell FC,0.0,in,Summer,2006,2006/2007
+Michaël Ciani,22,Centre-Back,CS Sedan,0.0,in,Summer,2006,2006/2007
+Hassan Yebda,22,Central Midfield,Stade Lavallois,0.0,in,Summer,2006,2006/2007
+Sébastien Hamel,30,Goalkeeper,Marseille,0.0,out,Summer,2006,2006/2007
+Richard Suriano,24,Right-Back,FC Istres,0.0,out,Summer,2006,2006/2007
+Yann Lachuer,33,Attacking Midfield,Troyes,0.0,out,Summer,2006,2006/2007
+Pierre Vignaud,23,Left-Back,FC Rouen 1899,0.0,out,Summer,2006,2006/2007
+Mamoutou Coulibaly,22,Centre-Back,FC Istres,0.0,out,Summer,2006,2006/2007
+Romain Poyet,25,Centre-Forward,Dijon,0.0,out,Summer,2006,2006/2007
+Baptiste Chabert,23,Goalkeeper,FC Béziers M.,0.0,out,Summer,2006,2006/2007
+Michaël Ciani,22,Centre-Back,FC Lorient,0.0,out,Summer,2006,2006/2007
+Benoît Tardieu,20,Goalkeeper,Clermont FA,0.0,out,Summer,2006,2006/2007
+Philippe Violeau,35,Defensive Midfield,Retired,0.0,out,Summer,2006,2006/2007
+Mathieu Berson,26,Defensive Midfield,Aston Villa,0.0,out,Summer,2006,2006/2007
+Péguy Luyindula,27,Centre-Forward,Marseille,0.0,out,Summer,2006,2006/2007
+Olivier Sorin,25,Goalkeeper,AS Nancy,1300000.0,in,Winter,2006,2006/2007
+Luigi Pieroni,26,Centre-Forward,FC Nantes,2500000.0,out,Winter,2006,2006/2007
+Oumar Kalabane,25,Centre-Back,Manisaspor,2000000.0,out,Winter,2006,2006/2007
+Rene Bolf,32,Centre-Back,Banik Ostrava,0.0,out,Winter,2006,2006/2007
+Hassan Yebda,22,Central Midfield,Le Mans UC 72,0.0,out,Winter,2006,2006/2007
+Krisztián Vadócz,21,Central Midfield,Motherwell FC,0.0,out,Winter,2006,2006/2007
+Toifilou Maoulida,28,Centre-Forward,Marseille,3000000.0,in,Summer,2007,2007/2008
+Gabriel Tamas,23,Centre-Back,Spartak Moscow,3000000.0,in,Summer,2007,2007/2008
+Jean-Michel Lesage,30,Attacking Midfield,AC Le Havre,2000000.0,in,Summer,2007,2007/2008
+Marcos António,24,Centre-Back,Gil Vicente,1400000.0,in,Summer,2007,2007/2008
+Kamel Chafni,25,Attacking Midfield,AC Ajaccio,1200000.0,in,Summer,2007,2007/2008
+Rémy Riou,19,Goalkeeper,Olympique Lyon,800000.0,in,Summer,2007,2007/2008
+Steeven Langil,19,Left Winger,Nîmes Olympique,350000.0,in,Summer,2007,2007/2008
+Dennis Oliech,22,Right Winger,FC Nantes,0.0,in,Summer,2007,2007/2008
+Sammy Traoré,31,Centre-Back,Paris SG,0.0,in,Summer,2007,2007/2008
+Maxime Jasse,19,Central Midfield,AJ Auxerre B,0.0,in,Summer,2007,2007/2008
+Denis Petric,19,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2007,2007/2008
+Alain Traoré,18,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,2007,2007/2008
+Michaël Ciani,23,Centre-Back,FC Lorient,0.0,in,Summer,2007,2007/2008
+Benoît Tardieu,21,Goalkeeper,Clermont Foot,0.0,in,Summer,2007,2007/2008
+Younès Kaboul,21,Centre-Back,Spurs,12000000.0,out,Summer,2007,2007/2008
+Bacary Sagna,24,Right-Back,Arsenal,9000000.0,out,Summer,2007,2007/2008
+Kanga Akalé,26,Left Winger,Lens,5000000.0,out,Summer,2007,2007/2008
+Benoît Cheyrou,26,Defensive Midfield,Marseille,5000000.0,out,Summer,2007,2007/2008
+Michaël Ciani,23,Centre-Back,FC Lorient,700000.0,out,Summer,2007,2007/2008
+Mickael Castejon,22,Goalkeeper,FC Baulmes,0.0,out,Summer,2007,2007/2008
+Anthony Basso,28,Goalkeeper,Heart of Midl.,0.0,out,Summer,2007,2007/2008
+Benoît Tardieu,21,Goalkeeper,Clermont Foot,0.0,out,Summer,2007,2007/2008
+Moussa N'Diaye,28,Right Winger,Al-Rayyan SC,0.0,out,Summer,2007,2007/2008
+Lionel Mathis,25,Defensive Midfield,FC Sochaux,0.0,out,Summer,2007,2007/2008
+Krisztián Vadócz,22,Central Midfield,NEC Nijmegen,0.0,out,Summer,2007,2007/2008
+Johan Radet,30,Right-Back,Retired,0.0,out,Summer,2007,2007/2008
+Fabien Cool,34,Goalkeeper,Retired,0.0,out,Summer,2007,2007/2008
+Robert Popov,25,Right-Back,Litex Lovech,1000000.0,in,Winter,2007,2007/2008
+Julien Quercia,21,Centre-Forward,FC Sochaux,1000000.0,in,Winter,2007,2007/2008
+Vlad Munteanu,26,Left Midfield,VfL Wolfsburg,150000.0,in,Winter,2007,2007/2008
+Toifilou Maoulida,28,Centre-Forward,Lens,3500000.0,out,Winter,2007,2007/2008
+Jean-Michel Lesage,30,Attacking Midfield,AC Le Havre,1500000.0,out,Winter,2007,2007/2008
+Dariusz Dudka,24,Centre-Back,Wisla Kraków,2500000.0,in,Summer,2008,2008/2009
+Adama Coulibaly,27,Centre-Back,Lens,2000000.0,in,Summer,2008,2008/2009
+Dennis Oliech,23,Right Winger,FC Nantes,1000000.0,in,Summer,2008,2008/2009
+Jérémy Berthod,24,Left-Back,Monaco,1000000.0,in,Summer,2008,2008/2009
+Moussa Narry,22,Defensive Midfield,ES Sahel,950000.0,in,Summer,2008,2008/2009
+Cédric Hengbart,27,Right-Back,SM Caen,700000.0,in,Summer,2008,2008/2009
+Maurice Dalé,22,Centre-Forward,FC Martigues,0.0,in,Summer,2008,2008/2009
+Amadou Sidibé,22,Left-Back,Djoliba AC,0.0,in,Summer,2008,2008/2009
+Jérémy Huyghebaert,19,Left-Back,Exc. Mouscron,0.0,in,Summer,2008,2008/2009
+Marc Fachan,19,Right-Back,AJ Auxerre B,0.0,in,Summer,2008,2008/2009
+Delvin N'Dinga,20,Defensive Midfield,AJ Auxerre B,0.0,in,Summer,2008,2008/2009
+Lynel Kitambala,19,Centre-Forward,AJ Auxerre U19,0.0,in,Summer,2008,2008/2009
+Frédéric Thomas,27,Central Midfield,Le Mans UC 72,3000000.0,out,Summer,2008,2008/2009
+Gabriel Tamas,24,Centre-Back,FC Dinamo,400000.0,out,Summer,2008,2008/2009
+Jean-Sébastien Jaurès,30,Left-Back,Bor. M'gladbach,0.0,out,Summer,2008,2008/2009
+Marcos António,25,Centre-Back,PAOK Salonika,0.0,out,Summer,2008,2008/2009
+Ludovic Genest,20,Attacking Midfield,SC Bastia,0.0,out,Summer,2008,2008/2009
+Baptiste Martin,23,Centre-Back,Clermont Foot,0.0,out,Summer,2008,2008/2009
+Vlad Munteanu,27,Left Midfield,VfL Wolfsburg,0.0,out,Summer,2008,2008/2009
+Sammy Traoré,32,Centre-Back,Paris SG,0.0,out,Summer,2008,2008/2009
+Dennis Oliech,23,Right Winger,FC Nantes,0.0,out,Summer,2008,2008/2009
+Valter Birsa,22,Attacking Midfield,FC Sochaux,250000.0,in,Winter,2008,2008/2009
+Alain Traoré,20,Attacking Midfield,Stade Brestois,0.0,out,Winter,2008,2008/2009
+Jérémy Huyghebaert,19,Left-Back,KSV Roeselare,0.0,out,Winter,2008,2008/2009
+Valter Birsa,22,Attacking Midfield,FC Sochaux,1500000.0,in,Summer,2009,2009/2010
+Alexandre Licata,25,Centre-Forward,Monaco,0.0,in,Summer,2009,2009/2010
+Roy Contout,24,Right Winger,Amiens SC,0.0,in,Summer,2009,2009/2010
+Aurélien Capoue,27,Left Winger,FC Nantes,0.0,in,Summer,2009,2009/2010
+Vincent Acapandié,19,Right-Back,AJ Auxerre B,0.0,in,Summer,2009,2009/2010
+Kévin Malaga,22,Centre-Back,AJ Auxerre B,0.0,in,Summer,2009,2009/2010
+Maxime Bourgeois,18,Left Winger,AJ Auxerre B,0.0,in,Summer,2009,2009/2010
+Willy Maeyens,20,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2009,2009/2010
+Alain Traoré,20,Attacking Midfield,Stade Brestois,0.0,in,Summer,2009,2009/2010
+Marcos António,26,Centre-Back,PAOK Salonika,0.0,in,Summer,2009,2009/2010
+Baptiste Martin,24,Centre-Back,Clermont Foot,0.0,in,Summer,2009,2009/2010
+Ludovic Genest,21,Attacking Midfield,SC Bastia,0.0,in,Summer,2009,2009/2010
+Thomas Kahlenberg,26,Central Midfield,VfL Wolfsburg,3700000.0,out,Summer,2009,2009/2010
+Maurice Dalé,24,Centre-Forward,AC Arles-Avignon,0.0,out,Summer,2009,2009/2010
+Marc Fachan,20,Right-Back,Dynamo Kyiv II,0.0,out,Summer,2009,2009/2010
+Ludovic Genest,21,Attacking Midfield,Stade Lavallois,0.0,out,Summer,2009,2009/2010
+Denis Petric,21,Goalkeeper,Cassis Carnoux,0.0,out,Summer,2009,2009/2010
+Maxime Jasse,21,Central Midfield,Dijon,0.0,out,Summer,2009,2009/2010
+Lynel Kitambala,20,Centre-Forward,Dijon,0.0,out,Summer,2009,2009/2010
+Steeven Langil,21,Left Winger,SM Caen,0.0,out,Summer,2009,2009/2010
+Issa Ba,27,Central Midfield,Without Club,0.0,out,Summer,2009,2009/2010
+Valter Birsa,22,Attacking Midfield,FC Sochaux,0.0,out,Summer,2009,2009/2010
+Gabriel Tamas,26,Centre-Back,FC Dinamo,0.0,in,Winter,2009,2009/2010
+Gabriel Tamas,26,Centre-Back,West Brom,1000000.0,out,Winter,2009,2009/2010
+Kevin Lejeune,24,Left Midfield,FC Nantes,0.0,out,Winter,2009,2009/2010
+Marcos António,26,Centre-Back,Belenenses,0.0,out,Winter,2009,2009/2010
+Moussa Narry,23,Defensive Midfield,Le Mans UC 72,0.0,out,Winter,2009,2009/2010
+Anthony Le Tallec,25,Centre-Forward,Le Mans FC,3000000.0,in,Summer,2010,2010/2011
+Frédéric Sammaritano,24,Attacking Midfield,Vannes,500000.0,in,Summer,2010,2010/2011
+Johnson Soumahoro,22,Centre-Back,Amiens SC B,0.0,in,Summer,2010,2010/2011
+Gabriel Tamas,26,Centre-Back,West Brom,0.0,in,Summer,2010,2010/2011
+Jérémy Huyghebaert,21,Left-Back,KSV Roeselare,0.0,in,Summer,2010,2010/2011
+Moussa Narry,24,Defensive Midfield,Le Mans FC,0.0,in,Summer,2010,2010/2011
+Lynel Kitambala,21,Centre-Forward,Dijon,0.0,in,Summer,2010,2010/2011
+Maxime Jasse,22,Central Midfield,Dijon,0.0,in,Summer,2010,2010/2011
+Steeven Langil,22,Left Winger,SM Caen,0.0,in,Summer,2010,2010/2011
+Lynel Kitambala,21,Centre-Forward,FC Lorient,1500000.0,out,Summer,2010,2010/2011
+Gabriel Tamas,26,Centre-Back,West Brom,930000.0,out,Summer,2010,2010/2011
+Daniel Niculae,27,Centre-Forward,Monaco,0.0,out,Summer,2010,2010/2011
+Baptiste Martin,25,Centre-Back,KV Kortrijk,0.0,out,Summer,2010,2010/2011
+Moussa Narry,24,Defensive Midfield,Le Mans FC,0.0,out,Summer,2010,2010/2011
+Maxime Jasse,22,Central Midfield,AJ Auxerre B,0.0,out,Summer,2010,2010/2011
+Robert Popov,28,Right-Back,Without Club,0.0,out,Summer,2010,2010/2011
+Kévin Malaga,23,Centre-Back,Without Club,0.0,out,Summer,2010,2010/2011
+Aurélien Capoue,28,Left Winger,FC Nantes,0.0,out,Summer,2010,2010/2011
+Jo-gook Jeong,26,Centre-Forward,FC Seoul,0.0,in,Winter,2010,2010/2011
+Simon Pontdemé,22,Goalkeeper,Stade Brestois,0.0,in,Winter,2010,2010/2011
+Willy Boly,19,Centre-Back,AJ Auxerre B,0.0,in,Winter,2010,2010/2011
+Jérémy Huyghebaert,21,Left-Back,KV Mechelen,0.0,out,Winter,2010,2010/2011
+Steeven Langil,22,Left Winger,Valenciennes FC,0.0,out,Winter,2010,2010/2011
+Issam Jemâa,27,Centre-Forward,Lens,2000000.0,in,Summer,2011,2011/2012
+Rudy Haddad,26,Attacking Midfield,LB Châteauroux,750000.0,in,Summer,2011,2011/2012
+Édouard Cissé,33,Defensive Midfield,Marseille,0.0,in,Summer,2011,2011/2012
+Omar Kossoko,23,Right Winger,Amiens SC,0.0,in,Summer,2011,2011/2012
+Yonathan Del Valle,21,Left Winger,Táchira,0.0,in,Summer,2011,2011/2012
+Ben Sahar,21,Centre-Forward,Espanyol,0.0,in,Summer,2011,2011/2012
+Paul-Georges Ntep,18,Left Winger,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Yaya Sanogo,18,Centre-Forward,AJ Auxerre U19,0.0,in,Summer,2011,2011/2012
+David Camps,21,Right Winger,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Jeffrey Baltus,19,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Dieylani Fall,21,Centre-Forward,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Donovan Léon,18,Goalkeeper,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Christopher Missilou,18,Defensive Midfield,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Raphaël Calvet,17,Defensive Midfield,AJ Auxerre U19,0.0,in,Summer,2011,2011/2012
+Prince Segbefia,20,Central Midfield,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Thomas Monconduit,20,Defensive Midfield,AJ Auxerre B,0.0,in,Summer,2011,2011/2012
+Soualiho Meïté,17,Central Midfield,AJ Auxerre U19,0.0,in,Summer,2011,2011/2012
+Steeven Langil,23,Left Winger,Valenciennes FC,0.0,in,Summer,2011,2011/2012
+Jean-Pascal Mignot,30,Centre-Back,Saint-Étienne,2000000.0,out,Summer,2011,2011/2012
+Benoît Pedretti,30,Defensive Midfield,LOSC Lille,1500000.0,out,Summer,2011,2011/2012
+Ireneusz Jelen,30,Centre-Forward,LOSC Lille,0.0,out,Summer,2011,2011/2012
+Frédéric Sammaritano,25,Attacking Midfield,AC Ajaccio,0.0,out,Summer,2011,2011/2012
+Rémy Riou,23,Goalkeeper,Toulouse,0.0,out,Summer,2011,2011/2012
+Julien Quercia,24,Centre-Forward,FC Lorient,0.0,out,Summer,2011,2011/2012
+Valter Birsa,24,Attacking Midfield,Genoa,0.0,out,Summer,2011,2011/2012
+Maxime Bourgeois,20,Left Winger,LB Châteauroux,0.0,out,Summer,2011,2011/2012
+Willy Maeyens,22,Goalkeeper,Besançon RC,0.0,out,Summer,2011,2011/2012
+Jo-gook Jeong,27,Centre-Forward,AS Nancy,0.0,out,Summer,2011,2011/2012
+Steeven Langil,23,Left Winger,CS Sedan,0.0,out,Summer,2011,2011/2012
+Johnson Soumahoro,23,Centre-Back,Without Club,0.0,out,Summer,2011,2011/2012
+Georges Mandjeck,23,Defensive Midfield,Stade Rennais,1000000.0,in,Winter,2011,2011/2012
+Olivier Kapo,31,Attacking Midfield,Without Club,0.0,in,Winter,2011,2011/2012
+Vincent Acapandié,21,Right-Back,AC Arles,0.0,out,Winter,2011,2011/2012
+Issam Jemâa,28,Centre-Forward,Stade Brestois,0.0,out,Winter,2011,2011/2012
+Alexandre Licata,27,Centre-Forward,Retired,0.0,out,Winter,2011,2011/2012
+Nuno Da Costa,31,Centre-Forward,Nottm Forest,2000000.0,in,Summer,2022,2022/2023
+Rayan Raveloson,25,Defensive Midfield,Los Angeles,1750000.0,in,Summer,2022,2022/2023
+M'Baye Niang,27,Centre-Forward,G. Bordeaux,0.0,in,Summer,2022,2022/2023
+Youssouf M'Changama,31,Attacking Midfield,Guingamp,0.0,in,Summer,2022,2022/2023
+Julian Jeanvier,30,Centre-Back,Brentford,0.0,in,Summer,2022,2022/2023
+Denys Bain,29,Centre-Back,Stade Brestois,0.0,in,Summer,2022,2022/2023
+Brayann Pereira,19,Right-Back,RC Lens B,0.0,in,Summer,2022,2022/2023
+Benoît Costil,35,Goalkeeper,G. Bordeaux,0.0,in,Summer,2022,2022/2023
+Gideon Mensah,24,Left-Back,RB Salzburg,0.0,in,Summer,2022,2022/2023
+Kays Ruiz-Atil,19,Central Midfield,Without Club,0.0,in,Summer,2022,2022/2023
+Clément Akpa,20,Left-Back,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Kévin Danois,18,Attacking Midfield,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Natanaël Bouekou,20,Defensive Midfield,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Ousmane Camara,20,attack,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Idjessi Metsoko,20,attack,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Kylian Silvestre,19,Right Winger,AJ Auxerre B,0.0,in,Summer,2022,2022/2023
+Kenji-Van Boto,26,Left-Back,Pau FC,0.0,in,Summer,2022,2022/2023
+Ryan Ponti,24,Left Winger,Bourg-en-Bresse,0.0,out,Summer,2022,2022/2023
+Iyad Mohamed,21,Defensive Midfield,SM Caen,0.0,out,Summer,2022,2022/2023
+Carlens Arcus,26,Right-Back,Vitesse,0.0,out,Summer,2022,2022/2023
+Gautier Lloris,26,Centre-Back,AC Le Havre,0.0,out,Summer,2022,2022/2023
+Alec Georgen,23,Right-Back,Concarneau,0.0,out,Summer,2022,2022/2023
+Nicolas Mercier,19,Left Midfield,US Avranches,0.0,out,Summer,2022,2022/2023
+Mohamed Ben Fredj,22,Centre-Forward,Le Puy Foot,0.0,out,Summer,2022,2022/2023
+Aly Ndom,26,Defensive Midfield,Without Club,0.0,out,Summer,2022,2022/2023
+Xiaoxuan Ji,29,Centre-Forward,Without Club,0.0,out,Summer,2022,2022/2023
+Clément Akpa,20,Left-Back,US Orléans,0.0,out,Summer,2022,2022/2023
+Alexis Trouillet,21,Central Midfield,OGC Nice,0.0,out,Summer,2022,2022/2023
+Elisha Owusu,25,Defensive Midfield,KAA Gent,0.0,in,Winter,2022,2022/2023
+Akim Zedadka,27,Right-Back,LOSC Lille,0.0,in,Winter,2022,2022/2023
+Matthis Abline,19,Centre-Forward,Rennes,0.0,in,Winter,2022,2022/2023
+Isaak Touré,19,Centre-Back,Marseille,0.0,in,Winter,2022,2022/2023
+Ionut Radu,25,Goalkeeper,Inter,0.0,in,Winter,2022,2022/2023
+Siriki Dembélé,26,Left Winger,Bournemouth,0.0,in,Winter,2022,2022/2023
+Vincenzo Cozzella,21,Goalkeeper,AJ Auxerre B,0.0,in,Winter,2022,2022/2023
+Han-Noah Massengo,21,Central Midfield,Bristol City,0.0,in,Winter,2022,2022/2023
+Gaëtan Charbonnier,33,Centre-Forward,Saint-Étienne,500k,out,Winter,2022,2022/2023
+Quentin Bernard,33,Left-Back,Chamois Niort,0.0,out,Winter,2022,2022/2023
+Benoît Costil,35,Goalkeeper,LOSC Lille,0.0,out,Winter,2022,2022/2023
+Alexandre Coeff,30,Centre-Back,Brescia,0.0,out,Winter,2022,2022/2023
+Paul Joly,22,Right-Back,Dijon,0.0,out,Winter,2022,2022/2023
+Brayann Pereira,19,Right-Back,Bourg-en-Bresse,0.0,out,Winter,2022,2022/2023
