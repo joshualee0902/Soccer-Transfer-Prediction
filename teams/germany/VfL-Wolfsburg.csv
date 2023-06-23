@@ -1,0 +1,826 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Claudio Reyna,23,Central Midfield,Bay. Leverkusen,750000.0,in,Summer,1997,1997/1998
+Holger Hiemann,29,Goalkeeper,Hamburger SV,0.0,in,Summer,1997,1997/1998
+Marijan Kovacevic,23,Centre-Back,Hamburger SV,0.0,in,Summer,1997,1997/1998
+Frank Greiner,31,Right Midfield,1.FC K'lautern,0.0,in,Summer,1997,1997/1998
+Andreas Winkler,27,midfield,VfB Lübeck,0.0,in,Summer,1997,1997/1998
+Dragan Stevanovic,25,Centre-Forward,Rad,0.0,in,Summer,1997,1997/1998
+Waldemar Kryger,28,Centre-Back,Lech Poznan,0.0,in,Summer,1997,1997/1998
+Maximilian Heidenreich,30,Sweeper,SC Freiburg,0.0,in,Summer,1997,1997/1998
+Pavel Novotny,23,Left-Back,Slavia Prague,0.0,in,Summer,1997,1997/1998
+Uwe Klein,27,midfield,Spfr. Siegen,0.0,out,Summer,1997,1997/1998
+Ulf-Volker Probst,32,Centre-Back,FC Kufstein,0.0,out,Summer,1997,1997/1998
+Oliver Lüttkenhaus,26,Sweeper,VfL 93 Hamburg,0.0,out,Summer,1997,1997/1998
+Matthias Maucksch,28,Sweeper,VfB Leipzig,0.0,out,Summer,1997,1997/1998
+Michael Butrej,29,Left Midfield,VfB Lübeck,0.0,out,Summer,1997,1997/1998
+André Breitenreiter,24,Second Striker,Hamburger SV,0.0,in,Winter,1997,1997/1998
+Andreas Winkler,28,midfield,E. Braunschweig,0.0,out,Winter,1997,1997/1998
+Petar Mihtarski,31,Centre-Forward,Pirin,0.0,out,Winter,1997,1997/1998
+Andrzej Juskowiak,27,Centre-Forward,Bor. M'gladbach,1250000.0,in,Summer,1998,1998/1999
+Brian O'Neil,25,Centre-Back,Aberdeen FC,660000.0,in,Summer,1998,1998/1999
+Charles Akonnor,24,Central Midfield,SC Fortuna Köln,600000.0,in,Summer,1998,1998/1999
+Krzysztof Nowak,22,Central Midfield,Atlético-PR,500000.0,in,Summer,1998,1998/1999
+Steffen Baumgart,26,Centre-Forward,Hansa Rostock,500000.0,in,Summer,1998,1998/1999
+Vitus Nagorny,20,Centre-Forward,SpVgg Landshut,100000.0,in,Summer,1998,1998/1999
+Claus Reitmaier,34,Goalkeeper,Karlsruher SC,0.0,in,Summer,1998,1998/1999
+Nico Däbritz,26,Defensive Midfield,VfB Leipzig,0.0,in,Summer,1998,1998/1999
+Guido Koltermann,23,Goalkeeper,1.FC Bocholt,0.0,in,Summer,1998,1998/1999
+Jonathan Akonnor,19,Left Midfield,Okwawu United,0.0,in,Summer,1998,1998/1999
+Gerald Schröder,22,Left Midfield,Wolfsburg II,0.0,in,Summer,1998,1998/1999
+Jens Keller,27,Centre-Back,VfB Stuttgart,300000.0,out,Summer,1998,1998/1999
+Zoran Tomcic,28,Centre-Back,KFC Uerdingen,150000.0,out,Summer,1998,1998/1999
+Dragan Stevanovic,26,Centre-Forward,FC St. Pauli,0.0,out,Summer,1998,1998/1999
+Marco Ament,19,midfield,SSV Vorsfelde,0.0,out,Summer,1998,1998/1999
+Chad Deering,27,Defensive Midfield,Dallas,0.0,out,Summer,1998,1998/1999
+Sven Ratke,26,Attacking Midfield,VfB Hellerau,0.0,out,Summer,1998,1998/1999
+Stefan Meissner,25,Centre-Forward,Karlsruher SC,0.0,out,Summer,1998,1998/1999
+Michael Spies,32,Attacking Midfield,Unterhaching,0.0,out,Summer,1998,1998/1999
+Maximilian Heidenreich,31,Sweeper,Wattenscheid 09,0.0,out,Summer,1998,1998/1999
+Pavel Novotny,24,Left-Back,Sparta Prague,0.0,out,Summer,1998,1998/1999
+Jann Jensen,29,Centre-Back,Odense BK,0.0,out,Summer,1998,1998/1999
+Piotr Tyszkiewicz,27,Centre-Forward,E. Braunschweig,0.0,out,Summer,1998,1998/1999
+Markus Kullig,23,Defensive Midfield,VfB Lübeck,0.0,out,Summer,1998,1998/1999
+Jörg Hoßbach,33,Goalkeeper,Retired,0.0,out,Summer,1998,1998/1999
+Marcel Maltritz,20,Centre-Back,1.FC Magdeburg,0.0,in,Winter,1998,1998/1999
+Claus Thomsen,28,Centre-Back,Akademisk BK,0.0,in,Winter,1998,1998/1999
+Jonathan Akpoborie,30,Centre-Forward,VfB Stuttgart,1400000.0,in,Summer,1999,1999/2000
+Marino Biliskov,23,Centre-Back,Hajduk Split,1000000.0,in,Summer,1999,1999/2000
+Dorinel Munteanu,31,Central Midfield,1. FC Köln,850000.0,in,Summer,1999,1999/2000
+Jéan-Kasongo Banza,25,Centre-Forward,CS Sfaxien,800000.0,in,Summer,1999,1999/2000
+Markus Feldhoff,24,Centre-Forward,Bor. M'gladbach,520000.0,in,Summer,1999,1999/2000
+Zoltan Sebescen,23,Right-Back,Stuttg. Kickers,425000.0,in,Summer,1999,1999/2000
+Patrick Weiser,27,Left-Back,Stade Rennais,375000.0,in,Summer,1999,1999/2000
+Christian Wück,26,Second Striker,Karlsruher SC,0.0,in,Summer,1999,1999/2000
+Christian Brand,27,Attacking Midfield,Werder Bremen,0.0,in,Summer,1999,1999/2000
+Claudio Reyna,25,Central Midfield,Rangers,3000000.0,out,Summer,1999,1999/2000
+Steffen Baumgart,27,Centre-Forward,Hansa Rostock,500000.0,out,Summer,1999,1999/2000
+Marijan Kovacevic,25,Centre-Back,MSV Duisburg,430000.0,out,Summer,1999,1999/2000
+Roy Präger,27,Centre-Forward,Hamburger SV,0.0,out,Summer,1999,1999/2000
+Uwe Zimmermann,37,Goalkeeper,E. Braunschweig,0.0,out,Summer,1999,1999/2000
+Christian Brand,27,Attacking Midfield,Hansa Rostock,0.0,out,Summer,1999,1999/2000
+Sead Kapetanovic,27,Right Midfield,Bor. Dortmund,0.0,out,Summer,1999,1999/2000
+Jonathan Akonnor,20,Left Midfield,VfL Osnabrück,0.0,out,Summer,1999,1999/2000
+Peter Kleeschätzky,29,Centre-Back,Wolfsburg II,0.0,out,Summer,1999,1999/2000
+Jürgen Rische,29,Centre-Forward,1.FC K'lautern,250000.0,in,Winter,1999,1999/2000
+Jonathan Akonnor,21,Left Midfield,VfL Osnabrück,25000.0,in,Winter,1999,1999/2000
+Thomas Hengen,25,Sweeper,Bor. Dortmund,0.0,in,Winter,1999,1999/2000
+André Breitenreiter,26,Second Striker,Unterhaching,0.0,out,Winter,1999,1999/2000
+Andreas Voss,21,Defensive Midfield,Bay. Leverkusen,150000.0,in,Summer,2000,2000/2001
+Sven Müller,20,Right Midfield,FC Augsburg,70000.0,in,Summer,2000,2000/2001
+Martin Wagner,32,Left Midfield,1.FC K'lautern,0.0,in,Summer,2000,2000/2001
+Joshua Kennedy,17,Centre-Forward,Carlton SC,0.0,in,Summer,2000,2000/2001
+Dietmar Kühbauer,29,Central Midfield,Real Sociedad,0.0,in,Summer,2000,2000/2001
+Tomislav Maric,27,Centre-Forward,Stuttg. Kickers,0.0,in,Summer,2000,2000/2001
+Simon Fahner,22,Left Midfield,Leverkusen II,0.0,in,Summer,2000,2000/2001
+Mike Busch,19,Centre-Forward,Hannover 96,0.0,in,Summer,2000,2000/2001
+Detlev Dammeier,31,Defensive Midfield,Arm. Bielefeld,230000.0,out,Summer,2000,2000/2001
+Holger Ballwanz,32,Defensive Midfield,Hannover 96,200000.0,out,Summer,2000,2000/2001
+Jéan-Kasongo Banza,26,Centre-Forward,MSV Duisburg,100000.0,out,Summer,2000,2000/2001
+Guido Koltermann,25,Goalkeeper,Unterhaching,50000.0,out,Summer,2000,2000/2001
+Gerald Schröder,24,Left Midfield,SC Verl,0.0,out,Summer,2000,2000/2001
+Christian Wück,27,Second Striker,Arm. Bielefeld,0.0,out,Summer,2000,2000/2001
+Vitus Nagorny,22,Centre-Forward,Karlsruher SC,0.0,out,Summer,2000,2000/2001
+Nico Däbritz,28,Defensive Midfield,Hannover 96,0.0,out,Summer,2000,2000/2001
+Mathias Stammann,32,Left Midfield,Retired,0.0,out,Summer,2000,2000/2001
+Stefan Schnoor,29,Centre-Back,Derby,0.0,in,Winter,2000,2000/2001
+Brian O'Neil,28,Centre-Back,Derby,750000.0,out,Winter,2000,2000/2001
+Martin Petrov,22,Left Winger,Servette FC,3250000.0,in,Summer,2001,2001/2002
+Miroslav Karhan,25,Central Midfield,Besiktas,2750000.0,in,Summer,2001,2001/2002
+Robson Ponté,24,Attacking Midfield,Bay. Leverkusen,1250000.0,in,Summer,2001,2001/2002
+Dusan Petkovic,27,Centre-Back,OFK Beograd,750000.0,in,Summer,2001,2001/2002
+Hans Sarpei,25,Left-Back,MSV Duisburg,600000.0,in,Summer,2001,2001/2002
+Tobias Rau,19,Left-Back,E. Braunschweig,600000.0,in,Summer,2001,2001/2002
+Gernot Plassnegger,23,Right-Back,Saarbrücken,500000.0,in,Summer,2001,2001/2002
+Emeka Ifejiagwa,23,Centre-Back,CA Osasuna,450000.0,in,Summer,2001,2001/2002
+Sead Ramovic,22,Goalkeeper,Stuttg. Kickers,0.0,in,Summer,2001,2001/2002
+Maik Franz,19,Centre-Back,1.FC Magdeburg,0.0,in,Summer,2001,2001/2002
+Michael Madsen,27,Left Midfield,Bari,0.0,in,Summer,2001,2001/2002
+Benjamin Siegert,19,Right Midfield,Wolfsburg II,0.0,in,Summer,2001,2001/2002
+Jéan-Kasongo Banza,27,Centre-Forward,MSV Duisburg,0.0,in,Summer,2001,2001/2002
+Zoltan Sebescen,25,Right-Back,Bay. Leverkusen,6000000.0,out,Summer,2001,2001/2002
+Thomas Hengen,26,Sweeper,1.FC K'lautern,2250000.0,out,Summer,2001,2001/2002
+Jonathan Akpoborie,32,Centre-Forward,Saarbrücken,250000.0,out,Summer,2001,2001/2002
+Jéan-Kasongo Banza,27,Centre-Forward,CS Sfaxien,0.0,out,Summer,2001,2001/2002
+Holger Hiemann,33,Goalkeeper,Chemnitzer FC,0.0,out,Summer,2001,2001/2002
+Simon Fahner,23,Left Midfield,SC Fortuna Köln,0.0,out,Summer,2001,2001/2002
+Marcel Maltritz,22,Centre-Back,Hamburger SV,0.0,out,Summer,2001,2001/2002
+Mike Busch,20,Centre-Forward,VfL Bochum,0.0,out,Summer,2001,2001/2002
+Martin Wagner,33,Left Midfield,Retired,0.0,out,Summer,2001,2001/2002
+Andreas Voss,22,Defensive Midfield,Bay. Leverkusen,0.0,out,Summer,2001,2001/2002
+Diego Klimowicz,27,Centre-Forward,Lanús,3000000.0,in,Winter,2001,2001/2002
+Thomas Rytter,27,Right-Back,FC Copenhagen,850000.0,in,Winter,2001,2001/2002
+Markus Feldhoff,27,Centre-Forward,Energie Cottbus,300000.0,out,Winter,2001,2001/2002
+Kim Madsen,24,Centre-Back,FC Copenhagen,800000.0,in,Summer,2002,2002/2003
+Roy Präger,30,Centre-Forward,Hamburger SV,0.0,in,Summer,2002,2002/2003
+Stefan Effenberg,33,Central Midfield,Bayern Munich,0.0,in,Summer,2002,2002/2003
+Jesper Christiansen,24,Goalkeeper,Rangers,0.0,in,Summer,2002,2002/2003
+Patrick Platins,19,Goalkeeper,Wolfsburg U19,0.0,in,Summer,2002,2002/2003
+Dusan Petkovic,28,Centre-Back,1.FC Nuremberg,0.0,in,Summer,2002,2002/2003
+Mike Busch,21,Centre-Forward,VfL Bochum,0.0,in,Summer,2002,2002/2003
+Andrzej Juskowiak,31,Centre-Forward,Energie Cottbus,250000.0,out,Summer,2002,2002/2003
+Jürgen Rische,31,Centre-Forward,E. Braunschweig,0.0,out,Summer,2002,2002/2003
+Dietmar Kühbauer,31,Central Midfield,SV Mattersburg,0.0,out,Summer,2002,2002/2003
+Waldemar Kryger,33,Centre-Back,Lech Poznan,0.0,out,Summer,2002,2002/2003
+Gernot Plassnegger,24,Right-Back,Waldh. Mannheim,0.0,out,Summer,2002,2002/2003
+Dusan Petkovic,28,Centre-Back,1.FC Nuremberg,0.0,out,Summer,2002,2002/2003
+Joshua Kennedy,19,Centre-Forward,Stuttg. Kickers,0.0,out,Summer,2002,2002/2003
+Michael Madsen,28,Left Midfield,Farum BK,0.0,out,Summer,2002,2002/2003
+Emeka Ifejiagwa,24,Centre-Back,Waldh. Mannheim,0.0,out,Summer,2002,2002/2003
+Benjamin Siegert,20,Right Midfield,Wolfsburg II,0.0,out,Summer,2002,2002/2003
+Claus Thomsen,32,Centre-Back,Retired,0.0,out,Summer,2002,2002/2003
+Krzysztof Nowak,26,Central Midfield,Retired,0.0,out,Summer,2002,2002/2003
+Pablo Thiam,28,Defensive Midfield,Bayern Munich,1000000.0,in,Winter,2002,2002/2003
+Peter Madsen,24,Centre-Forward,Bröndby IF,340000.0,in,Winter,2002,2002/2003
+Pablo Quattrocchi,28,Centre-Back,Estudiantes,0.0,in,Winter,2002,2002/2003
+Michael Madsen,29,Left Midfield,Farum BK,0.0,in,Winter,2002,2002/2003
+Mike Busch,21,Centre-Forward,SG Egelsbach,0.0,out,Winter,2002,2002/2003
+Stefan Effenberg,34,Central Midfield,Without Club,0.0,out,Winter,2002,2002/2003
+Andrés D'Alessandro,22,Attacking Midfield,River Plate,9500000.0,in,Summer,2003,2003/2004
+Simon Jentzsch,27,Goalkeeper,1860 Munich,2850000.0,in,Summer,2003,2003/2004
+Mirko Hrgovic,24,Left-Back,Siroki Brijeg,800000.0,in,Summer,2003,2003/2004
+Marko Topic,27,Centre-Forward,Energie Cottbus,650000.0,in,Summer,2003,2003/2004
+Waldo Ponce,20,Centre-Back,U. de Chile,400000.0,in,Summer,2003,2003/2004
+Fernando Baiano,24,Centre-Forward,Flamengo,300000.0,in,Summer,2003,2003/2004
+Albert Streit,23,Right Winger,E. Frankfurt,0.0,in,Summer,2003,2003/2004
+Juan Carlos Menseguez,19,Right Winger,River Plate,0.0,in,Summer,2003,2003/2004
+Michal Janicki,20,attack,Wolfsburg II,0.0,in,Summer,2003,2003/2004
+Emeka Ifejiagwa,25,Centre-Back,Waldh. Mannheim,0.0,in,Summer,2003,2003/2004
+Joshua Kennedy,20,Centre-Forward,Stuttg. Kickers,0.0,in,Summer,2003,2003/2004
+Gernot Plassnegger,25,Right-Back,Waldh. Mannheim,0.0,in,Summer,2003,2003/2004
+Tobias Rau,21,Left-Back,Bayern Munich,2250000.0,out,Summer,2003,2003/2004
+Gernot Plassnegger,25,Right-Back,Hansa Rostock,270000.0,out,Summer,2003,2003/2004
+Emeka Ifejiagwa,25,Centre-Back,Bendel Ins.,0.0,out,Summer,2003,2003/2004
+Claus Reitmaier,39,Goalkeeper,Bor. M'gladbach,0.0,out,Summer,2003,2003/2004
+Joshua Kennedy,20,Centre-Forward,1.FC Köln II,0.0,out,Summer,2003,2003/2004
+Michael Madsen,29,Left Midfield,Hellerup IK,0.0,out,Summer,2003,2003/2004
+Frank Greiner,36,Right Midfield,Career break,0.0,out,Summer,2003,2003/2004
+Robson Ponté,26,Attacking Midfield,Bay. Leverkusen,0.0,out,Summer,2003,2003/2004
+Jesper Christiansen,25,Goalkeeper,Rangers,0.0,out,Summer,2003,2003/2004
+Peter Madsen,25,Centre-Forward,Bröndby IF,0.0,out,Summer,2003,2003/2004
+Nenad Lalatovic,26,Right-Back,Shakhtar D.,0.0,in,Winter,2003,2003/2004
+Christian Ritter,19,Attacking Midfield,Wolfsburg II,0.0,in,Winter,2003,2003/2004
+Charles Akonnor,29,Central Midfield,Unterhaching,500000.0,out,Winter,2003,2003/2004
+Dusan Petkovic,29,Centre-Back,Spartak Moscow,0.0,out,Winter,2003,2003/2004
+Sven Müller,23,Right Midfield,1.FC Nuremberg,0.0,out,Winter,2003,2003/2004
+Dorinel Munteanu,35,Central Midfield,Steaua Bucharest,0.0,out,Winter,2003,2003/2004
+Albert Streit,23,Right Winger,1. FC Köln,0.0,out,Winter,2003,2003/2004
+Tomislav Maric,30,Centre-Forward,Bor. M'gladbach,0.0,out,Winter,2003,2003/2004
+Kim Madsen,25,Centre-Back,Hansa Rostock,0.0,out,Winter,2003,2003/2004
+Juan Carlos Menseguez,20,Right Winger,River Plate,3000000.0,in,Summer,2004,2004/2005
+Kevin Hofland,25,Centre-Back,PSV Eindhoven,2000000.0,in,Summer,2004,2004/2005
+Facundo Quiroga,26,Centre-Back,Sporting CP,1500000.0,in,Summer,2004,2004/2005
+Marian Hristov,30,Defensive Midfield,1.FC K'lautern,1000000.0,in,Summer,2004,2004/2005
+Thomas Brdaric,29,Centre-Forward,Bay. Leverkusen,1000000.0,in,Summer,2004,2004/2005
+André Lenz,30,Goalkeeper,1860 Munich,0.0,in,Summer,2004,2004/2005
+Nderim Nedzipi,20,Attacking Midfield,FK Sloga,0.0,in,Summer,2004,2004/2005
+Óscar Ahumada,21,Defensive Midfield,River Plate,0.0,in,Summer,2004,2004/2005
+Karsten Fischer,20,Defensive Midfield,Wolfsburg II,0.0,in,Summer,2004,2004/2005
+Tomislav Maric,31,Centre-Forward,Bor. M'gladbach,0.0,in,Summer,2004,2004/2005
+Sead Ramovic,25,Goalkeeper,Bor. M'gladbach,0.0,out,Summer,2004,2004/2005
+Pablo Quattrocchi,30,Centre-Back,Tiburones Rojos,0.0,out,Summer,2004,2004/2005
+Michal Janicki,21,attack,Wolfsburg II,0.0,out,Summer,2004,2004/2005
+Christian Ritter,19,Attacking Midfield,Wolfsburg II,0.0,out,Summer,2004,2004/2005
+Nenad Lalatovic,26,Right-Back,Shakhtar D.,0.0,out,Summer,2004,2004/2005
+Waldo Ponce,21,Centre-Back,U. de Chile,0.0,out,Summer,2004,2004/2005
+Fernando Baiano,25,Centre-Forward,Flamengo,0.0,out,Summer,2004,2004/2005
+Juan Carlos Menseguez,20,Right Winger,River Plate,0.0,out,Summer,2004,2004/2005
+Óscar Ahumada,22,Defensive Midfield,River Plate,0.0,out,Winter,2004,2004/2005
+Mike Hanke,21,Centre-Forward,FC Schalke 04,4000000.0,in,Summer,2005,2005/2006
+Alex,25,Right-Back,Benfica,1800000.0,in,Summer,2005,2005/2006
+Matthias Langkamp,21,Centre-Back,Arm. Bielefeld,1300000.0,in,Summer,2005,2005/2006
+Abuda,19,Centre-Forward,Corinthians,275000.0,in,Summer,2005,2005/2006
+Levan Tskitishvili,28,Left Midfield,Metalurg D.,250000.0,in,Summer,2005,2005/2006
+Bojan Neziri,23,Left-Back,Metalurg D.,150000.0,in,Summer,2005,2005/2006
+Steve Marlet,31,Centre-Forward,Fulham,0.0,in,Summer,2005,2005/2006
+Peter Van der Heyden,28,Left-Back,Club Brugge,0.0,in,Summer,2005,2005/2006
+Christopher Lamprecht,20,Right-Back,Wolfsburg II,0.0,in,Summer,2005,2005/2006
+Cédric Makiadi,21,Central Midfield,Wolfsburg II,0.0,in,Summer,2005,2005/2006
+Albert Streit,25,Right Winger,1. FC Köln,0.0,in,Summer,2005,2005/2006
+Martin Petrov,26,Left Winger,Atlético Madrid,10000000.0,out,Summer,2005,2005/2006
+Thomas Brdaric,30,Centre-Forward,Hannover 96,1800000.0,out,Summer,2005,2005/2006
+Albert Streit,25,Right Winger,1. FC Köln,500000.0,out,Summer,2005,2005/2006
+Thomas Rytter,31,Right-Back,Bröndby IF,500000.0,out,Summer,2005,2005/2006
+Marko Topic,29,Centre-Forward,KS Samara,0.0,out,Summer,2005,2005/2006
+Patrick Weiser,33,Left-Back,1. FC Köln,0.0,out,Summer,2005,2005/2006
+Tomislav Maric,32,Centre-Forward,Urawa Reds,0.0,out,Summer,2005,2005/2006
+Marino Biliskov,29,Centre-Back,MSV Duisburg,0.0,out,Summer,2005,2005/2006
+Nderim Nedzipi,21,Attacking Midfield,FK Sloga,0.0,out,Summer,2005,2005/2006
+Roy Präger,33,Centre-Forward,Career break,0.0,out,Summer,2005,2005/2006
+Rick Hoogendorp,30,Centre-Forward,RKC Waalwijk,1700000.0,in,Winter,2005,2005/2006
+Tom van der Leegte,28,Defensive Midfield,ADO Den Haag,500000.0,in,Winter,2005,2005/2006
+Mirko Hrgovic,26,Left-Back,Hajduk Split,0.0,out,Winter,2005,2005/2006
+Andrés D'Alessandro,24,Attacking Midfield,Portsmouth,0.0,out,Winter,2005,2005/2006
+Jonathan Santana,24,Central Midfield,River Plate,3600000.0,in,Summer,2006,2006/2007
+Jacek Krzynowek,30,Left Midfield,Bay. Leverkusen,1350000.0,in,Summer,2006,2006/2007
+Alexander Madlung,23,Centre-Back,Hertha BSC,1300000.0,in,Summer,2006,2006/2007
+Isaac Boakye,24,Centre-Forward,Arm. Bielefeld,1200000.0,in,Summer,2006,2006/2007
+Michael Stegmayer,21,Left-Back,FC Bayern II,0.0,in,Summer,2006,2006/2007
+Uwe Möhrle,26,Centre-Back,MSV Duisburg,0.0,in,Summer,2006,2006/2007
+Steve Müller,21,Centre-Back,Wolfsburg II,0.0,in,Summer,2006,2006/2007
+Emre Öztürk,20,Right Winger,Wolfsburg II,0.0,in,Summer,2006,2006/2007
+Andrés D'Alessandro,25,Attacking Midfield,Portsmouth,0.0,in,Summer,2006,2006/2007
+Andrés D'Alessandro,25,Attacking Midfield,Real Zaragoza,800000.0,out,Summer,2006,2006/2007
+Maik Franz,24,Centre-Back,Karlsruher SC,120000.0,out,Summer,2006,2006/2007
+Steve Marlet,32,Centre-Forward,FC Lorient,0.0,out,Summer,2006,2006/2007
+Levan Tskitishvili,29,Left Midfield,Panionios,0.0,out,Summer,2006,2006/2007
+Abuda,20,Centre-Forward,Germ. Beerschot,0.0,out,Summer,2006,2006/2007
+Matthias Langkamp,22,Centre-Back,Grasshoppers,0.0,out,Summer,2006,2006/2007
+Stefan Schnoor,35,Centre-Back,Without Club,0.0,out,Summer,2006,2006/2007
+Bojan Neziri,24,Left-Back,Metalurg D.,0.0,out,Summer,2006,2006/2007
+Marcelinho Paraíba,31,Attacking Midfield,Trabzonspor,2750000.0,in,Winter,2006,2006/2007
+Kamani Hill,21,Centre-Forward,UCLA Bruins,0.0,in,Winter,2006,2006/2007
+Julio dos Santos,23,Central Midfield,Bayern Munich,0.0,in,Winter,2006,2006/2007
+Karsten Fischer,22,Defensive Midfield,SC Paderborn,0.0,out,Winter,2006,2006/2007
+Rick Hoogendorp,31,Centre-Forward,ADO Den Haag,0.0,out,Winter,2006,2006/2007
+Grafite,28,Centre-Forward,Le Mans UC 72,7500000.0,in,Summer,2007,2007/2008
+Ricardo Costa,26,Centre-Back,FC Porto,4000000.0,in,Summer,2007,2007/2008
+Edin Dzeko,21,Centre-Forward,Teplice,4000000.0,in,Summer,2007,2007/2008
+Jan Simunek,20,Centre-Back,Sparta Prague,3500000.0,in,Summer,2007,2007/2008
+Sergiu Radu,29,Centre-Forward,Energie Cottbus,2250000.0,in,Summer,2007,2007/2008
+Vlad Munteanu,26,Left Midfield,Energie Cottbus,2250000.0,in,Summer,2007,2007/2008
+Alexander Laas,23,Left Midfield,Hamburger SV,1500000.0,in,Summer,2007,2007/2008
+Josué,28,Defensive Midfield,São Paulo,1460000.0,in,Summer,2007,2007/2008
+Marcel Schäfer,23,Left-Back,1860 Munich,1200000.0,in,Summer,2007,2007/2008
+Sascha Riether,24,Right-Back,SC Freiburg,500000.0,in,Summer,2007,2007/2008
+Daniel Baier,23,Defensive Midfield,1860 Munich,450000.0,in,Summer,2007,2007/2008
+Christian Gentner,21,Central Midfield,VfB Stuttgart,400000.0,in,Summer,2007,2007/2008
+Mame Niang,23,Centre-Forward,M. Swallows,200000.0,in,Summer,2007,2007/2008
+Ashkan Dejagah,20,Right Winger,Hertha BSC,0.0,in,Summer,2007,2007/2008
+Matthias Langkamp,23,Centre-Back,Grasshoppers,0.0,in,Summer,2007,2007/2008
+Abuda,21,Centre-Forward,Germ. Beerschot,0.0,in,Summer,2007,2007/2008
+Andrés D'Alessandro,26,Attacking Midfield,Real Zaragoza,0.0,in,Summer,2007,2007/2008
+Mike Hanke,23,Centre-Forward,Hannover 96,4500000.0,out,Summer,2007,2007/2008
+Andrés D'Alessandro,26,Attacking Midfield,Real Zaragoza,3500000.0,out,Summer,2007,2007/2008
+Kevin Hofland,28,Centre-Back,Feyenoord,2600000.0,out,Summer,2007,2007/2008
+Diego Klimowicz,32,Centre-Forward,Bor. Dortmund,1500000.0,out,Summer,2007,2007/2008
+Juan Carlos Menseguez,23,Right Winger,San Lorenzo,1100000.0,out,Summer,2007,2007/2008
+Tom van der Leegte,30,Defensive Midfield,PSV Eindhoven,500000.0,out,Summer,2007,2007/2008
+Uwe Möhrle,27,Centre-Back,FC Augsburg,100000.0,out,Summer,2007,2007/2008
+Abuda,21,Centre-Forward,Vasco da Gama,0.0,out,Summer,2007,2007/2008
+Steve Müller,22,Centre-Back,VfB Lübeck,0.0,out,Summer,2007,2007/2008
+Matthias Langkamp,23,Centre-Back,Arm. Bielefeld,0.0,out,Summer,2007,2007/2008
+Miroslav Karhan,31,Central Midfield,1.FSV Mainz 05,0.0,out,Summer,2007,2007/2008
+Hans Sarpei,31,Left-Back,Bay. Leverkusen,0.0,out,Summer,2007,2007/2008
+Michael Stegmayer,22,Left-Back,Carl Zeiss Jena,50000.0,out,Summer,2007,2007/2008
+Marian Hristov,33,Defensive Midfield,Without Club,0.0,out,Summer,2007,2007/2008
+Julio dos Santos,24,Central Midfield,Bayern Munich,0.0,out,Summer,2007,2007/2008
+Diego Benaglio,24,Goalkeeper,Nacional,1500000.0,in,Winter,2007,2007/2008
+Makoto Hasebe,23,Defensive Midfield,Urawa Reds,0.0,in,Winter,2007,2007/2008
+Danijel Ljuboja,29,Centre-Forward,VfB Stuttgart,0.0,in,Winter,2007,2007/2008
+Sergiu Radu,30,Centre-Forward,VfB Stuttgart,300000.0,out,Winter,2007,2007/2008
+Vlad Munteanu,26,Left Midfield,AJ Auxerre,150000.0,out,Winter,2007,2007/2008
+Isaac Boakye,26,Centre-Forward,1.FSV Mainz 05,100000.0,out,Winter,2007,2007/2008
+Christopher Lamprecht,22,Right-Back,1.FC K'lautern,0.0,out,Winter,2007,2007/2008
+Patrick Platins,24,Goalkeeper,FC Augsburg,10000.0,out,Winter,2007,2007/2008
+Andrea Barzagli,27,Centre-Back,US Palermo,14000000.0,in,Summer,2008,2008/2009
+Cristian Zaccardo,26,Centre-Back,US Palermo,7000000.0,in,Summer,2008,2008/2009
+Zvjezdan Misimovic,26,Attacking Midfield,1.FC Nuremberg,4000000.0,in,Summer,2008,2008/2009
+Caiuby,20,Left Winger,Guaratinguetá,2500000.0,in,Summer,2008,2008/2009
+Christian Gentner,22,Central Midfield,VfB Stuttgart,2500000.0,in,Summer,2008,2008/2009
+Mahir Saglik,25,Centre-Forward,Wuppertaler SV,150000.0,in,Summer,2008,2008/2009
+Alexander Esswein,18,Right Winger,K'lautern U19,100000.0,in,Summer,2008,2008/2009
+Daniel Adlung,20,Attacking Midfield,Greuther Fürth,0.0,in,Summer,2008,2008/2009
+Marwin Hitz,20,Goalkeeper,St. Gallen U21,0.0,in,Summer,2008,2008/2009
+Rodrigo Alvim,24,Left-Back,Belenenses,0.0,in,Summer,2008,2008/2009
+Bernd Korzynietz,28,Right-Back,Arm. Bielefeld,0.0,in,Summer,2008,2008/2009
+Isaac Boakye,26,Centre-Forward,1.FSV Mainz 05,0.0,in,Summer,2008,2008/2009
+Vlad Munteanu,27,Left Midfield,AJ Auxerre,0.0,in,Summer,2008,2008/2009
+Sergiu Radu,30,Centre-Forward,VfB Stuttgart,0.0,in,Summer,2008,2008/2009
+Patrick Platins,25,Goalkeeper,FC Augsburg,0.0,in,Summer,2008,2008/2009
+Uwe Möhrle,28,Centre-Back,FC Augsburg,0.0,in,Summer,2008,2008/2009
+Yoshito Okubo,27,Centre-Forward,Vissel Kobe,1500000.0,out,Summer,2008,2008/2009
+Marcelinho Paraíba,33,Attacking Midfield,Flamengo,1000000.0,out,Summer,2008,2008/2009
+Isaac Boakye,26,Centre-Forward,1.FC Nuremberg,450000.0,out,Summer,2008,2008/2009
+Sergiu Radu,30,Centre-Forward,1. FC Köln,250000.0,out,Summer,2008,2008/2009
+Peter Van der Heyden,31,Left-Back,1.FSV Mainz 05,0.0,out,Summer,2008,2008/2009
+Facundo Quiroga,30,Centre-Back,River Plate,0.0,out,Summer,2008,2008/2009
+Emre Öztürk,22,Right Winger,SV Sandhausen,0.0,out,Summer,2008,2008/2009
+Uwe Möhrle,28,Centre-Back,FC Augsburg,0.0,out,Summer,2008,2008/2009
+Daniel Baier,24,Defensive Midfield,FC Augsburg,0.0,out,Summer,2008,2008/2009
+Alexander Laas,24,Left Midfield,Arm. Bielefeld,0.0,out,Summer,2008,2008/2009
+Mame Niang,24,Centre-Forward,Viking FK,0.0,out,Summer,2008,2008/2009
+Cédric Makiadi,24,Central Midfield,MSV Duisburg,0.0,out,Summer,2008,2008/2009
+Pablo Thiam,34,Defensive Midfield,Retired,0.0,out,Summer,2008,2008/2009
+Danijel Ljuboja,29,Centre-Forward,VfB Stuttgart,0.0,out,Summer,2008,2008/2009
+Christian Gentner,22,Central Midfield,VfB Stuttgart,0.0,out,Summer,2008,2008/2009
+Yoshito Okubo,26,Centre-Forward,Vissel Kobe,2000000.0,in,Winter,2008,2008/2009
+Peter Pekarik,22,Right-Back,MSK Zilina,850000.0,in,Winter,2008,2008/2009
+Mame Niang,24,Centre-Forward,Viking FK,0.0,in,Winter,2008,2008/2009
+Jacek Krzynowek,32,Left Midfield,Hannover 96,500000.0,out,Winter,2008,2008/2009
+Vlad Munteanu,27,Left Midfield,Arm. Bielefeld,400000.0,out,Winter,2008,2008/2009
+Jonathan Santana,27,Central Midfield,San Lorenzo,230000.0,out,Winter,2008,2008/2009
+Mahir Saglik,26,Centre-Forward,Karlsruher SC,200000.0,out,Winter,2008,2008/2009
+Mame Niang,24,Centre-Forward,Viking FK,0.0,out,Winter,2008,2008/2009
+Simon Jentzsch,32,Goalkeeper,Without Club,0.0,out,Winter,2008,2008/2009
+Bernd Korzynietz,29,Right-Back,Arm. Bielefeld,0.0,out,Winter,2008,2008/2009
+Obafemi Martins,24,Centre-Forward,Newcastle,10500000.0,in,Summer,2009,2009/2010
+Karim Ziani,26,Attacking Midfield,Marseille,7000000.0,in,Summer,2009,2009/2010
+Thomas Kahlenberg,26,Central Midfield,AJ Auxerre,3700000.0,in,Summer,2009,2009/2010
+Fabian Johnson,21,Left Winger,1860 Munich,1100000.0,in,Summer,2009,2009/2010
+Mahir Saglik,26,Centre-Forward,Karlsruher SC,0.0,in,Summer,2009,2009/2010
+Jonathan Santana,27,Central Midfield,San Lorenzo,0.0,in,Summer,2009,2009/2010
+Vlad Munteanu,28,Left Midfield,Arm. Bielefeld,0.0,in,Summer,2009,2009/2010
+Christopher Lamprecht,24,Right-Back,1.FC K'lautern,0.0,in,Summer,2009,2009/2010
+Alexander Laas,25,Left Midfield,Arm. Bielefeld,0.0,in,Summer,2009,2009/2010
+Daniel Baier,25,Defensive Midfield,FC Augsburg,0.0,in,Summer,2009,2009/2010
+Sergiu Radu,31,Centre-Forward,1. FC Köln,0.0,in,Summer,2009,2009/2010
+Cédric Makiadi,25,Central Midfield,MSV Duisburg,0.0,in,Summer,2009,2009/2010
+Rick Hoogendorp,34,Centre-Forward,ADO Den Haag,0.0,in,Summer,2009,2009/2010
+Cristian Zaccardo,27,Centre-Back,Parma,2000000.0,out,Summer,2009,2009/2010
+Cédric Makiadi,25,Central Midfield,SC Freiburg,900000.0,out,Summer,2009,2009/2010
+Rick Hoogendorp,34,Centre-Forward,Scheveningen,0.0,out,Summer,2009,2009/2010
+Sergiu Radu,31,Centre-Forward,Energie Cottbus,0.0,out,Summer,2009,2009/2010
+Christopher Lamprecht,24,Right-Back,Holstein Kiel,0.0,out,Summer,2009,2009/2010
+Alex,29,Right-Back,Vit. Guimarães,0.0,out,Summer,2009,2009/2010
+Kamani Hill,23,Centre-Forward,Vit. Guimarães,0.0,out,Summer,2009,2009/2010
+Caiuby,20,Left Winger,MSV Duisburg,0.0,out,Summer,2009,2009/2010
+Daniel Adlung,21,Attacking Midfield,Alem. Aachen,0.0,out,Summer,2009,2009/2010
+Mahir Saglik,26,Centre-Forward,SC Paderborn,0.0,out,Summer,2009,2009/2010
+Patrick Platins,26,Goalkeeper,Without Club,0.0,out,Summer,2009,2009/2010
+Réver,24,Centre-Back,Grêmio,5000000.0,in,Winter,2009,2009/2010
+Ricardo Costa,28,Centre-Back,LOSC Lille,500000.0,out,Winter,2009,2009/2010
+Rodrigo Alvim,26,Left-Back,Flamengo,0.0,out,Winter,2009,2009/2010
+Daniel Baier,25,Defensive Midfield,FC Augsburg,0.0,out,Winter,2009,2009/2010
+Vlad Munteanu,28,Left Midfield,FSV Frankfurt,0.0,out,Winter,2009,2009/2010
+Diego,25,Central Midfield,Juventus,15500000.0,in,Summer,2010,2010/2011
+Simon Kjaer,21,Centre-Back,US Palermo,12500000.0,in,Summer,2010,2010/2011
+Mario Mandzukic,24,Centre-Forward,Dinamo Zagreb,7000000.0,in,Summer,2010,2010/2011
+Arne Friedrich,31,Centre-Back,Hertha BSC,2500000.0,in,Summer,2010,2010/2011
+Nassim Ben Khalifa,18,Second Striker,Grasshoppers,1600000.0,in,Summer,2010,2010/2011
+Cícero,25,Central Midfield,Tombense,800000.0,in,Summer,2010,2010/2011
+Tolga Cigerci,18,Defensive Midfield,Wolfsburg U19,0.0,in,Summer,2010,2010/2011
+Vlad Munteanu,29,Left Midfield,FSV Frankfurt,0.0,in,Summer,2010,2010/2011
+Mahir Saglik,27,Centre-Forward,SC Paderborn,0.0,in,Summer,2010,2010/2011
+Daniel Adlung,22,Attacking Midfield,Alem. Aachen,0.0,in,Summer,2010,2010/2011
+Caiuby,21,Left Winger,MSV Duisburg,0.0,in,Summer,2010,2010/2011
+Obafemi Martins,25,Centre-Forward,Rubin Kazan,9000000.0,out,Summer,2010,2010/2011
+Zvjezdan Misimovic,28,Attacking Midfield,Galatasaray,8500000.0,out,Summer,2010,2010/2011
+Réver,25,Centre-Back,Atlético-MG,3000000.0,out,Summer,2010,2010/2011
+Jan Simunek,23,Centre-Back,1.FC K'lautern,850000.0,out,Summer,2010,2010/2011
+Jonathan Santana,28,Central Midfield,Kayserispor,600000.0,out,Summer,2010,2010/2011
+Mahir Saglik,27,Centre-Forward,VfL Bochum,200000.0,out,Summer,2010,2010/2011
+Daniel Adlung,22,Attacking Midfield,Energie Cottbus,150000.0,out,Summer,2010,2010/2011
+Alexander Esswein,20,Right Winger,Dynamo Dresden,50000.0,out,Summer,2010,2010/2011
+Alexander Laas,26,Left Midfield,RB Leipzig,0.0,out,Summer,2010,2010/2011
+Christian Gentner,24,Central Midfield,VfB Stuttgart,0.0,out,Summer,2010,2010/2011
+Patrick Helmes,26,Centre-Forward,Bay. Leverkusen,5000000.0,in,Winter,2010,2010/2011
+Tuncay Sanli,29,Left Winger,Stoke City,4500000.0,in,Winter,2010,2010/2011
+Jan Polak,29,Defensive Midfield,RSC Anderlecht,3000000.0,in,Winter,2010,2010/2011
+Ja-cheol Koo,21,Central Midfield,Jeju United,2000000.0,in,Winter,2010,2010/2011
+Dieumerci Mbokani,25,Centre-Forward,Monaco,1000000.0,in,Winter,2010,2010/2011
+Yohandry Orozco,19,Attacking Midfield,Zulia FC,750000.0,in,Winter,2010,2010/2011
+Akaki Gogia,18,Right Midfield,Wolfsburg II,0.0,in,Winter,2010,2010/2011
+Edin Dzeko,24,Centre-Forward,Man City,37000000.0,out,Winter,2010,2010/2011
+Andrea Barzagli,29,Centre-Back,Juventus,300000.0,out,Winter,2010,2010/2011
+Vlad Munteanu,29,Left Midfield,FC Dinamo,0.0,out,Winter,2010,2010/2011
+Nassim Ben Khalifa,19,Second Striker,1.FC Nuremberg,0.0,out,Winter,2010,2010/2011
+Karim Ziani,28,Attacking Midfield,Kayserispor,0.0,out,Winter,2010,2010/2011
+Caiuby,22,Left Winger,FC Ingolstadt,0.0,out,Winter,2010,2010/2011
+Christian Träsch,23,Defensive Midfield,VfB Stuttgart,9000000.0,in,Summer,2011,2011/2012
+Rasmus Jönsson,21,Centre-Forward,Helsingborg,3400000.0,in,Summer,2011,2011/2012
+Marco Russ,25,Centre-Back,E. Frankfurt,3000000.0,in,Summer,2011,2011/2012
+Patrick Ochs,27,Right-Back,E. Frankfurt,3000000.0,in,Summer,2011,2011/2012
+Mateusz Klich,21,Central Midfield,Cracovia,1500000.0,in,Summer,2011,2011/2012
+Aleksandr Hleb,30,Attacking Midfield,Barcelona,700000.0,in,Summer,2011,2011/2012
+Srdjan Lakic,27,Centre-Forward,1.FC K'lautern,0.0,in,Summer,2011,2011/2012
+Hrvoje Cale,26,Left-Back,Trabzonspor,0.0,in,Summer,2011,2011/2012
+Thomas Hitzlsperger,29,Central Midfield,West Ham,0.0,in,Summer,2011,2011/2012
+Sotiris Kyrgiakos,32,Centre-Back,Liverpool,0.0,in,Summer,2011,2011/2012
+Hasan Salihamidzic,34,Right Midfield,Juventus,0.0,in,Summer,2011,2011/2012
+Bjarne Thoelke,19,Centre-Back,Wolfsburg II,0.0,in,Summer,2011,2011/2012
+Chris,33,Centre-Back,Without Club,0.0,in,Summer,2011,2011/2012
+Sebastian Polter,20,Centre-Forward,Wolfsburg II,0.0,in,Summer,2011,2011/2012
+Michael Schulze,22,Right-Back,Wolfsburg II,0.0,in,Summer,2011,2011/2012
+Kevin Scheidhauer,19,Second Striker,Wolfsburg U19,0.0,in,Summer,2011,2011/2012
+Karim Ziani,28,Attacking Midfield,Kayserispor,0.0,in,Summer,2011,2011/2012
+Nassim Ben Khalifa,19,Second Striker,1.FC Nuremberg,0.0,in,Summer,2011,2011/2012
+Grafite,32,Centre-Forward,Al-Ahli (UAE),3000000.0,out,Summer,2011,2011/2012
+Simon Kjaer,22,Centre-Back,AS Roma,3000000.0,out,Summer,2011,2011/2012
+Sascha Riether,28,Right-Back,1. FC Köln,2800000.0,out,Summer,2011,2011/2012
+Tuncay Sanli,29,Left Winger,Bolton,1000000.0,out,Summer,2011,2011/2012
+Fabian Johnson,23,Left Winger,TSG Hoffenheim,700000.0,out,Summer,2011,2011/2012
+Peter Pekarik,24,Right-Back,Kayserispor,150000.0,out,Summer,2011,2011/2012
+Karim Ziani,28,Attacking Midfield,El-Jaish,0.0,out,Summer,2011,2011/2012
+Nassim Ben Khalifa,19,Second Striker,BSC Young Boys,0.0,out,Summer,2011,2011/2012
+Akaki Gogia,19,Right Midfield,FC Augsburg,0.0,out,Summer,2011,2011/2012
+Diego,26,Central Midfield,Atlético Madrid,0.0,out,Summer,2011,2011/2012
+Arne Friedrich,32,Centre-Back,Without Club,0.0,out,Summer,2011,2011/2012
+Dieumerci Mbokani,25,Centre-Forward,Monaco,0.0,out,Summer,2011,2011/2012
+Cícero,26,Central Midfield,Tombense,0.0,out,Summer,2011,2011/2012
+Ricardo Rodríguez,19,Centre-Back,FC Zürich,8500000.0,in,Winter,2011,2011/2012
+Giovanni Sio,22,Centre-Forward,FC Sion,5800000.0,in,Winter,2011,2011/2012
+Vieirinha,25,Left-Back,PAOK Salonika,4000000.0,in,Winter,2011,2011/2012
+Petr Jiracek,25,midfield,Viktoria Plzen,3500000.0,in,Winter,2011,2011/2012
+Felipe Lopes,24,Centre-Back,Nacional,2500000.0,in,Winter,2011,2011/2012
+Slobodan Medojevic,21,Defensive Midfield,Vojvodina,2000000.0,in,Winter,2011,2011/2012
+Ibrahim Sissoko,20,midfield,Coimbra,1500000.0,in,Winter,2011,2011/2012
+Ferhan Hasani,21,Attacking Midfield,Shkendija,400000.0,in,Winter,2011,2011/2012
+Maximilian Arnold,17,Central Midfield,Wolfsburg U19,0.0,in,Winter,2011,2011/2012
+Srdjan Lakic,28,Centre-Forward,TSG Hoffenheim,1000000.0,out,Winter,2011,2011/2012
+Tolga Cigerci,19,Defensive Midfield,Bor. M'gladbach,350000.0,out,Winter,2011,2011/2012
+Ja-cheol Koo,22,Central Midfield,FC Augsburg,125000.0,out,Winter,2011,2011/2012
+Thomas Kahlenberg,28,Central Midfield,Évian,0.0,out,Winter,2011,2011/2012
+Sotiris Kyrgiakos,32,Centre-Back,Sunderland,0.0,out,Winter,2011,2011/2012
+Aleksandr Hleb,30,Attacking Midfield,Barcelona,0.0,out,Winter,2011,2011/2012
+Bas Dost,23,Centre-Forward,Heerenveen,7000000.0,in,Summer,2012,2012/2013
+Naldo,29,Centre-Back,Werder Bremen,4800000.0,in,Summer,2012,2012/2013
+Fagner,23,Right-Back,Vasco da Gama,3000000.0,in,Summer,2012,2012/2013
+Emanuel Pogatetz,29,Centre-Back,Hannover 96,2500000.0,in,Summer,2012,2012/2013
+Vaclav Pilar,23,Left Midfield,Hradec Kralove,1500000.0,in,Summer,2012,2012/2013
+Kevin Pannewitz,20,Defensive Midfield,Hansa Rostock,300000.0,in,Summer,2012,2012/2013
+Ivica Olic,32,Centre-Forward,Bayern Munich,0.0,in,Summer,2012,2012/2013
+Robin Knoche,20,Centre-Back,Wolfsburg II,0.0,in,Summer,2012,2012/2013
+Patrick Drewes,19,Goalkeeper,Wolfsburg U19,0.0,in,Summer,2012,2012/2013
+Sotiris Kyrgiakos,32,Centre-Back,Sunderland,0.0,in,Summer,2012,2012/2013
+Srdjan Lakic,28,Centre-Forward,TSG Hoffenheim,0.0,in,Summer,2012,2012/2013
+Thomas Kahlenberg,29,Central Midfield,Évian,0.0,in,Summer,2012,2012/2013
+Peter Pekarik,25,Right-Back,Kayserispor,0.0,in,Summer,2012,2012/2013
+Diego,27,Central Midfield,Atlético Madrid,0.0,in,Summer,2012,2012/2013
+Simon Kjaer,23,Centre-Back,AS Roma,0.0,in,Summer,2012,2012/2013
+Tuncay Sanli,30,Left Winger,Bolton,0.0,in,Summer,2012,2012/2013
+Nassim Ben Khalifa,20,Second Striker,BSC Young Boys,0.0,in,Summer,2012,2012/2013
+Akaki Gogia,20,Right Midfield,FC Augsburg,0.0,in,Summer,2012,2012/2013
+Caiuby,23,Left Winger,FC Ingolstadt,0.0,in,Summer,2012,2012/2013
+Mario Mandzukic,26,Centre-Forward,Bayern Munich,13000000.0,out,Summer,2012,2012/2013
+Petr Jiracek,26,midfield,Hamburger SV,4000000.0,out,Summer,2012,2012/2013
+Ashkan Dejagah,26,Right Winger,Fulham,2500000.0,out,Summer,2012,2012/2013
+Sebastian Polter,21,Centre-Forward,1.FC Nuremberg,200000.0,out,Summer,2012,2012/2013
+Giovanni Sio,23,Centre-Forward,FC Augsburg,100000.0,out,Summer,2012,2012/2013
+Ibrahim Sissoko,20,midfield,Panathinaikos,100000.0,out,Summer,2012,2012/2013
+Patrick Ochs,28,Right-Back,TSG Hoffenheim,100000.0,out,Summer,2012,2012/2013
+Kevin Scheidhauer,20,Second Striker,VfL Bochum,100000.0,out,Summer,2012,2012/2013
+Akaki Gogia,20,Right Midfield,FC St. Pauli,50000.0,out,Summer,2012,2012/2013
+Bjarne Thoelke,20,Centre-Back,Dynamo Dresden,50000.0,out,Summer,2012,2012/2013
+Caiuby,23,Left Winger,FC Ingolstadt,0.0,out,Summer,2012,2012/2013
+Chris,33,Centre-Back,TSG Hoffenheim,0.0,out,Summer,2012,2012/2013
+Peter Pekarik,25,Right-Back,Hertha BSC,0.0,out,Summer,2012,2012/2013
+Tuncay Sanli,30,Left Winger,Bursaspor,0.0,out,Summer,2012,2012/2013
+Nassim Ben Khalifa,20,Second Striker,Grasshoppers,0.0,out,Summer,2012,2012/2013
+Thomas Hitzlsperger,30,Central Midfield,Without Club,0.0,out,Summer,2012,2012/2013
+Hasan Salihamidzic,35,Right Midfield,Retired,0.0,out,Summer,2012,2012/2013
+André Lenz,38,Goalkeeper,Retired,0.0,out,Summer,2012,2012/2013
+Ivan Perisic,23,Left Midfield,Bor. Dortmund,8000000.0,in,Winter,2012,2012/2013
+Giovanni Sio,23,Centre-Forward,FC Augsburg,0.0,in,Winter,2012,2012/2013
+Marco Russ,27,Centre-Back,E. Frankfurt,500000.0,out,Winter,2012,2012/2013
+Felipe Lopes,25,Centre-Back,VfB Stuttgart,300000.0,out,Winter,2012,2012/2013
+Emanuel Pogatetz,30,Centre-Back,West Ham,300000.0,out,Winter,2012,2012/2013
+Rasmus Jönsson,23,Centre-Forward,FSV Frankfurt,200000.0,out,Winter,2012,2012/2013
+Giovanni Sio,23,Centre-Forward,FC Sochaux,200000.0,out,Winter,2012,2012/2013
+Mateusz Klich,22,Central Midfield,PEC Zwolle,100000.0,out,Winter,2012,2012/2013
+Michael Schulze,24,Right-Back,Energie Cottbus,50000.0,out,Winter,2012,2012/2013
+Josué,33,Defensive Midfield,Atlético-MG,0.0,out,Winter,2012,2012/2013
+Srdjan Lakic,29,Centre-Forward,E. Frankfurt,0.0,out,Winter,2012,2012/2013
+Hrvoje Cale,27,Left-Back,Without Club,0.0,out,Winter,2012,2012/2013
+Luiz Gustavo,26,Defensive Midfield,Bayern Munich,16000000.0,in,Summer,2013,2013/2014
+Timm Klose,25,Centre-Back,1.FC Nuremberg,6000000.0,in,Summer,2013,2013/2014
+Daniel Caligiuri,25,Right Winger,SC Freiburg,4500000.0,in,Summer,2013,2013/2014
+Junior Malanda,18,Defensive Midfield,Zulte Waregem,1700000.0,in,Summer,2013,2013/2014
+Max Grün,26,Goalkeeper,Greuther Fürth,400000.0,in,Summer,2013,2013/2014
+Stefan Kutschke,24,Centre-Forward,RB Leipzig,0.0,in,Summer,2013,2013/2014
+Akaki Gogia,21,Right Midfield,FC St. Pauli,0.0,in,Summer,2013,2013/2014
+Ja-cheol Koo,24,Central Midfield,FC Augsburg,0.0,in,Summer,2013,2013/2014
+Sebastian Polter,22,Centre-Forward,1.FC Nuremberg,0.0,in,Summer,2013,2013/2014
+Kevin Scheidhauer,21,Second Striker,VfL Bochum,0.0,in,Summer,2013,2013/2014
+Giovanni Sio,24,Centre-Forward,FC Sochaux,0.0,in,Summer,2013,2013/2014
+Bjarne Thoelke,21,Centre-Back,Dynamo Dresden,0.0,in,Summer,2013,2013/2014
+Ibrahim Sissoko,21,midfield,Panathinaikos,0.0,in,Summer,2013,2013/2014
+Felipe Lopes,25,Centre-Back,VfB Stuttgart,0.0,in,Summer,2013,2013/2014
+Mateusz Klich,23,Central Midfield,PEC Zwolle,0.0,in,Summer,2013,2013/2014
+Tolga Cigerci,21,Defensive Midfield,Bor. M'gladbach,0.0,in,Summer,2013,2013/2014
+Rasmus Jönsson,23,Centre-Forward,FSV Frankfurt,0.0,in,Summer,2013,2013/2014
+Patrick Ochs,29,Right-Back,TSG Hoffenheim,0.0,in,Summer,2013,2013/2014
+Michael Schulze,24,Right-Back,Energie Cottbus,0.0,in,Summer,2013,2013/2014
+Emanuel Pogatetz,30,Centre-Back,West Ham,0.0,in,Summer,2013,2013/2014
+Marco Russ,27,Centre-Back,E. Frankfurt,0.0,in,Summer,2013,2013/2014
+Makoto Hasebe,29,Defensive Midfield,1.FC Nuremberg,2500000.0,out,Summer,2013,2013/2014
+Simon Kjaer,24,Centre-Back,LOSC Lille,2500000.0,out,Summer,2013,2013/2014
+Giovanni Sio,24,Centre-Forward,FC Basel,2000000.0,out,Summer,2013,2013/2014
+Sebastian Polter,22,Centre-Forward,1.FSV Mainz 05,750000.0,out,Summer,2013,2013/2014
+Marco Russ,27,Centre-Back,E. Frankfurt,400000.0,out,Summer,2013,2013/2014
+Ferhan Hasani,23,Attacking Midfield,Bröndby IF,350000.0,out,Summer,2013,2013/2014
+Tolga Cigerci,21,Defensive Midfield,Hertha BSC,300000.0,out,Summer,2013,2013/2014
+Mateusz Klich,23,Central Midfield,PEC Zwolle,200000.0,out,Summer,2013,2013/2014
+Vaclav Pilar,24,Left Midfield,SC Freiburg,200000.0,out,Summer,2013,2013/2014
+Michael Schulze,24,Right-Back,Energie Cottbus,150000.0,out,Summer,2013,2013/2014
+Rasmus Jönsson,23,Centre-Forward,Aalborg BK,100000.0,out,Summer,2013,2013/2014
+Ibrahim Sissoko,21,midfield,Saint-Étienne,100000.0,out,Summer,2013,2013/2014
+Thomas Kahlenberg,30,Central Midfield,Bröndby IF,0.0,out,Summer,2013,2013/2014
+Patrick Helmes,29,Centre-Forward,1. FC Köln,0.0,out,Summer,2013,2013/2014
+Marwin Hitz,25,Goalkeeper,FC Augsburg,0.0,out,Summer,2013,2013/2014
+Yohandry Orozco,22,Attacking Midfield,Táchira,0.0,out,Summer,2013,2013/2014
+Akaki Gogia,21,Right Midfield,Hallescher FC,0.0,out,Summer,2013,2013/2014
+Emanuel Pogatetz,30,Centre-Back,1.FC Nuremberg,0.0,out,Summer,2013,2013/2014
+Junior Malanda,18,Defensive Midfield,Zulte Waregem,0.0,out,Summer,2013,2013/2014
+Fagner,24,Right-Back,Vasco da Gama,0.0,out,Summer,2013,2013/2014
+Bjarne Thoelke,21,Centre-Back,Wolfsburg II,0.0,out,Summer,2013,2013/2014
+Kevin Scheidhauer,21,Second Striker,Wolfsburg II,0.0,out,Summer,2013,2013/2014
+Kevin Pannewitz,21,Defensive Midfield,Without Club,0.0,out,Summer,2013,2013/2014
+Sotiris Kyrgiakos,33,Centre-Back,Without Club,0.0,out,Summer,2013,2013/2014
+Alexander Madlung,30,Centre-Back,Without Club,0.0,out,Summer,2013,2013/2014
+Kevin De Bruyne,22,Attacking Midfield,Chelsea,22000000.0,in,Winter,2013,2013/2014
+Moritz Sprenger,18,Centre-Back,Wolfsburg U19,0.0,in,Winter,2013,2013/2014
+Paul Seguin,18,Central Midfield,Wolfsburg U19,0.0,in,Winter,2013,2013/2014
+Srdjan Lakic,30,Centre-Forward,E. Frankfurt,0.0,in,Winter,2013,2013/2014
+Fagner,24,Right-Back,Vasco da Gama,0.0,in,Winter,2013,2013/2014
+Ibrahim Sissoko,22,midfield,Saint-Étienne,0.0,in,Winter,2013,2013/2014
+Junior Malanda,19,Defensive Midfield,Zulte Waregem,0.0,in,Winter,2013,2013/2014
+Ja-cheol Koo,24,Central Midfield,1.FSV Mainz 05,5000000.0,out,Winter,2013,2013/2014
+Diego,28,Central Midfield,Atlético Madrid,1500000.0,out,Winter,2013,2013/2014
+Srdjan Lakic,30,Centre-Forward,1.FC K'lautern,0.0,out,Winter,2013,2013/2014
+Ibrahim Sissoko,22,midfield,Dep. La Coruña,0.0,out,Winter,2013,2013/2014
+Fagner,24,Right-Back,Corinthians,0.0,out,Winter,2013,2013/2014
+Josuha Guilavogui,23,Defensive Midfield,Atlético Madrid,6800000.0,in,Summer,2014,2014/2015
+Sebastian Jung,24,Right-Back,E. Frankfurt,2500000.0,in,Summer,2014,2014/2015
+Mateusz Klich,24,Central Midfield,PEC Zwolle,750000.0,in,Summer,2014,2014/2015
+Aaron Hunt,27,Attacking Midfield,Werder Bremen,0.0,in,Summer,2014,2014/2015
+Nicklas Bendtner,26,Centre-Forward,Arsenal,0.0,in,Summer,2014,2014/2015
+Kevin Scheidhauer,22,Second Striker,Wolfsburg II,0.0,in,Summer,2014,2014/2015
+Tolga Cigerci,22,Defensive Midfield,Hertha BSC,0.0,in,Summer,2014,2014/2015
+Ibrahim Sissoko,22,midfield,Dep. La Coruña,0.0,in,Summer,2014,2014/2015
+Nassim Ben Khalifa,22,Second Striker,Grasshoppers,0.0,in,Summer,2014,2014/2015
+Rasmus Jönsson,24,Centre-Forward,Aalborg BK,0.0,in,Summer,2014,2014/2015
+Vaclav Pilar,25,Left Midfield,SC Freiburg,0.0,in,Summer,2014,2014/2015
+Slobodan Medojevic,23,Defensive Midfield,E. Frankfurt,1500000.0,out,Summer,2014,2014/2015
+Tolga Cigerci,22,Defensive Midfield,Hertha BSC,1500000.0,out,Summer,2014,2014/2015
+Stefan Kutschke,25,Centre-Forward,SC Paderborn,300000.0,out,Summer,2014,2014/2015
+Vaclav Pilar,25,Left Midfield,Viktoria Plzen,250000.0,out,Summer,2014,2014/2015
+Nassim Ben Khalifa,22,Second Striker,Grasshoppers,150000.0,out,Summer,2014,2014/2015
+Rasmus Jönsson,24,Centre-Forward,Aalborg BK,150000.0,out,Summer,2014,2014/2015
+Jan Polak,33,Defensive Midfield,1.FC Nuremberg,0.0,out,Summer,2014,2014/2015
+Ibrahim Sissoko,22,midfield,Eskisehirspor,0.0,out,Summer,2014,2014/2015
+Kevin Scheidhauer,22,Second Striker,MSV Duisburg,0.0,out,Summer,2014,2014/2015
+André Schürrle,24,Left Winger,Chelsea,32000000.0,in,Winter,2014,2014/2015
+Xizhe Zhang,23,Attacking Midfield,BJ Guoan,1500000.0,in,Winter,2014,2014/2015
+Koen Casteels,22,Goalkeeper,TSG Hoffenheim,1500000.0,in,Winter,2014,2014/2015
+Fagner,25,Right-Back,Corinthians,0.0,in,Winter,2014,2014/2015
+Ivica Olic,35,Centre-Forward,Hamburger SV,2000000.0,out,Winter,2014,2014/2015
+Mateusz Klich,24,Central Midfield,1.FC K'lautern,250000.0,out,Winter,2014,2014/2015
+Koen Casteels,22,Goalkeeper,Werder Bremen,150000.0,out,Winter,2014,2014/2015
+Fagner,25,Right-Back,Corinthians,0.0,out,Winter,2014,2014/2015
+Julian Draxler,21,Left Winger,FC Schalke 04,43000000.0,in,Summer,2015,2015/2016
+Max Kruse,27,Second Striker,Bor. M'gladbach,12000000.0,in,Summer,2015,2015/2016
+Dante,31,Centre-Back,Bayern Munich,4500000.0,in,Summer,2015,2015/2016
+Francisco Rodríguez,19,Attacking Midfield,FC Zürich,1600000.0,in,Summer,2015,2015/2016
+Carlos Ascues,23,Central Midfield,FBC Melgar,1500000.0,in,Summer,2015,2015/2016
+Ismail Azzaoui,17,Right Winger,Tottenham U21,1000000.0,in,Summer,2015,2015/2016
+Oskar Zawada,19,Centre-Forward,Wolfsburg II,0.0,in,Summer,2015,2015/2016
+Sebastian Stolze,20,Right Winger,Wolfsburg II,0.0,in,Summer,2015,2015/2016
+Stefan Kutschke,26,Centre-Forward,SC Paderborn,0.0,in,Summer,2015,2015/2016
+Koen Casteels,23,Goalkeeper,Werder Bremen,0.0,in,Summer,2015,2015/2016
+Vaclav Pilar,26,Left Midfield,Viktoria Plzen,0.0,in,Summer,2015,2015/2016
+Kevin De Bruyne,24,Attacking Midfield,Man City,76000000.0,out,Summer,2015,2015/2016
+Ivan Perisic,26,Left Midfield,Inter,19000000.0,out,Summer,2015,2015/2016
+Aaron Hunt,28,Attacking Midfield,Hamburger SV,3000000.0,out,Summer,2015,2015/2016
+Xizhe Zhang,24,Attacking Midfield,BJ Guoan,2000000.0,out,Summer,2015,2015/2016
+Stefan Kutschke,26,Centre-Forward,1.FC Nuremberg,250000.0,out,Summer,2015,2015/2016
+Patrick Drewes,22,Goalkeeper,FC Wil 1900,50000.0,out,Summer,2015,2015/2016
+Vaclav Pilar,26,Left Midfield,Viktoria Plzen,0.0,out,Summer,2015,2015/2016
+Patrick Ochs,31,Right-Back,Without Club,0.0,out,Summer,2015,2015/2016
+Bruno Henrique,25,Left Winger,Goiás EC,4500000.0,in,Winter,2015,2015/2016
+Leandro Putaro,19,Left Winger,Wolfsburg U19,0.0,in,Winter,2015,2015/2016
+Timm Klose,27,Centre-Back,Norwich,11000000.0,out,Winter,2015,2015/2016
+Oskar Zawada,20,Centre-Forward,Twente FC,0.0,out,Winter,2015,2015/2016
+Francisco Rodríguez,20,Attacking Midfield,Arm. Bielefeld,0.0,out,Winter,2015,2015/2016
+Nicklas Bendtner,28,Centre-Forward,Without Club,0.0,out,Winter,2015,2015/2016
+Yannick Gerhardt,22,Central Midfield,1. FC Köln,13000000.0,in,Summer,2016,2016/2017
+Jeffrey Bruma,24,Centre-Back,PSV Eindhoven,11500000.0,in,Summer,2016,2016/2017
+Josip Brekalo,18,Left Winger,Dinamo Zagreb,10000000.0,in,Summer,2016,2016/2017
+Jakub Blaszczykowski,30,Right Winger,Bor. Dortmund,5000000.0,in,Summer,2016,2016/2017
+Josuha Guilavogui,25,Defensive Midfield,Atlético Madrid,3000000.0,in,Summer,2016,2016/2017
+Borja Mayoral,19,Centre-Forward,Real Madrid,3000000.0,in,Summer,2016,2016/2017
+Philipp Wollscheid,27,Centre-Back,Stoke City,1500000.0,in,Summer,2016,2016/2017
+Mario Gómez,31,Centre-Forward,Fiorentina,1050000.0,in,Summer,2016,2016/2017
+Daniel Didavi,26,Attacking Midfield,VfB Stuttgart,0.0,in,Summer,2016,2016/2017
+Phillip Menzel,17,Goalkeeper,Wolfsburg U19,0.0,in,Summer,2016,2016/2017
+Jannes Horn,19,Left-Back,Wolfsburg U19,0.0,in,Summer,2016,2016/2017
+Amara Condé,19,Central Midfield,Wolfsburg U19,0.0,in,Summer,2016,2016/2017
+Oskar Zawada,20,Centre-Forward,Twente FC,0.0,in,Summer,2016,2016/2017
+Francisco Rodríguez,20,Attacking Midfield,Arm. Bielefeld,0.0,in,Summer,2016,2016/2017
+Patrick Drewes,23,Goalkeeper,FC Wil 1900,0.0,in,Summer,2016,2016/2017
+André Schürrle,25,Left Winger,Bor. Dortmund,30000000.0,out,Summer,2016,2016/2017
+Bas Dost,27,Centre-Forward,Sporting CP,11850000.0,out,Summer,2016,2016/2017
+Max Kruse,28,Second Striker,Werder Bremen,7500000.0,out,Summer,2016,2016/2017
+Dante,32,Centre-Back,OGC Nice,2500000.0,out,Summer,2016,2016/2017
+Patrick Drewes,23,Goalkeeper,Preußen Münster,50000.0,out,Summer,2016,2016/2017
+Moritz Sprenger,21,Centre-Back,1.FC Magdeburg,50000.0,out,Summer,2016,2016/2017
+Felipe Lopes,28,Centre-Back,Chaves,0.0,out,Summer,2016,2016/2017
+Naldo,33,Centre-Back,FC Schalke 04,0.0,out,Summer,2016,2016/2017
+Leandro Putaro,19,Left Winger,Arm. Bielefeld,0.0,out,Summer,2016,2016/2017
+Francisco Rodríguez,20,Attacking Midfield,FC Luzern,0.0,out,Summer,2016,2016/2017
+Oskar Zawada,20,Centre-Forward,Wolfsburg II,0.0,out,Summer,2016,2016/2017
+Sebastian Stolze,21,Right Winger,Wolfsburg II,0.0,out,Summer,2016,2016/2017
+Josuha Guilavogui,25,Defensive Midfield,Atlético Madrid,0.0,out,Summer,2016,2016/2017
+Yunus Malli,24,Attacking Midfield,1.FSV Mainz 05,12500000.0,in,Winter,2016,2016/2017
+Riechedly Bazoer,20,Centre-Back,Ajax,12000000.0,in,Winter,2016,2016/2017
+Paul-Georges Ntep,24,Left Winger,Stade Rennais,5000000.0,in,Winter,2016,2016/2017
+Victor Osimhen,18,Centre-Forward,Ult. Strikers,3500000.0,in,Winter,2016,2016/2017
+Ashkan Dejagah,30,Right Winger,Al-Arabi SC,0.0,in,Winter,2016,2016/2017
+Julian Draxler,23,Left Winger,Paris SG,36000000.0,out,Winter,2016,2016/2017
+Bruno Henrique,26,Left Winger,Santos FC,4000000.0,out,Winter,2016,2016/2017
+Daniel Caligiuri,29,Right Winger,FC Schalke 04,2500000.0,out,Winter,2016,2016/2017
+Marcel Schäfer,32,Left-Back,TB Rowdies,0.0,out,Winter,2016,2016/2017
+Carlos Ascues,24,Central Midfield,FBC Melgar,0.0,out,Winter,2016,2016/2017
+Josip Brekalo,18,Left Winger,VfB Stuttgart,0.0,out,Winter,2016,2016/2017
+John Anthony Brooks,24,Centre-Back,Hertha BSC,17000000.0,in,Summer,2017,2017/2018
+Ignacio Camacho,27,Defensive Midfield,Málaga CF,14000000.0,in,Summer,2017,2017/2018
+Landry Dimata,19,Centre-Forward,KV Oostende,11500000.0,in,Summer,2017,2017/2018
+Divock Origi,22,Centre-Forward,Liverpool,6500000.0,in,Summer,2017,2017/2018
+William,22,Right-Back,Internacional,5000000.0,in,Summer,2017,2017/2018
+Marcel Tisserand,24,Centre-Back,FC Ingolstadt,3000000.0,in,Summer,2017,2017/2018
+Marvin Stefaniak,22,Attacking Midfield,Dynamo Dresden,2000000.0,in,Summer,2017,2017/2018
+Kaylen Hinds,19,Second Striker,Arsenal U23,1500000.0,in,Summer,2017,2017/2018
+Paul Verhaegh,33,Right-Back,FC Augsburg,1500000.0,in,Summer,2017,2017/2018
+Felix Uduokhai,19,Centre-Back,1860 Munich,1000000.0,in,Summer,2017,2017/2018
+Elvis Rexhbecaj,19,Central Midfield,Wolfsburg II,0.0,in,Summer,2017,2017/2018
+Luca Itter,18,Left-Back,Wolfsburg U19,0.0,in,Summer,2017,2017/2018
+Carlos Ascues,25,Central Midfield,FBC Melgar,0.0,in,Summer,2017,2017/2018
+Francisco Rodríguez,21,Attacking Midfield,FC Luzern,0.0,in,Summer,2017,2017/2018
+Leandro Putaro,20,Left Winger,Arm. Bielefeld,0.0,in,Summer,2017,2017/2018
+Moritz Sprenger,22,Centre-Back,1.FC Magdeburg,0.0,in,Summer,2017,2017/2018
+Patrick Drewes,24,Goalkeeper,Preußen Münster,0.0,in,Summer,2017,2017/2018
+Ricardo Rodríguez,24,Centre-Back,AC Milan,15000000.0,out,Summer,2017,2017/2018
+Luiz Gustavo,29,Defensive Midfield,Marseille,10000000.0,out,Summer,2017,2017/2018
+Jannes Horn,20,Left-Back,1. FC Köln,7000000.0,out,Summer,2017,2017/2018
+Vieirinha,31,Left-Back,PAOK Salonika,1000000.0,out,Summer,2017,2017/2018
+Carlos Ascues,25,Central Midfield,Alianza Lima,0.0,out,Summer,2017,2017/2018
+Diego Benaglio,33,Goalkeeper,Monaco,0.0,out,Summer,2017,2017/2018
+Francisco Rodríguez,21,Attacking Midfield,FC Luzern,0.0,out,Summer,2017,2017/2018
+Patrick Drewes,24,Goalkeeper,Würzb. Kickers,0.0,out,Summer,2017,2017/2018
+Leandro Putaro,20,Left Winger,Arm. Bielefeld,0.0,out,Summer,2017,2017/2018
+Christian Träsch,29,Defensive Midfield,FC Ingolstadt,0.0,out,Summer,2017,2017/2018
+Amara Condé,20,Central Midfield,Holstein Kiel,0.0,out,Summer,2017,2017/2018
+Ismail Azzaoui,19,Right Winger,Willem II,0.0,out,Summer,2017,2017/2018
+Paul Seguin,22,Central Midfield,Dynamo Dresden,0.0,out,Summer,2017,2017/2018
+Moritz Sprenger,22,Centre-Back,Wolfsburg II,0.0,out,Summer,2017,2017/2018
+Ashkan Dejagah,30,Right Winger,Without Club,0.0,out,Summer,2017,2017/2018
+Philipp Wollscheid,28,Centre-Back,Stoke City,0.0,out,Summer,2017,2017/2018
+Borja Mayoral,20,Centre-Forward,Real Madrid,0.0,out,Summer,2017,2017/2018
+Admir Mehmedi,26,Second Striker,Bay. Leverkusen,8000000.0,in,Winter,2017,2017/2018
+Renato Steffen,26,Left Winger,FC Basel,1750000.0,in,Winter,2017,2017/2018
+Josip Brekalo,19,Left Winger,VfB Stuttgart,0.0,in,Winter,2017,2017/2018
+Mario Gómez,32,Centre-Forward,VfB Stuttgart,3000000.0,out,Winter,2017,2017/2018
+Marvin Stefaniak,22,Attacking Midfield,1.FC Nuremberg,0.0,out,Winter,2017,2017/2018
+Paul-Georges Ntep,25,Left Winger,Saint-Étienne,0.0,out,Winter,2017,2017/2018
+Kaylen Hinds,20,Second Striker,Greuther Fürth,0.0,out,Winter,2017,2017/2018
+Wout Weghorst,25,Centre-Forward,AZ Alkmaar,10500000.0,in,Summer,2018,2018/2019
+Daniel Ginczek,27,Centre-Forward,VfB Stuttgart,10000000.0,in,Summer,2018,2018/2019
+Marcel Tisserand,25,Centre-Back,FC Ingolstadt,7000000.0,in,Summer,2018,2018/2019
+Jérôme Roussillon,25,Left-Back,Montpellier,5000000.0,in,Summer,2018,2018/2019
+Felix Klaus,25,Right Winger,Hannover 96,3000000.0,in,Summer,2018,2018/2019
+Pavao Pervan,30,Goalkeeper,LASK,500000.0,in,Summer,2018,2018/2019
+Paul Jaeckel,19,Centre-Back,Wolfsburg II,0.0,in,Summer,2018,2018/2019
+Kaylen Hinds,20,Second Striker,Greuther Fürth,0.0,in,Summer,2018,2018/2019
+Paul-Georges Ntep,25,Left Winger,Saint-Étienne,0.0,in,Summer,2018,2018/2019
+Marvin Stefaniak,23,Attacking Midfield,1.FC Nuremberg,0.0,in,Summer,2018,2018/2019
+Paul Seguin,23,Central Midfield,Dynamo Dresden,0.0,in,Summer,2018,2018/2019
+Ismail Azzaoui,20,Right Winger,Willem II,0.0,in,Summer,2018,2018/2019
+Amara Condé,21,Central Midfield,Holstein Kiel,0.0,in,Summer,2018,2018/2019
+Landry Dimata,20,Centre-Forward,RSC Anderlecht,500000.0,out,Summer,2018,2018/2019
+Paul Jaeckel,20,Centre-Back,Greuther Fürth,200000.0,out,Summer,2018,2018/2019
+Daniel Didavi,28,Attacking Midfield,VfB Stuttgart,0.0,out,Summer,2018,2018/2019
+Riechedly Bazoer,21,Centre-Back,FC Porto,0.0,out,Summer,2018,2018/2019
+Victor Osimhen,19,Centre-Forward,RSC Charleroi,0.0,out,Summer,2018,2018/2019
+Max Grün,31,Goalkeeper,Without Club,0.0,out,Summer,2018,2018/2019
+Kaylen Hinds,20,Second Striker,Without Club,0.0,out,Summer,2018,2018/2019
+Amara Condé,21,Central Midfield,Wolfsburg II,0.0,out,Summer,2018,2018/2019
+Divock Origi,23,Centre-Forward,Liverpool,0.0,out,Summer,2018,2018/2019
+Marcel Tisserand,25,Centre-Back,FC Ingolstadt,0.0,out,Summer,2018,2018/2019
+Riechedly Bazoer,22,Centre-Back,FC Porto,0.0,in,Winter,2018,2018/2019
+Paul Seguin,23,Central Midfield,Greuther Fürth,100000.0,out,Winter,2018,2018/2019
+Jakub Blaszczykowski,33,Right Winger,Wisla Kraków,0.0,out,Winter,2018,2018/2019
+Jeffrey Bruma,27,Centre-Back,FC Schalke 04,0.0,out,Winter,2018,2018/2019
+Riechedly Bazoer,22,Centre-Back,FC Utrecht,0.0,out,Winter,2018,2018/2019
+Xaver Schlager,21,Central Midfield,RB Salzburg,12000000.0,in,Summer,2019,2019/2020
+Kevin Mbabu,24,Right-Back,BSC Young Boys,9200000.0,in,Summer,2019,2019/2020
+Victor Sá,25,Left Winger,LASK,3500000.0,in,Summer,2019,2019/2020
+Paulo Otávio,24,Left-Back,FC Ingolstadt,1100000.0,in,Summer,2019,2019/2020
+Lukas Nmecha,20,Centre-Forward,Man City,0.0,in,Summer,2019,2019/2020
+Niklas Klinger,23,Goalkeeper,Wolfsburg II,0.0,in,Summer,2019,2019/2020
+John Yeboah,19,Right Winger,Wolfsburg U19,0.0,in,Summer,2019,2019/2020
+Jeffrey Bruma,27,Centre-Back,FC Schalke 04,0.0,in,Summer,2019,2019/2020
+Paul Seguin,24,Central Midfield,Greuther Fürth,0.0,in,Summer,2019,2019/2020
+Riechedly Bazoer,22,Centre-Back,FC Utrecht,0.0,in,Summer,2019,2019/2020
+Victor Osimhen,20,Centre-Forward,RSC Charleroi,0.0,in,Summer,2019,2019/2020
+Landry Dimata,21,Centre-Forward,RSC Anderlecht,0.0,in,Summer,2019,2019/2020
+Landry Dimata,21,Centre-Forward,RSC Anderlecht,5000000.0,out,Summer,2019,2019/2020
+Victor Osimhen,20,Centre-Forward,RSC Charleroi,3500000.0,out,Summer,2019,2019/2020
+Luca Itter,20,Left-Back,SC Freiburg,2500000.0,out,Summer,2019,2019/2020
+Riechedly Bazoer,22,Centre-Back,Vitesse,1500000.0,out,Summer,2019,2019/2020
+Felix Uduokhai,21,Centre-Back,FC Augsburg,1500000.0,out,Summer,2019,2019/2020
+Paul Seguin,24,Central Midfield,Greuther Fürth,300000.0,out,Summer,2019,2019/2020
+Sebastian Jung,29,Right-Back,Hannover 96,0.0,out,Summer,2019,2019/2020
+Paul Verhaegh,35,Right-Back,Twente FC,0.0,out,Summer,2019,2019/2020
+John Yeboah,19,Right Winger,VVV-Venlo,0.0,out,Summer,2019,2019/2020
+Paul-Georges Ntep,27,Left Winger,Kayserispor,0.0,out,Summer,2019,2019/2020
+Marvin Stefaniak,24,Attacking Midfield,Greuther Fürth,0.0,out,Summer,2019,2019/2020
+Marin Pongracic,22,Centre-Back,RB Salzburg,9000000.0,in,Winter,2019,2019/2020
+Paul-Georges Ntep,27,Left Winger,Kayserispor,0.0,in,Winter,2019,2019/2020
+Elvis Rexhbecaj,22,Central Midfield,1. FC Köln,0.0,out,Winter,2019,2019/2020
+Yunus Malli,27,Attacking Midfield,Union Berlin,0.0,out,Winter,2019,2019/2020
+Jeffrey Bruma,28,Centre-Back,1.FSV Mainz 05,0.0,out,Winter,2019,2019/2020
+Lukas Nmecha,21,Centre-Forward,Man City,0.0,out,Winter,2019,2019/2020
+Ridle Baku,22,Right Midfield,1.FSV Mainz 05,10000000.0,in,Summer,2020,2020/2021
+Maxence Lacroix,20,Centre-Back,FC Sochaux,5000000.0,in,Summer,2020,2020/2021
+Bartosz Bialek,18,Centre-Forward,Zaglebie Lubin,5000000.0,in,Summer,2020,2020/2021
+Maximilian Philipp,26,Second Striker,Dynamo Moscow,2000000.0,in,Summer,2020,2020/2021
+Lino Kasten,19,Goalkeeper,Wolfsburg U19,0.0,in,Summer,2020,2020/2021
+Omar Marmoush,21,Left Winger,Wolfsburg II,0.0,in,Summer,2020,2020/2021
+Jeffrey Bruma,28,Centre-Back,1.FSV Mainz 05,0.0,in,Summer,2020,2020/2021
+Yunus Malli,28,Attacking Midfield,Union Berlin,0.0,in,Summer,2020,2020/2021
+John Yeboah,20,Right Winger,VVV-Venlo,0.0,in,Summer,2020,2020/2021
+Felix Uduokhai,22,Centre-Back,FC Augsburg,0.0,in,Summer,2020,2020/2021
+Marvin Stefaniak,25,Attacking Midfield,Greuther Fürth,0.0,in,Summer,2020,2020/2021
+Felix Uduokhai,22,Centre-Back,FC Augsburg,7000000.0,out,Summer,2020,2020/2021
+Marcel Tisserand,27,Centre-Back,Fenerbahce,4000000.0,out,Summer,2020,2020/2021
+Paul-Georges Ntep,27,Left Winger,Guingamp,0.0,out,Summer,2020,2020/2021
+Robin Knoche,28,Centre-Back,Union Berlin,0.0,out,Summer,2020,2020/2021
+John Yeboah,20,Right Winger,Willem II,0.0,out,Summer,2020,2020/2021
+Phillip Menzel,21,Goalkeeper,A. Klagenfurt,0.0,out,Summer,2020,2020/2021
+Marvin Stefaniak,25,Attacking Midfield,Dynamo Dresden,0.0,out,Summer,2020,2020/2021
+Ismail Azzaoui,22,Right Winger,Without Club,0.0,out,Summer,2020,2020/2021
+Ignacio Camacho,30,Defensive Midfield,Retired,0.0,out,Summer,2020,2020/2021
+Tim Siersleben,20,Centre-Back,Wolfsburg II,0.0,in,Winter,2020,2020/2021
+Omar Marmoush,21,Left Winger,FC St. Pauli,100000.0,out,Winter,2020,2020/2021
+Yunus Malli,28,Attacking Midfield,Trabzonspor,0.0,out,Winter,2020,2020/2021
+Felix Klaus,28,Right Winger,F. Düsseldorf,0.0,out,Winter,2020,2020/2021
+William,25,Right-Back,FC Schalke 04,0.0,out,Winter,2020,2020/2021
+Sebastiaan Bornauw,22,Centre-Back,1. FC Köln,13500000.0,in,Summer,2021,2021/2022
+Luca Waldschmidt,25,Second Striker,Benfica,12000000.0,in,Summer,2021,2021/2022
+Aster Vranckx,18,Central Midfield,KV Mechelen,8000000.0,in,Summer,2021,2021/2022
+Lukas Nmecha,22,Centre-Forward,Man City,8000000.0,in,Summer,2021,2021/2022
+Maximilian Philipp,27,Second Striker,Dynamo Moscow,7500000.0,in,Summer,2021,2021/2022
+Micky van de Ven,20,Centre-Back,FC Volendam,3500000.0,in,Summer,2021,2021/2022
+Felix Nmecha,20,Attacking Midfield,Man City U23,0.0,in,Summer,2021,2021/2022
+Yun-sang Hong,19,Left Winger,Pohang Steelers,0.0,in,Summer,2021,2021/2022
+Dodi Lukébakio,23,Right Winger,Hertha BSC,0.0,in,Summer,2021,2021/2022
+Bryang Kayo,18,Central Midfield,Wolfsburg II,0.0,in,Summer,2021,2021/2022
+Anselmo García MacNulty,18,Centre-Back,Wolfsburg U19,0.0,in,Summer,2021,2021/2022
+Marcel Beifus,18,Centre-Back,Wolfsburg II,0.0,in,Summer,2021,2021/2022
+Dominik Marx,21,Central Midfield,Wolfsburg II,0.0,in,Summer,2021,2021/2022
+Ulysses Llanez,20,Left Winger,Wolfsburg II,0.0,in,Summer,2021,2021/2022
+Jannis Lang,18,Centre-Back,Wolfsburg II,0.0,in,Summer,2021,2021/2022
+Philipp Schulze,18,Goalkeeper,Wolfsburg U19,0.0,in,Summer,2021,2021/2022
+William,26,Right-Back,FC Schalke 04,0.0,in,Summer,2021,2021/2022
+Elvis Rexhbecaj,23,Central Midfield,1. FC Köln,0.0,in,Summer,2021,2021/2022
+Felix Klaus,28,Right Winger,F. Düsseldorf,0.0,in,Summer,2021,2021/2022
+Omar Marmoush,22,Left Winger,FC St. Pauli,0.0,in,Summer,2021,2021/2022
+Marvin Stefaniak,26,Attacking Midfield,Dynamo Dresden,0.0,in,Summer,2021,2021/2022
+Felix Klaus,28,Right Winger,F. Düsseldorf,1100000.0,out,Summer,2021,2021/2022
+Josip Brekalo,23,Left Winger,Torino,1000000.0,out,Summer,2021,2021/2022
+Tim Siersleben,21,Centre-Back,1.FC Heidenheim,150000.0,out,Summer,2021,2021/2022
+Marcel Beifus,18,Centre-Back,FC St. Pauli,100000.0,out,Summer,2021,2021/2022
+Jeffrey Bruma,29,Centre-Back,Kasimpasa,0.0,out,Summer,2021,2021/2022
+Lino Kasten,20,Goalkeeper,SKN St. Pölten,0.0,out,Summer,2021,2021/2022
+Marin Pongracic,23,Centre-Back,Bor. Dortmund,0.0,out,Summer,2021,2021/2022
+Ulysses Llanez,20,Left Winger,SKN St. Pölten,0.0,out,Summer,2021,2021/2022
+Victor Sá,27,Left Winger,Al-Jazira,0.0,out,Summer,2021,2021/2022
+Omar Marmoush,22,Left Winger,VfB Stuttgart,0.0,out,Summer,2021,2021/2022
+Elvis Rexhbecaj,23,Central Midfield,VfL Bochum,0.0,out,Summer,2021,2021/2022
+Yun-sang Hong,19,Left Winger,SKN St. Pölten,0.0,out,Summer,2021,2021/2022
+Bryang Kayo,19,Central Midfield,Viktoria Berlin,0.0,out,Summer,2021,2021/2022
+Dominik Marx,21,Central Midfield,Without Club,0.0,out,Summer,2021,2021/2022
+Maximilian Philipp,27,Second Striker,Dynamo Moscow,0.0,out,Summer,2021,2021/2022
+Jonas Wind,22,Centre-Forward,FC Copenhagen,12000000.0,in,Winter,2021,2021/2022
+Kevin Paredes,18,Left Midfield,D.C. United,6680000.0,in,Winter,2021,2021/2022
+Max Kruse,33,Second Striker,Union Berlin,5000000.0,in,Winter,2021,2021/2022
+Bryang Kayo,19,Central Midfield,Viktoria Berlin,0.0,in,Winter,2021,2021/2022
+Wout Weghorst,29,Centre-Forward,Burnley,17500000.0,out,Winter,2021,2021/2022
+Admir Mehmedi,30,Second Striker,Antalyaspor,0.0,out,Winter,2021,2021/2022
+Marvin Stefaniak,26,Attacking Midfield,Würzb. Kickers,0.0,out,Winter,2021,2021/2022
+Daniel Ginczek,30,Centre-Forward,F. Düsseldorf,0.0,out,Winter,2021,2021/2022
+Jannis Lang,19,Centre-Back,Erzgebirge Aue,0.0,out,Winter,2021,2021/2022
+Josuha Guilavogui,31,Defensive Midfield,G. Bordeaux,0.0,out,Winter,2021,2021/2022
+Bryang Kayo,19,Central Midfield,Nuremberg II,0.0,out,Winter,2021,2021/2022
+Jakub Kaminski,20,Left Winger,Lech Poznan,10000000.0,in,Summer,2022,2022/2023
+Mattias Svanberg,23,Central Midfield,Bologna,9000000.0,in,Summer,2022,2022/2023
+Bartol Franjic,22,Defensive Midfield,Dinamo Zagreb,7500000.0,in,Summer,2022,2022/2023
+Patrick Wimmer,21,Right Winger,Arm. Bielefeld,5000000.0,in,Summer,2022,2022/2023
+Kilian Fischer,21,Right-Back,1.FC Nuremberg,2500000.0,in,Summer,2022,2022/2023
+Dzenan Pejcinovic,17,Centre-Forward,FC Augsburg U19,1250000.0,in,Summer,2022,2022/2023
+Fabio Di Michele Sanchez,19,Left-Back,Wolfsburg U19,0.0,in,Summer,2022,2022/2023
+Josuha Guilavogui,31,Defensive Midfield,G. Bordeaux,0.0,in,Summer,2022,2022/2023
+Josip Brekalo,24,Left Winger,Torino,0.0,in,Summer,2022,2022/2023
+Marin Pongracic,24,Centre-Back,Bor. Dortmund,0.0,in,Summer,2022,2022/2023
+Omar Marmoush,23,Left Winger,VfB Stuttgart,0.0,in,Summer,2022,2022/2023
+Elvis Rexhbecaj,24,Central Midfield,VfL Bochum,0.0,in,Summer,2022,2022/2023
+Yun-sang Hong,20,Left Winger,SKN St. Pölten,0.0,in,Summer,2022,2022/2023
+Lino Kasten,21,Goalkeeper,SKN St. Pölten,0.0,in,Summer,2022,2022/2023
+Xaver Schlager,24,Central Midfield,RB Leipzig,12000000.0,out,Summer,2022,2022/2023
+Kevin Mbabu,27,Right-Back,Fulham,5500000.0,out,Summer,2022,2022/2023
+Aster Vranckx,19,Central Midfield,AC Milan,2000000.0,out,Summer,2022,2022/2023
+Elvis Rexhbecaj,24,Central Midfield,FC Augsburg,1700000.0,out,Summer,2022,2022/2023
+Renato Steffen,30,Right Winger,FC Lugano,750000.0,out,Summer,2022,2022/2023
+Bartosz Bialek,20,Centre-Forward,Vitesse,200000.0,out,Summer,2022,2022/2023
+Yun-sang Hong,20,Left Winger,Nuremberg II,50000.0,out,Summer,2022,2022/2023
+John Anthony Brooks,29,Centre-Back,Benfica,0.0,out,Summer,2022,2022/2023
+Anselmo García MacNulty,19,Centre-Back,NAC Breda,0.0,out,Summer,2022,2022/2023
+Fabio Di Michele Sanchez,19,Left-Back,NAC Breda,0.0,out,Summer,2022,2022/2023
+Marin Pongracic,24,Centre-Back,Lecce,0.0,out,Summer,2022,2022/2023
+William,27,Right-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Lino Kasten,21,Goalkeeper,Without Club,0.0,out,Summer,2022,2022/2023
+Dodi Lukébakio,24,Right Winger,Hertha BSC,0.0,out,Summer,2022,2022/2023
+Nicolas Cozza,24,Left-Back,Montpellier,500k,in,Winter,2022,2022/2023
+Josip Brekalo,24,Left Winger,Fiorentina,1500000.0,out,Winter,2022,2022/2023
+Jérôme Roussillon,30,Left-Back,Union Berlin,0.0,out,Winter,2022,2022/2023
+Max Kruse,34,Second Striker,Without Club,0.0,out,Winter,2022,2022/2023
+Maximilian Philipp,28,Second Striker,Werder Bremen,0.0,out,Winter,2022,2022/2023

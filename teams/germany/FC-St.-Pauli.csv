@@ -1,0 +1,69 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Thomas Sobotzik,20,Attacking Midfield,E. Frankfurt,150000.0,in,Summer,1995,1995/1996
+Ralf Becker,24,Attacking Midfield,Bay. Leverkusen,0.0,in,Summer,1995,1995/1996
+Michél Dinzey,22,Left Midfield,VfB Stuttgart,25000.0,in,Summer,1995,1995/1996
+Tore Pedersen,25,Centre-Back,Brann,0.0,in,Summer,1995,1995/1996
+Hysen Zmijani,32,Right-Back,Al-Nassr FC,0.0,in,Summer,1995,1995/1996
+Paul Caligiuri,31,Defensive Midfield,Hansa Rostock,0.0,in,Summer,1995,1995/1996
+Bernd Hollerbach,25,Left-Back,1.FC K'lautern,900000.0,out,Summer,1995,1995/1996
+Andreas Mayer,22,Central Midfield,Stabæk Fotball,0.0,out,Summer,1995,1995/1996
+Niclas Weiland,22,Right Winger,Hannover 96,0.0,out,Summer,1995,1995/1996
+René Müller,36,Goalkeeper,Retired,0.0,out,Summer,1995,1995/1996
+Carsten Wehlmann,23,Goalkeeper,VfL 93 Hamburg,0.0,in,Winter,1995,1995/1996
+Emerson,22,Centre-Forward,Dnipro,0.0,in,Summer,1996,1996/1997
+Kai Dittmer,21,attack,Harburger TB,0.0,in,Summer,1996,1996/1997
+Michael Bochtler,20,Left-Back,VfB Stuttgart,0.0,in,Summer,1996,1996/1997
+Demir Duric,19,Attacking Midfield,FSV Frankfurt,28000.0,in,Summer,1996,1996/1997
+Bernd Eigner,24,Centre-Back,VfL Frohnlach,13000.0,in,Summer,1996,1996/1997
+Nikolay Pisarev,27,Centre-Forward,CP Mérida,0.0,in,Summer,1996,1996/1997
+Sven Tholen,23,midfield,Unknown,0.0,in,Summer,1996,1996/1997
+Jacques Goumai,24,Centre-Forward,FC 08 Homburg,0.0,in,Summer,1996,1996/1997
+Markus Ahlf,18,Right-Back,St. Pauli U19,0.0,in,Summer,1996,1996/1997
+Matthias Scherz,24,Centre-Forward,FC St. Pauli II,0.0,in,Summer,1996,1996/1997
+Mike Göbel,25,midfield,FC St. Pauli II,0.0,in,Summer,1996,1996/1997
+Michél Dinzey,23,Left Midfield,Hertha BSC,0.0,out,Summer,1996,1996/1997
+Dariusz Szubert,25,Attacking Midfield,VfB Oldenburg,0.0,out,Summer,1996,1996/1997
+Leonardo Manzi,27,Centre-Back,Hannover 96,40000.0,out,Summer,1996,1996/1997
+Kay Stisi,25,attack,VfB Lübeck,0.0,out,Summer,1996,1996/1997
+Dieter Schlindwein,35,Centre-Back,Retired,0.0,out,Summer,1996,1996/1997
+Hysen Zmijani,33,Right-Back,Retired,0.0,out,Summer,1996,1996/1997
+Paul Caligiuri,32,Defensive Midfield,Hansa Rostock,0.0,out,Summer,1996,1996/1997
+Ralf Becker,26,Attacking Midfield,Stuttg. Kickers,0.0,out,Winter,1996,1996/1997
+Ugur Inceman,20,Central Midfield,Alem. Aachen,1380000.0,in,Summer,2001,2001/2002
+Marcão,28,Centre-Forward,Mirassol-SP,700000.0,in,Summer,2001,2001/2002
+Moudachirou Amadou,29,Centre-Back,Hannover 96,275000.0,in,Summer,2001,2001/2002
+Yakubu Adamu,19,Centre-Back,Wattenscheid 09,125000.0,in,Summer,2001,2001/2002
+Oliver Held,28,Right Midfield,FC Schalke 04,0.0,in,Summer,2001,2001/2002
+Jochen Kientz,28,Centre-Back,Hamburger SV,0.0,in,Summer,2001,2001/2002
+Matias Cenci,23,Centre-Forward,Quilmes,0.0,in,Summer,2001,2001/2002
+Cory Gibbs,21,Centre-Back,Brown Bears,0.0,in,Summer,2001,2001/2002
+Catalin Racanel,24,Left Midfield,Eintracht Trier,0.0,in,Summer,2001,2001/2002
+Tihomir Bulat,26,Goalkeeper,HNK Sibenik,50000.0,in,Summer,2001,2001/2002
+Torsten Miethe,24,Goalkeeper,FC St. Pauli II,0.0,in,Summer,2001,2001/2002
+Holger Wehlage,24,Right Midfield,Werder Bremen,500000.0,out,Summer,2001,2001/2002
+Markus Ahlf,23,Right-Back,Chemnitzer FC,0.0,out,Summer,2001,2001/2002
+Jean-Clotaire Tsoumou-Madza,26,Centre-Back,OFC Neugersdorf,0.0,out,Summer,2001,2001/2002
+Marek Trejgis,26,Right Winger,Panionios,0.0,out,Summer,2001,2001/2002
+Piotr Lukasz Staczek,22,midfield,SC Norderstedt,0.0,out,Summer,2001,2001/2002
+Fabian Gerber,21,Right Midfield,SC Freiburg,0.0,out,Summer,2001,2001/2002
+Ivan Klasnic,21,Centre-Forward,Werder Bremen,0.0,out,Summer,2001,2001/2002
+Tim Gutberlet,29,Attacking Midfield,Without Club,0.0,out,Summer,2001,2001/2002
+Heinz Weber,24,Goalkeeper,FC Tirol,0.0,out,Summer,2001,2001/2002
+Morten Berre,26,Right Winger,Viking FK,0.0,in,Winter,2001,2001/2002
+Dema Kovalenko,24,Defensive Midfield,Chicago,0.0,in,Winter,2001,2001/2002
+Thomas Puschmann,28,Defensive Midfield,KFC Uerdingen,0.0,out,Winter,2001,2001/2002
+Moses Sakyi,20,Centre-Forward,Yimpas Yozgat,0.0,out,Winter,2001,2001/2002
+Morten Berre,26,Right Winger,Viking FK,0.0,out,Winter,2001,2001/2002
+Dema Kovalenko,24,Defensive Midfield,Chicago,0.0,out,Winter,2001,2001/2002
+Carlos Zambrano,21,Centre-Back,FC Schalke 04,150000.0,in,Summer,2010,2010/2011
+Thomas Kessler,24,Goalkeeper,1. FC Köln,50000.0,in,Summer,2010,2010/2011
+Fin Bartels,23,Right Winger,Hansa Rostock,0.0,in,Summer,2010,2010/2011
+Gerald Asamoah,31,Centre-Forward,FC Schalke 04,0.0,in,Summer,2010,2010/2011
+Moritz Volz,27,Right-Back,Without Club,0.0,in,Summer,2010,2010/2011
+Jonathan Beaulieu-Bourgault,21,Defensive Midfield,Preußen Münster,0.0,out,Summer,2010,2010/2011
+Thomas Meggle,35,Attacking Midfield,Retired,0.0,out,Summer,2010,2010/2011
+Andreas Biermann,29,Left-Back,Without Club,0.0,out,Summer,2010,2010/2011
+Marc Gouiffe à Goufan,26,Defensive Midfield,Without Club,0.0,out,Summer,2010,2010/2011
+Patrik Borger,31,Goalkeeper,Without Club,0.0,out,Summer,2010,2010/2011
+Morike Sako,28,Centre-Forward,Without Club,0.0,out,Summer,2010,2010/2011
+Davidson Eden,22,Centre-Back,Esbjerg fB,0.0,out,Winter,2010,2010/2011

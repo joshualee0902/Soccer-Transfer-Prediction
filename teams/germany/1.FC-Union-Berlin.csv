@@ -1,0 +1,180 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Robert Andrich,24,Central Midfield,1.FC Heidenheim,3150000.0,in,Summer,2019,2019/2020
+Marvin Friedrich,23,Centre-Back,FC Augsburg,2500000.0,in,Summer,2019,2019/2020
+Anthony Ujah,28,Centre-Forward,1.FSV Mainz 05,2000000.0,in,Summer,2019,2019/2020
+Marcus Ingvartsen,23,Centre-Forward,KRC Genk,1500000.0,in,Summer,2019,2019/2020
+Suleiman Abdullahi,22,Centre-Forward,E. Braunschweig,500000.0,in,Summer,2019,2019/2020
+Marius Bülter,26,Second Striker,1.FC Magdeburg,400000.0,in,Summer,2019,2019/2020
+Julius Kade,20,Central Midfield,Hertha BSC,0.0,in,Summer,2019,2019/2020
+Florian Flecker,23,Right Midfield,TSV Hartberg,0.0,in,Summer,2019,2019/2020
+Neven Subotic,30,Centre-Back,Saint-Étienne,0.0,in,Summer,2019,2019/2020
+Christian Gentner,33,Central Midfield,VfB Stuttgart,0.0,in,Summer,2019,2019/2020
+Sheraldo Becker,24,Right Winger,ADO Den Haag,0.0,in,Summer,2019,2019/2020
+Manuel Schmiedebach,30,Defensive Midfield,Hannover 96,0.0,in,Summer,2019,2019/2020
+Moritz Nicolas,21,Goalkeeper,Bor. M'gladbach,0.0,in,Summer,2019,2019/2020
+Leo Oppermann,18,Goalkeeper,U. Berlin U19,0.0,in,Summer,2019,2019/2020
+Maurice Opfermann Arcones,19,Defensive Midfield,U. Berlin U19,0.0,in,Summer,2019,2019/2020
+Laurenz Dehl,17,Right-Back,U. Berlin U19,0.0,in,Summer,2019,2019/2020
+Keven Schlotterbeck,22,Centre-Back,SC Freiburg,0.0,in,Summer,2019,2019/2020
+Lars Dietz,22,Centre-Back,SF Lotte,0.0,in,Summer,2019,2019/2020
+Peter Kurzweg,25,Left-Back,Würzb. Kickers,0.0,in,Summer,2019,2019/2020
+Cihan Kahraman,20,Central Midfield,U. Fürstenwalde,0.0,in,Summer,2019,2019/2020
+Marvin Friedrich,23,Centre-Back,FC Augsburg,1000000.0,out,Summer,2019,2019/2020
+Marcel Hartel,23,Central Midfield,Arm. Bielefeld,250000.0,out,Summer,2019,2019/2020
+Eroll Zejnullahu,24,Attacking Midfield,Carl Zeiss Jena,0.0,out,Summer,2019,2019/2020
+Cihan Kahraman,20,Central Midfield,Berliner AK,0.0,out,Summer,2019,2019/2020
+Lennart Moser,19,Goalkeeper,Energie Cottbus,0.0,out,Summer,2019,2019/2020
+Peter Kurzweg,25,Left-Back,FC Ingolstadt,0.0,out,Summer,2019,2019/2020
+Berkan Taz,20,Attacking Midfield,Energie Cottbus,0.0,out,Summer,2019,2019/2020
+Lars Dietz,22,Centre-Back,Viktoria Köln,0.0,out,Summer,2019,2019/2020
+Marc Torrejón,33,Centre-Back,Retired,0.0,out,Summer,2019,2019/2020
+Fabian Schönheim,32,Centre-Back,Without Club,0.0,out,Summer,2019,2019/2020
+Carlos Mané,25,Right Winger,Sporting CP,0.0,out,Summer,2019,2019/2020
+Robert Zulj,27,Attacking Midfield,TSG Hoffenheim,0.0,out,Summer,2019,2019/2020
+Suleiman Abdullahi,22,Centre-Forward,E. Braunschweig,0.0,out,Summer,2019,2019/2020
+Manuel Schmiedebach,30,Defensive Midfield,Hannover 96,0.0,out,Summer,2019,2019/2020
+Yunus Malli,27,Attacking Midfield,VfL Wolfsburg,0.0,in,Winter,2019,2019/2020
+Lennart Moser,20,Goalkeeper,Energie Cottbus,0.0,in,Winter,2019,2019/2020
+Lennard Maloney,20,Centre-Back,Chemnitzer FC,0.0,out,Winter,2019,2019/2020
+Nicolai Rapp,23,Defensive Midfield,Darmstadt 98,0.0,out,Winter,2019,2019/2020
+Lennart Moser,20,Goalkeeper,Cercle Brugge,0.0,out,Winter,2019,2019/2020
+Marius Bülter,27,Second Striker,1.FC Magdeburg,1500000.0,in,Summer,2020,2020/2021
+Andreas Luthe,33,Goalkeeper,FC Augsburg,0.0,in,Summer,2020,2020/2021
+Cedric Teuchert,23,Centre-Forward,FC Schalke 04,0.0,in,Summer,2020,2020/2021
+Niko Gießelmann,28,Left-Back,F. Düsseldorf,0.0,in,Summer,2020,2020/2021
+Sebastian Griesbeck,29,Centre-Back,1.FC Heidenheim,0.0,in,Summer,2020,2020/2021
+Robin Knoche,28,Centre-Back,VfL Wolfsburg,0.0,in,Summer,2020,2020/2021
+Joel Pohjanpalo,26,Centre-Forward,Bay. Leverkusen,0.0,in,Summer,2020,2020/2021
+Loris Karius,27,Goalkeeper,Liverpool,0.0,in,Summer,2020,2020/2021
+Keita Endo,22,Left Winger,Yokohama F. M.,0.0,in,Summer,2020,2020/2021
+Taiwo Awoniyi,23,Centre-Forward,Liverpool,0.0,in,Summer,2020,2020/2021
+Fabio Schneider,18,Central Midfield,U. Berlin U19,0.0,in,Summer,2020,2020/2021
+Max Kruse,32,Second Striker,Without Club,0.0,in,Summer,2020,2020/2021
+Tim Maciejewski,19,Right Winger,U. Berlin U19,0.0,in,Summer,2020,2020/2021
+Nico Schlotterbeck,20,Centre-Back,SC Freiburg,0.0,in,Summer,2020,2020/2021
+Lennart Moser,20,Goalkeeper,Cercle Brugge,0.0,in,Summer,2020,2020/2021
+Lennard Maloney,20,Centre-Back,Chemnitzer FC,0.0,in,Summer,2020,2020/2021
+Nicolai Rapp,23,Defensive Midfield,Darmstadt 98,0.0,in,Summer,2020,2020/2021
+Lars Dietz,23,Centre-Back,Viktoria Köln,0.0,in,Summer,2020,2020/2021
+Berkan Taz,21,Attacking Midfield,Energie Cottbus,0.0,in,Summer,2020,2020/2021
+Sebastian Andersson,29,Centre-Forward,1. FC Köln,6500000.0,out,Summer,2020,2020/2021
+Joshua Mees,24,Left Winger,Holstein Kiel,300000.0,out,Summer,2020,2020/2021
+Lars Dietz,23,Centre-Back,Würzb. Kickers,70000.0,out,Summer,2020,2020/2021
+Leo Oppermann,18,Goalkeeper,Hamburger SV II,0.0,out,Summer,2020,2020/2021
+Berkan Taz,21,Attacking Midfield,SC Verl,0.0,out,Summer,2020,2020/2021
+Neven Subotic,31,Centre-Back,Denizlispor,0.0,out,Summer,2020,2020/2021
+Felix Kroos,29,Central Midfield,E. Braunschweig,0.0,out,Summer,2020,2020/2021
+Florian Flecker,24,Right Midfield,Würzb. Kickers,0.0,out,Summer,2020,2020/2021
+Rafal Gikiewicz,32,Goalkeeper,FC Augsburg,0.0,out,Summer,2020,2020/2021
+Ken Reichel,33,Left-Back,VfL Osnabrück,0.0,out,Summer,2020,2020/2021
+Sebastian Polter,29,Centre-Forward,Fortuna Sittard,0.0,out,Summer,2020,2020/2021
+Julius Kade,21,Central Midfield,Dynamo Dresden,0.0,out,Summer,2020,2020/2021
+Lennard Maloney,20,Centre-Back,B. Dortmund II,0.0,out,Summer,2020,2020/2021
+Laurenz Dehl,18,Right-Back,Hallescher FC,0.0,out,Summer,2020,2020/2021
+Suleiman Abdullahi,23,Centre-Forward,E. Braunschweig,0.0,out,Summer,2020,2020/2021
+Nicolai Rapp,23,Defensive Midfield,Darmstadt 98,0.0,out,Summer,2020,2020/2021
+Maurice Opfermann Arcones,20,Defensive Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Michael Parensen,34,Centre-Back,Without Club,0.0,out,Summer,2020,2020/2021
+Manuel Schmiedebach,31,Defensive Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Yunus Malli,28,Attacking Midfield,VfL Wolfsburg,0.0,out,Summer,2020,2020/2021
+Moritz Nicolas,22,Goalkeeper,Bor. M'gladbach,0.0,out,Summer,2020,2020/2021
+Marius Bülter,27,Second Striker,1.FC Magdeburg,0.0,out,Summer,2020,2020/2021
+Keven Schlotterbeck,23,Centre-Back,SC Freiburg,0.0,out,Summer,2020,2020/2021
+Petar Musa,22,Centre-Forward,Slavia Prague,200000.0,in,Winter,2020,2020/2021
+Leon Dajaku,19,Second Striker,FC Bayern II,0.0,in,Winter,2020,2020/2021
+Nikolai Kemlein,18,Goalkeeper,U. Berlin U19,0.0,in,Winter,2020,2020/2021
+Lennart Moser,21,Goalkeeper,A. Klagenfurt,25000.0,out,Winter,2020,2020/2021
+Tim Maciejewski,19,Right Winger,A. Klagenfurt,25000.0,out,Winter,2020,2020/2021
+Taiwo Awoniyi,23,Centre-Forward,Liverpool,8550000.0,in,Summer,2021,2021/2022
+Tymoteusz Puchacz,22,Left-Back,Lech Poznan,2500000.0,in,Summer,2021,2021/2022
+Leon Dajaku,20,Second Striker,FC Bayern II,1500000.0,in,Summer,2021,2021/2022
+Frederik Rönnow,28,Goalkeeper,E. Frankfurt,1000000.0,in,Summer,2021,2021/2022
+Kevin Möhwald,28,Central Midfield,Werder Bremen,1000000.0,in,Summer,2021,2021/2022
+Keita Endo,23,Left Winger,Yokohama F. M.,900000.0,in,Summer,2021,2021/2022
+Rick van Drongelen,22,Centre-Back,Hamburger SV,500000.0,in,Summer,2021,2021/2022
+Julius Kade,22,Central Midfield,Dynamo Dresden,500000.0,in,Summer,2021,2021/2022
+Kevin Behrens,30,Centre-Forward,SV Sandhausen,0.0,in,Summer,2021,2021/2022
+Andreas Voglsammer,29,Centre-Forward,Arm. Bielefeld,0.0,in,Summer,2021,2021/2022
+Pawel Wszolek,29,Right Winger,Legia Warszawa,0.0,in,Summer,2021,2021/2022
+Genki Haraguchi,30,Attacking Midfield,Hannover 96,0.0,in,Summer,2021,2021/2022
+Bastian Oczipka,32,Left-Back,FC Schalke 04,0.0,in,Summer,2021,2021/2022
+Levin Öztunali,25,Central Midfield,1.FSV Mainz 05,0.0,in,Summer,2021,2021/2022
+Paul Jaeckel,22,Centre-Back,Greuther Fürth,0.0,in,Summer,2021,2021/2022
+Rani Khedira,27,Defensive Midfield,FC Augsburg,0.0,in,Summer,2021,2021/2022
+Timo Baumgartl,25,Centre-Back,PSV Eindhoven,0.0,in,Summer,2021,2021/2022
+Mathis Bruns,17,Centre-Back,U. Berlin U17,0.0,in,Summer,2021,2021/2022
+Suleiman Abdullahi,24,Centre-Forward,E. Braunschweig,0.0,in,Summer,2021,2021/2022
+Nicolai Rapp,24,Defensive Midfield,Darmstadt 98,0.0,in,Summer,2021,2021/2022
+Laurenz Dehl,19,Right-Back,Hallescher FC,0.0,in,Summer,2021,2021/2022
+Robert Andrich,26,Central Midfield,Bay. Leverkusen,6500000.0,out,Summer,2021,2021/2022
+Marius Bülter,28,Second Striker,FC Schalke 04,800000.0,out,Summer,2021,2021/2022
+Marcus Ingvartsen,25,Centre-Forward,1.FSV Mainz 05,600000.0,out,Summer,2021,2021/2022
+Julius Kade,22,Central Midfield,Dynamo Dresden,500000.0,out,Summer,2021,2021/2022
+Sebastian Griesbeck,30,Centre-Back,Greuther Fürth,250000.0,out,Summer,2021,2021/2022
+Nicolai Rapp,24,Defensive Midfield,Werder Bremen,200000.0,out,Summer,2021,2021/2022
+Florian Hübner,30,Centre-Back,1.FC Nuremberg,0.0,out,Summer,2021,2021/2022
+Akaki Gogia,29,Right Midfield,FC Zürich,0.0,out,Summer,2021,2021/2022
+Christian Gentner,35,Central Midfield,FC Luzern,0.0,out,Summer,2021,2021/2022
+Christopher Lenz,26,Left-Back,E. Frankfurt,0.0,out,Summer,2021,2021/2022
+Nikolai Kemlein,19,Goalkeeper,Hertha BSC II,0.0,out,Summer,2021,2021/2022
+Leon Dajaku,20,Second Striker,Sunderland,0.0,out,Summer,2021,2021/2022
+Petar Musa,23,Centre-Forward,Slavia Prague,0.0,out,Summer,2021,2021/2022
+Leon Dajaku,20,Second Striker,FC Bayern II,0.0,out,Summer,2021,2021/2022
+Joel Pohjanpalo,26,Centre-Forward,Bay. Leverkusen,0.0,out,Summer,2021,2021/2022
+Loris Karius,28,Goalkeeper,Liverpool,0.0,out,Summer,2021,2021/2022
+Taiwo Awoniyi,23,Centre-Forward,Liverpool,0.0,out,Summer,2021,2021/2022
+Nico Schlotterbeck,21,Centre-Back,SC Freiburg,0.0,out,Summer,2021,2021/2022
+Keita Endo,23,Left Winger,Yokohama F. M.,0.0,out,Summer,2021,2021/2022
+Sven Michel,31,Centre-Forward,SC Paderborn,2500000.0,in,Winter,2021,2021/2022
+András Schäfer,22,Central Midfield,Dunajska Streda,1000000.0,in,Winter,2021,2021/2022
+Dominique Heintz,28,Centre-Back,SC Freiburg,150000.0,in,Winter,2021,2021/2022
+Marvin Friedrich,26,Centre-Back,Bor. M'gladbach,5500000.0,out,Winter,2021,2021/2022
+Max Kruse,33,Second Striker,VfL Wolfsburg,5000000.0,out,Winter,2021,2021/2022
+Tymoteusz Puchacz,22,Left-Back,Trabzonspor,200000.0,out,Winter,2021,2021/2022
+Cedric Teuchert,24,Centre-Forward,Hannover 96,0.0,out,Winter,2021,2021/2022
+Pawel Wszolek,29,Right Winger,Legia Warszawa,0.0,out,Winter,2021,2021/2022
+Fabio Schneider,19,Central Midfield,KuPS,0.0,out,Winter,2021,2021/2022
+Rick van Drongelen,23,Centre-Back,KV Mechelen,0.0,out,Winter,2021,2021/2022
+Jordan,26,Centre-Forward,BSC Young Boys,6000000.0,in,Summer,2022,2022/2023
+Jamie Leweling,21,Second Striker,Greuther Fürth,4000000.0,in,Summer,2022,2022/2023
+Morten Thorsby,26,Central Midfield,Sampdoria,3000000.0,in,Summer,2022,2022/2023
+Diogo Leite,23,Centre-Back,FC Porto,500000.0,in,Summer,2022,2022/2023
+Milos Pantovic,25,Attacking Midfield,VfL Bochum,0.0,in,Summer,2022,2022/2023
+Tim Skarke,25,Right Winger,Darmstadt 98,0.0,in,Summer,2022,2022/2023
+Danilho Doekhi,24,Centre-Back,Vitesse,0.0,in,Summer,2022,2022/2023
+Janik Haberer,28,Central Midfield,SC Freiburg,0.0,in,Summer,2022,2022/2023
+Paul Seguin,27,Central Midfield,Greuther Fürth,0.0,in,Summer,2022,2022/2023
+Lennart Grill,23,Goalkeeper,Bay. Leverkusen,0.0,in,Summer,2022,2022/2023
+Rick van Drongelen,23,Centre-Back,KV Mechelen,0.0,in,Summer,2022,2022/2023
+Pawel Wszolek,30,Right Winger,Legia Warszawa,0.0,in,Summer,2022,2022/2023
+Fabio Schneider,19,Central Midfield,KuPS,0.0,in,Summer,2022,2022/2023
+Tymoteusz Puchacz,23,Left-Back,Trabzonspor,0.0,in,Summer,2022,2022/2023
+Leon Dajaku,21,Second Striker,Sunderland,0.0,in,Summer,2022,2022/2023
+Marcus Ingvartsen,26,Centre-Forward,1.FSV Mainz 05,0.0,in,Summer,2022,2022/2023
+Tim Maciejewski,21,Right Winger,A. Klagenfurt,0.0,in,Summer,2022,2022/2023
+Lennart Moser,22,Goalkeeper,A. Klagenfurt,0.0,in,Summer,2022,2022/2023
+Taiwo Awoniyi,24,Centre-Forward,Nottm Forest,20500000.0,out,Summer,2022,2022/2023
+Marcus Ingvartsen,26,Centre-Forward,1.FSV Mainz 05,2300000.0,out,Summer,2022,2022/2023
+Leon Dajaku,21,Second Striker,Sunderland,870000.0,out,Summer,2022,2022/2023
+Dominique Heintz,28,Centre-Back,VfL Bochum,600000.0,out,Summer,2022,2022/2023
+Lennart Moser,22,Goalkeeper,KAS Eupen,150000.0,out,Summer,2022,2022/2023
+Bastian Oczipka,33,Left-Back,Arm. Bielefeld,0.0,out,Summer,2022,2022/2023
+Pawel Wszolek,30,Right Winger,Legia Warszawa,0.0,out,Summer,2022,2022/2023
+Andreas Luthe,35,Goalkeeper,1.FC K'lautern,0.0,out,Summer,2022,2022/2023
+Suleiman Abdullahi,25,Centre-Forward,IFK Göteborg,0.0,out,Summer,2022,2022/2023
+Grischa Prömel,27,Central Midfield,TSG Hoffenheim,0.0,out,Summer,2022,2022/2023
+Anthony Ujah,31,Centre-Forward,E. Braunschweig,0.0,out,Summer,2022,2022/2023
+Andreas Voglsammer,30,Centre-Forward,Millwall,0.0,out,Summer,2022,2022/2023
+Rick van Drongelen,23,Centre-Back,Hansa Rostock,0.0,out,Summer,2022,2022/2023
+Keita Endo,24,Left Winger,E. Braunschweig,0.0,out,Summer,2022,2022/2023
+Laurenz Dehl,20,Right-Back,Bohemians,0.0,out,Summer,2022,2022/2023
+Josip Juranovic,27,Right-Back,Celtic,8550000.0,in,Winter,2022,2022/2023
+Aïssa Laïdouni,26,Central Midfield,Ferencváros,2600000.0,in,Winter,2022,2022/2023
+Jérôme Roussillon,30,Left-Back,VfL Wolfsburg,0.0,in,Winter,2022,2022/2023
+Laurenz Dehl,20,Right Midfield,Bohemians,0.0,in,Winter,2022,2022/2023
+Julian Ryerson,25,Right-Back,Bor. Dortmund,5000000.0,out,Winter,2022,2022/2023
+Genki Haraguchi,31,Attacking Midfield,VfB Stuttgart,1000000.0,out,Winter,2022,2022/2023
+Tim Skarke,26,Right Winger,FC Schalke 04,250k,out,Winter,2022,2022/2023
+Fabio Schneider,20,Central Midfield,Greifswalder FC,0.0,out,Winter,2022,2022/2023
+Laurenz Dehl,21,Right Midfield,Viktoria Berlin,0.0,out,Winter,2022,2022/2023
+Tymoteusz Puchacz,23,Left-Back,Panathinaikos,0.0,out,Winter,2022,2022/2023
