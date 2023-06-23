@@ -1,0 +1,131 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Georgi Gabulov,27,Central Midfield,KS Samara,0.0,in,Summer,2016,2016/2017
+Blagoy Georgiev,34,Central Midfield,Rubin Kazan,0.0,in,Summer,2016,2016/2017
+Aleksandr Katsalapov,30,Left-Back,Ufa,0.0,in,Summer,2016,2016/2017
+Ivica Zunic,27,Centre-Back,Volyn Lutsk,0.0,in,Summer,2016,2016/2017
+Aleksandr Prudnikov,27,Centre-Forward,Amkar Perm,0.0,in,Summer,2016,2016/2017
+Aleksandr Gutor,27,Goalkeeper,Dinamo Minsk,0.0,in,Summer,2016,2016/2017
+Aleksey Pomerko,26,Central Midfield,KS Samara,0.0,in,Summer,2016,2016/2017
+Pavel Nekhaychik,27,Left Winger,Tom Tomsk,0.0,in,Summer,2016,2016/2017
+Anzor Sanaia,27,Centre-Forward,Tom Tomsk,0.0,in,Summer,2016,2016/2017
+Yacouba Bamba,24,Attacking Midfield,Zaria Balti,0.0,in,Summer,2016,2016/2017
+Dmitri Efremov,21,Right Midfield,CSKA Moscow,0.0,in,Summer,2016,2016/2017
+Maksim Batov,24,Central Midfield,Rubin Kazan,0.0,in,Summer,2016,2016/2017
+Kamalutdin Akhmedov,30,Centre-Back,Tyumen,0.0,out,Summer,2016,2016/2017
+Arturs Zjuzins,25,Central Midfield,Tambov,0.0,out,Summer,2016,2016/2017
+Aleksey Druzin,29,Central Midfield,SKA Khabarovsk,0.0,out,Summer,2016,2016/2017
+Khyzyr Appaev,26,Centre-Forward,Arsenal Tula,0.0,out,Summer,2016,2016/2017
+Nikita Satalkin,28,Centre-Forward,Fakel Voronezh,0.0,out,Summer,2016,2016/2017
+Anton Kobyalko,30,Centre-Forward,SKA Khabarovsk,0.0,out,Summer,2016,2016/2017
+Ivan Markelov,28,Left Winger,Dinamo Moscow,0.0,out,Summer,2016,2016/2017
+Dmitri Chvanov,22,Goalkeeper,Without Club,0.0,out,Summer,2016,2016/2017
+Almaz Askarov,24,Centre-Back,Retired,0.0,out,Summer,2016,2016/2017
+Samat Sarsenov,19,Centre-Forward,Orenburg II,0.0,out,Summer,2016,2016/2017
+Inal Getigezhev,29,Left-Back,Rubin Kazan,0.0,out,Summer,2016,2016/2017
+Michal Duris,28,Centre-Forward,Viktoria Plzen,600000.0,in,Winter,2016,2016/2017
+Denis Popovic,27,Attacking Midfield,Wisla Kraków,200000.0,in,Winter,2016,2016/2017
+Mikhail Sivakov,28,Centre-Back,Zorya Lugansk,0.0,in,Winter,2016,2016/2017
+Elguja Lobjanidze,24,Centre-Forward,Dinamo Batumi,0.0,in,Winter,2016,2016/2017
+Stanislav Dragun,28,Central Midfield,Dinamo Moscow,0.0,in,Winter,2016,2016/2017
+Maksim Bordachev,30,Left-Back,Tom Tomsk,0.0,in,Winter,2016,2016/2017
+Maksim Grigorjev,26,Centre-Forward,Rostov,0.0,in,Winter,2016,2016/2017
+Mikhail Kerzhakov,30,Goalkeeper,Zenit S-Pb,0.0,in,Winter,2016,2016/2017
+Aleksandr Prudnikov,27,Centre-Forward,Anzhi,0.0,out,Winter,2016,2016/2017
+Artem Deljkin,26,Centre-Forward,Tambov,0.0,out,Winter,2016,2016/2017
+Farkhod Vasiev,26,Centre-Back,Istiqlol,0.0,out,Winter,2016,2016/2017
+Yacouba Bamba,25,Attacking Midfield,Without Club,0.0,out,Winter,2016,2016/2017
+Aleksandr Katsalapov,30,Left-Back,Without Club,0.0,out,Winter,2016,2016/2017
+Maksim Batov,24,Central Midfield,Rubin Kazan,0.0,out,Winter,2016,2016/2017
+Danijel Miskic,24,Central Midfield,NK Olimpija,300000.0,in,Summer,2018,2018/2019
+Andrea Chukanov,22,Attacking Midfield,Tyumen,70000.0,in,Summer,2018,2018/2019
+Djordje Despotovic,26,Centre-Forward,FC Astana,0.0,in,Summer,2018,2018/2019
+Mikhail Bakaev,30,Defensive Midfield,Anzhi,0.0,in,Summer,2018,2018/2019
+Mikhail Sivakov,30,Centre-Back,Amkar Perm,0.0,in,Summer,2018,2018/2019
+Nikita Malyarov,28,Central Midfield,Kuban Krasnodar,0.0,in,Summer,2018,2018/2019
+Vitaliy Shakhov,27,Centre-Back,Tosno,0.0,in,Summer,2018,2018/2019
+Artem Kulishev,24,Right Winger,Dinamo S-Pb,0.0,in,Summer,2018,2018/2019
+Aleksandr Dovbnya,31,Goalkeeper,SKA Khabarovsk,0.0,in,Summer,2018,2018/2019
+Artem Galadzhan,20,Centre-Forward,Loko-Kazanka M.,0.0,in,Summer,2018,2018/2019
+Ricardo Alves,25,Central Midfield,Without Club,0.0,in,Summer,2018,2018/2019
+Islam Mashukov,23,Centre-Forward,Khimki,0.0,in,Summer,2018,2018/2019
+Michal Duris,30,Centre-Forward,Anorthosis,0.0,in,Summer,2018,2018/2019
+Michal Duris,30,Centre-Forward,Anorthosis,750000.0,out,Summer,2018,2018/2019
+Farkhod Vasiev,28,Centre-Back,Tyumen,0.0,out,Summer,2018,2018/2019
+Islam Mashukov,23,Centre-Forward,Spartak Nalchik,0.0,out,Summer,2018,2018/2019
+Roman Vorobjov,34,Central Midfield,Rotor Volgograd,0.0,out,Summer,2018,2018/2019
+Maksim Plopa,28,Centre-Back,Baltika,0.0,out,Summer,2018,2018/2019
+Khasan Mamtov,34,Centre-Forward,Tambov,0.0,out,Summer,2018,2018/2019
+Artem Deljkin,27,Centre-Forward,Nizhny Novgorod,0.0,out,Summer,2018,2018/2019
+Vladimir Parnyakov,34,Right Midfield,Tyumen,0.0,out,Summer,2018,2018/2019
+Igor Koronov,32,Right Midfield,Tyumen,0.0,out,Summer,2018,2018/2019
+Artem Popov,25,Right Winger,Rotor Volgograd,0.0,out,Summer,2018,2018/2019
+Dmitri Efremov,23,Right Midfield,CSKA Moscow,0.0,out,Summer,2018,2018/2019
+Igor Udalyi,33,Centre-Back,Anzhi,0.0,out,Summer,2018,2018/2019
+Saveli Kozlov,22,Centre-Back,Tyumen,70000.0,in,Winter,2018,2018/2019
+Adi Gotlieb,26,Centre-Back,Hapoel Tel Aviv,420000.0,in,Summer,2019,2019/2020
+Andrey Klimovich,31,Goalkeeper,Soligorsk,280000.0,in,Summer,2019,2019/2020
+Filip Rogic,26,Central Midfield,Örebro SK,190000.0,in,Summer,2019,2019/2020
+Joel Fameyeh,22,Centre-Forward,Dynamo Brest,150000.0,in,Summer,2019,2019/2020
+Timur Ayupov,25,Defensive Midfield,Nizhny Novgorod,0.0,in,Summer,2019,2019/2020
+Ivan Lapshov,20,Centre-Back,Loko-Kazanka M.,19000.0,in,Summer,2019,2019/2020
+Ziga Skoflek,25,Right Winger,Rudar Velenje,0.0,in,Summer,2019,2019/2020
+Daniil Krivoruchko,21,Centre-Back,Orenburg II,0.0,in,Summer,2019,2019/2020
+Aleksey Kenyaykin,20,Goalkeeper,Orenburg II,0.0,in,Summer,2019,2019/2020
+Danil Lipovoy,19,Left Midfield,Dinamo Moscow,0.0,in,Summer,2019,2019/2020
+Fedor Černych,28,Right Winger,Dinamo Moscow,0.0,in,Summer,2019,2019/2020
+Georgi Zotov,29,Right-Back,KS Samara,0.0,in,Summer,2019,2019/2020
+Uros Radakovic,25,Centre-Back,Sparta Prague,0.0,in,Summer,2019,2019/2020
+Vladimir Moskvichev,19,Defensive Midfield,Dinamo Moscow,0.0,in,Summer,2019,2019/2020
+Aleksey Sutormin,25,Right Winger,Rubin Kazan,2000000.0,out,Summer,2019,2019/2020
+Silvije Begic,26,Centre-Back,Rubin Kazan,1200000.0,out,Summer,2019,2019/2020
+Mikhail Bakaev,31,Defensive Midfield,Shinnik,0.0,out,Summer,2019,2019/2020
+Denis Popovic,29,Attacking Midfield,FC Zürich,0.0,out,Summer,2019,2019/2020
+Evgeniy Frolov,31,Goalkeeper,Sochi,0.0,out,Summer,2019,2019/2020
+Andrey Kozlov,30,Centre-Forward,Ufa,0.0,out,Summer,2019,2019/2020
+Sergey Breev,32,Central Midfield,Avangard Kursk,0.0,out,Summer,2019,2019/2020
+Adessoye Oyewole,36,Centre-Back,Tambov,0.0,out,Summer,2019,2019/2020
+Grigori Chirkin,33,Defensive Midfield,Avangard Kursk,0.0,out,Summer,2019,2019/2020
+Dmitri Andreev,38,Centre-Back,Retired,0.0,out,Summer,2019,2019/2020
+Daniil Krivoruchko,21,Centre-Back,KamAZ,0.0,out,Summer,2019,2019/2020
+Aleksey Kenyaykin,20,Goalkeeper,Torpedo Moscow,0.0,out,Summer,2019,2019/2020
+Islambek Kuat,26,Defensive Midfield,Kairat Almaty,0.0,in,Winter,2019,2019/2020
+Mamadou Sylla,25,Centre-Forward,KAA Gent,0.0,in,Winter,2019,2019/2020
+Kirill Kaplenko,20,Defensive Midfield,Zenit 2 S-Pb,0.0,in,Winter,2019,2019/2020
+Vadim Afonin,32,Defensive Midfield,Loko Tashkent,0.0,out,Winter,2019,2019/2020
+Nikita Malyarov,30,Central Midfield,Without Club,0.0,out,Winter,2019,2019/2020
+Artem Galadzhan,21,Centre-Forward,Loko-Kazanka M.,0.0,out,Winter,2019,2019/2020
+Vladimir Moskvichev,19,Defensive Midfield,Dinamo Moscow,0.0,out,Winter,2019,2019/2020
+Gabriel Florentín,23,Attacking Midfield,Argentinos Jrs.,2200000.0,in,Summer,2022,2022/2023
+Ivan Basic,20,Attacking Midfield,Zrinjski Mostar,550000.0,in,Summer,2022,2022/2023
+Jimmy Marín,24,Left Midfield,Saprissa,490000.0,in,Summer,2022,2022/2023
+Batraz Gurtsiev,23,Right Midfield,Alania Vl.,400000.0,in,Summer,2022,2022/2023
+Kirill Kaplenko,23,Defensive Midfield,Zenit 2 S-Pb,200000.0,in,Summer,2022,2022/2023
+Aleksandr Pavlovets,25,Centre-Back,Rostov,150000.0,in,Summer,2022,2022/2023
+Diego Acosta,19,Centre-Forward,KamAZ,0.0,in,Summer,2022,2022/2023
+Lucas Vera,25,Central Midfield,Lanús,0.0,in,Summer,2022,2022/2023
+Brian Mansilla,25,Left Winger,Racing Club,0.0,in,Summer,2022,2022/2023
+Stepan Oganesyan,20,Right Winger,Spartak Moscow,0.0,in,Summer,2022,2022/2023
+Ivan Lapshov,23,Centre-Back,Enisey,0.0,in,Summer,2022,2022/2023
+Dmitriy Vorobyev,24,Centre-Forward,Sochi,0.0,in,Summer,2022,2022/2023
+Evgeniy Bolotov,21,Defensive Midfield,Forte Taganrog,0.0,in,Summer,2022,2022/2023
+Ilya Vorobyev,22,Right Winger,Veles Moscow,0.0,in,Summer,2022,2022/2023
+Ilya Vorobyev,23,Right Winger,Leningradets,0.0,out,Summer,2022,2022/2023
+Joel Fameyeh,25,Centre-Forward,Rubin Kazan,0.0,out,Summer,2022,2022/2023
+Adessoye Oyewole,39,Centre-Back,Retired,0.0,out,Summer,2022,2022/2023
+Sergey Breev,35,Central Midfield,Retired,0.0,out,Summer,2022,2022/2023
+Ivan Lapshov,23,Centre-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Nikolay Prudnikov,24,Centre-Forward,Without Club,0.0,out,Summer,2022,2022/2023
+Vladimir Obukhov,30,Centre-Forward,Ban,0.0,out,Summer,2022,2022/2023
+Saveli Kozlov,25,Centre-Back,Without Club,0.0,out,Summer,2022,2022/2023
+Evgeniy Bolotov,21,Defensive Midfield,Tyumen,0.0,out,Summer,2022,2022/2023
+Arshak Koryan,27,Right Winger,Khimki,0.0,out,Summer,2022,2022/2023
+Artem Shabolin,21,Right Midfield,Ural 2,0.0,out,Summer,2022,2022/2023
+Aleksey Mironov,22,Central Midfield,Loko-Kazanka M.,0.0,out,Summer,2022,2022/2023
+Matías Pérez,23,Centre-Back,Lanús,1000000.0,in,Winter,2022,2022/2023
+Danila Khotulev,20,Centre-Back,Zenit 2 S-Pb,435k,in,Winter,2022,2022/2023
+Vladimir Obukhov,30,Centre-Forward,Ban,0.0,in,Winter,2022,2022/2023
+Vladimir Pisarskiy,26,Centre-Forward,KS Samara,1350000.0,out,Winter,2022,2022/2023
+Aleksandr Pavlovets,26,Centre-Back,PAS Lamia,0.0,out,Winter,2022,2022/2023
+Batraz Gurtsiev,24,Right Midfield,Alania Vl.,0.0,out,Winter,2022,2022/2023
+Danila Khotulev,20,Centre-Back,Zenit 2 S-Pb,0.0,out,Winter,2022,2022/2023
+Dmitriy Vasiljev,18,Defensive Midfield,Zenit 2 S-Pb,0.0,out,Winter,2022,2022/2023

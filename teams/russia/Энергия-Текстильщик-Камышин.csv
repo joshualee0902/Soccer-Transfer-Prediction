@@ -1,0 +1,92 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Sergey Polstyanov,26,Centre-Forward,Evis Mykolaiv,0.0,in,Summer,1992,1992/1993
+Vladimir Oskolkov,29,defence,Tiligul,0.0,in,Summer,1992,1992/1993
+Aleksandr Bogatyrev,29,attack,Kairat Almaty,0.0,in,Summer,1992,1992/1993
+Oleg Yelyshev,21,Right Midfield,Dinamo Moscow,0.0,in,Summer,1992,1992/1993
+Andriy Yudin,25,Right-Back,Dnipro,0.0,in,Summer,1992,1992/1993
+Evgeni Chinenov,17,Goalkeeper,Rotor 2,0.0,out,Summer,1992,1992/1993
+Gennadi Strikalov,22,Goalkeeper,Asmaral Kislovod,0.0,out,Summer,1992,1992/1993
+Oleg Perepelitsyn,22,Right-Back,E. Kamyshin,0.0,out,Summer,1992,1992/1993
+Vitali Yudin,18,Left Midfield,Vympel Rybinsk,0.0,out,Summer,1992,1992/1993
+Andrey Karpenko,26,defence,Факел-Воронеж,0.0,in,Winter,1992,1992/1993
+Viktor Navochenko,22,midfield,Salyut Belgorod,0.0,in,Winter,1992,1992/1993
+Vyacheslav Krykanov,21,Goalkeeper,Zvezda-Rusj Gor.,0.0,in,Winter,1992,1992/1993
+Yuri Sobol,26,attack,Kuban Krasnodar,0.0,in,Winter,1992,1992/1993
+Mikhail Belov,26,Central Midfield,Orekhovo O-Zuevo,0.0,out,Winter,1992,1992/1993
+Konstantin Dyachenko,17,midfield,T. Volzhskiy,0.0,out,Winter,1992,1992/1993
+Vladimir Oskolkov,30,defence,Sputnik Kimry,0.0,out,Winter,1992,1992/1993
+Valeri Zazdravnykh,29,midfield,FV Progres,0.0,out,Winter,1992,1992/1993
+Aleksandr Bogatyrev,29,attack,Dinamo Barnaul,0.0,out,Winter,1992,1992/1993
+Aleksandr Berketov,17,Centre-Back,Rotor Vg. II,0.0,out,Winter,1992,1992/1993
+Sergey Loginov,29,midfield,Zenit S-Pb,0.0,out,Winter,1992,1992/1993
+Valeri Zazdravnykh,29,midfield,FV Progres,0.0,in,Summer,1993,1993/1994
+Vyacheslav Demin,24,midfield,КАМАЗ-Чаллы,0.0,in,Summer,1993,1993/1994
+Vasyl Evseev,30,Centre-Back,Evis Mykolaiv,0.0,in,Summer,1993,1993/1994
+Oleg Tereshchenko,21,defence,CSKA-Borysfen,0.0,in,Summer,1993,1993/1994
+Valeri Kleimenov,17,attack,Avan. Kamyshin,0.0,out,Summer,1993,1993/1994
+Valeri Zazdravnykh,30,midfield,Lada-Togliat-VAZ,0.0,out,Summer,1993,1993/1994
+Rustem Shaymukhametov,33,Centre-Forward,FV Progres,0.0,out,Summer,1993,1993/1994
+Vasyl Evseev,31,Centre-Back,Dynamo 2 Kyiv,0.0,out,Summer,1993,1993/1994
+Vyacheslav Nedorostkov,25,Right Midfield,Zvezda-Rusj Gor.,0.0,out,Summer,1993,1993/1994
+Sergey Pimenov,24,Right Winger,Spartak V-kavkaz,0.0,in,Winter,1993,1993/1994
+Aleksandr Filimonov,20,Goalkeeper,Факел-Воронеж,0.0,in,Winter,1993,1993/1994
+Sergey Volgin,32,Defensive Midfield,Kairat Almaty,0.0,in,Winter,1993,1993/1994
+Vladimir Filippov,25,attack,KS Samara,0.0,in,Winter,1993,1993/1994
+Vyacheslav Nedorostkov,25,Right Midfield,Nyva Ternopil,0.0,in,Winter,1993,1993/1994
+Aleksandr Tsygankov,25,Right-Back,KS Samara,0.0,in,Winter,1993,1993/1994
+Valeriy Zhabko,26,Left-Back,T. Volzhskiy,0.0,in,Winter,1993,1993/1994
+Vladimir Smirnov,16,Right Midfield,Rotor Vg. II,0.0,out,Winter,1993,1993/1994
+Andrey Samorukov,23,Goalkeeper,Rotor Volgograd,0.0,out,Winter,1993,1993/1994
+Oleg Yelyshev,22,Right Midfield,Loko Moscow,0.0,out,Winter,1993,1993/1994
+Andrey Karpenko,27,defence,Факел-Воронеж,0.0,out,Winter,1993,1993/1994
+Oleg Tereshchenko,21,defence,Элиста,0.0,out,Winter,1993,1993/1994
+Yuri Sobol,28,attack,Lada-Togliat-VAZ,0.0,out,Winter,1993,1993/1994
+Mikhail Volodin,25,Goalkeeper,KS Samara,0.0,in,Summer,1994,1994/1995
+Yuri Gusakov,25,Centre-Forward,Wormatia Worms,0.0,in,Summer,1994,1994/1995
+Andriy Yudin,27,Right-Back,Dnipro,0.0,out,Summer,1994,1994/1995
+Vladimir Kuraev,25,Centre-Back,Torpedo Arzamas,0.0,in,Winter,1994,1994/1995
+Evgeni Gerasimov,26,defence,Vympel Rybinsk,0.0,in,Winter,1994,1994/1995
+Vitaliy Abramov,20,Attacking Midfield,Vympel Rybinsk,0.0,in,Winter,1994,1994/1995
+Oleg Solovjev,21,Central Midfield,Lada-Togliat-VAZ,0.0,in,Winter,1994,1994/1995
+Evgeni Yarkov,21,midfield,Avan. Kamyshin,0.0,in,Winter,1994,1994/1995
+Petr Khrustovskiy,15,Centre-Forward,T. Kamyshin U19,0.0,in,Winter,1994,1994/1995
+Aleksandr Krotov,19,Centre-Back,Neftyanik,0.0,in,Winter,1994,1994/1995
+Oleg Rozin,29,Right Midfield,Lada-Togliat-VAZ,0.0,out,Winter,1994,1994/1995
+Mikhail Volodin,26,Goalkeeper,Lada-Togliat-VAZ,0.0,out,Winter,1994,1994/1995
+Sergey Sergeev,29,Right Midfield,Torpedo Volzhsky,0.0,out,Winter,1994,1994/1995
+Andrey Prokhorov,29,defence,Lada-Togliat-VAZ,0.0,out,Winter,1994,1994/1995
+Vyacheslav Demin,26,midfield,Shinnik,0.0,out,Winter,1994,1994/1995
+Aleksandr Tsygankov,26,Right-Back,Lada-Togliat-VAZ,0.0,out,Winter,1994,1994/1995
+Dmitriy Piskunov,27,defence,SKA Rostov,0.0,in,Summer,1995,1995/1996
+Konstantin Pavlyuchenko,24,midfield,Lada-Togliat-VAZ,0.0,in,Summer,1995,1995/1996
+Sergiy Petrunya,22,midfield,SK Mykolaiv,0.0,in,Summer,1995,1995/1996
+Sergey Kopnin,18,Centre-Back,M. Lipetsk,0.0,out,Summer,1995,1995/1996
+Dmitriy Piskunov,27,defence,Torpedo Volzhsky,0.0,out,Summer,1995,1995/1996
+Aleksandr Krotov,20,Centre-Back,Neftyanik,0.0,out,Summer,1995,1995/1996
+Dmitri Lyapkin,19,Left-Back,CSKA-D Moskow,0.0,in,Winter,1995,1995/1996
+Yuri Konovalov,25,Centre-Forward,Lokomotiv NN,0.0,in,Winter,1995,1995/1996
+Valeri Kleimenov,20,attack,SKA Rostov,0.0,in,Winter,1995,1995/1996
+Sergey Orlov,21,defence,Unknown,0.0,in,Winter,1995,1995/1996
+Fedor Gagloev,29,midfield,KS Samara,0.0,in,Winter,1995,1995/1996
+Dmitri Ivanov,25,Centre-Forward,T. Volzhskiy,0.0,in,Winter,1995,1995/1996
+Sergey Lysenko,19,Centre-Back,CSKA Moscow II,0.0,in,Winter,1995,1995/1996
+Sergey Kopnin,18,Centre-Back,Vympel Rybinsk,0.0,in,Winter,1995,1995/1996
+Dzintars Sprogis,24,defence,Kolos Krasnodar,0.0,in,Winter,1995,1995/1996
+Evgeniy Kornyukhin,28,Goalkeeper,Zenit S-Pb,0.0,in,Winter,1995,1995/1996
+Vladislav Ternavski,26,Centre-Back,Chornomorets,0.0,in,Winter,1995,1995/1996
+Andrey Konovalov,21,Central Midfield,Spartak Moscow,0.0,in,Winter,1995,1995/1996
+Pavel Smurov,16,Right-Back,T. Kamyshin U19,0.0,in,Winter,1995,1995/1996
+Vyacheslav Krykanov,24,Goalkeeper,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Aleksandr Minaev,37,Centre-Back,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Sergey Pimenov,26,Right Winger,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Sergey Polstyanov,28,Centre-Forward,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Vladimir Kuraev,26,Centre-Back,Lokomotiv NN,0.0,out,Winter,1995,1995/1996
+Valeriy Zhabko,28,Left-Back,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Evgeni Yarkov,22,midfield,T. Volzhskiy,0.0,out,Winter,1995,1995/1996
+Vladimir Filippov,27,attack,Lada-Togliat-VAZ,0.0,out,Winter,1995,1995/1996
+Viktor Navochenko,25,midfield,Baltika,0.0,out,Winter,1995,1995/1996
+Oleg Morozov,29,Right Midfield,Факел-Воронеж,0.0,out,Winter,1995,1995/1996
+Aleksey Morozov,29,Right-Back,Факел-Воронеж,0.0,out,Winter,1995,1995/1996
+Aleksandr Filimonov,22,Goalkeeper,Spartak Moscow,0.0,out,Winter,1995,1995/1996
+Evgeni Gerasimov,27,defence,E. Kamyshin,0.0,out,Winter,1995,1995/1996
+Yuri Gusakov,26,Centre-Forward,Retired,0.0,out,Winter,1995,1995/1996

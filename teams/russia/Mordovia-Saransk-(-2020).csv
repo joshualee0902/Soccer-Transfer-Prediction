@@ -1,0 +1,97 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Dalibor Volas,25,Centre-Forward,FC Sheriff,400000.0,in,Summer,2012,2012/2013
+Aleksey Ivanov,31,Right Midfield,Anzhi,0.0,in,Summer,2012,2012/2013
+Anton Bober,29,Attacking Midfield,KS Samara,0.0,in,Summer,2012,2012/2013
+Dmitri Abakumov,22,Goalkeeper,KamAZ,0.0,in,Summer,2012,2012/2013
+Tomislav Dujmovic,31,Central Midfield,Dinamo Moscow,0.0,in,Summer,2012,2012/2013
+Roman Kontsedalov,26,Central Midfield,Spartak Nalchik,0.0,in,Summer,2012,2012/2013
+Evgeni Aldonin,32,Defensive Midfield,CSKA Moscow,0.0,in,Summer,2012,2012/2013
+Igor Shitov,25,Right-Back,Dinamo Moscow,0.0,in,Summer,2012,2012/2013
+Konstantin Zajtsev,28,Right-Back,Tyumen,0.0,out,Summer,2012,2012/2013
+Taras Lazarovych,30,Right Winger,Metalurg Z.,0.0,out,Summer,2012,2012/2013
+Elbrus Tandelov,29,Right Winger,Unknown,0.0,out,Summer,2012,2012/2013
+Gerson Acevedo,24,Central Midfield,Ural,0.0,out,Summer,2012,2012/2013
+Aleksandr Agapov,30,Goalkeeper,SKA-Energia,0.0,out,Summer,2012,2012/2013
+Anatoli Gerk,27,Attacking Midfield,Ural,0.0,out,Summer,2012,2012/2013
+Vladimir Ponomarev,25,Centre-Back,Torpedo Moscow,0.0,out,Summer,2012,2012/2013
+Vladimir Barmin,19,Defensive Midfield,Mordovia II,0.0,out,Summer,2012,2012/2013
+Aleksey Shebanov,19,Left-Back,Mordovia II,0.0,out,Summer,2012,2012/2013
+Vladimir Sandrkin,20,Centre-Forward,Mordovia II,0.0,out,Summer,2012,2012/2013
+Andrey Gorbanets,26,Attacking Midfield,Krasnodar,0.0,out,Summer,2012,2012/2013
+Aleksandr Minchenkov,23,Centre-Forward,Loko Moscow,0.0,out,Summer,2012,2012/2013
+Milan Perendija,27,Centre-Back,Otelul Galati,500000.0,in,Winter,2012,2012/2013
+Vladimir Bozovic,31,defence,Rapid Bucharest,0.0,in,Winter,2012,2012/2013
+Daniel Oprita,31,Left Winger,Petrolul,0.0,in,Winter,2012,2012/2013
+Akaki Khubutia,26,Centre-Back,Gaz Metan,0.0,in,Winter,2012,2012/2013
+Aleksandar Simcevic,25,Right-Back,Shakhter K.,0.0,out,Winter,2012,2012/2013
+Maksim Zhestkov,19,Right Winger,Braga B,0.0,out,Winter,2012,2012/2013
+Aleksey Muldarov,28,Centre-Back,Aktobe,0.0,out,Winter,2012,2012/2013
+Roman Kontsedalov,26,Central Midfield,Spartak Nalchik,0.0,out,Winter,2012,2012/2013
+Damien Le Tallec,24,Defensive Midfield,Goverla,0.0,in,Summer,2014,2014/2015
+Ibrahima Niasse,26,Defensive Midfield,FK Qabala,0.0,in,Summer,2014,2014/2015
+Dmitriy Sysuev,26,Left Winger,Baltika,0.0,in,Summer,2014,2014/2015
+Aslan Dudiev,24,Right-Back,SKA-Energia,0.0,in,Summer,2014,2014/2015
+Ilie Cebanu,27,Goalkeeper,Tom Tomsk,0.0,in,Summer,2014,2014/2015
+Marko Lomic,30,Left-Back,Dinamo Moscow,0.0,in,Summer,2014,2014/2015
+Oleg Vlasov,29,Attacking Midfield,Torpedo Moscow,0.0,in,Summer,2014,2014/2015
+Mitchell Donald,25,Central Midfield,Roda JC,0.0,in,Summer,2014,2014/2015
+Pavel Ignatovich,25,Left Winger,Dinamo Moscow,0.0,in,Summer,2014,2014/2015
+Ruslan Mukhametshin,32,Centre-Forward,Rubin Kazan,0.0,in,Summer,2014,2014/2015
+Danilo,24,Attacking Midfield,Metalurg D.,0.0,in,Summer,2014,2014/2015
+Viktor Vasin,25,Centre-Back,CSKA Moscow,0.0,in,Summer,2014,2014/2015
+Lorenzo Ebecilio,22,Attacking Midfield,Metalurg D.,0.0,in,Summer,2014,2014/2015
+Denis Sobolev,20,Central Midfield,Zenit Penza,0.0,in,Summer,2014,2014/2015
+Radik Yusupov,21,Centre-Back,Volga Tver,0.0,in,Summer,2014,2014/2015
+Ismail Ediev,26,Centre-Back,SKA-Energia,0.0,out,Summer,2014,2014/2015
+Maksim Terentjev,22,Left Midfield,TSK-Tavriya,0.0,out,Summer,2014,2014/2015
+Maksim Budnikov,31,Right-Back,Neftekhimik,0.0,out,Summer,2014,2014/2015
+Andrey Pazin,28,Central Midfield,Tosno,0.0,out,Summer,2014,2014/2015
+Aleksandr Dimidko,28,Centre-Back,Tom Tomsk,0.0,out,Summer,2014,2014/2015
+Akaki Khubutia,28,Centre-Back,H. Petah Tikva,0.0,out,Summer,2014,2014/2015
+Radik Yusupov,21,Centre-Back,Neftekhimik,0.0,out,Summer,2014,2014/2015
+Denis Sobolev,20,Central Midfield,Neftekhimik,0.0,out,Summer,2014,2014/2015
+Vadim Gagloev,25,Defensive Midfield,Enisey,0.0,out,Summer,2014,2014/2015
+Sergey Vaganov,29,Defensive Midfield,Luch Vladivostok,0.0,out,Summer,2014,2014/2015
+Sergey Samodin,29,Centre-Forward,Shinnik,0.0,out,Summer,2014,2014/2015
+Maksim Rogov,28,Left Winger,Dinamo SPb,0.0,out,Summer,2014,2014/2015
+Igor Krutov,19,Right Midfield,Mordovia II,0.0,out,Summer,2014,2014/2015
+Roman Kalyuzhnyi,18,Goalkeeper,Mordovia II,0.0,out,Summer,2014,2014/2015
+Evgeniy Gapon,23,Left-Back,Shinnik,22000.0,in,Winter,2014,2014/2015
+Yannick Djaló,28,Left Winger,Benfica,0.0,in,Winter,2014,2014/2015
+Pavel Yakovlev,23,Right Winger,Spartak Moscow,0.0,in,Winter,2014,2014/2015
+Sergey Samodin,29,Centre-Forward,Shinnik,0.0,in,Winter,2014,2014/2015
+Alexandru Suvorov,28,Attacking Midfield,Milsami,0.0,out,Winter,2014,2014/2015
+Mikhail Markin,21,Centre-Forward,Khimki,0.0,out,Winter,2014,2014/2015
+Maksim Tishkin,25,Right-Back,Ufa,0.0,in,Summer,2015,2015/2016
+Nukri Revishvili,28,Goalkeeper,Tosno,0.0,in,Summer,2015,2015/2016
+Evgeniy Shipitsin,30,Central Midfield,Krasnodar,0.0,in,Summer,2015,2015/2016
+Vladimir Rykov,27,Centre-Back,Torpedo Moscow,0.0,in,Summer,2015,2015/2016
+Ruslan Mukhametshin,33,Centre-Forward,Rubin Kazan,0.0,in,Summer,2015,2015/2016
+Dalibor Stevanovic,30,Central Midfield,Torpedo Moscow,0.0,in,Summer,2015,2015/2016
+Yannick Djaló,29,Left Winger,Benfica,0.0,in,Summer,2015,2015/2016
+Mamuka Kobakhidze,22,Centre-Back,Rubin Kazan,0.0,in,Summer,2015,2015/2016
+Emin Mahmudov,23,Central Midfield,KS Samara,0.0,in,Summer,2015,2015/2016
+Thomas Phibel,29,Centre-Back,Without Club,0.0,in,Summer,2015,2015/2016
+Maksim Rogov,29,Left Winger,Dinamo SPb,0.0,in,Summer,2015,2015/2016
+Mikhail Markin,21,Centre-Forward,Khimki,0.0,in,Summer,2015,2015/2016
+Aleksandr Strokov,24,Right-Back,Tambov,0.0,in,Summer,2015,2015/2016
+Anton Kochenkov,28,Goalkeeper,Loko Moscow,0.0,out,Summer,2015,2015/2016
+Rustem Mukhametshin,31,Defensive Midfield,Tosno,0.0,out,Summer,2015,2015/2016
+Maksim Rogov,29,Left Winger,Dinamo SPb,0.0,out,Summer,2015,2015/2016
+Aleksandr Strokov,24,Right-Back,Unknown,0.0,out,Summer,2015,2015/2016
+Vladimir Bozovic,33,defence,Sušica,0.0,out,Summer,2015,2015/2016
+Mikhail Markin,21,Centre-Forward,Tyumen,0.0,out,Summer,2015,2015/2016
+Mitchell Donald,26,Central Midfield,Red Star,0.0,out,Summer,2015,2015/2016
+Ibrahima Niasse,27,Defensive Midfield,Without Club,0.0,out,Summer,2015,2015/2016
+Ruslan Mukhametshin,33,Centre-Forward,Rubin Kazan,0.0,out,Summer,2015,2015/2016
+Viktor Vasin,26,Centre-Back,CSKA Moscow,0.0,out,Summer,2015,2015/2016
+Lorenzo Ebecilio,23,Attacking Midfield,Metalurg D.,0.0,out,Summer,2015,2015/2016
+Yannick Djaló,29,Left Winger,Benfica,0.0,out,Summer,2015,2015/2016
+Pavel Yakovlev,24,Right Winger,Spartak Moscow,0.0,out,Summer,2015,2015/2016
+Danilo,25,Attacking Midfield,Metalurg D.,0.0,out,Summer,2015,2015/2016
+Mikhail Markin,22,Centre-Forward,Tyumen,0.0,in,Winter,2015,2015/2016
+Mitchell Donald,27,Central Midfield,Red Star,0.0,in,Winter,2015,2015/2016
+Damien Le Tallec,25,Defensive Midfield,Red Star,250000.0,out,Winter,2015,2015/2016
+Mitchell Donald,27,Central Midfield,Red Star,200000.0,out,Winter,2015,2015/2016
+Dmitriy Sysuev,28,Left Winger,Ufa,0.0,out,Winter,2015,2015/2016
+Yannick Djaló,29,Left Winger,Benfica,0.0,out,Winter,2015,2015/2016

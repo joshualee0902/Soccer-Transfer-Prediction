@@ -1,0 +1,84 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Nail Galimov,26,Centre-Forward,L. Chita,0.0,in,Winter,1992,1992/1993
+Yuri Khodoronok,27,midfield,Chemik Police,0.0,in,Winter,1992,1992/1993
+Konstantin Prilous,22,Defensive Midfield,Smena,0.0,in,Winter,1992,1992/1993
+Aleksandr Smekaev,21,attack,Unknown,0.0,out,Winter,1992,1992/1993
+Willer,25,Attacking Midfield,Dinamo Bryansk,0.0,in,Summer,2005,2005/2006
+Mikhail Rekudanov,20,Centre-Back,Nika Moskau,0.0,in,Summer,2005,2005/2006
+Sergey Ivanov,21,Goalkeeper,Spartak NN,75000.0,out,Summer,2005,2005/2006
+Zurab Tsiklauri,31,Centre-Forward,Yunit Samara,0.0,out,Summer,2005,2005/2006
+Kirill Makarov,18,Attacking Midfield,Zenit 2 S-Pb,300000.0,in,Winter,2005,2005/2006
+Andrey Movsesyan,30,Centre-Forward,FC Moscow,0.0,in,Winter,2005,2005/2006
+Dmytro Semochko,26,Left-Back,Dnipro,0.0,in,Winter,2005,2005/2006
+Ruslan Adzhindzhal,31,Central Midfield,Terek Grozny,0.0,in,Winter,2005,2005/2006
+Aleksandr Petukhov,25,Centre-Forward,M. Lipetsk,0.0,in,Winter,2005,2005/2006
+Andrey Ospeshinski,26,Centre-Forward,Khimki,0.0,in,Winter,2005,2005/2006
+Dmitri N. Smirnov,25,Centre-Back,Khimki,0.0,in,Winter,2005,2005/2006
+Roman Romanov,24,Centre-Back,Zenit 2 S-Pb,0.0,in,Winter,2005,2005/2006
+Giorgi Lomaia,26,Goalkeeper,Khimki,0.0,in,Winter,2005,2005/2006
+Konstantin Gordiyuk,27,Centre-Back,Sibir,0.0,out,Winter,2005,2005/2006
+Ruslan Surodin,23,Defensive Midfield,Volgar-Gazprom,0.0,out,Winter,2005,2005/2006
+Andrey Otyutskiy,23,Centre-Back,Volgar-Gazprom,0.0,out,Winter,2005,2005/2006
+Mikhail Rekudanov,20,Centre-Back,Nika Moskau,0.0,out,Winter,2005,2005/2006
+Georgi Bazaev,27,Left Midfield,Alania,0.0,in,Summer,2006,2006/2007
+Sergey Shtanyuk,32,Centre-Back,Metalurg Z.,0.0,in,Summer,2006,2006/2007
+Roman Monarev,26,Centre-Forward,KamAZ,0.0,in,Summer,2006,2006/2007
+Sergey Kuznetsov,20,Central Midfield,Loko Moscow II,0.0,in,Summer,2006,2006/2007
+Kirill Makarov,19,Attacking Midfield,Khimki,225000.0,out,Summer,2006,2006/2007
+Oleg Korolev,31,Goalkeeper,Baltika,0.0,out,Summer,2006,2006/2007
+Willer,26,Attacking Midfield,Spartak Orel,0.0,out,Summer,2006,2006/2007
+Marek Cech,30,Goalkeeper,Slovan Liberec,415000.0,in,Winter,2006,2006/2007
+Igor Kralevski,28,Centre-Back,Hajduk Split,0.0,in,Winter,2006,2006/2007
+Hristijan Kirovski,21,Centre-Forward,Ethnikos,0.0,in,Winter,2006,2006/2007
+Nenad Stojanovic,27,Centre-Forward,FC Brüssel,0.0,in,Winter,2006,2006/2007
+Aleksandr Chikhradze,31,Goalkeeper,Spartak Nalchik,0.0,in,Winter,2006,2006/2007
+Aleksandr Tikhonovetski,27,Centre-Forward,Ban,0.0,in,Winter,2006,2006/2007
+Rade Novkovic,26,Centre-Back,Rad,0.0,in,Winter,2006,2006/2007
+Semen Melnikov,21,Second Striker,Zenit II,0.0,in,Winter,2006,2006/2007
+Willer,27,Attacking Midfield,Spartak Orel,0.0,in,Winter,2006,2006/2007
+Aleksandr Cherkes,30,Right-Back,Shinnik,0.0,out,Winter,2006,2006/2007
+Giorgi Lomaia,27,Goalkeeper,Carl Zeiss Jena,0.0,out,Winter,2006,2006/2007
+Roman Gerus,26,Goalkeeper,Rostov,0.0,out,Winter,2006,2006/2007
+Aleksandr Tikhonovetski,27,Centre-Forward,Ban,0.0,out,Winter,2006,2006/2007
+Willer,27,Attacking Midfield,Suduva,0.0,out,Winter,2006,2006/2007
+Roman Monarev,26,Centre-Forward,Shinnik,0.0,out,Winter,2006,2006/2007
+Vladimir Kazakov,36,Central Midfield,Shinnik,0.0,out,Winter,2006,2006/2007
+Roman Romanov,25,Centre-Back,Zenit 2 S-Pb,0.0,out,Winter,2006,2006/2007
+Aleksandr Petukhov,26,Centre-Forward,Dinamo SPb,0.0,out,Winter,2006,2006/2007
+Andrey Movsesyan,31,Centre-Forward,Terek Grozny,0.0,out,Winter,2006,2006/2007
+Dmitri Davydov,31,Left-Back,Zenit 2 S-Pb,0.0,out,Winter,2006,2006/2007
+Hristijan Kirovski,21,Centre-Forward,Vardar,0.0,out,Winter,2006,2006/2007
+Gennadi Tumilovich,35,Goalkeeper,Dinamo Minsk,0.0,out,Winter,2006,2006/2007
+Stanislav Reznikov,20,Right-Back,Nosta,0.0,out,Winter,2006,2006/2007
+Artem Beketov,22,Defensive Midfield,Without Club,0.0,out,Winter,2006,2006/2007
+Sergey Kuznetsov,20,Central Midfield,Loko Moscow II,0.0,out,Winter,2006,2006/2007
+Igor Strelkov,25,Centre-Forward,Kuban Krasnodar,0.0,in,Summer,2007,2007/2008
+Levan Gvazava,26,Attacking Midfield,Spartak Nalchik,0.0,in,Summer,2007,2007/2008
+Vitali Lanko,30,Centre-Forward,Spartak Nalchik,0.0,in,Summer,2007,2007/2008
+Marian Palat,30,Left-Back,Mlada Boleslav,40000.0,in,Summer,2007,2007/2008
+Anatoliy Skvortsov,30,Centre-Back,Shinnik,0.0,in,Summer,2007,2007/2008
+Aleksey Ivanov,25,Right Midfield,Saturn,0.0,out,Summer,2007,2007/2008
+Akès da Costa Goore,23,Left-Back,ASEC Mimosas,350000.0,in,Winter,2007,2007/2008
+Dario Damjanovic,26,Central Midfield,Hajduk Split,300000.0,in,Winter,2007,2007/2008
+Sergey Chernogaev,24,Defensive Midfield,Torpedo Moscow,0.0,in,Winter,2007,2007/2008
+Nenad Begovic,27,Attacking Midfield,Unknown,0.0,in,Winter,2007,2007/2008
+Daniel Vuskovic,27,Centre-Back,NK Solin,25000.0,in,Winter,2007,2007/2008
+Igor Shevchenko,22,Right Winger,KS Samara,0.0,in,Winter,2007,2007/2008
+Dmitri Kudinov,22,Centre-Back,Torpedo II,0.0,in,Winter,2007,2007/2008
+Vitali Bulyga,27,Centre-Forward,Tom Tomsk,0.0,in,Winter,2007,2007/2008
+Roman Slavnov,25,Right Midfield,Shinnik,0.0,in,Winter,2007,2007/2008
+Vladimir Vujović,25,Centre-Back,Mogren,0.0,in,Winter,2007,2007/2008
+Nikita Burmistrov,18,Right Winger,CSKA Moscow,0.0,in,Winter,2007,2007/2008
+Stanislav Reznikov,21,Right-Back,Nosta,0.0,in,Winter,2007,2007/2008
+Igor Strelkov,25,Centre-Forward,Tom Tomsk,400000.0,out,Winter,2007,2007/2008
+Aleksey Arkhipov,24,Central Midfield,Vityaz Podolsk,0.0,out,Winter,2007,2007/2008
+Dmytro Semochko,28,Left-Back,Shinnik,0.0,out,Winter,2007,2007/2008
+Sergey Shtanyuk,34,Centre-Back,Rostov,0.0,out,Winter,2007,2007/2008
+Beslan Adzhindzhal,33,Central Midfield,Tom Tomsk,0.0,out,Winter,2007,2007/2008
+Maksim Astafjev,25,Right Winger,Rostov,0.0,out,Winter,2007,2007/2008
+Ruslan Adzhindzhal,33,Central Midfield,KS Samara,0.0,out,Winter,2007,2007/2008
+Konstantin Lobov,26,Left-Back,Vityaz Podolsk,0.0,out,Winter,2007,2007/2008
+Stanislav Reznikov,21,Right-Back,Nosta,0.0,out,Winter,2007,2007/2008
+Andrey Ospeshinski,28,Centre-Forward,Retired,0.0,out,Winter,2007,2007/2008
+Anatoliy Skvortsov,31,Centre-Back,Shinnik,0.0,out,Winter,2007,2007/2008
+Semen Melnikov,22,Second Striker,Zenit II,0.0,out,Winter,2007,2007/2008

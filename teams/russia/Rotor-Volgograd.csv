@@ -1,0 +1,229 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Yuri Konovalov,22,Centre-Forward,Зенит,0.0,in,Summer,1992,1992/1993
+Vladimir Niederhaus,24,Centre-Forward,Kairat Almaty,0.0,in,Summer,1992,1992/1993
+Aleksandr Eshchenko,22,Left-Back,Dynamo Kyiv,0.0,in,Summer,1992,1992/1993
+Sergey Zhunenko,22,Centre-Back,Zorya-Mals,0.0,in,Summer,1992,1992/1993
+Aleksey Perminov,24,Left-Back,Uralmash,0.0,in,Summer,1992,1992/1993
+Igor Ledyakhov,24,Central Midfield,Spartak Moscow,0.0,out,Summer,1992,1992/1993
+Sergey Neyman,24,defence,Avangard Kolomna,0.0,out,Summer,1992,1992/1993
+Sergey Sukhov,26,Centre-Forward,Avangard Kolomna,0.0,out,Summer,1992,1992/1993
+Andrey Fedorovskiy,28,Centre-Back,KPT-85,0.0,out,Summer,1992,1992/1993
+Sergey Vinogradov,20,Centre-Back,Rotor Vg. II,0.0,out,Summer,1992,1992/1993
+Aleksandr Nikitin,31,Centre-Forward,Unknown,0.0,in,Winter,1992,1992/1993
+Sergey Vinogradov,20,Centre-Back,Torpedo Volzhsky,0.0,in,Winter,1992,1992/1993
+Valeriy Esipov,21,Right Winger,Dynamo Kyiv,0.0,in,Winter,1992,1992/1993
+Andrey Kovalenko,22,midfield,Kuban Krasnodar,0.0,in,Winter,1992,1992/1993
+Andrey Manannikov,27,Goalkeeper,Zenit S-Pb,0.0,in,Winter,1992,1992/1993
+Aleksey Gerasimenko,22,Centre-Forward,Kuban Krasnodar,0.0,in,Winter,1992,1992/1993
+Andrey Miroshnichenko,24,midfield,Aktobe,0.0,in,Winter,1992,1992/1993
+Evgeni Shkilov,26,Centre-Forward,Amur,0.0,in,Winter,1992,1992/1993
+Sergey Nechay,24,Centre-Back,Torpedo Taganr.,0.0,in,Winter,1992,1992/1993
+Aleksandr Zverev,20,defence,E. Chaikovskiy,0.0,in,Winter,1992,1992/1993
+Dmitri Ivanov,22,Centre-Forward,KS Samara,0.0,in,Winter,1992,1992/1993
+Anatoli Sedykh,22,midfield,Unknown,0.0,out,Winter,1992,1992/1993
+Oleg Nechaev,22,Centre-Forward,Rubin Kazan,0.0,in,Summer,1993,1993/1994
+Aleksandr Troynin,21,midfield,Torpedo Volzhsky,0.0,out,Summer,1993,1993/1994
+Andrey Miroshnichenko,24,midfield,Aktobe,0.0,out,Summer,1993,1993/1994
+Evgeni Shkilov,28,Centre-Forward,Hapoel Haifa,0.0,out,Summer,1993,1993/1994
+Aleksandr Zverev,21,defence,E. Chaikovskiy,0.0,out,Summer,1993,1993/1994
+Aleksandr Troynin,21,midfield,Torpedo Volzhsky,0.0,in,Winter,1993,1993/1994
+Rustem Khuzin,21,Right-Back,Rubin Kazan,0.0,in,Winter,1993,1993/1994
+Igor Avdeev,20,Centre-Back,Taraz,0.0,in,Winter,1993,1993/1994
+Andrey Samorukov,23,Goalkeeper,Энергия-Текстиль,0.0,in,Winter,1993,1993/1994
+Aleksandr Berketov,18,Centre-Back,Rotor Vg. II,0.0,in,Winter,1993,1993/1994
+Yuri Konovalov,23,Centre-Forward,Lokomotiv NN,0.0,out,Winter,1993,1993/1994
+Andrey Kovalenko,23,midfield,Kolos Krasnodar,0.0,out,Winter,1993,1993/1994
+Andrey Manannikov,28,Goalkeeper,Unknown,0.0,out,Winter,1993,1993/1994
+Aleksandr Zhidkov,27,Central Midfield,KS Samara,0.0,out,Winter,1993,1993/1994
+Aleksey Gerasimenko,23,Centre-Forward,Kuban Krasnodar,0.0,out,Winter,1993,1993/1994
+Sergey Kuznetsov,27,Centre-Back,KS Samara,0.0,out,Winter,1993,1993/1994
+Aleksandr Eshchenko,23,Left-Back,Belenenses,0.0,out,Winter,1993,1993/1994
+Aleksey Perminov,25,Left-Back,Baltika,0.0,out,Winter,1993,1993/1994
+Aleksandr Nikitin,32,Centre-Forward,Retired,0.0,out,Winter,1993,1993/1994
+Aleksandr Eshchenko,24,Left-Back,Belenenses,0.0,in,Summer,1994,1994/1995
+Kostyantyn Kulik,24,midfield,Chornomorets,0.0,in,Winter,1994,1994/1995
+Evgeni Chumachenko,19,Centre-Back,Torpedo Volzhsky,0.0,in,Winter,1994,1994/1995
+Igor Korniets,27,midfield,Chornomorets,0.0,in,Winter,1994,1994/1995
+Sergey Ilyushin,19,Right Winger,Torpedo Volzhsky,0.0,in,Winter,1994,1994/1995
+Aleksandr Bondar,27,Defensive Midfield,Stavropol,0.0,in,Winter,1994,1994/1995
+Andrey Krivov,18,Right Winger,Rotor Vg. II,0.0,in,Winter,1994,1994/1995
+Dmitri Ivanov,24,Centre-Forward,T. Volzhskiy,0.0,out,Winter,1994,1994/1995
+Rustem Khuzin,22,Right-Back,Lada-Grad Dimit.,0.0,out,Winter,1994,1994/1995
+Oleg Stogov,29,midfield,Lokomotiv NN,0.0,out,Winter,1994,1994/1995
+Aleksandr Eshchenko,24,Left-Back,Rostselmash,0.0,out,Winter,1994,1994/1995
+Aleksandr Zernov,20,Centre-Forward,FK Ivanovo,0.0,in,Summer,1995,1995/1996
+Aleksandr Eshchenko,25,Left-Back,Rostselmash,0.0,in,Summer,1995,1995/1996
+Sergey Nechay,26,Centre-Back,Rostselmash,0.0,out,Summer,1995,1995/1996
+Andrey Chichkin,18,Goalkeeper,Kolos Krasnodar,0.0,in,Winter,1995,1995/1996
+Albert Borzenkov,22,Centre-Back,Stavropol,0.0,in,Winter,1995,1995/1996
+Maksym Tyshchenko,21,Left Midfield,Stavropol,0.0,in,Winter,1995,1995/1996
+Ayrat Karimov,24,Goalkeeper,Torpedo Taganr.,0.0,in,Winter,1995,1995/1996
+Gennadiy Orbu,25,Left Winger,Shakhtar D.,0.0,in,Winter,1995,1995/1996
+Emil Tsatskin,20,attack,Torpedo Taganr.,0.0,in,Winter,1995,1995/1996
+Kostyantyn Kulik,25,midfield,Stavropol,0.0,out,Winter,1995,1995/1996
+Aleksandr Troynin,23,midfield,Lokomotiv NN,0.0,out,Winter,1995,1995/1996
+Oleg Nechaev,24,Centre-Forward,Lada-Grad Dimit.,0.0,out,Winter,1995,1995/1996
+Evgeni Chumachenko,20,Centre-Back,Torpedo Volzhsky,0.0,out,Winter,1995,1995/1996
+Igor Avdeev,22,Centre-Back,Taraz,0.0,out,Winter,1995,1995/1996
+Aleksandr Bondar,28,Defensive Midfield,Rostselmash,0.0,out,Winter,1995,1995/1996
+Aleksandr Eshchenko,25,Left-Back,SK Volyn-1,0.0,out,Winter,1995,1995/1996
+Igor Menshchikov,25,Defensive Midfield,M. Lipetsk,0.0,out,Winter,1995,1995/1996
+Vitaliy Abramov,21,Attacking Midfield,Энергия Камышин,0.0,in,Summer,1996,1996/1997
+Igor Zhabchenko,28,Right Midfield,Bnei Yehuda,0.0,in,Summer,1996,1996/1997
+Sergey Khramtsov,19,Centre-Back,Kuban Krasnodar,0.0,in,Summer,1996,1996/1997
+Aleksandr Tsarenko,28,Right Midfield,Энергия Камышин,0.0,out,Summer,1996,1996/1997
+Emil Tsatskin,21,attack,Rostselmash,0.0,out,Summer,1996,1996/1997
+Nikolay Kolchugin,23,Right Winger,Rotor Vg. II,0.0,out,Summer,1996,1996/1997
+Denis Zubko,22,Centre-Forward,Zenit S-Pb,0.0,in,Winter,1996,1996/1997
+Nikolay Olenikov,21,Centre-Back,Stavropol,0.0,in,Winter,1996,1996/1997
+Platon Zakharchuk,24,Goalkeeper,КАМАЗ-Чаллы,0.0,in,Winter,1996,1996/1997
+Nikolay Kolchugin,22,Right Winger,Rotor Vg. II,0.0,in,Winter,1996,1996/1997
+Igor Zhabchenko,28,Right Midfield,Unknown,0.0,out,Winter,1996,1996/1997
+Gennadiy Orbu,26,Left Winger,Shakhtar D.,0.0,out,Winter,1996,1996/1997
+Andrey Samorukov,27,Goalkeeper,M. Lipetsk,0.0,out,Summer,1997,1997/1998
+Igor Korniets,29,midfield,Arsenal Tula,0.0,out,Summer,1997,1997/1998
+Sergey Ilyushin,22,Right Winger,Arsenal Tula,0.0,out,Summer,1997,1997/1998
+Valeri Burlachenko,27,Centre-Back,Rubin Kazan,0.0,out,Summer,1997,1997/1998
+Aleksey Bakharev,21,Central Midfield,Spartak Moscow,75000.0,in,Winter,1997,1997/1998
+Mikhail Osinov,22,Defensive Midfield,M. Tel Aviv,0.0,in,Winter,1997,1997/1998
+Aleksey Selin,19,Right Midfield,Unknown,0.0,in,Winter,1997,1997/1998
+Vladimir Smirnov,20,Right Midfield,Rotor Vg. II,0.0,in,Winter,1997,1997/1998
+Andrey Durov,20,Centre-Back,Rotor Vg. II,0.0,in,Winter,1997,1997/1998
+Vladimir Niederhaus,30,Centre-Forward,Maccabi Haifa,0.0,out,Winter,1997,1997/1998
+Sergey Zhunenko,27,Centre-Back,Shakhtar D.,0.0,out,Winter,1997,1997/1998
+Sergey Khramtsov,20,Centre-Back,Ротор Камышин,0.0,out,Winter,1997,1997/1998
+Gennadiy Shchekotylin,23,Centre-Forward,Chornomorets,0.0,in,Summer,1998,1998/1999
+Sergey Khramtsov,21,Centre-Back,T. Kamyshin,0.0,in,Summer,1998,1998/1999
+Aleksey Bakharev,21,Central Midfield,Shakhtar D.,150000.0,out,Summer,1998,1998/1999
+Mikhail Murnov,20,Centre-Back,Lada-Togliat-VAZ,0.0,out,Summer,1998,1998/1999
+Sergey Kopnin,21,Centre-Back,Rotor Vg. II,0.0,out,Summer,1998,1998/1999
+Sergey Kopnin,21,Centre-Back,T. Kamyshin,0.0,in,Winter,1998,1998/1999
+Mikhail Murnov,19,Centre-Back,E. Kamyshin,0.0,in,Winter,1998,1998/1999
+Denis Matiola,20,Centre-Back,Rotor Vg. II,0.0,in,Winter,1998,1998/1999
+Ilya Borodin,22,Centre-Forward,Rotor Vg. II,0.0,in,Winter,1998,1998/1999
+Aleksey Selin,20,Right Midfield,Kuban Krasnodar,0.0,out,Winter,1998,1998/1999
+Ayrat Karimov,27,Goalkeeper,Spartak Nalchik,0.0,out,Winter,1998,1998/1999
+Gennadiy Shchekotylin,24,Centre-Forward,Dynamo 2 Kyiv,0.0,out,Winter,1998,1998/1999
+Volodymyr Gerashchenko,30,Centre-Back,Amkar Perm,0.0,out,Winter,1998,1998/1999
+Vladimir Niederhaus,31,Centre-Forward,Maccabi Herzliya,0.0,in,Summer,1999,1999/2000
+Ilya Borodin,22,Centre-Forward,Stavropol,0.0,out,Summer,1999,1999/2000
+Vitaliy Abramov,24,Attacking Midfield,Shakhtar D.,0.0,out,Summer,1999,1999/2000
+Sergey Kopnin,22,Centre-Back,Rotor Vg. II,0.0,out,Summer,1999,1999/2000
+Roman Pavlyuchenko,18,Centre-Forward,Stavropol,30000.0,in,Winter,1999,1999/2000
+Oleg Trifonov,18,Left Midfield,Stavropol,0.0,in,Winter,1999,1999/2000
+Valeri Burlachenko,29,Centre-Back,Sokol Saratov,0.0,in,Winter,1999,1999/2000
+Igor Dubrovskikh,24,midfield,Gazovik-Gazprom,0.0,in,Winter,1999,1999/2000
+Evgeni Aldonin,19,Defensive Midfield,Rotor Vg. II,0.0,in,Winter,1999,1999/2000
+Pavel Mogilevskiy,19,Right-Back,Rotor Vg. II,0.0,in,Winter,1999,1999/2000
+Mikhail Mysin,20,Centre-Forward,Rotor Vg. II,0.0,in,Winter,1999,1999/2000
+Roman Romanov,18,Centre-Back,Rotor Vg. II,0.0,in,Winter,1999,1999/2000
+Sergey Kopnin,22,Centre-Back,Rotor Vg. II,0.0,in,Winter,1999,1999/2000
+Oleg Veretennikov,29,Second Striker,Aris Saloniki,0.0,out,Winter,1999,1999/2000
+Sergey Khramtsov,22,Centre-Back,Svetotekhnika S,0.0,out,Winter,1999,1999/2000
+Albert Borzenkov,26,Centre-Back,Sokol Saratov,0.0,out,Winter,1999,1999/2000
+Vladimir Niederhaus,32,Centre-Forward,Tselinnik,0.0,out,Winter,1999,1999/2000
+Platon Zakharchuk,27,Goalkeeper,Sokol Saratov,0.0,out,Winter,1999,1999/2000
+Aleksandr Shmarko,31,Centre-Back,Shakhtar D.,0.0,out,Summer,2000,2000/2001
+Valeri Burlachenko,29,Centre-Back,M. Lipetsk,0.0,out,Summer,2000,2000/2001
+Sergei Pareiko,23,Goalkeeper,Lev. Maardu,200000.0,in,Winter,2000,2000/2001
+Pavlo Kotovenko,21,midfield,Gazovik,0.0,in,Winter,2000,2000/2001
+Vitaliy Postranskyi,23,Goalkeeper,FK Lviv,0.0,in,Winter,2000,2000/2001
+Maksim Frolkin,25,Goalkeeper,Neftekhimik,0.0,in,Winter,2000,2000/2001
+Maksim Bondarenko,19,Centre-Forward,Rotor 2,0.0,in,Winter,2000,2000/2001
+Sergey Rashevskiy,20,Central Midfield,Rotor Vg. II,0.0,in,Winter,2000,2000/2001
+Aleksandr Gaidukov,21,Central Midfield,Rotor Vg. II,0.0,in,Winter,2000,2000/2001
+Albert Borzenkov,27,Centre-Back,Sokol Saratov,0.0,in,Winter,2000,2000/2001
+Igor Dubrovskikh,25,midfield,Gazovik-Gazprom,0.0,out,Winter,2000,2000/2001
+Mikhail Osinov,25,Defensive Midfield,Rostselmash,0.0,out,Winter,2000,2000/2001
+Andrey Krivov,24,Right Winger,Gaziantepspor,0.0,out,Winter,2000,2000/2001
+Andrey Durov,24,Centre-Back,KamAZ,0.0,out,Summer,2001,2001/2002
+Aleksandr Berketov,25,Centre-Back,CSKA Moscow,0.0,out,Summer,2001,2001/2002
+Vitaliy Postranskyi,23,Goalkeeper,Kryvbas,0.0,out,Summer,2001,2001/2002
+Denis Matiola,22,Centre-Back,KamAZ,0.0,out,Summer,2001,2001/2002
+Maksym Tyshchenko,26,Left Midfield,Met. Krasnoyarsk,0.0,out,Summer,2001,2001/2002
+Vladimir Radkevich,25,Left-Back,Neftchi,0.0,in,Winter,2001,2001/2002
+Denis Matiola,23,Centre-Back,KamAZ,0.0,in,Winter,2001,2001/2002
+Maksym Tyshchenko,27,Left Midfield,Met. Krasnoyarsk,0.0,in,Winter,2001,2001/2002
+Maksim Frolkin,26,Goalkeeper,Unknown,0.0,out,Winter,2001,2001/2002
+Denis Matiola,23,Centre-Back,Volgar-Gazprom,0.0,out,Winter,2001,2001/2002
+Andrey Krivov,25,Right Winger,Gaziantepspor,0.0,in,Summer,2002,2002/2003
+Maksym Tyshchenko,27,Left Midfield,Arsenal Tula,0.0,out,Summer,2002,2002/2003
+Vladislav Kulik,17,Central Midfield,СДЮСШОР-Лада,0.0,in,Winter,2002,2002/2003
+Konstantin Skrylnikov,23,Left Midfield,СДЮСШОР-Лада,0.0,in,Winter,2002,2002/2003
+Eldar Nizamutdinov,21,Second Striker,Volochanin-Rat.,0.0,in,Winter,2002,2002/2003
+Denis Matiola,24,Centre-Back,Volgar-Gazprom,0.0,in,Winter,2002,2002/2003
+Roman Pavlyuchenko,21,Centre-Forward,Spartak Moscow,700000.0,out,Winter,2002,2002/2003
+Andrey Chichkin,25,Goalkeeper,KS Samara,0.0,out,Winter,2002,2002/2003
+Albert Borzenkov,29,Centre-Back,Sokol Saratov,0.0,out,Winter,2002,2002/2003
+Denis Matiola,24,Centre-Back,Kuban Krasnodar,0.0,out,Winter,2002,2002/2003
+Aleksandr Zernov,28,Centre-Forward,Terek Grozny,0.0,out,Winter,2002,2002/2003
+Eldar Nizamutdinov,22,Second Striker,Ural,0.0,out,Summer,2003,2003/2004
+Andrey Chichkin,26,Goalkeeper,KS Samara,0.0,in,Winter,2003,2003/2004
+Vitali Timofeev,21,Right-Back,Lisma-Mordovia,0.0,in,Winter,2003,2003/2004
+Yaroslav Krushelnitskiy,20,Centre-Back,Pakhtakor,0.0,in,Winter,2003,2003/2004
+Yaroslav Krushelnitskiy,30,Centre-Back,Pakhtakor,0.0,in,Winter,2003,2003/2004
+Anton Grebnev,19,Right Midfield,Sokol Saratov,0.0,in,Winter,2003,2003/2004
+Aleksey Epifanov,20,Centre-Back,Rotor Vg. II,0.0,in,Winter,2003,2003/2004
+Vladimir Zelenovskiy,20,Centre-Forward,Rotor Vg. II,0.0,in,Winter,2003,2003/2004
+Evgeni Aldonin,23,Defensive Midfield,CSKA Moscow,2000000.0,out,Winter,2003,2003/2004
+Sergiu Diaconu,25,Goalkeeper,SKA-Energia,0.0,out,Winter,2003,2003/2004
+Vladislav Kulik,18,Central Midfield,Chernomorets N.,0.0,out,Winter,2003,2003/2004
+Josip Condric,27,Goalkeeper,NK Istra,122000.0,in,Summer,2020,2020/2021
+Vladimir Medved,20,Left Midfield,Chaika Pes.,0.0,in,Summer,2020,2020/2021
+Patricio Matricardi,26,Centre-Back,Asteras Tripoli,0.0,in,Summer,2020,2020/2021
+Armen Manucharyan,25,Centre-Back,Pyunik Yerevan,0.0,in,Summer,2020,2020/2021
+Jano Ananidze,27,Attacking Midfield,Anorthosis,0.0,in,Summer,2020,2020/2021
+Oleg Kozhemyakin,25,Centre-Back,Shinnik,0.0,in,Summer,2020,2020/2021
+Beka Mikeltadze,22,Centre-Forward,Rubin Kazan,0.0,in,Summer,2020,2020/2021
+Nikolay Kipiani,23,Left Winger,Rubin Kazan,0.0,in,Summer,2020,2020/2021
+Aleksandr Dovbnya,33,Goalkeeper,Orenburg,0.0,in,Summer,2020,2020/2021
+Valeriy Pochivalin,28,Left-Back,Irtysh,0.0,in,Summer,2020,2020/2021
+Nikita Repin,21,Goalkeeper,Rotor 2,0.0,in,Summer,2020,2020/2021
+Flamarion,24,Second Striker,Dinamo Batumi,0.0,in,Summer,2020,2020/2021
+Kirill Kolesnichenko,20,Left Winger,Kairat Almaty,0.0,in,Summer,2020,2020/2021
+Andrés Ponce,23,Centre-Forward,Akhmat Grozny,0.0,in,Summer,2020,2020/2021
+Solomon Kvirkvelia,28,Centre-Back,Loko Moscow,0.0,in,Summer,2020,2020/2021
+Zuriko Davitashvili,19,Right Winger,Rubin Kazan,0.0,in,Summer,2020,2020/2021
+Aleksandr Saplinov,23,Attacking Midfield,Rostov,0.0,in,Summer,2020,2020/2021
+Cédric Gogoua,26,Centre-Back,CSKA Moscow,0.0,in,Summer,2020,2020/2021
+Ilya Zhigulev,24,Central Midfield,Krasnodar,0.0,in,Summer,2020,2020/2021
+Danil Stepanov,20,Left-Back,Rubin Kazan,0.0,in,Summer,2020,2020/2021
+Aleksey Evseev,26,Central Midfield,Fakel Voronezh,0.0,in,Summer,2020,2020/2021
+Eduard Bulia,29,Centre-Forward,SKA Khabarovsk,0.0,in,Summer,2020,2020/2021
+Aleksey Evseev,26,Central Midfield,Ural,0.0,out,Summer,2020,2020/2021
+Denis Tkachuk,31,Left Midfield,Orenburg,0.0,out,Summer,2020,2020/2021
+Daniil Poluboyarinov,23,Central Midfield,Volgar,0.0,out,Summer,2020,2020/2021
+Ilya Ionov,34,Centre-Back,Din. Stavropol,0.0,out,Summer,2020,2020/2021
+Eduard Bulia,29,Centre-Forward,SKA Khabarovsk,0.0,out,Summer,2020,2020/2021
+Anzor Sanaia,31,Centre-Forward,Enisey,0.0,out,Summer,2020,2020/2021
+Vitaliy Denisov,33,Left-Back,Tom Tomsk,0.0,out,Summer,2020,2020/2021
+Azim Fatullaev,34,Defensive Midfield,Kuban,0.0,out,Summer,2020,2020/2021
+Daniil Avdyushkin,26,Goalkeeper,Irtysh Omsk,0.0,out,Summer,2020,2020/2021
+Artem Popov,27,Right Winger,Nizhny Novgorod,0.0,out,Summer,2020,2020/2021
+Artem Samsonov,26,Defensive Midfield,Shinnik,0.0,out,Summer,2020,2020/2021
+Albert Sharipov,27,Central Midfield,Nizhny Novgorod,0.0,out,Summer,2020,2020/2021
+Anton Piskunov,31,Right-Back,Chaika Pes.,0.0,out,Summer,2020,2020/2021
+Mukhammad Sultonov,27,Right Winger,Nizhny Novgorod,0.0,out,Summer,2020,2020/2021
+Valeriy Pochivalin,28,Left-Back,Fakel Voronezh,0.0,out,Summer,2020,2020/2021
+Igor Udalyi,35,Centre-Back,Without Club,0.0,out,Summer,2020,2020/2021
+Yuri Nesterenko,29,Goalkeeper,Without Club,0.0,out,Summer,2020,2020/2021
+Jano Ananidze,27,Attacking Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Beka Mikeltadze,22,Centre-Forward,Rubin Kazan,0.0,out,Summer,2020,2020/2021
+Nikolay Kipiani,23,Left Winger,Rubin Kazan,0.0,out,Summer,2020,2020/2021
+Gennadiy Kiselev,21,Defensive Midfield,KS Samara,0.0,out,Summer,2020,2020/2021
+Aleksandr Dovbnya,24,Centre-Back,Arsenal Tula,0.0,out,Summer,2020,2020/2021
+Artem Galadzhan,22,Centre-Forward,Loko-Kazanka M.,0.0,out,Summer,2020,2020/2021
+Igor Obukhov,24,Goalkeeper,SKA Khabarovsk,110000.0,in,Winter,2020,2020/2021
+Yuri Logvinenko,32,Centre-Back,FC Astana,0.0,in,Winter,2020,2020/2021
+Aleksey Shchetkin,29,Centre-Forward,FC Astana,0.0,in,Winter,2020,2020/2021
+Dmitri Shomko,30,Left-Back,FC Astana,0.0,in,Winter,2020,2020/2021
+Ivan Maevskiy,32,Defensive Midfield,FC Astana,0.0,in,Winter,2020,2020/2021
+Giorgi Arabidze,22,Right Winger,Nacional,0.0,in,Winter,2020,2020/2021
+Patricio Matricardi,27,Centre-Back,FC Hermannstadt,0.0,out,Winter,2020,2020/2021
+Beka Mikeltadze,23,Centre-Forward,AO Xanthi,0.0,out,Winter,2020,2020/2021
+Armen Manucharyan,26,Centre-Back,Aktobe,0.0,out,Winter,2020,2020/2021
+Aleksandr Dovbnya,33,Goalkeeper,Torpedo Moscow,0.0,out,Winter,2020,2020/2021
+Yuri Logvinenko,32,Centre-Back,Without Club,0.0,out,Winter,2020,2020/2021
+Oleg Nikolaev,22,Left Winger,Volgar,0.0,out,Winter,2020,2020/2021
+Kirill Kolesnichenko,20,Left Winger,SKA Khabarovsk,0.0,out,Winter,2020,2020/2021
+Aleksandr Saplinov,23,Attacking Midfield,Rostov,0.0,out,Winter,2020,2020/2021

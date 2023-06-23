@@ -1,0 +1,101 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Nikita Chicherin,29,Right-Back,KS Samara,0.0,in,Summer,2020,2020/2021
+Maksim Volodko,27,Left-Back,Arsenal Tula,0.0,in,Summer,2020,2020/2021
+Aleksandr Karapetyan,32,Centre-Forward,Sochi,0.0,in,Summer,2020,2020/2021
+Vitaliy Balashov,29,Left Winger,Olimpik Donetsk,0.0,in,Summer,2020,2020/2021
+Kirill Panchenko,30,Second Striker,Dynamo Moscow,0.0,in,Summer,2020,2020/2021
+Sergey Ryzhikov,39,Goalkeeper,KS Samara,0.0,in,Summer,2020,2020/2021
+Amur Kalmykov,26,Centre-Forward,Armavir,0.0,in,Summer,2020,2020/2021
+Mohammed Rabiu,30,Defensive Midfield,Paris FC,0.0,in,Summer,2020,2020/2021
+Zurab Gigashvili,18,Centre-Back,Armavir,0.0,in,Summer,2020,2020/2021
+Aleksey Gritsaenko,25,Centre-Back,Krasnodar,0.0,in,Summer,2020,2020/2021
+Varazdat Haroyan,28,Centre-Back,Ural,0.0,in,Summer,2020,2020/2021
+Vitaliy Shakhov,29,Centre-Back,Orenburg,0.0,in,Summer,2020,2020/2021
+Sebastien Thill,26,Attacking Midfield,Pr. Niederkorn,0.0,in,Summer,2020,2020/2021
+Vladimir Kabakhidze,20,Central Midfield,FK Tambov II,0.0,in,Summer,2020,2020/2021
+German Onugkha,24,Centre-Forward,Krasnodar 2,0.0,in,Summer,2020,2020/2021
+Jasurbek Jaloliddinov,18,Attacking Midfield,Loko Moscow,0.0,in,Summer,2020,2020/2021
+Aleksandr Golovnya,21,Centre-Back,Rodina Moscow,0.0,in,Summer,2020,2020/2021
+Andrey Yakovlev,25,Left-Back,Zvezda S-Pb,0.0,in,Summer,2020,2020/2021
+Vladimir Sugrobov,23,Goalkeeper,Pyunik Yerevan,0.0,in,Summer,2020,2020/2021
+Artem Arkhipov,23,Centre-Forward,Gorodeya,0.0,in,Summer,2020,2020/2021
+Vagiz Galiulin,32,Right Midfield,Neftekhimik,0.0,in,Summer,2020,2020/2021
+Vladimir Obukhov,28,Centre-Forward,Rostov,700000.0,out,Summer,2020,2020/2021
+Kirill Panchenko,30,Second Striker,Arsenal Tula,300000.0,out,Summer,2020,2020/2021
+Nikita Salamatov,26,Central Midfield,Irtysh Omsk,0.0,out,Summer,2020,2020/2021
+Khasan Mamtov,36,Centre-Forward,Kuban,0.0,out,Summer,2020,2020/2021
+Vagiz Galiulin,32,Right Midfield,Neftekhimik,0.0,out,Summer,2020,2020/2021
+Vladimir Sugrobov,23,Goalkeeper,SKA Khabarovsk,0.0,out,Summer,2020,2020/2021
+Andrey Yakovlev,25,Left-Back,Leningradets,0.0,out,Summer,2020,2020/2021
+Ishkhan Geloyan,28,Left Winger,Baltika,0.0,out,Summer,2020,2020/2021
+Amur Kalmykov,26,Centre-Forward,Torpedo Moscow,22000.0,out,Summer,2020,2020/2021
+Giorgi Shelia,31,Goalkeeper,Akhmat Grozny,0.0,out,Summer,2020,2020/2021
+Sulley Muniru,27,Central Midfield,Without Club,0.0,out,Summer,2020,2020/2021
+Vitaliy Balashov,29,Left Winger,Without Club,0.0,out,Summer,2020,2020/2021
+Evgeniy Ragulkin,20,Right Winger,Without Club,0.0,out,Summer,2020,2020/2021
+Artem Fedchuk,25,Centre-Forward,Nizhny Novgorod,0.0,out,Summer,2020,2020/2021
+Artem Arkhipov,23,Centre-Forward,Soligorsk,0.0,out,Summer,2020,2020/2021
+Aleksandr Golovnya,21,Centre-Back,Rodina Moscow,0.0,out,Summer,2020,2020/2021
+Aleksandr Filin,24,Centre-Back,Khimki,0.0,out,Summer,2020,2020/2021
+Miguel Cardoso,25,Right Winger,Dynamo Moscow,0.0,out,Summer,2020,2020/2021
+Igor Yurganov,26,Centre-Back,Sochi,0.0,out,Summer,2020,2020/2021
+Aleksey Gritsaenko,25,Centre-Back,Krasnodar,0.0,out,Summer,2020,2020/2021
+Georgi Melkadze,23,Second Striker,Spartak Moscow,0.0,out,Summer,2020,2020/2021
+Khetag Khosonov,21,Defensive Midfield,CSKA Moscow,0.0,out,Summer,2020,2020/2021
+Said Aliev,22,Centre-Forward,Veles Moscow,0.0,in,Winter,2020,2020/2021
+Nikita Drozdov,28,Defensive Midfield,Fakel Voronezh,0.0,in,Winter,2020,2020/2021
+Catalin Carp,27,Defensive Midfield,Ufa,0.0,in,Winter,2020,2020/2021
+Aleksandr Erkin,31,Attacking Midfield,Noah Jurmala,0.0,in,Winter,2020,2020/2021
+Dmitriy German,32,Left Midfield,Noah Jurmala,0.0,in,Winter,2020,2020/2021
+Azer Aliev,26,Right Midfield,Ufa,0.0,in,Winter,2020,2020/2021
+Rodion Syamuk,31,Goalkeeper,Torpedo Zhodino,0.0,in,Winter,2020,2020/2021
+Moris Nusuyev,23,Centre-Back,FC Merani,0.0,in,Winter,2020,2020/2021
+Denis Kaykov,23,Centre-Back,Neftekhimik,0.0,in,Winter,2020,2020/2021
+Vitaliy Sychev,20,Goalkeeper,FK Tambov II,0.0,in,Winter,2020,2020/2021
+Said-Ali Akhmaev,24,Centre-Forward,Without Club,0.0,in,Winter,2020,2020/2021
+Farkhod Vasiev,30,Centre-Back,Without Club,0.0,in,Winter,2020,2020/2021
+Dmitri Merenchukov,21,Centre-Forward,FK Tambov II,0.0,in,Winter,2020,2020/2021
+Vladislav Karapuzov,21,Right Winger,Dynamo Moscow,0.0,in,Winter,2020,2020/2021
+Ilya Martynov,21,Centre-Back,Krasnodar 2,0.0,in,Winter,2020,2020/2021
+Anton Terekhov,23,Right Winger,Dynamo Moscow,0.0,in,Winter,2020,2020/2021
+Yuri Bavin,27,Central Midfield,Ural,0.0,in,Winter,2020,2020/2021
+David Tosevski,19,Centre-Forward,Rostov,0.0,in,Winter,2020,2020/2021
+Kirill Klimov,20,Centre-Forward,Rubin Kazan,0.0,in,Winter,2020,2020/2021
+Tigran Avanesyan,18,Defensive Midfield,CSKA Moscow II,0.0,in,Winter,2020,2020/2021
+Artem Arkhipov,24,Centre-Forward,Kuban,0.0,in,Winter,2020,2020/2021
+Evgeniy Chabanov,23,Left Winger,Kuban,0.0,in,Winter,2020,2020/2021
+Roman Minaev,23,Centre-Forward,Arsenal Tula,0.0,in,Winter,2020,2020/2021
+Aleksandr Denisov,31,Centre-Back,Arsenal Tula,0.0,in,Winter,2020,2020/2021
+Artem Fedchuk,26,Centre-Forward,Nizhny Novgorod,0.0,in,Winter,2020,2020/2021
+Artem Arkhipov,24,Centre-Forward,Soligorsk,0.0,in,Winter,2020,2020/2021
+Oleg Chernyshov,34,Right Winger,Aktobe,0.0,in,Winter,2020,2020/2021
+Andrey Chasovskikh,29,Centre-Forward,Aktobe,0.0,in,Winter,2020,2020/2021
+Sergey Arkhipov,24,Centre-Forward,Gorodeya,0.0,in,Winter,2020,2020/2021
+Pavel Karasev,28,Defensive Midfield,BATE Borisov,0.0,out,Winter,2020,2020/2021
+Anton Kilin,30,Right Winger,Akron Togliatti,0.0,out,Winter,2020,2020/2021
+Nikita Chicherin,30,Right-Back,Akron Togliatti,0.0,out,Winter,2020,2020/2021
+Artem Arkhipov,24,Centre-Forward,Kuban,0.0,out,Winter,2020,2020/2021
+Soslan Takazov,27,Centre-Back,Kuban,0.0,out,Winter,2020,2020/2021
+Varazdat Haroyan,28,Centre-Back,FC Astana,0.0,out,Winter,2020,2020/2021
+Aleksandr Karapetyan,33,Centre-Forward,Ararat-Armenia,0.0,out,Winter,2020,2020/2021
+Artem Fedchuk,26,Centre-Forward,Veles Moscow,0.0,out,Winter,2020,2020/2021
+Valeriy Chuperka,28,Central Midfield,FC Astana,0.0,out,Winter,2020,2020/2021
+Mikhail Kostyukov,29,Right Winger,Rubin Kazan,0.0,out,Winter,2020,2020/2021
+Aleksey Gritsaenko,25,Centre-Back,Rubin Kazan,0.0,out,Winter,2020,2020/2021
+Maksim Volodko,28,Left-Back,BATE Borisov,0.0,out,Winter,2020,2020/2021
+Evgeniy Shlyakov,29,Right-Back,UTA Arad,0.0,out,Winter,2020,2020/2021
+Said Aliev,22,Centre-Forward,Krymteplitsa,0.0,out,Winter,2020,2020/2021
+Oleksandr Kapliyenko,24,Left-Back,Torpedo Moscow,0.0,out,Winter,2020,2020/2021
+Aleksey Rybin,32,Right-Back,Kuban,0.0,out,Winter,2020,2020/2021
+Andrey Chasovskikh,29,Centre-Forward,Kuban,0.0,out,Winter,2020,2020/2021
+Sergey Arkhipov,24,Centre-Forward,Kuban,0.0,out,Winter,2020,2020/2021
+Oleg Chernyshov,34,Right Winger,Aktobe,0.0,out,Winter,2020,2020/2021
+Mohammed Rabiu,31,Defensive Midfield,Without Club,0.0,out,Winter,2020,2020/2021
+Dmitri Merenchukov,21,Centre-Forward,Without Club,0.0,out,Winter,2020,2020/2021
+Nikita Chagrov,25,Goalkeeper,Without Club,0.0,out,Winter,2020,2020/2021
+Sergey Ryzhikov,40,Goalkeeper,Retired,0.0,out,Winter,2020,2020/2021
+Guram Tetrashvili,32,Defensive Midfield,Without Club,0.0,out,Winter,2020,2020/2021
+Adessoye Oyewole,38,Centre-Back,Orenburg,0.0,out,Winter,2020,2020/2021
+Jasurbek Jaloliddinov,18,Attacking Midfield,Loko Moscow,0.0,out,Winter,2020,2020/2021
+Sebastien Thill,27,Attacking Midfield,Pr. Niederkorn,0.0,out,Winter,2020,2020/2021
+German Onugkha,24,Centre-Forward,Krasnodar 2,0.0,out,Winter,2020,2020/2021

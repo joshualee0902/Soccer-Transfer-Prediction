@@ -1,0 +1,66 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Valeri Shmarov,31,Centre-Forward,Spartak Moscow,0.0,in,Winter,1996,1996/1997
+Radik Yamlikhanov,28,Central Midfield,Uralmash,0.0,in,Winter,1996,1996/1997
+Sergey Volgin,35,Defensive Midfield,Энергия Камышин,0.0,in,Winter,1996,1996/1997
+Mikhail Zubchuk,28,Centre-Forward,Saturn REN-TV,0.0,in,Winter,1996,1996/1997
+Andriy Lopushynskyi,22,midfield,CSKA Kyiv,0.0,in,Winter,1996,1996/1997
+Fedor Milovanov,17,Centre-Forward,Fakel U19,0.0,in,Winter,1996,1996/1997
+Andrey Karpenko,30,defence,Loko Liski,0.0,out,Winter,1996,1996/1997
+Valeriy Gorbach,28,defence,Loko Liski,0.0,out,Winter,1996,1996/1997
+Gennadiy Remezov,31,attack,Unknown,0.0,out,Winter,1996,1996/1997
+Igor Zakharov,23,midfield,Spartak Orel,0.0,in,Summer,1999,1999/2000
+Gennadi Dzyubenko,28,midfield,Arsenal Tula,0.0,in,Summer,1999,1999/2000
+Andrey Kovalenko,29,midfield,Arsenal Tula,0.0,in,Summer,1999,1999/2000
+Qurban Qurbanov,27,Centre-Forward,Baltika,0.0,in,Summer,1999,1999/2000
+Maksim Vasiljev,24,Centre-Back,Loko Liski,0.0,out,Summer,1999,1999/2000
+Mikhail Zubchuk,31,Centre-Forward,Torpedo NN,0.0,out,Summer,1999,1999/2000
+Sergey Yuminov,29,Centre-Forward,Элиста,0.0,in,Winter,1999,1999/2000
+Aleksandr Gorbachev,29,Centre-Back,Baltika,0.0,in,Winter,1999,1999/2000
+Dmitri Vlasov,26,Left-Back,Lokomotiv NN,0.0,in,Winter,1999,1999/2000
+Dmitri Goncharov,24,Goalkeeper,CSKA Moscow,0.0,in,Winter,1999,1999/2000
+Tarlan Akhmedov,28,Centre-Back,Neftchi Baku,0.0,in,Winter,1999,1999/2000
+Vladislav Matvienko,31,Central Midfield,Unknown,0.0,in,Winter,1999,1999/2000
+Mikhail Zubchuk,31,Centre-Forward,Saturn REN-TV,0.0,in,Winter,1999,1999/2000
+Aleksandr Grishin,28,Central Midfield,CSKA Moscow,0.0,in,Winter,1999,1999/2000
+Vitali Safronov,26,Attacking Midfield,Baltika,0.0,in,Winter,1999,1999/2000
+Sergiy Yakovenko,24,Right Midfield,Amkar Perm,0.0,in,Winter,1999,1999/2000
+Igor Zazulin,25,Attacking Midfield,Zenit S-Pb,0.0,in,Winter,1999,1999/2000
+Maksim Povorov,22,Right-Back,Kristall,0.0,in,Winter,1999,1999/2000
+Gennadi Dzyubenko,29,midfield,Kristall,0.0,out,Winter,1999,1999/2000
+Oleg Zhevachenko,27,attack,Arsenal Tula,0.0,out,Winter,1999,1999/2000
+Oleksandr Martsun,27,Centre-Back,Gazovik-Gazprom,0.0,out,Winter,1999,1999/2000
+Igor Neuchev,25,midfield,M. Lipetsk,0.0,out,Winter,1999,1999/2000
+Vladimir Zinich,30,Centre-Forward,Z. Ostrogozhsk,0.0,out,Winter,1999,1999/2000
+Vyacheslav Timashov,23,midfield,M. Lipetsk,0.0,out,Winter,1999,1999/2000
+Aleksey Shiyanov,26,Goalkeeper,Khimki,0.0,out,Winter,1999,1999/2000
+Yuri Shishkin,36,Goalkeeper,Sp.-Chukotka,0.0,out,Winter,1999,1999/2000
+Aleksandr Shchegolev,27,Right-Back,Spartak Moscow,0.0,out,Winter,1999,1999/2000
+Igor Ermakov,22,Central Midfield,M. Lipetsk,0.0,out,Winter,1999,1999/2000
+Aleksandr Kudryashov,25,Centre-Back,Volgar-Gazprom,0.0,out,Winter,1999,1999/2000
+Anton Shipilov,26,midfield,Retired,0.0,out,Winter,1999,1999/2000
+Oleg Garas,23,Centre-Forward,Loko Moscow,0.0,in,Summer,2000,2000/2001
+Yuri Shukanov,29,Central Midfield,Элиста,0.0,in,Summer,2000,2000/2001
+Oleg Sanko,29,Attacking Midfield,Lokomotiv NN,0.0,in,Summer,2000,2000/2001
+Sergey Shishkin,27,Right-Back,Элиста,0.0,in,Summer,2000,2000/2001
+Aleksandr Ovsyannikov,25,attack,Rubin Kazan,0.0,out,Summer,2000,2000/2001
+Sergiy Yakovenko,25,Right Midfield,Kristall,0.0,out,Summer,2000,2000/2001
+Andrey Kovalenko,30,midfield,Kristall,0.0,out,Summer,2000,2000/2001
+Tarlan Akhmedov,28,Centre-Back,Neftchi Baku,0.0,out,Summer,2000,2000/2001
+Eduard Boltrushevich,29,Centre-Back,Belshina,95000.0,in,Winter,2000,2000/2001
+Vitali Lanko,23,Centre-Forward,Belshina,58000.0,in,Winter,2000,2000/2001
+Vitali Kulev,24,Defensive Midfield,Lotto-MKM Moskau,0.0,in,Winter,2000,2000/2001
+Radislav Orlovskiy,30,Left Midfield,Torpedo Moscow,0.0,in,Winter,2000,2000/2001
+Aleksandr Shchegolev,28,Right-Back,Spartak Moscow,0.0,in,Winter,2000,2000/2001
+Evgeni Alkhimov,23,Centre-Forward,L. Chita,0.0,in,Winter,2000,2000/2001
+Dmitri Klimov,17,Goalkeeper,Fakel U19,0.0,in,Winter,2000,2000/2001
+Sergey Yuminov,30,Centre-Forward,Sokol Saratov,0.0,out,Winter,2000,2000/2001
+Aleksandr Stepin,28,midfield,Met. Krasnoyarsk,0.0,out,Winter,2000,2000/2001
+Aleksandr Gorbachev,30,Centre-Back,Элиста,0.0,out,Winter,2000,2000/2001
+Sergey Bulatov,28,Centre-Forward,Met. Krasnoyarsk,0.0,out,Winter,2000,2000/2001
+Dmitri Vlasov,27,Left-Back,Lokomotiv NN,0.0,out,Winter,2000,2000/2001
+Sergey Rastegaev,28,Centre-Back,Met. Krasnoyarsk,0.0,out,Winter,2000,2000/2001
+Vladislav Matvienko,32,Central Midfield,Spartak-KI,0.0,out,Winter,2000,2000/2001
+Aleksandr Grishin,29,Central Midfield,Shinnik,0.0,out,Winter,2000,2000/2001
+Gennadi Semin,33,Left Winger,Элиста,0.0,out,Winter,2000,2000/2001
+Valeri Shmarov,35,Centre-Forward,Arsenal Tula,0.0,out,Winter,2000,2000/2001
+Igor Zazulin,26,Attacking Midfield,St. Petersburg,0.0,out,Winter,2000,2000/2001

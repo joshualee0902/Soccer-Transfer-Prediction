@@ -1,0 +1,57 @@
+player_name,age,position,club_involved,fee,transfer_movement,transfer_period,year,season
+Aleksey Yushkov,25,Centre-Back,Dinamo Moscow,0.0,in,Summer,1992,1992/1993
+Sergey Osipov,24,Centre-Back,Rubin-TAN Kazan,0.0,in,Summer,1992,1992/1993
+Sergey Bulatov,20,Centre-Forward,Uralets Nizhniy Tagil,0.0,out,Summer,1992,1992/1993
+Aleksey Perminov,24,Left-Back,Rotor Volgograd,0.0,out,Summer,1992,1992/1993
+Ilya Ratnichkin,19,defence,Unknown,0.0,in,Winter,1992,1992/1993
+Sergey Perednya,20,Centre-Forward,Uralets Nizhniy Tagil,0.0,in,Winter,1992,1992/1993
+Konstantin Ledovskikh,20,Goalkeeper,Unknown,0.0,in,Winter,1992,1992/1993
+Vladimir Bluzhin,23,Left Midfield,Szeged LC,0.0,out,Winter,1992,1992/1993
+Valeri Shushlyakov,26,Centre-Forward,Szeged LC,0.0,out,Winter,1992,1992/1993
+Nikolay Stain,28,Right-Back,Zvezda Perm,0.0,out,Winter,1992,1992/1993
+Oleg Lyubelskiy,30,Goalkeeper,Baltika,0.0,out,Winter,1992,1992/1993
+Dmitri Zakharov,20,Right Winger,G. Kachkanar,0.0,out,Winter,1992,1992/1993
+Sergey Osipov,24,Centre-Back,Baltika,0.0,out,Winter,1992,1992/1993
+Vladimir Bluzhin,24,Left Midfield,Szeged LC,0.0,in,Summer,1993,1993/1994
+Valeri Shushlyakov,26,Centre-Forward,Szeged LC,0.0,in,Summer,1993,1993/1994
+Andrey Sosnitskiy,30,defence,Spartak V-kavkaz,0.0,in,Summer,1993,1993/1994
+Sergey Alyapkin,21,Goalkeeper,G. Kachkanar,0.0,in,Summer,1993,1993/1994
+Miroslav Romashchenko,20,Centre-Back,Dnepr-Transmash,135000.0,in,Winter,1993,1993/1994
+Igor Bakhtin,20,Central Midfield,Uralets Nizhniy Tagil,0.0,in,Winter,1993,1993/1994
+Igor Arnautov,19,Goalkeeper,G. Kachkanar,0.0,in,Winter,1993,1993/1994
+Aleksey Bakunin,23,Centre-Back,Unknown,0.0,in,Winter,1993,1993/1994
+Valeri Shushlyakov,27,Centre-Forward,Baltika,0.0,out,Winter,1993,1993/1994
+Yuri Matveev,26,Centre-Forward,Ankaragücü,0.0,out,Winter,1993,1993/1994
+Yuri Matveev,27,Centre-Forward,Ankaragücü,0.0,in,Summer,1994,1994/1995
+Sergiy Zayets,24,Centre-Back,Nyva Vinnytsia,0.0,in,Summer,1994,1994/1995
+Valeriy Gorodov,33,Goalkeeper,Renaissance de Settat,0.0,in,Summer,1994,1994/1995
+Konstantin Ledovskikh,21,Goalkeeper,Dnipro,0.0,out,Summer,1994,1994/1995
+Oleg Kokarev,30,Right Winger,Ocean Nakhodka,0.0,in,Winter,1994,1994/1995
+Aleksandr Muzyka,24,Centre-Forward,Dinamo Yakutsk,0.0,in,Winter,1994,1994/1995
+Sefer Alibaev,27,defence,Kremin,0.0,in,Winter,1994,1994/1995
+Oleksandr Nefedov,28,defence,Nyva Vinnytsia,0.0,in,Winter,1994,1994/1995
+Asan Mustafaev,29,defence,Podillya Kh.,0.0,in,Winter,1994,1994/1995
+Albert Andreev,26,Central Midfield,Gazovik-Gazprom,0.0,out,Winter,1994,1994/1995
+Dmitri Nezhelev,24,midfield,Zenit S-Pb,0.0,out,Winter,1994,1994/1995
+Igor Arnautov,20,Goalkeeper,Uralets Nizhniy Tagil,0.0,out,Winter,1994,1994/1995
+Anatoli Volovodenko,31,Right-Back,Met. Novotroitsk,0.0,out,Winter,1994,1994/1995
+Andrey Sosnitskiy,32,defence,Chernomorets N.,0.0,out,Summer,1995,1995/1996
+Oleksandr Nefedov,28,defence,Kryvbas,0.0,out,Summer,1995,1995/1996
+Asan Mustafaev,30,defence,Zorya-Mals,0.0,out,Summer,1995,1995/1996
+Andrey Morozov,27,Centre-Back,Uralets Nizhniy Tagil,0.0,in,Winter,1995,1995/1996
+Igor Shukhovtsev,24,Goalkeeper,SK Odessa,0.0,in,Winter,1995,1995/1996
+Aleksey Arefjev,24,midfield,Lokomotiv NN,0.0,in,Winter,1995,1995/1996
+Vyacheslav Vishnevskiy,17,Right Winger,Tom Tomsk,0.0,in,Winter,1995,1995/1996
+Mikhail Osinov,20,Defensive Midfield,Uralets Nizhniy Tagil,0.0,in,Winter,1995,1995/1996
+Vitali Litvinov,25,Centre-Back,Torpedo Arzamas,0.0,in,Winter,1995,1995/1996
+Sergey Armishev,19,Goalkeeper,Zvezda Perm,0.0,in,Winter,1995,1995/1996
+Oleg Mochulyak,21,Centre-Forward,Chornomorets,0.0,in,Winter,1995,1995/1996
+Andrey Shabanov,19,Centre-Forward,Ural II,0.0,in,Winter,1995,1995/1996
+Vyacheslav Bakharev,22,midfield,Nosta,0.0,out,Winter,1995,1995/1996
+Aleksandr Muzyka,25,Centre-Forward,Dinamo Yakutsk,0.0,out,Winter,1995,1995/1996
+Sefer Alibaev,28,defence,Traktor Tashkent,0.0,out,Winter,1995,1995/1996
+Valeriy Gorodov,34,Goalkeeper,Факел-Воронеж,0.0,out,Winter,1995,1995/1996
+Aleksey Yushkov,NA,Centre-Back,Nosta,0.0,out,Winter,1995,1995/1996
+Yuri Matveev,28,Centre-Forward,CSKA Moscow,0.0,out,Winter,1995,1995/1996
+Marat Galimov,31,defence,Retired,0.0,out,Winter,1995,1995/1996
+Sergiy Zayets,26,Centre-Back,Retired,0.0,out,Winter,1995,1995/1996
