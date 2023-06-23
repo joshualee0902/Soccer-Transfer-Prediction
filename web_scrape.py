@@ -7,7 +7,6 @@ r = requests.get('https://www.mirror.co.uk/sport/football/transfer-news/liverpoo
  
 # check status code for response received
 # success code - 200
-print(r)
  
 # Parsing the HTML
 soup = BeautifulSoup(r.content, 'html.parser')
